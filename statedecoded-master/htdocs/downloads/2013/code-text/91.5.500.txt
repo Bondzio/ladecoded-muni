@@ -1,0 +1,30 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+BASIC PROVISIONS. (§ 91.5.500)
+
+  
+
+	Chapter 5 of the CRC is hereby adopted by reference with the following
+exceptions, modifications and additions.
+
+91.5.501.1. Application.  The provision of this Division shall control the
+design and construction of the floors for all buildings including the floors of
+attic spaces used to house mechanical or plumbing fixtures and equipment
+weighing less than 400 lbs and maximum height of 4 feet above the floor or attic
+level.
+
+91.5.503.2.4. Openings in Horizontal Diaphragms.  Openings in horizontal
+diaphragms with a dimension perpendicular to the joist that is greater than 4
+feet (1.2 m) shall be constructed in accordance with Figure 91.5.503.2.4.
+
+
+
+a.	Blockings shall be provided beyond headers.
+b.	Metal ties not less than 0.058 inch [1.47 mm (16 galvanized gage)] by 1.5
+inches (38 mm) wide with eight 16d common nails on each side of the header-joist
+intersection.  The metal ties shall have a minimum yield of 33,000 psi (227
+MPa).
+c.	Openings in diaphragms shall be further limited in accordance with Section
+R301.2.2.2.5.
+
+Figure 91.5.503.2.4

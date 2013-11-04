@@ -1,0 +1,373 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SOUND LEVEL MEASUREMENT PROCEDURE AND CRITERIA. (§ 111.02)
+
+  SOUND LEVEL MEASUREMENT PROCEDURE AND CRITERIA.
+	(Title amended by Ord. No. 156,363, Eff. 3/29/82.)	(a)	(Amended by Ord. No.
+156,363, Eff. 3/29/82.)  Any sound level measurement made pursuant to the
+provisions of this chapter shall be measured with a sound level meter using the
+“A” weighting and response as indicated in Section 111.01(k) of this
+article.	Except when impractical, the microphone shall be located four to five
+feet above the ground and ten feet or more from the nearest reflective
+surface.  However, in those cases where another elevation is deemed
+appropriated, the latter shall be utilized.	Interior sound level measurements
+shall be made at a point at least four feet from the wall, ceiling, or floor
+nearest the noise source.	Calibration of the sound level meter, utilizing an
+acoustic calibrator shall be performed immediately prior to recording any sound
+level data.  The ambient noise level and the level of a particular noise being
+measured shall be the numerical average of noise measurements taken at a given
+location during a given time period.	(b)	(Amended by Ord. No. 156,363, Eff.
+3/29/82.) Where the sound alleged to be offending is of a type or character set
+forth below, the following values shall be added to the sound level measurement
+of the offending noise:1.  	Except for noise emanating from any electrical
+transformer or gas metering and pressure control equipment existing and
+installed prior to the effective date of the ordinance enacting this chapter,
+any steady tone with audible fundamental frequency or overtones have 200
+Hz	+52.  Repeated impulsive noise	+53.  	Noise occurring more than 5 but less
+than 15 minutes in any period of 60 consecutive minutes between the hours of
+7:00 a.m. and 10:00 p.m. of any day	-54.  Noise occurring five minutes or less
+in any period of 60 consecutive minutes, between the hours of 7:00 a.m. and
+10:00 p.m. of any day	-5
+	(Amended by Ord. No. 161,574, Eff. 9/8/86.)	(c)	For those cases where an
+objectionable noise is clearly audible, but where the level of ambient noise
+does not permit direct quantative sound level “A” measurements of the
+objectionable noise, sound measurements may be performed utilizing an octave
+band sound analyzer to determine sound level “A” limits as indicated in the
+Table I below.  This table is used to convert the sound pressure level meter
+readings in dB for each band to SPL in dB(A) for each band.TABLE I
+OCTAVE BAND NOISE VALUES CORRESPONDING TO SOUND LEVEL “A” VALUES
+  
+    
+      
+        Sound Level
+      
+      
+        Octave Band Sound Pressure Level, dB re .0002 dyne/cm2
+        Octave Band Center Frequency in Hz
+      
+    
+    
+      
+        “A”
+      
+      
+        31.5
+      
+      
+        63
+      
+      
+        125
+      
+      
+        250
+      
+      
+        500
+      
+      
+        1000
+      
+      
+        2000
+      
+      
+        4000
+      
+      
+        8000
+      
+    
+    
+      
+        35
+      
+      
+        58
+      
+      
+        50
+      
+      
+        42
+      
+      
+        35
+      
+      
+        32
+      
+      
+        29
+      
+      
+        26
+      
+      
+        23
+      
+      
+        20
+      
+    
+    
+      
+        40
+      
+      
+        61
+      
+      
+        54
+      
+      
+        46
+      
+      
+        40
+      
+      
+        37
+      
+      
+        34
+      
+      
+        31
+      
+      
+        28
+      
+      
+        25
+      
+    
+    
+      
+        45
+      
+      
+        64
+      
+      
+        58
+      
+      
+        51
+      
+      
+        45
+      
+      
+        42
+      
+      
+        39
+      
+      
+        36
+      
+      
+        33
+      
+      
+        30
+      
+    
+    
+      
+        50
+      
+      
+        67
+      
+      
+        61
+      
+      
+        55
+      
+      
+        50
+      
+      
+        47
+      
+      
+        44
+      
+      
+        41
+      
+      
+        38
+      
+      
+        35
+      
+    
+    
+      
+        55
+      
+      
+        70
+      
+      
+        64
+      
+      
+        60
+      
+      
+        55
+      
+      
+        52
+      
+      
+        49
+      
+      
+        46
+      
+      
+        43
+      
+      
+        40
+      
+    
+    
+      
+        60
+      
+      
+        73
+      
+      
+        68
+      
+      
+        64
+      
+      
+        60
+      
+      
+        57
+      
+      
+        54
+      
+      
+        51
+      
+      
+        48
+      
+      
+        45
+      
+    
+    
+      
+        65
+      
+      
+        76
+      
+      
+        72
+      
+      
+        68
+      
+      
+        65
+      
+      
+        62
+      
+      
+        59
+      
+      
+        56
+      
+      
+        53
+      
+      
+        50
+      
+    
+    
+      
+        70
+      
+      
+        79
+      
+      
+        76
+      
+      
+        73
+      
+      
+        70
+      
+      
+        67
+      
+      
+        64
+      
+      
+        61
+      
+      
+        58
+      
+      
+        55
+      
+    
+    
+      
+        75
+      
+      
+        84
+      
+      
+        81
+      
+      
+        78
+      
+      
+        75
+      
+      
+        72
+      
+      
+        69
+      
+      
+        66
+      
+      
+        63
+      
+      
+        60
+      
+    
+  
+	(d)	For those cases where a sound level measurement has been made pursuant to
+the provisions of this chapter and two or more provisions of this chapter apply,
+the provision establishing the lower or lowest noise level, respectively, shall
+be used. (Added by Ord. No. 156,363, Eff. 3/29/82.)

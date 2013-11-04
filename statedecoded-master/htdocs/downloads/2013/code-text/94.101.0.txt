@@ -1,0 +1,121 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+TITLE, SCOPE AND GENERAL. (§ 94.101.0)
+
+  TITLE, SCOPE AND GENERAL.94.101.1.  Title.  This article shall be known as
+the “Los Angeles Plumbing Code”, a portion of the Los Angeles Municipal
+Code, and wherever the word “Code” is used in this article, it shall mean
+the “Los Angeles Plumbing Code” and whenever “LAMC” is used, it shall
+mean the Los Angeles Municipal Code.94.101.2.  Purpose.  The purpose of this
+Code is to safeguard health, life, property and public welfare by regulating the
+design, alteration, construction, installation, repair, and quality of materials
+for plumbing, fire sprinkler, rainwater piping, standpipe, subsurface drainage
+piping, swimming pool piping, reclaimed water piping, underground
+fire-protection piping, and graywater piping systems installed in the
+City.94.101.3.  Plans Required.94.101.3.1.  General.  Before starting any
+work and at any time during the progress of any work regulated by this Code, the
+Department may require the submission of plans, specifications, drawings and
+other information it deems necessary.  The issuance of a permit upon approved
+plans shall not prevent the Department from requiring the correction of errors
+in them and stopping work on construction based on these plans when in violation
+of this Code or of any other applicable ordinance or statute, or from revoking
+any approval when issued in error.94.101.3.2.  Signature.  Plans and
+specifications shall bear the signature  and registration or license number of
+an engineer, contractor or other person licensed in the appropriate
+classification by the State of California.94.101.3.3.  Risers and Isometrics. 
+(Amended by Ord. No. 173,678, Eff. 1/14/01.)  System riser or isometric
+diagrams shall be provided for all drainage, waste and vent, fuel gas, potable
+water, storm drain, rain water, sump pump, combination waste and vent and
+standpipe systems.  Plans shall be suitable for use by office engineers and
+field inspectors.94.101.3.4.  Quality of Plans.  Plans shall be legible,
+clear, of 1/8 inch per foot scale or larger, except risers and isometrics need
+not be to scale.94.101.3.5.  Stamped Plans on Job.  The set of plans and
+specifications stamped and issued to the applicant by the Department shall be
+kept at the site of the construction or work and shall be available to the
+authorized representative of the Department.  There shall be no deviation from
+the stamped or approved application, plans or specifications without Department
+approval.94.101.3.6.  Types of Plans Required to be Submitted.  Plans signed
+by a qualified submitter shall be filed with and approved by the Department
+before any work listed below is started:	1.	Drainage systems.	a.	Drainage and
+vent systems for a building or structure involving fixtures that discharge 217
+or more drainage fixture units.	b.	Drainage pumps and ejectors.	2.	Combination
+waste and vent systems.	3.	Fuel gas piping with any of the following:	a.	Systems
+having more than ten outlets.	b.	Medium pressure gas systems.	c.	High pressure
+gas systems.	d.	Methane gas extraction systems.	4.	(Amended by Ord. No. 181,757,
+Eff. 7/6/11.)  Potable water piping with any of the following:	a.	Systems
+requiring a 2-inch or larger supply.	b.	Systems designed from the procedure in
+Section 610.5 of the California Plumbing Code.	c.	Systems utilizing cross-linked
+polyethylene tubing (PEX) requiring a 2-inch or larger supply or when required
+by the conditions of approval of the City of Los Angeles Mechanical Testing
+Laboratory Research Report. 	d.	Systems utilizing CPVC piping requiring a
+2-inch or larger supply or when required by the conditions of approval of the
+City of Los Angeles Mechanical Testing Laboratory Research
+Report. 	EXCEPTION:  Plan check is not required for existing systems that are
+added to or altered, with branch lines that serve fewer than 20 fixture units
+and sized by Table 6-4.	5.	Rainwater piping systems with more than ten
+interconnected rainwater or overflow drains, or a rainwater pump.	6.	Special
+water piping systems for reclaimed water piping.	7.	(Deleted by Ord. No.
+179,326, Eff. 12/10/07, Oper. 1/1/08.)	8.	(Renumbered and Amended by Ord. No.
+181,757, Eff. 7/6/11.)  Swimming pool circulating water systems.	EXCEPTION:
+Private swimming pools.	9.	(Renumbered and Amended by Ord. No. 181,757, Eff.
+7/6/11.)  Fire Protection.	a.	Class H. Standpipes.	b.	Standpipes:  Class I,
+II, III.	c.	Fire pump systems.	d.	Fire hydrant systems.	e.	Hand hose systems
+connected to fire sprinkler piping.	f.	Monitor nozzle systems.	g. 	Underground
+fire protection piping.	h.	Fire sprinkler systems.	EXCEPTIONS:	1.	Raising or
+lowering of sprinklers due to change in ceiling height.	2.	Replacing of
+sprinklers of the same type, orifice size and temperature rating.	3.	Relocation
+of sprinklers in previously occupied buildings or tenant spaces.94.101.3.7. 
+Plan Check Fee Schedules.  (Repealed In Entirety by Ord. No. 173,678, Eff.
+1/14/01.)94.101.4.  Scope.  Section 101.4 of the C.P.C. is hereby adopted by
+reference.94.101.5.  Application to Existing Plumbing System.  Section 101.5
+of the C.P.C. is hereby adopted by reference.94.101.6.  Prohibited Acts. 
+(Amended by Ord. No. 179,326, Eff. 12/10/07, Oper. 1/1/08.)94.101.6.1.  No
+person shall add, alter, change, construct, install, locate, maintain, move,
+occupy, relocate, remove, renovate, repair, replace, or use any plumbing system,
+water-connected appliances, products or devices, fire sprinkler system,
+rainwater piping, standpipe, subsurface drainage piping, swimming pool piping,
+reclaimed water piping, underground fire protection piping, or graywater piping
+systems except as provided by this Code.94.101.6.2.  No person shall use or
+maintain any private sewage disposal system on any lot or parcel of land, that
+has failed, is in an overflowing condition or, in the judgment of the
+Department, is unsanitary or is a menace to life, health or property.  If the
+private system fails, all drainage piping shall be connected to the public or
+private sewer when the lot or parcel of land abuts any public way or sewer
+easement in which a public or private sewer exists and is
+available.94.101.6.3.  No person shall alter, add to or relocate any private
+sewage-disposal system on any lot or parcel of land that abuts on any public way
+or sewer easement in which a public sewer exists and is ready for
+use.94.101.6.4.  No person shall sell, offer for sale, display for sale,
+advertise for sale, loan, rent or lease, dispose of by way of gift or premium or
+otherwise for reuse or use, the following:	1.	Any plumbing fixture, appliance,
+apparatus, equipment, device, material or domestic gas appliance that has not
+been approved as to its fitness and safety for its intended use or
+purpose.	EXCEPTION:  The sale of used gas ranges and used gas ovens is not
+prohibited.	2.	Any water-operated or water-using device, mechanism or equipment,
+the use of which may cause the pollution or contamination of the domestic water
+supply.  Any such device, mechanism or equipment may be allowed when properly
+equipped with approved backflow protection.94.101.7.  Exemptions From Code. 
+(Amended by Ord. No. 179,326, Eff. 12/10/07, Oper. 1/1/08.)  The provisions of
+this Code shall not apply to the following:94.101.7.1.  Public Sewers.  Any
+sewer entirely within a public way or any private sewer installed under the
+jurisdiction of the Los Angeles City Department of Public Works or the Los
+Angeles County Flood Control District as an incident to improvement of a public
+way when no portion of the private sewer extends more than six feet into private
+property, as measured from the property line abutting the public
+way.94.101.7.2.  Street Water Mains.  Any water main, water service or water
+meter of the Los Angeles City Department of Water and Power or other utility.
+ 
+94.101.7.3.  Street Gas Mains.  Any street gas main or any gas service
+piping.94.101.7.4.  Refineries and Wells (Gas Piping).  Fuel gas piping that
+is part of a refinery or gas well, provided piping for fuel gas used on the
+premises shall conform to the provisions of this Code.94.101.7.5.  Portable Gas
+Cooking Appliances.  Any portable gas cooking appliance designed for outdoor
+use and installed outdoors.94.101.7.6.  Vehicles.  Any work within an
+aircraft, railroad car, ship or other vehicle, which is not classified as a
+building or structure.94.101.7.7.  Manufactured Homes, Recreational Vehicles,
+Commercial Coaches, Special Purpose Commercial Coaches, Mobile Homes, Mobile
+Home Parks.  Any work within any manufactured home, recreational vehicle,
+commercial coach, special purpose commercial coach, mobile home or any mobile
+home park, including accessory buildings, permanent buildings and on-site piping
+outside of buildings.94.101.8.  Through 94.101.16.7.  (Deleted by Ord. No.
+179,326, Eff. 12/10/07, Oper. 1/1/08.)

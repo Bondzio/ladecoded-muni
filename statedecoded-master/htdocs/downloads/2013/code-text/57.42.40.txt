@@ -1,0 +1,16 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FILLING LIMITS. (§ 57.42.40)
+
+  FILLING LIMITS.	A.	No person shall charge any liquid material or liquefied
+material into any storage container unless the design pressure of the container,
+in relationship to the vapor pressure of the material being charged into the
+container, is at least equal to that set forth in Subsection A of Section
+57.42.05.	B.	No person shall charge any gaseous material into any storage
+container at a pressure in excess of the design pressure. When the gas
+temperature is less than 130°F., the charging pressure shall be such that the
+design pressure will not be exceeded at a gas temperature of 130°F.	C.	The
+liquid portion of any stored material must not completely fill the storage
+container at or below 130°F.	D.	For mixtures, the liquid portion of the gas, if
+any, plus any additional liquid or solid, must not completely fill the container
+at 130°F.

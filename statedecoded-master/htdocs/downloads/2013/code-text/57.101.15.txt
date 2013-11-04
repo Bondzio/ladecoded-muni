@@ -1,0 +1,26 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+AIRCRAFT FUEL SYSTEM MAINTENANCE. (§ 57.101.15)
+
+  AIRCRAFT FUEL SYSTEM MAINTENANCE.	A.	Any person conducting aircraft
+servicing, maintenance, or testing of the fuel system using the air ventilation
+procedures, shall reduce the fuel tank atmosphere to below 20 percent of the
+lower flammable limit of the fuel vapors.  Air ventilation, as used herein,
+means to pass undiluted air (air not containing flammable vapors) through an
+aircraft fuel tank to render the atmosphere of the tank below the lower
+flammable limit of the fuel vapors involved.  Before any inspection or work is
+performed, tests by a qualified person shall be conducted to determine that the
+presence of flammable vapors in or around the fuel tank does not constitute a
+fire or explosion hazard.  This condition shall be maintained throughout the
+period of inspection or work.	B.	All open flame and spark producing devices
+within flammable vapor areas shall be shut down and shall not be operated while
+air ventilation is occurring.	C.	Electrical equipment used in the flammable
+vapor areas shall be approved for use in Class I, Group D, Division 1 Hazardous
+Locations, as defined in Chapter 9 of the L.A.M.C. (Electrical Code).	D.	To
+guard against static spark hazard, exhaust equipment and the aircraft to be
+ventilated shall be electrically bonded and adequately grounded.  If ducting is
+used, a static bonding wire shall be connected from each exhaust hose nozzle to
+the aircraft wing before opening the fuel tank.	E.	Aircraft electrical circuits
+which are in flammable vapor areas shall be de-energized.	F.	Suitable warning
+signs shall be placed in conspicuous locations around the aircraft to indicate
+that tank ventilation is in progress.

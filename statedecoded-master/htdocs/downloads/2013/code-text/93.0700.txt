@@ -1,0 +1,147 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+THE CALIFORNIA ELECTRICAL CODE. (§ 93.0700)
+
+  THE CALIFORNIA ELECTRICAL CODE.	Chapters 1 through 9, Annex C, F and G of the
+2008 Edition of the National Electrical Code (N.E.C.), as published by the
+National Fire Protection Association (N.F.P.A. 70-2008), the 2010 California
+Electrical Code and the California Building Standards Code are adopted by
+reference as part of the Code.  When there is a conflict between the 2008
+National Electrical Code, the 2010 California Electrical Code and the Los
+Angeles Municipal Code, Section 93.0105 shall prevail.  Except as specified in
+Divisions 1 through 6 of Article 3, Chapter IX of the Los Angeles Municipal
+Code, all electrical installations and materials shall be in conformity with the
+2010 California Electrical Code, as adopted by reference to be part of this Code
+and Sections 93.515.17 and 93.515.18 are added as provided here.  (Amended by
+Ord. No. 181,561, Eff. 3/22/11.)
+93.110-33.  ACCESS.
+	(Repealed by Ord. No. 176,775, Eff. 8/1/05, Oper. 8/1/05.)
+93.350-8.  TEMPORARY SERVICE POLES AND ASSOCIATED FEEDER POLES.
+	(Deleted by Ord. No. 174,828, Eff. 10/27/02, Oper. 11/1/02.)
+93.370-30.  UNDERGROUND CONCRETE VAULTS AND HANDHOLES.
+	(Deleted by Ord. No. 174,828, Eff. 10/27/02, Oper. 11/1/02.)  
+93.515-17.  OIL AND GAS WELLS.	(a)	This article shall be applicable to oil or
+gas wells located over water, on manmade islands offshore or at land-based
+locations.  Area adjacent to oil or gas wells shall be classified as Class I
+locations as outlined below, and installations shall comply with the requirement
+for those locations.	(b)	Definitions.	ADEQUATE VENTILATION.  (as applied to
+enclosed areas)  A mechanical ventilation system supplied from a nonhazardous
+source that provides for a minimum of 12 air changes per hour.	ENCLOSED AREA. 
+Roofed areas having at least three walls, or open sumps or pits into which
+highly volatile liquids are run, or areas surrounded by buildings or walls in
+which flammable vapors may accumulate.	LOCOMOTIVE CABLE.  Cable having the
+physical property of being oil resistant and constructed as to be suitable for
+application on power and control circuits in diesel or electric locomotives and
+suitable for oil rigging applications.	POSITIVE PRESSURE VENTILATION.  A
+mechanical ventilation system capable of providing a minimum outward air
+velocity of 60 feet per minute through all openings.	(c)	Drilling
+Wells.	1.	Class I, Division I Locations.  The following areas shall be
+classified as Class I, Division I locations:	A.	Below-grade well cellars, sumps
+or ditches.  See Figures 2 and 6.	B.	Enclosed and inadequately ventilated areas
+below the derrick floor.  See Figure 1.	C.	Enclosed areas containing mud tanks
+or shale shakers.  See Figures 3 through 6.	EXCEPTIONS:	1.	Adequately
+ventilated enclosed areas shall be permitted to be classified as Class I,
+Division 2 locations.	2.	(Over 600 volts, nominal): Oil or gas well in the
+process of drilling shall have a Division 2 classification within 25 feet of the
+casing, with the 18 inch height limitation adjacent to the drilling platform. 
+The entire area directly above and below the drilling platform proper shall be
+considered as Division 2 without height limitation.	2.	Class I, Division 2
+Locations.  The following areas shall be classified as Class I, Division 2
+locations:	A.	Within ten feet horizontally and 18 inches vertically from the
+edge of the well cellars or other below grade, Class I, Division I
+locations.	B.	Within ten feet radially of the center of the bell nipple in open
+derricks.	C.	The entire area above the derrick floor in enclosed
+derricks.	D.	Areas adjacent to mud tanks as required in Figures 3 and 4; pits as
+required in Figure 2; shale shakers as required in Figure 5; or openings as
+required in Figure 2.	EXCEPTION:  In enclosures classified as Class I, Division
+I locations in Subdivisions (c) 1 above.	(d)	Producing Wells.	1.	Class I,
+Division I locations.  The following areas shall be classified as Class I,
+Division I locations:	A.	Below-grade well cellars.  See Figures 7 and
+9.	B.	Enclosed areas such as, wellhead, compressor or pump rooms where volatile,
+flammable liquids or gases may be present in concentrations sufficient to render
+the area a hazardous location.	NOTE:  See Figures 8 through
+10.	EXCEPTIONS:	1.	Adequately ventilated enclosed areas shall be permitted to be
+classified as Class I, Division 2 locations.	NOTE:  See Figure 7.	2.	(Over 600
+volts, nominal):  In case of producing oil wells, the Division 2 classification
+shall include an area within three feet of the well casing to a height of three
+feet around the stuffing box or lubricator, and the area extending ten feet from
+the well casing to a height of 18 inches above the grade level of all producing
+oil wells (pumped, flowing or gas injected) having a gas pressure sufficient to
+cause gas to be liberated to the atmosphere in quantities to create a hazard to
+employees should liberated gas become ignited.  Producing gas wells shall have
+a similar classified area.	2.	Class I, Division 2 Locations.  The following
+areas shall be classified as Class I, Division 2 locations:	A.	Within ten feet
+horizontally and 18 inches vertically from the well casing and three feet
+radially from the stuffing box of all producing wells equipped with beam pumping
+units.	NOTE:  See Figures 8 and 9.	B.	Within ten feet horizontally and 18
+inches vertically above grade from the edge of well cellars or other below grade
+Class I, Division I locations.	C.	Within ten feet horizontally and vertically
+from openings in enclosed areas classified as Class I, Division I locations in
+Subdivision (d) 1. above.	NOTE:  See Figures 3, 5 and 10.	3.	Class I, Division
+1 and 2.  Areas within a 10-foot radius of oil field auxiliary equipment such
+as gas vents, oil-gas separator vessels, tanks, pumps, compressors and similar
+equipment shall be classified in accordance with Figures 11 through
+19.	(e)	Overload Protection.  No overload protection will be required for
+drilling rigs using railroad locomotive power systems for the draw works, rotary
+tables and mud pumps.	NOTE:  In this electrical system, generators, generator
+power leads, and DC motors are automatically protected against overload by
+inherent characteristics of compound and differential field windings in the DC
+motor and generator, respectively.	(f)	Wiring Methods.	1.	General.  Where
+drilling platforms are not enclosed around the drilling operation, all wiring
+and equipment within 25 feet of the casing of the well being drilled shall be of
+the type required for Class I, Division 2 locations, or be installed in enclosed
+areas supplied with adequate ventilation.  The electrical power supply to
+wiring and equipment within positive pressure ventilated areas shall be arranged
+to prevent energizing the electrical wiring and apparatus until air pressure has
+been established, for not less than two minutes, and arranged to automatically
+actuate an audible and visual alarm with a 5-minute shutdown time delay to allow
+safe operational shutdown prior to de-energizing the wiring and apparatus when
+the ventilation fails.	Enclosed areas supplied with positive pressure
+ventilation from a nonhazardous area shall be permitted to be classified as
+nonhazardous areas, provided no flammable vapor source exists within the
+enclosed areas.	2.	Locomotive Type Cables.  Special locomotive cables and other
+equivalent portable cables may be run in cable trays under the following
+conditions in all locations:	A.	Open cable trays may be run horizontally under
+floors or ceilings.	B.	In all locations, solid covers shall be installed on
+horizontal runs where persons or materials may accidentally contact the
+conductors.	C.	Vertical runs of trays shall be totally enclosed.	D.	Where the
+rig moves over a series of well holes and a transverse section of cable tray
+drops trailing cables in a long fixed runway tray, cleats or other means shall
+be used to secure the cable against shifting in the moving section of the
+tray.	E.	For single hole setups onshore, cables may be buried in the earth or
+run in covered, wooden troughs between outdoor units of equipment.  A
+substantial, nominal 2-inch thick wooden cover or equivalent, shall be installed
+over the trough.	(g)	Lighting.  Lighting systems for oil or gas well drilling
+rigs, production hoists, derricks or masts shall be permitted to be wired using
+an approved prefabricated assembly of flexible cables with vulcanized, molded or
+other approved terminating receptacle devices so designed that electric arcs
+will be confined within the receptacle enclosure which shall be the concealed
+contact-type.  The lighting fixture shall be of the type permitted for Class I,
+Division I locations, or of the enclosed gasketed-type.  These assemblies shall
+be securely fastened to the drilling rig or hoist structure and so located that
+they will be protected from physical damage.(Figures 1 – 19 Inclusive,
+Relocated from Division 11 by Ord. No. 172,593, Eff. 6/28/99, Oper. 7/1/99.)
+93.515-18.  BULK-STORAGE PLANTS-TANKER LOADING DOCKS.	(a)	Scope.  The
+provisions of this section shall apply in addition to the requirements of
+Article 515 of the C.E.C.	(b)	Definitions.  (Amended by Ord. No. 179,325, Eff.
+12/10/07, Oper. 1/1/08.)	BULK STORAGE PLANT or TANKER LOADING DOCK
+DESIGNATIONS.  The bulk storage plant and tanker loading dock designation shall
+also include locations where ships carrying bulk cargoes of gasoline or other
+volatile flammable liquids are loaded or unloaded.	WATER LEVEL.  The water
+level shall be the measured mean value of the high tide lines.	(c)	Loading and
+Unloading Tanker Ships.  (Amended by Ord. No. 179,325, Eff. 12/10/07, Oper.
+1/1/08.)	1.	The interior of a building, any portion of which is located in a
+Class I, Division 2 location, shall be classified as a Class I, Division 2
+location.	EXCEPTION:  Buildings that are provided with satisfactory positive
+pressure ventilation, and safeguards, with air taken from a clean air source may
+be considered to be a nonhazardous location.	2.	All electrical power drive pumps
+and transfer apparatus for flammable liquids shall be provided with an
+identified “stop” or normal control switch within sight and readily
+accessible to the person operating the equipment.
+	(d)	Existing Tanker Loading Dock Installations.  All existing electrical
+installations at tanker loading docks shall comply with the provisions of this
+section and Article 515 of the C.E.C.
+93.690-19.  PHOTOVOLTAIC SYSTEMS.
+	(Deleted by Ord. No. 179,325, Eff. 12/10/07, Oper. 1/1/08.)
+93.695.3.  POWER SOURCE(S) FOR ELECTRIC MOTOR-DRIVEN FIRE PUMPS (EMDFP).
+	(Deleted by Ord. No. 181,561, Eff. 3/22/11.)

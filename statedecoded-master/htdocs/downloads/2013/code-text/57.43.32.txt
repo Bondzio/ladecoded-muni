@@ -1,0 +1,11 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+COMPRESSORS. (§ 57.43.32)
+
+  COMPRESSORS.	A.	The refrigeration system shall include at least two
+compressors, each of which shall be capable of handling the refrigeration load
+imposed by Subsection A of Section 57.43.30.  The total compressor capacity
+shall be not less than the total refrigeration load.	B.	shall be suitable for
+continuous refrigeration service at the pressures and temperatures to be
+encountered.	C.	Compressors shall be equipped with suction and discharge shutoff
+valves, discharge relief valve and suction and discharge pressure gauges.

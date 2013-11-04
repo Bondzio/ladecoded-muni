@@ -1,0 +1,19 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+PIER AND PILE FOUNDATIONS. (§ 91.1808)
+
+  PIER AND PILE FOUNDATIONS.	Section 1808 of the CBC is adopted by reference,
+except Sections 1808.2.8.4 and 1808.2.9.1 of the CBC are not adopted and in
+lieu, Sections 91.1808.2.8.4 and 91.1808.2.9.1 are added.91.1808.2.8.4. 
+Allowable Frictional Resistance.  The assumed frictional resistance developed
+by any pier or uncased cast-in-place pile shall not exceed one-sixth of the
+bearing value of the soil material at minimum depth as set forth in CBC Table
+1804.2 up to a maximum of 500 psf (24 kPa), unless a greater value is allowed by
+the Superintendent of Building after a soil investigation as specified in CBC
+Section 1802 is submitted, or a greater value is substantiated by a load test in
+accordance with CBC Section 1808.2.8.3.  Frictional resistance and bearing
+resistance shall not be assumed to act simultaneously.91.1808.2.9.1. 
+General.  Only undisturbed soil, compacted fill material or CLSM shall be
+deemed to afford sufficient lateral support to the pier or pile to prevent
+buckling and to permit the design of the pier or pile in accordance with
+accepted engineering practice and the applicable provisions of this Code.

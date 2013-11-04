@@ -1,0 +1,98 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DUCTS. (§ 57.53.17)
+
+  DUCTS.	A.	Metal ducts shall be constructed of sheet metal in accordance with
+Table 53-A.TABLE 53-A
+FLAMMABLE MATERIAL DUCTS – GAUGE OF METAL  
+    
+      
+        Diameter of Duct in Inches
+      
+      
+        U.S. Standard Gauge of Duct
+      
+    
+    
+      
+        Non-Abrasive Materials
+      
+      
+        Abrasive Materials
+      
+    
+    
+      
+        8 or Less
+      
+      
+        24
+      
+      
+        20
+      
+    
+    
+      
+        Over 8 to 18
+      
+      
+        22
+      
+      
+        18
+      
+    
+    
+      
+        Over 18 to 30
+      
+      
+        20
+      
+      
+        16
+      
+    
+    
+      
+        Over 30
+      
+      
+        18
+      
+      
+        14
+      
+    
+  
+	B.	Buried ducts may be of concrete or ceramic materials, cast iron, or
+cement-asbestos and shall be properly protected to prevent mechanical
+injury.	C.	All sheet metal elbows and bends shall be made from material at least
+two gauges heavier than is required for straight duct work of the same diameter
+except that for No. 14 gauge and heavier, the elbows and straight duct work may
+be of the same gauge.	D.	Round sheet metal elbows shall be of at least
+five-piece construction for ducts six inches in diameter or less, and of
+seven-piece construction for larger ducts, with a throat radius equal to one and
+one-half times to two times the duct diameter unless space prohibits the use of
+such long bends.  In place of long radius elbows specified above, rectangular
+elbows, venturi-shaped elbows or other bends of equivalent low resistance design
+may be used.	E.	The main suction duct should receive only one branch in a
+section of uniform area, whenever space permits, and in no case shall it receive
+more than two branches in such a section.	F.	The inlet area of the fan or
+exhaust duct shall be equal to or greater than the sum of the areas of all the
+branch ducts.	G.	Every branch duct shall connect with the main duct at top or
+side at an angle not exceeding 45 degrees, inclined in the direction of the
+airflow.	H.	The main suction and discharge ducts shall be made as short as
+practicable.  To provide access for sweeping and cleaning, ducts should not be
+less than six inches above the floor at every point, and not closer than six
+inches to any ceiling.	I.	Every duct shall be kept open and unobstructed
+throughout its length, and no screen shall be placed in it. The use of a trap
+may be permitted as provided in Section 57.53.13 of this article.	J.	Main ducts
+of systems handling materials which form an explosive mixture with air shall be
+run on the outside of the building where practicable, with ducts from each
+operation and each floor passing out directly through the wall and discharging
+into the main ducts.	K.	Additional branch ducts shall not be added to an
+existing system without redesigning the system.  Branch ducts shall not be
+disconnected nor unused portions of a system be blanked off without providing
+orifice plates to maintain required airflow.

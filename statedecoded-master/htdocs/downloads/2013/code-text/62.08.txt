@@ -1,0 +1,432 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SPECIFICATIONS AND PROCEDURES FOR ABOVE GROUND FACILITIES INSTALLATIONS IN THE
+PUBLIC RIGHTS-OF-WAY. (§ 62.08)
+
+  SPECIFICATIONS AND PROCEDURES FOR ABOVE GROUND FACILITIES INSTALLATIONS IN
+THE PUBLIC RIGHTS-OF-WAY.
+	(Added by Ord. No. 175,014, Eff. 1/29/03; Renumbered from Sec. 62.03.2 by Ord.
+No. 182,237, Eff. 9/28/12.)	The following Above Ground Facilities Specifications
+and Procedures (AGFSP) shall govern the approval process for the installation of
+above ground facilities (AGFs) in the public rights-of-way.	I.	AGF Definition: 
+The AGF shall be defined as all structures, cabinets, electric meters, and any
+other appurtenance installed for telecommunication or utility purposes above
+surrounding grade in the public rights-of-way. For the purposes of reviewing
+allowable AGF Applications, all structures, cabinets, electric meters, and any
+other appurtenances that share a common structural foundation shall be defined
+as one AGF. All structures, cabinets, electric meters, and any other
+appurtenances required to operate a facility, but that do not share a common
+structural foundation, shall be considered a separate AGF installation. The
+number of separate AGF installations shall be based on the number of separate
+structural foundations installed when the facility is fully operational.	ADA: 
+The Americans with Disabilities Act (ADA) was signed into law on July 26, 1990.
+The ADA includes a wide range of legislation intended to make American Society
+more accessible to people with disabilities. It is divided into five titles, one
+of which is Public Accommodations (Title III). Title III states that all new
+construction and modifications must be accessible to individuals with
+disabilities. For existing facilities, barriers to services must be removed if
+readily achievable.	Design Review Board:  In approximately one-third of the
+City’s Specific Plans, development plans must be reviewed and approved by a
+Design Review Board. This Board is composed of members appointed pursuant to
+Section 16.50 of the LAMC.	Major Highway:  A Major Highway is a street
+classification designated under the Transportation Element of the General Plan
+for the City of Los Angeles. A street designated a Major Highway is projected to
+carry more than 30,000 average daily trips by the year 2010. The current
+standard right-of-way cross sectional width of such a street is 104′ or
+greater and includes a 12′ wide sidewalk/parkway, 13′ curb lane, 4 to 6
+full-time through lanes, 2 part-time parking lanes, and I median/left turn
+lane.	Note:	certain Community Plans and Specific Plans within the City of Los
+Angeles have established modified designations and/or standards for some
+specific highways or highway segments.	Public Rights-of-Way:  Land that is
+dedicated for public use including but not limited to: improved public streets,
+sidewalks, curbs, gutters, public utility easements, parkways. etc., as well as
+dedicated unimproved areas.	Secondary Highway: A Secondary Highway is a street
+classification designated under the Transportation Element of the General Plan
+for the City of Los Angeles. A street designated a Secondary Highway is
+projected to carry between 20,000 and 30,000 average daily trips by the year
+2010. The current standard right-of-way cross sectional width of such a street
+is 90′ and includes a 40′ wide sidewalk/parkway, 19′ curb lane, 4
+full-time through lanes, all-day parking, and I median/left turn lane.	Note:
+certain Community Plans and Specific Plans within the City of Los Angeles have
+established modified designations and/or standards for some specific highways or
+highway segments.	Utility Pole: A utility pole is defined as any pole which is
+used to support power, telephone, or other suspended telecommunications wires,
+and shall not include monopoles or antennas.	II.	General Restrictions:	A.	Below
+Grade Requirement: All AGFs shall be installed below surrounding grade in each
+of the following areas:	1.	City Planning Specific Plans (SP) as defined in LAMC
+Sec. 11.5.7 unless specifically exempted by the Board of Public
+Works.	2.	Historical Preservation Overlay Zones (HPOZ) as defined in LAMC Sec.
+12.20.3.	3.	Areas adjoining sites that have been designated as having historic
+significance. Historic sites are those identified as ZI 145-XXXX on the City of
+Los Angeles Zoning Map.	4.	Areas adjoining Open Space (OS) Zones as defined in
+LAMC Sec. 12.04.05.	5.	Along Scenic Highways as designated in the Transportation
+Element of the General Plan as developed by the City of Los Angeles City
+Planning Department.	6.	Pedestrian Oriented Districts (POD) as defined in LAMC
+Section 13.07.	7.	Community Design Overlay Districts (CDO) as defined in LAMC
+Section 13.08.	8.	Areas that have been designated by the Board of Public Works,
+upon the recommendation of the City Council, as “underground AGF areas.” 
+The Board of Public Works may make this designation only in areas where all
+existing AGFs, as defined in Parts I. and IX.C, are currently underground or are
+required to be installed underground by law or contract.  (Added by Ord. No.
+175,366, Eff. 9/1/03.)	B.	Hardship Waiver: The provisions of Section II.A
+requiring installation of AGFs below grade may only be waived if the Board of
+Public Works finds that hardship would result from the imposition of these
+requirements. Hardship occurs when placing the AGF below grade is technically or
+financially infeasible and all reasonable alternatives have been exhausted. The
+Bureau of Engineering shall process an application for a hardship waiver within
+45 days of submission. The 45-day process deadline shall commence when BOE
+verifies the application is accurate and complete.	If the proposed AGF is
+located within an applicable SP, HPOZ, POD, or CDO, the applicant shall first
+submit an application to the City of Los Angeles Planning Department for
+approval. The Planning Department approval shall be based on the recommendations
+of the appropriate Design Review Board or HPOZ Board and must be obtained prior
+to submittal of the hardship waiver request to the Bureau of Engineering (BOE).
+The City Engineer, upon request of the Review Board or City Planning, shall
+participate in any public meetings pertaining to an AGF installation hardship
+waiver in an advisory role regarding BOE Policy and the AGFSP.	C.	Board Reports
+on Waiver Requests: BOE staff shall prepare a Board Report regarding the
+application for a hardship waiver for consideration by the Board of Public
+Works. The Board Report shall include all of the following:	1.	A report prepared
+by the applicant detailing the technical infeasibility of complying with the
+AGFSP. If the applicant alleges financial infeasibility, a report prepared by
+the applicant detailing the financial infeasibility of complying with the AGFSP,
+including details on the estimated comparative cost of constructing the AGF
+aboveground and underground.	2.	A report prepared by, BOE that documents all
+comments received by those parties notified per Section VIII.D, including the
+Council District Office in which the AGF installation is proposed.	3.	A report
+prepared by the applicant containing evidence of the investigation of all
+reasonable private property alternatives and justification for not selecting any
+of those alternatives, if the proposed facility is within 200 feet of a
+commercial or manufacturing zone, C2, C4, C5, CM, MR1, M1, MR2, M2, and M3, as
+defined by LAMC Sections 12.14, 12.16, 12.17, 12.17.1, 12.17.5, 12.17.6, 12.18,
+12.19, and 12.20, respectively. At least two private property alternatives must
+be documented to satisfy this requirement.	4.	A map prepared by the applicant
+indicating the service area for the proposed AGF, which demonstrates that no
+less than 50% of the AGFs benefit shall be specifically intended to service
+customers in the restricted area.	5.	A statement by BOE Staff that the applicant
+has completed all other requirements of the AGFSP, including copies of any
+reports or comments from the Planning Department.	D.	Above Ground Allowance: The
+AGF may be located above surrounding grade in the public rights of way in all
+locations not falling under the restrictions of Section II.A. All AGF
+applications for locations outside the restricted areas shall be subject to all
+other applicable requirements of the AGFSP.	III.	Permit Requirements for AGF
+Installations:	A.	Requirements for Utilities: All excavations in and adjacent to
+streets require a excavation permit per LAMC Sec. 62.02.  Entities that have
+the authority to occupy the public rights-of-way by virtue of a state granted
+certificate of Public Convenience and Necessity shall comply with the AGFSP and
+obtain a Utility Permit to install an AGF. Compliance with the AGFSP and
+approval of the Utility Permit are required prior to the start of any AGF
+installation work.	B.	Requirements for Non-utilities:  Entities that do not
+have the state authority to occupy the public rights-of-way, shall comply with
+the AGFSP and obtain a Revocable Permit and Excavation Permit to install an AGF.
+Compliance with the AGFSP and approval of the Revocable and Excavation Permit
+are required prior to the start of any AGF installation work.	C.	AGF
+Installation Requirements: An applicant may apply for one to ten AGF
+installation permits per Utility, Revocable, and/or Excavation Permit
+application. The Bureau of Engineering shall process the first AGF permit
+request within 30 days of submission, and may take up to two additional days for
+each additional AGF permit request submitted as part of the application. The 30
+day deadline shall commence when BOE verifies the permit request is accurate and
+complete. The review period may be extended as necessary if the permit
+application includes hardship waivers or variances, as described in Section
+II.B, Section V.B, and Section V.H. The request for an AGF installation permit
+shall be deemed complete upon submission of the following:	1.	Site and or
+Landscaping Plan to scale, elevation drawings, before installation photographs
+showing the location of the proposed AGF, renderings of the installed AGF with
+appurtenances including power meter boxes and surrounding landscaping elements.
+Also required are specifications and dimensions pertaining to existing street
+improvements, parkway alignment, proximity to buildings, view corridors,
+potential noise levels, and details necessary to determine compliance with the
+aesthetic and public safety requirements of the AGFSP.	2.	Identification of
+structures, cabinets, electric meters, or any other appurtenance proposed to be
+installed above the existing surrounding grade.	3.	Mailing address labels of
+adjoining lots, abutting lots, lots across the public right-of-way from
+adjoining and abutting lots as defined in Attachment A,* relevant Council
+District Offices, neighborhood councils, and homeowner associations.	4.	The
+zoning regulations of adjoining lots promulgated by the City of Los Angeles
+Planning Department and the number of existing AGFs in the city block in which
+the AGF is proposed.	5.	Cultural Affairs Commission (CAC) approved AGF model
+with cabinet treatment details, cabinet dimensions and AGF volume size.	6.	The
+name and address of the AGF owner, contact telephone numbers, the address, and
+location of the AGF installation, and any other information pertaining to the
+maintenance of the AGF.	7.	Graffiti Mitigation Plan as defined in Section
+V.E.	IV.	Permit Fees:	A.	Deposit: A deposit in the amount of $1,000 per AGF
+installation permit shall be made by the applicant to cover the cost of
+processing AGF permits prior to the start of permit processing. BOE staff shall
+create a Work Order and credit the deposit amount to the Work Order. If charges
+by BOE Staff exceed the deposit amount, the applicant shall deposit additional
+funds to continue permit processing.	B.	Hardship Waiver Deposit: Due to the
+additional time and effort required to review a hardship waiver request, an
+additional $1,000 deposit shall be submitted for each hardship
+waiver.	C.	Charges: City staff time used to process permit applications
+containing AGF installations, variance requests, and AGF mapping shall be
+charged to the AGF applicant Work Order.Specifications	V.	Aesthetic
+Requirements:	A.	Visual Impact: The applicant shall demonstrate that the AGF
+installation site meets the aesthetic requirements of the AGFSP. The AGF
+installation should not obstruct street scape views, view corridors existing in
+the public rights-of-way, view corridors of neighboring lots, or view corridors
+from the public rights-of-way.	B.	AGF Volume Threshold: The AGF shall have a
+maximum volume threshold of thirty-six (36) cubic feet. The AGF volume shall
+include the combined volume of all cabinet enclosures that share a common
+foundation or platform. The AGF volume shall not include the volume of the
+foundation or platform supporting the cabinet that is above the existing
+surrounding grade. The maximum AGF height shall be five and one-half feet (5′
+6&#038;″). The minimum AGF height shall be two and one half feet (2′
+6&#038;″). The Board of Public Works may grant a variance from the AGF volume
+and height limitation if all of the following conditions exist:	1.	Suitable
+measures consistent with the aesthetic guidelines of this report mitigate the
+excessive AGF volume.	2.	The applicant demonstrates that no financially or
+technically acceptable alternative exists that complies with Section V.B.	3.	The
+cabinet design has been approved by the Cultural Affairs Commission.	BOE shall
+prepare a Variance Board Report for consideration of the applicant s variance
+request by the Board of Public Works. The Bureau of Engineering shall process
+the initial variance request within 35 days of submission. The 35-day deadline
+shall commence when BOE verifies the variance request to be accurate and
+complete. In cases where multiple variances are requested, the BOE make take up
+to five additional days for each additional variance request.	C.	Parkway
+Alignment: The AGF should be placed in proximity to and in line with existing
+power poles, street light fixtures, street signs and other structures within the
+parkway to create an aesthetic and unobstructed alignment. The AGF shall not be
+placed in such an alignment if the installation blocks the line of sight for
+vehicles exiting adjacent alley intersections or driveways.	D.	Landscape
+Considerations: For AGFs installed in a parkway, the AGF owner shall install
+landscaping immediately surrounding the installation or restore any landscaping
+disturbed by the installation. The installed or restored landscaping shall be
+consistent with the existing landscaping in the parkway. For AGFs installed in
+the public rights-of-way in an area where no sidewalk exists, the AGF owner
+shall install landscaping immediately surrounding the installation and restore
+any landscaping disturbed by the installation. The installed or restored
+landscaping shall be consistent with the existing surrounding landscaping. All
+new landscaping shall be installed and maintained for the purpose of screening
+or camouflaging the AGF, and to create an aesthetically pleasing appearance. An
+automatic irrigation system shall be installed or modified to sustain
+landscaping when necessary. If an automatic irrigation system is not feasible,
+the applicant may submit an irrigation plan with the application. The irrigation
+plan shall include manual watering intervals and a guarantee to replace any
+vegetation that does not survive. All landscaping shall be installed and
+maintained in conformance with pedestrian passage Sections VI.A, VI.B, and VI.C.
+Landscaping shall not be required for AGF installations located in existing
+full-width sidewalks.	E.	Cabinet Treatment and Graffiti Mitigation: The AGF
+shall be a color similar to the existing surrounding landscape. The exterior of
+the AGF shall resist graffiti or be painted with anti-graffiti paint and be
+maintained in a “like-new” condition at all times. The applicant shall
+submit a Graffiti Mitigation Plan (“Plan”) detailing how the AGF owner will
+maintain the AGF free from graffiti and other defacements (i.e. stickers,
+posters). The Plan shall require AGF inspection at a minimum of four (4) times
+each year and include identification of the resources dedicated to mitigating
+graffiti. Additionally, the Plan shall provide the name, mailing address, phone
+number, and E-mail address for a single point of contact responsible to resolve
+graffiti issues. The Plan shall clearly state that AGF surfaces shall be
+restored to their original exterior appearance.	F.	Cabinet Identifiers: For the
+purpose of active monitoring by City personnel, residents, and other
+telecommunications companies, the following information shall be clearly
+indicated on all AGFs:	1.	A toll-free telephone number for the AGF owner.	2.	The
+AGF registration, number issued by the BOE pursuant to Section X.F.	G.	Cabinet
+Foundations: Concrete pads shall be a color that is consistent with adjacent
+surrounding sidewalks. Concrete pads installed in full width sidewalks, shall be
+constructed per design plan and shall join to the nearest score line of the
+existing concrete pavement. For installations where there is no existing
+sidewalk, concrete pads shall be an earth-tone color that is consistent with
+existing surrounding earth. Any slough walls constructed to protect an AGF
+installation shall be an earth-tone color consistent with the existing
+surrounding soil.	H.	Density Threshold: The area between the two adjacent
+intersections of two sets of intersecting streets shall be defined as a city
+block, including sidewalks on either side of the street. Accordingly, the
+maximum number of AGF installations in the public right-of-way per city block
+shall be as follows:	1.	For city blocks in which the two adjacent intersections
+are less than 1000 feet apart, the threshold is three (3).	2.	For city blocks in
+which the two adjacent intersections are equal to or greater than 1000 feet
+apart, the threshold is three (3), plus a maximum of one (1) additional AGF for
+every additional 250 feet of adjacent intersection separation.	3.	In Parking
+zones (LAMC 12.12.1) and Industrial zones (LAMC 12.17.5 – 12.20), there is no
+AGF threshold per city block.	All facilities exempt from the AGFSP shall not be
+counted in the number of AGF installations per city block. The Board of Public
+Works may grant a variance from the AGF density threshold per city block at its
+discretion when the threshold is reached and when measures consistent with the
+AGFSP mitigate the excessive number of AGF installations. AGF co-location may be
+required as a mitigation measure. The BOE shall prepare a Variance Board Report
+for consideration of the applicant s variance request by the Board of Public
+Works. The Bureau of Engineering shall process the initial variance request
+within 35 days of submission and, in cases where multiple variances are
+requested, may take up to five additional days for each additional variance
+request. The 35 days deadline shall commence when BOE verities the density
+variance request is accurate and complete.	VI.	Public Safety
+Requirements:	A.	Major and Secondary Highway Pedestrian Passage: In public
+rights-of- way that have a Major Highway or Secondary Highway Street designation
+and an existing sidewalk, the AGF shall be located in sidewalks or parkways such
+that there is a minimum six (6) feet unobstructed distance between the edge of
+cabinet and the property line. The six (6) feet unobstructed distance is
+provided for pedestrian and wheelchair passage. If the paved sidewalk is less
+than six-feet wide, additional concrete sidewalk shall be constructed to provide
+a minimum six (6) feet wide paved sidewalk between the edge of cabinet and the
+property line.	B.	Non-Major and Non-Secondary Highway Pedestrian Passage:  In
+public rights-of-way that have the street designation other than Major Highway
+or Secondary Highway, and that have existing sidewalk, the AGF shall be located
+in sidewalks or parkways such that there is a minimum four (4) feet unobstructed
+distance between the edge of cabinet and the property line. This four (4) feet
+unobstructed distance is provided for pedestrian and wheelchair passage. If the
+paved sidewalk is less than four feet wide, additional concrete sidewalk shall
+be constructed to provide a minimum four (4) feet wide paved sidewalk between
+the edge of cabinet and the property line.	C.	Pedestrian Passage Distances: In
+public rights-of-way of all street designations with no existing sidewalk
+pavement, the AGF shall be located in the parkway such that a four (4) feet
+unobstructed distance is provided for pedestrian passage by one of the
+following:	1.	When there is no curb face, a minimum four (4) feet unobstructed
+distance between the edge of cabinet and the edge of pavement, or	2.	When there
+is a curb face, a minimum four (4) feet unobstructed distance between the edge
+of cabinet and the curb face, or	3.	A minimum four (4) feet unobstructed
+distance between the edge of cabinet and property line.	D.	Minimum Curb Face
+Distances: The AGF shall have a minimum 18-inches unobstructed distance from
+edge of cabinet to curb face. In areas where no curb face exists, the AGF shall
+have a minimum four (4) feet unobstructed distance from the edge of cabinet to
+edge of pavement.	E.	Vehicular Line of Sight and Sight Distance: The AGF shall
+not be located in the “visibility triangle”, defined as that portion of both
+public right-of-way and private property located at any corner and bounded by
+the curb line or edge of roadway of the intersecting streets and a line joining
+the points on the curb or edge of roadway forty-five (45) feet from the point of
+intersection of the extended curb lines or edges of roadway. The AGF shall not
+be located adjacent to driveways and alley intersections where they would reduce
+the sight distance for exiting vehicular traffic to less than two hundred (200)
+feet.	F.	Proximity to Buildings, Houses, Structures: The AGF shall not be
+located immediately in front of buildings, houses, structures, or public stairs
+such that it causes a violation of ADA guidelines for pedestrian passage. The
+AGF shall not obstruct pedestrian passage from private property to the public
+right-of-way.	VII.	Future Street Improvement Requirements:  BOE staff shall
+determine the status of future street improvements for a proposed AGF
+installation and provide this information to the applicant. Applicants are
+hereby notified that future street lighting conduit installation may occur under
+a proposed AGF installation if the AGF foundation is located within four (4)
+feet of the distance from the curb face. Street lighting conduit is normally
+placed within a four (4) feet distance from the curb face. In general, AGF
+installations should not be located in areas proposed for future street
+improvements. However, if necessary, AGF installations may be allowed in areas
+designated for street improvement. All AGF owners, shall be responsible for the
+cost of relocation of their AGFs and appurtenant facilities in conflict with any
+future street improvement or driveway installation initiated by the City, unless
+the improvement is required as a condition of a permit issued to a
+developer.Procedures	VIII.	Permit Processing Requirements and
+Procedures:	A.	Field Investigation Requirement:  BOE Staff shall conduct a
+field investigation of proposed AGF installations in the following cases:	1.	If
+the proposed AGF is a hardship waiver.	2.	If the proposed AGF application
+contains a request for a variance from the AGF volume, height, and/or density
+threshold limits.	3.	If opposition to the proposed AGF is received by BOE from
+any person or organization notified per Section VIII.D.	In all other cases, BOE
+staff reserves the right to conduct a field investigation of any AGF
+installation on a case-by-case basis. The purpose of the field investigation
+shall be to determine the best AGF location consistent with the AGFSP, to
+consider the feasibility of locating on private property and to consider
+locating the AGF in the public right-of-way below surrounding
+grade.	B.	Joint-Trenching Review Requirement: All AGFs that require trenching
+for the installation of substructure components shall be subject to joint
+trenching following a Utility Permit Joint-Trenching Review process:	1.	Where
+the City or the applicant becomes aware that 2 or more applicants propose
+construction in the same street or general vicinity. This requirement will be
+reviewed and evaluated by BOE and DOT Staff and modified based on rights-of-way
+conditions.	2.	AGF installations that qualify for joint-trenching shall modify
+their substructure designs to accommodate the trench alignment selected by BOE
+Staff.	C.	BOE Approval:  BOE staff shall approve the AGF installation permit if
+the following conditions have been met: The Field Investigation Requirement,
+Section VIII.A and the Joint Trenching Review Requirement, Section VIII.B have
+been satisfied; the Board of Public Works has approved all appropriate
+variances; and the installation is in compliance with all other provisions of
+the AGFSP.	D.	Notification of AGF Installation: For each proposed AGF
+installation, the applicant shall notify all, persons and organizations
+identified in Section III.C.3, via registered mail, of the proposed AGF. The
+notification shall identify whether or not the applicant is requesting a
+variance, and shall include information regarding the specific AGF location and
+cabinet design. A contact person and phone number for the applicant shall also
+be listed. If the applicant is requesting a hardship waiver as per Section
+II.B., the notification shall also include the name, phone number and address
+for the appropriate BOE staff, as provided by the department.	Following
+consideration of the applicant s permit request by BOE, the applicant shall
+notify all persons and organizations identified in Section III.C.3 of the status
+of the application. This notice shall include the BOE Approval or Disapproval,
+and language provided by the BOE detailing the AGF appeal process available to
+property owners. BOE staff and Council District offices shall maintain a list of
+representative homeowner associations. Notification to multi-unit buildings
+shall be made to the property owner or the on-site property manager.	E.	Appeal
+of BOE Determination to Board of Public Works: The BOE determination shall be
+subject to appeal by the property owners and/or occupants specified in
+Attachment A* and pursuant to the procedures established in LAMC Section
+62.03.4(l). If no appeals are submitted to the BOE within 14 calendar days of
+the date of notification, the BOE determination shall be final. The appeal of a
+BOE determination shall be heard by the Board of Public Works at a regularly
+scheduled public meeting. The Board of Public Works shall determine whether an
+error or abuse of discretion has occurred.	F.	AGF Mapping: To assist the
+industry with the requirements specified in this AGFSP, the City shall make
+available information on City Planning Specific Plans, Historical Preservation
+Overlay Zones, Historic Sites, Open Space Zones, Pedestrian Oriented Districts,
+Community Design Overlay Districts, and Scenic Highways. The City shall also
+provide online information showing all AGF installations, the AGF registration
+number assigned to the AGF installation, and other pertinent data. The area of
+mapping shall be limited to the boundaries of the City of Los
+Angeles.	G.	Removal of Facilities: Facilities which have not served a customer
+for 90 days shall be deemed unused and removed in a timely manner as stated in
+Section IV.E (Non-Compliance) and Section IV.E.6 (Failure to remove obsolete or
+unused AGF installations). The cost of AGF removal shall be the responsibility
+of the AGF owner.	IX.	Exemptions from the AGFSP:	A.	Installations on Private
+Property: AGF installations on private property shall be exempt from the AGFSP
+but subject to discretionary review by the Department of City Planning. (See
+Ordinance 174,132 amending LAMC Sections 11.5.7, 12.04.05, 12.04.09, 12.12.1,
+12.12.1.5, 12.17.6, 12.21, 12.24.)
+	
+	B.	Installations Below Existing Grade: Facilities installed in the public
+rights- of-way that do not have a structure, cabinet, electric meter, or other
+appurtenance above the existing surrounding grade shall be exempt from the
+AGFSP. Facilities installed below existing surrounding grade in the public
+rights-of-way shall be subject to BOE Utility, Excavation, and/or Revocable
+permit requirements.	C.	Pole-Mounted and Public Facilities: Pole-mounted and
+street light-mounted facilities, fire hydrants, air/vacuum valves, street light
+poles, utility poles, and traffic and pedestrian control fixtures are not
+subject to the AGFSP, but will be subject to all other applicable requirements
+of law, including, but not limited to, the Joint Pole Agreement (JPA), the
+Department of Water and Power guidelines, and the Bureau of Street Lighting
+rules and regulations.	D.	Other: Temporary water service AGFs, sampling taps,
+dissipaters, water control appurtenances associated with water regulator
+stations, water flow meters, and water valves, and vent stacks related to
+maintenance holes and vaults shall not be subject to the AGFSP, except for the
+pedestrian passage retrofit requirements in Section X.B. These facilities may
+also be subject to other BOE permit requirements.	E.	The below grade
+requirements of Section II shall not apply to electric meters and
+telecommunications tie-in facilities installed to comply with the requirements
+of that section.	X.	Applicability to Existing AGF Installations:	A.	Upgrade or
+Repair of Existing AGFs: All existing AGFs installed prior to the adoption of
+the AGFSP that need to be upgraded or repaired, shall be subject to these
+Specifications and Procedures if the upgrade or repair causes the AGF volume to
+increase by more than 10%.	B.	Pedestrian Passage Retrofit Requirement: All
+existing AGFs, including those identified in Section IX.D, which were installed
+prior to the adoption of the AGFSP, shall be modified, retrofitted, or relocated
+to provide a minimum three (3) feet of unobstructed distance for pedestrian and
+wheelchair passage except in the following areas:	1.	Public right-of-way areas
+adjacent to MR1, M1, MR2, M2, and M3, as defined in LAMC Section
+12.04.	2.	Public rights-of-way with no existing sidewalk pavement, or where the
+slope of the existing sidewalk is 5% or greater.	3.	Hillside Areas, as defined
+by LAMC Section 12.03.	C.	Annual Retrofit Limits: All existing non-compliant
+AGFs shall comply with Section X.B within five (5) years of the adoption of this
+ordinance. During any 12-month period, each individual company shall relocate
+20% of its initial total non-compliant AGFs or thirty (30) non-compliant AGFs,
+whichever is greater, to comply with the pedestrian passage provisions of this
+AGFSP. The Bureau of Engineering shall be responsible for coordinating with
+Council offices and City departments for prioritizing AGF relocation needs, with
+preference given toward locations with higher pedestrian traffic density or near
+public facilities, and submitting these requests to the respective companies. 
+Upon notification from the City, an AGF owner shall have 180 days to complete
+the relocation. Non-compliant AGFs relocated pursuant to this section shall not
+be subject to the remaining provisions of the AGFSP, provided that the
+replacement AGF is located within 500 feet of the original AGF and the volume is
+not increased by more than 10%.	D.	Pedestrian Passage Compliance:  Owners of
+existing AGFs shall be considered in compliance with the requirements of Section
+X.B when the conditions of Section X.C are met. In the event an AGF owner is in
+default with the conditions in Section X.C, compliance with the requirements of
+Section X.B shall take effect immediately and all provisions of Section IV will
+apply.	E.	Graffiti Mitigation and Cabinet Identification:  Existing AGFs shall
+be subject to all requirements stated in Sections V.E and V.F. Compliance with
+the requirements of this section shall be required no later than July 1,
+2003.	F.	AGF Locations:  Owners of existing AGFs shall submit to the BOE a
+geographic location identifier (geocode) for all existing AGF installations
+within the City of Los Angeles. The BOE will issue a registration number for
+each such AGF. Compliance with the requirements of this section shall be
+required no later than March 31, 2003. New AGFs will be assigned a registration
+number at the time the AGF installation permit is issued. A registration fee,
+established by the Board of Public Works, may be assessed to implement the
+provisions of this section.

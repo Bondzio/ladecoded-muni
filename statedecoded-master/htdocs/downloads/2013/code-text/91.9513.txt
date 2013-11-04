@@ -1,0 +1,103 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DETERMINATION OF THE STRESS-STRAIN RELATIONSHIP OF EXISTING UNREINFORCED
+MASONRY. (§ 91.9513)
+
+  DETERMINATION OF THE STRESS-STRAIN RELATIONSHIP OF EXISTING UNREINFORCED
+MASONRY.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)91.9513.1.  Scope.  This section
+covers procedures for determining the expected compressive modulus, peak strain
+and peak compressive stress of unreinforced brick masonry used for infills in
+frame buildings.91.9513.2.  General Procedure.  The outer wythe of multiple
+wythe brick masonry shall be tested by inserting two flat jacks into the mortar
+joints of the outer wythe.  The prism height, the vertical distance between the
+flat jacks, shall be five bricks high.  The test location shall have adequate
+overburden and/or vertical confinement to resist the flat jack
+forces.91.9513.3.  Preparation for the Test.  Remove a mortar joint at the top
+and bottom of the test prism by saw cutting or drilling and grinding to a smooth
+surface.  The cuts for inserting the flat jacks shall not have a deviation from
+parallel of more than 3/8 inch (9.53 mm) The deviation from parallel shall be
+measured at the ends of the flat jacks.  The width of the saw cut shall not
+exceed the width of the mortar joint.  The length of the saw cut on the face of
+the wall may exceed the length of the flat jacks by not more than twice the
+thickness of the outer wythe plus one inch (25.4 mm).91.9513.4.  Required
+Equipment.  The flat jacks shall be rectangular or with semi-circular ends to
+mimic the radius of the saw blade used to cut the slot for the flat jack.  The
+length of the flat jack shall be 18 inches (457 mm) maximum and 16 inches (406
+mm) minimum.  This length shall be measured on longest edge of a flat jack with
+semi-circular ends.  The maximum width of the flat jack shall not exceed the
+average width of the wythe of brick that is loaded.  The minimum width of a
+flat jack shall be 3-1/2 inches (89 mm) measured out-to-out of the flat jack. 
+The flat jack shall have a minimum of two ports to allow air in the flat jack to
+be replaced by hydraulic fluid.  The unused port shall be sealed after all of
+the air is forced out of the flat jack.  The thickness of the flat jack shall
+not exceed three-quarters of the minimum height of the mortar joint.  It is
+recommended that the height of the flat jack be about one-half of the width of
+the slot cut for installation of the flat jack.  The remaining space can be
+filled with steel shim plates having plan dimensions equal to the flat
+jack.91.9513.5.  Data Acquisition Equipment.  The strain in the tested prism
+shall be recorded by gages or similar recording equipment having a minimum range
+of one-ten thousandth of an inch (0.0025 mm).  The compressive strain shall be
+measured on the surface of the prism and shall have a gage length, measured
+vertically on the face of the prism, of 10 inches (254 mm) minimum.  The gage
+points shall be fixed to the wall by drilled-in-anchors or by anchors set in
+epoxy or similar material.  The support for the data recording apparatus shall
+be isolated from the wall by a minimum of 1/16 inch (1.5 mm) so that the gage
+length used in the calculation of strain can be taken as the measured length
+between the anchors of the equipment supports.  The gaging equipment shall be
+as close to the face of the prism as possible to minimize the probability of
+erroneous strain measurements caused by bulging of the prism outward from its
+original plane. The compressive strain data shall be measured at a minimum of
+two points on the vertical face of the prism.  These points shall be the
+one-third points of the length of the flat jacks plus or minus one-half inch. 
+As an alternative, the strain may be measured at three points on the face of the
+prism.	These points shall be spaced at one-quarter of the flat jack length plus
+or minus one-half inch.	Horizontal gages at mid-height of the prism may be used
+to record Poisson strain but this gage should be considered as recording data
+secondary in importance to the vertical gages and its placement shall not
+interfere with placing the vertical gaging as close as possible to the face of
+the prism.91.9513.6.  Loading and Recording Data.  The loading shall be
+applied by hydraulic pumps that add hydraulic fluid to the flat jacks in a
+controlled method.  The application of load shall be incremental and held
+constant while strains are being recorded.  The increasing loading for each
+cycle of loading shall be divided into a minimum of four equal load
+increments.  The strain shall be recorded at each load step.  The decrease in
+loading shall be divided into a minimum of two equal unloading increments. 
+Strain shall be recorded on the decreasing load steps.  The hydraulic pressure
+shall be reduced to zero and the permanent strain caused by this cycle of
+loading shall be recorded.  This procedure shall be used for each cycle of
+loading. The load applied in each cycle of load shall be determined by
+estimating the peak compressive stress of the existing brick masonry.  The
+hydraulic pressure needed to cause this peak compressive stress in the prism
+shall be calculated by assuming the area of the loaded prism is equal to the
+area of the flat jack.  A maximum of one-third of this pressure, rounded to the
+nearest 25 psi (172 kPa), shall be applied in the specified increments to the
+peak pressure prescribed for the first cycle of loading.  After recording the
+strain data, this pressure shall be reduced in a controlled manner to each of
+the specified increments for unloading and for recording data.  The maximum
+jack pressure on the subsequent cycles shall be one-half, two-thirds,
+five-sixths and estimated peak pressure.  If the estimated peak compressive
+stress is less than the existing peak compressive stress, the cyclic loading and
+unloading shall continue using increments of increasing pressure equal to those
+used prior to the application of estimated peak pressure.	All strain data shall
+be recorded to one-ten thousandth of an inch (0.0025 mm).  Jack pressure shall
+be recorded in increments of 25 psi (172 kPa) pressure.91.9513.7.  Quality
+Control.  The flat jack shall be calibrated before use by placing the flat jack
+between bearing plates of two inches minimum thickness in a calibrated testing
+machine.  A calibration curve to convert hydraulic pressure in the flat jack to
+total load shall be prepared and included in the report of the results of
+testing.  Flat jacks shall be recalibrated after three uses.	The hydraulic
+pressure in the flat jacks shall be indicated by a calibrated dial indicator
+having a subdivision of 25 psi (172 kPa) or less.  The operator of the
+hydraulic pump shall use this dial indicator to control the required increments
+of hydraulic pressure in loading and unloading.91.9513.8.  Interpretation of
+the Data. The data obtained from the testing required by Item D 2 of Section
+91.9509.6 shall be averaged both in expected peak compressive stress and the
+corresponding peak strain.  The envelope of the averaged stress-strain
+relationship of all tests shall be used for the material model of the masonry in
+the infilled frame.  If two strain measurements have been made on the surface
+of the prism, these strain measurements shall be averaged for determination of
+the stress-strain relationship for the test.  If three strain measurements have
+been made on the surface of the prism, the data recorded by the center gage
+shall be given a weight of two for preparing the average stress-strain
+relationship for the test.

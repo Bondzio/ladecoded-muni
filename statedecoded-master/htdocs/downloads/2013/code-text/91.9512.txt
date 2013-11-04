@@ -1,0 +1,36 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MINIMUM REQUIREMENTS FOR A LIMITED STRUCTURAL ANALYSIS. (§ 91.9512)
+
+  MINIMUM REQUIREMENTS FOR A LIMITED STRUCTURAL ANALYSIS.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)91.9512.1.  Structures conforming to
+the requirements of this section may be shown to be in conformance with this
+division by submission of the report described in this section.91.9512.2. 
+Required Features of the Building.  The building shall conform to all of the
+following features, or the building shall be analyzed as prescribed by Section
+91.9508.4 of this Code.	1.	The lateral load resisting elements of the building
+shall be reinforced concrete shear walls.	2.	The minimum ratio of area of
+reinforcement to gross area of the wall shall be 0.0015 in both the vertical and
+horizontal directions.	3.	The reinforced concrete elements shall have no visible
+deterioration of concrete or reinforcement.	4.	The area of concrete shear walls
+on each orthogonal axis at the first floor level shall be 1.5 n percent of the
+area of the first floor of the building, where n is the number of floor and roof
+levels.	5.	The area of the shear walls in all stories above the first floor
+shall not be more than 100 percent or less than 80 percent of the area of shear
+walls at the first floor.	6.	The concrete shear walls in all stories above the
+first floor shall be directly above the shear walls at the first floor which are
+used to calculate the percent of shear wall area to floor area.	7.	The wall area
+must be uniformly distributed such that at least 80 percent of the wall area
+used in the calculation is symmetrically placed about the center of the
+building.	8.	The area of the shear walls on each orthogonal axis shall be
+calculated by passing a horizontal plane through the first story level.  The
+height of the plane shall be that height where the area of the shear walls is a
+minimum.	9.	The ratio of total height to base width of cantilevered or coupled
+shear walls shall be two or less.  The ratio of the clear height to inplane
+depth of piers in a shear wall shall be two or less.  Shear walls or piers
+having a height to depth ratio greater than two shall be given an effective area
+of one-half of their area.91.9512.3.  Information Required in the
+Report.91.9512.3.1.  The report shall include data, sketches, plans and
+calculations that show conformance with the features given in this
+section.91.9512.3.2.  The engineer shall meet with the representative of the
+Department at the site to review the report.

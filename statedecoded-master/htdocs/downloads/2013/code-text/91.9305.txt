@@ -1,0 +1,157 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ANALYSIS AND DESIGN. (§ 91.9305)
+
+  ANALYSIS AND DESIGN.
+	(Added by Ord. No. 172,018, Eff. 5/21/98.)91.9305.1.  General.  Every
+building within the scope of this division shall be analyzed, designed and
+constructed in conformance with this Code except as modified herein.  No
+alteration of the existing lateral force-resisting or vertical load-carrying
+system shall reduce the strength or stiffness of the existing structure. When
+any portion of a building within the scope of this division is constructed on or
+into a slope steeper than 1 unit vertical in 3 units horizontal, the
+lateral-force-resisting system  at and below the base level diaphragm shall
+also comply with the provisions of Division 94 of this Code.91.9305.2. 
+Scope.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  This
+Division requires the alteration, repair, replacement or addition of structural
+elements and their connections to meet the strength and stiffness requirements
+of this Code.  The lateral load path analysis shall include the resisting
+elements and connections from the wood diaphragm above any soft, weak or open
+front wall lines to the foundation soil interface or reinforced concrete slab or
+masonry wall supporting elements below.  The top story of any building need not
+be analyzed.  The lateral load path analysis for added structural elements
+shall also include evaluation of the allowable soil bearing and lateral
+pressures in accordance with Section 1804.	EXCEPTION:  When an open front, weak
+or soft wall line exists due to parking at the ground level of a two-level
+building and the parking area is less than 20 percent of the ground floor level,
+then only the wall lines in the open, weak or soft directions of the enclosed
+parking area, need comply with the provisions of this division.91.9305.3. 
+Design Base Shear.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  The design base shear shall be 75 percent of the value from Section
+12.8.1 of ASCE 7.91.9305.4.  Vertical Distribution of Forces.  (Amended by
+Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The total seismic force shall
+be distributed over the height of the structure based on Formulas (12.8-11) and
+(12.8-12) in Section 12.8.3 of ASCE 7.  Distribution of force by story weight
+shall be permitted for two story buildings. The value of R used in the design of
+any story shall be less than or equal to the value of R used in the given
+direction for the story above.91.9305.5.  Weak Story Limitation.  (Amended by
+Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The structure shall not exceed
+30 feet in height or two levels if the lower level strength is less than 65
+percent of the story above.  Existing walls shall be strengthened as required
+to comply with this provision unless the weak level can resist a total lateral
+seismic force of Ωo (per Section 91.9305.3) times the design force prescribed
+in Section 91.9305.4.	The story strength for each level of all other structures
+shall be a minimum of 80 percent of the story above.91.9305.6.  Story Drift
+Limitation.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The
+calculated story drift for each retrofitted level shall not exceed the allowable
+deformation compatible with all vertical load resisting elements and 0.005 or
+0.04/R (per Section 9305.3) times the story height.  The calculated story drift
+shall not be reduced by the effects of horizontal diaphragm stiffness but shall
+be increased when these effects produce rotation.	The effects of rotation and
+soil stiffness shall be included in the calculated story drift when lateral
+loads are resisted by vertical elements whose required depth of embedment is
+determined by pole formulas such as Equation (18-1), (18-2) and (18-3) in
+Section 91.1805.7.2.1.  The coefficient of variation of subgrade reaction used
+in the deflection calculations shall be provided from an approved geotechnical
+engineering report or other approved methods.91.9305.7.  P-Delta Effect. 
+(Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The requirements
+of Section 12.8.7 of ASCE 7 shall apply except as modified here.  All framing
+elements not required by the design to be part of the lateral force resisting
+system shall be investigated and shown to be adequate for vertical load carrying
+capacity when displaced Ωo (per Section 91.9305.3) times the displacements
+resulting from the required lateral force.  The stress analysis of cantilever
+columns shall use a buckling factor of 2.1 for the direction normal to the axis
+of the beam.91.9305.8.  Ties and Continuity.  All parts of the structure
+included in the scope of Section 91.9305.2 shall be interconnected and the
+connection shall be capable of resisting the seismic force created by the parts
+being connected.  Any smaller portion of a building shall be tied to the
+remainder of the building with elements having a strength of 0.1833 times the
+tributary dead load of the smaller portion.  A positive connection for
+resisting a horizontal force acting parallel to the member shall be provided
+for  each beam, girder or truss included in the lateral load path.  This force
+shall not be less than 0.08 times the combined tributary dead and live loads or
+as required by the lateral load path transfer, whichever is greater.91.9305.9. 
+Collector Elements.  Collector elements shall be provided which can transfer 
+the seismic forces originating in other portions of the building to the elements
+within the scope of Section 91.9305.2 that provide resistance to those
+forces.91.9305.10.  Horizontal Diaphragms.  The analysis of shear demand or
+capacity of an existing plywood or diagonally sheathed horizontal diaphragm need
+not be investigated unless the diaphragm is required to transfer lateral forces
+from the lateral resisting elements above the diaphragm to other lateral
+resisting elements below the diaphragm due to offset in placement of the
+elements.	Wood diaphragms in structures that support floors or roofs above shall
+not be allowed to transmit lateral forces by rotation or cantilever. However,
+rotational effects shall be accounted for when unsymmetric wall stiffness
+increases shear demands.	EXCEPTION:  Diaphragms that cantilever 25 percent or
+less of the distance between lines of lateral load resisting elements from which
+the diaphragm cantilevers may transmit their shears by cantilever provided that
+rotational effects on shear walls parallel and perpendicular to the load are
+accounted for.91.9305.11.  Shear Walls.  Shear walls shall have sufficient
+strength and stiffness to resist the tributary seismic loads  and shall conform
+to the special requirements of this section.91.9305.11.1.  Gypsum or Plaster
+Products.  Gypsum or plaster products shall not be used to provide lateral
+resistance.91.9305.11.2.  Wood Structural Panels.91.9305.11.2.1.  Drift
+Limit.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  Wood
+structural panel shear walls shall meet the story drift limitation of Section
+91.9305.7.  Conformance to the story drift limitation shall be determined by
+approved testing or calculation or analogies drawn from there and not the use of
+an aspect ratio.  Calculated deflection shall be in accordance with Division 23
+of this code, “Calculation of Shear Wall Deflection” and 25 percent shall be
+added to account for inelastic action and repetitive loading.  Contribution to
+the deflection from the anchor or tie down slippage shall also be included. 
+The slippage contribution shall include the vertical elongation of the metal,
+the vertical slippage of the connectors and compression or shrinkage of the wood
+elements.  The vertical slippage shall be multiplied by the aspect ratio and
+added to the total horizontal deflection.  Individual shear panels shall be
+permitted to exceed the maximum aspect ratio provided the story drift and
+allowable shear capacities are not exceeded.91.9305.11.2.2.  Openings. 
+Openings are permitted in shear walls if they do not exceed 50 percent of the
+height or width of the shear wall. The remaining portion of the shear wall shall
+be strengthened for the transfer and increase of all shearing forces caused by
+the opening. The resulting shear wall shall be analyzed as a mosaic of shear
+resisting elements. Blocking and steel strapping shall be employed at the
+corners of the opening to transfer forces from discontinuous boundary elements
+into adjoining panel elements.	The effect of openings on the stiffness of the
+shear wall shall be demonstrated to comply with the requirements of Section
+91.9305.6. The stiffness shall be calculated using the properties of the
+different shear elements making up the shear wall or it shall be demonstrated by
+approved testing. When shear walls cannot be made to conform to the requirements
+of this section because of existing openings, the openings shall be relocated or
+reduced in width to meet the strength and stiffness requirements of the lateral
+loads.	Relocated and altered openings shall comply with the emergency escape
+requirements in Division 10 of this Code.  Relocated and altered openings shall
+comply with the light and ventilation requirements in Division 12 of this Code
+unless otherwise approved by the Superintendent of Building.  (Amended by Ord.
+No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)91.9305.11.2.3.  Wood Species of
+Framing Members.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.) 
+Allowable shear values for wood structural panels shall consider the species of
+the framing members.  When the allowable shear values are based on Douglas
+fir-larch framing members and framing members are constructed of other species
+of lumber, the allowable shear values shall be determined in accordance with
+Division 23 of this Code.91.9305.11.3.  Mechanical Penetrations.  (Amended by
+Ord. No. 174,829, Eff. 10/27/02, Oper. 11/1/02.)  Mechanical penetrations in
+shear walls that exceed the provisions of Division 23 of this Code shall be
+accounted for in the design or the shear wall shall be analyzed as two separate
+walls on each side of the penetration.91.9305.11.4.  Substitution for 3 inch
+Nominal Width Framing Members.  Two 2 inch nominal width framing members shall
+be permitted in lieu of any required 3 inch nominal width framing member when
+the existing and new framing member are of equal dimensions, are connected as
+required to transfer the in-plane shear between them and the sheathing fasteners
+are equally divided between them.91.9305.11.5.  Hold Down
+Connectors.91.9305.11.5.1.  Expansion Anchors in Tension.  Expansion anchors
+that provide tension strength by friction resistance shall not be used to
+connect hold down devices to existing concrete or masonry elements.  Expansion
+anchors shall be permitted to provide tension strength by
+bearing.91.9305.11.5.2.  Required Depth of Embedment.  The required depth of
+embedment or edge distance for the anchor used in the hold down connector shall
+be provided in the concrete or masonry below any plain concrete slab unless
+satisfactory evidence is submitted to the Department that shows that the
+concrete slab and footings are of monolithic construction.91.9305.11.5.3. 
+Required Preload of Bolted Hold Down Connectors.  Bolted hold down connectors
+shall be preloaded to reduce slippage of the connector.  Preloading shall
+consist of tightening the nut on the tension anchor after the placement but
+before the tightening of the shear bolts in the panel flange member.  The
+tension anchor shall be tightened until the shear bolts are in firm contact with
+the edge of the hole nearest the direction of the tension anchor. Hold down
+connectors with self-jigging bolt standoffs shall be installed in a manner to
+permit preloading.

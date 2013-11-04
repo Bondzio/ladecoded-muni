@@ -1,0 +1,31 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SECONDARY CONTAINMENT. (§ 57.31.33)
+
+  SECONDARY CONTAINMENT.
+	(Amended by Ord. No. 172,043, Eff. 7/13/98.)	A.	Every new facility shall be
+designed and constructed with secondary containment.  Secondary containment
+shall be capable of being integrity tested.	B.	Secondary containment shall be
+compatible with any hazardous substance contained within a primary tank or
+within several primary tanks served by a single secondary containment. 
+Hazardous substances shall not be intermixed so as to cause a fire, explosion,
+or the production of toxic or poisonous gas.  Hazardous substances which are
+not compatible with each other shall have separate primary tank and secondary
+containment systems.	C.	Secondary containment shall be large enough to contain
+at least 100 percent of the volume of the primary tank, and be structurally
+capable of storing the hazardous substances for the maximum anticipated period
+of time necessary for the safe recovery of any released hazardous
+substance.	D.	Secondary containment which includes multiple primary tanks shall
+be capable of containing at least 150 percent of the volume of the largest
+primary tank, and be structurally capable of storing the hazardous substance for
+the maximum anticipated period of time necessary for the safe recovery of any
+released hazardous substance.	E.	When there is a possibility of water intruding
+into the space between the primary tank and secondary containment by
+precipitation, infiltration, or other means, the facility shall be designed and
+constructed with the capability to monitor and remove such water
+intrusion.	F.	Secondary containment systems shall have a nationally recognized
+testing laboratory listing and a L.A.F.D. Equipment Approval.	G.	Secondary
+containment shall be provided under the dispenser.  Containment will provide a
+mechanical or electrical device (float valve or probe) to disable the flow of
+product to that dispenser.	H.	Tank Opening Sumps must have electronic monitoring
+probes.

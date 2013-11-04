@@ -1,0 +1,24 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+PIPING. (§ 57.45.04)
+
+  PIPING.	A.	shall be seamless type K or L (ASTM B-88) copper tubing or
+standard weight (Schedule 40) brass pipe. Gas piping shall not be supported by
+other piping but shall be supported with pipe hooks, metal pipe straps, bands,
+or hangars all of which shall be of proper strength and quality and suitable for
+the pipe size. Supports for medical gas piping shall be installed to preclude
+accidental movement from the installed position and shall be positioned at the
+following maximum intervals:3/8 in. or 1/2 in. piping	6 ft.
+3/4 in. or 1 in. piping	8 ft.
+1-1/4 in. or larger piping (horizontal)	10 ft.
+1-1/4 in. or larger piping (vertical)	every floor level	B.	Medical gas piping
+installed in combustible partitions shall be within approved pipe or conduit to
+protect against physical damage.  Openings for piping installed in concealed
+spaces shall be fire-stopped with construction having a fire resistance equal to
+or greater than the original construction.	C.	All joints in the piping shall be
+made with silver brazing or other alloy exhibiting a melting temperature in
+excess of 1000° F. to retain the integrity of the piping
+system.	EXCEPTIONS:	1.	Approved brass flared type gas tube fittings.	2.	Joints
+at valves or at equipment requiring threaded connections.	The use of flux is
+prohibited in all instances except those requiring the joining of copper and
+brass or other dissimilar metals.

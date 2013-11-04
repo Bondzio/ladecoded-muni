@@ -1,0 +1,857 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+REGISTRATION. (§ 45.19.6.2)
+
+  REGISTRATION.
+	(Added by Ord. No. 181,069, Eff. 3/14/10*.)*Note: See Sec. 3 of this ordinance,
+as clarified by Sec. 10 of Ord. No. 181,157, regarding the effective
+date.	A.	Required.  No collective shall operate until after it has filed a
+registration form in accordance with the provisions of this article, has paid
+any adopted registration fees, and its registration has been accepted as
+complete by the Department of Building and Safety.	B.	Maximum Number of
+Collectives.	1.	The maximum number of collectives in the City shall be capped at
+70.  However, there may be fewer than 70 collectives if sufficient locations do
+not exist consistent with Section 45.19.6.3 A.2. of this article for 70
+collectives.  To the fullest extent that locations consistent with Section
+45.19.6.3 A.2. of this article exist, the 70 collectives shall be proportionally
+distributed by Community Plan Area, based on each Community Plan Area’s
+percentage share of the City’s total Community Plan Area population, as
+estimated by the Department of City Planning as of October 1, 2008, as shown on
+Table 1, below:
+  
+    
+      
+        TABLE 1
+      
+    
+    
+      
+        Community Plan Area (“CPA”)
+      
+      
+        Population
+      
+      
+        Pct of Total
+      
+      
+        # of MMCs
+      
+    
+    
+      
+        Arleta – Pacoima
+      
+      
+        105,238
+      
+      
+        2.63%
+      
+      
+        2
+      
+    
+    
+      
+        Bel Air – Beverly Crest
+      
+      
+        21,659
+      
+      
+        0.54%
+      
+      
+        0
+      
+    
+    
+      
+        Boyle Heights
+      
+      
+        92,626
+      
+      
+        2.31%
+      
+      
+        2
+      
+    
+    
+      
+        Brentwood – Pacific Palisades
+      
+      
+        57,513
+      
+      
+        1.44%
+      
+      
+        1
+      
+    
+    
+      
+        Canoga Park – West Hills – Winnetka – Woodland Hills
+      
+      
+        185,670
+      
+      
+        4.64%
+      
+      
+        3
+      
+    
+    
+      
+        Central City
+      
+      
+        31,900
+      
+      
+        0.80%
+      
+      
+        0
+      
+    
+    
+      
+        Central City North
+      
+      
+        32,835
+      
+      
+        0.82%
+      
+      
+        1
+      
+    
+    
+      
+        Chatsworth – Porter Ranch
+      
+      
+        96,251
+      
+      
+        2.40%
+      
+      
+        2
+      
+    
+    
+      
+        Encino – Tarzana
+      
+      
+        74,820
+      
+      
+        1.87%
+      
+      
+        1
+      
+    
+    
+      
+        Granada Hills – Knollwood
+      
+      
+        60,843
+      
+      
+        1.52%
+      
+      
+        1
+      
+    
+    
+      
+        Harbor Gateway
+      
+      
+        42,075
+      
+      
+        1.05%
+      
+      
+        1
+      
+    
+    
+      
+        Hollywood
+      
+      
+        226,137
+      
+      
+        5.65%
+      
+      
+        4
+      
+    
+    
+      
+        Mission Hills – North Hills – Panorama City
+      
+      
+        145,551
+      
+      
+        3.64%
+      
+      
+        3
+      
+    
+    
+      
+        North Hollywood – Valley Village
+      
+      
+        149,245
+      
+      
+        3.73%
+      
+      
+        3
+      
+    
+    
+      
+        Northeast Los Angeles
+      
+      
+        258,188
+      
+      
+        6.45%
+      
+      
+        5
+      
+    
+    
+      
+        Northridge
+      
+      
+        67,415
+      
+      
+        1.68%
+      
+      
+        1
+      
+    
+    
+      
+        Palms- Mar Vista – Del Rey
+      
+      
+        122,666
+      
+      
+        3.06%
+      
+      
+        2
+      
+    
+    
+      
+        Reseda – West Van Nuys
+      
+      
+        106,125
+      
+      
+        2.65%
+      
+      
+        2
+      
+    
+    
+      
+        San Pedro
+      
+      
+        81,921
+      
+      
+        2.05%
+      
+      
+        1
+      
+    
+    
+      
+        Sherman Oaks – Studio City – Toluca Lake – Cahuenga Pass
+      
+      
+        79,028
+      
+      
+        1.97%
+      
+      
+        1
+      
+    
+    
+      
+        Silverlake – Echo Park
+      
+      
+        82,008
+      
+      
+        2.05%
+      
+      
+        1
+      
+    
+    
+      
+        South Los Angeles
+      
+      
+        275,400
+      
+      
+        6.88%
+      
+      
+        5
+      
+    
+    
+      
+        Southeast Los Angeles
+      
+      
+        274,583
+      
+      
+        6.86%
+      
+      
+        5
+      
+    
+    
+      
+        Sun Valley – La Tuna Canyon
+      
+      
+        93,228
+      
+      
+        2.33%
+      
+      
+        2
+      
+    
+    
+      
+        Sunland – Tujunga – Lakeview Terrace – Shadow Hills – East La
+Tuna Canyon
+      
+      
+        62,644
+      
+      
+        1.56%
+      
+      
+        1
+      
+    
+    
+      
+        Sylmar
+      
+      
+        79,741
+      
+      
+        1.99%
+      
+      
+        1
+      
+    
+    
+      
+        Van Nuys – North Sherman Oaks
+      
+      
+        168,987
+      
+      
+        4.22%
+      
+      
+        3
+      
+    
+    
+      
+        Venice
+      
+      
+        40,943
+      
+      
+        1.02%
+      
+      
+        1
+      
+    
+    
+      
+        West Adams – Baldwin Hills- Leimert Park
+      
+      
+        182,584
+      
+      
+        4.56%
+      
+      
+        3
+      
+    
+    
+      
+        West Los Angeles
+      
+      
+        77,012
+      
+      
+        1.92%
+      
+      
+        1
+      
+    
+    
+      
+        Westchester – Playa Del Rey
+      
+      
+        54,441
+      
+      
+        1.36%
+      
+      
+        1
+      
+    
+    
+      
+        Westlake
+      
+      
+        120,476
+      
+      
+        3.01%
+      
+      
+        2
+      
+    
+    
+      
+        Westwood
+      
+      
+        53,491
+      
+      
+        1.34%
+      
+      
+        1
+      
+    
+    
+      
+        Wilmington – Harbor City
+      
+      
+        80,991
+      
+      
+        2.02%
+      
+      
+        1
+      
+    
+    
+      
+        Wilshire
+      
+      
+        317,248
+      
+      
+        7.92%
+      
+      
+        6
+      
+    
+    
+      
+        Total CPA Population as of Oct. 1, 2008
+      
+      
+        4,001,483
+      
+      
+        100%
+      
+      
+        70
+      
+    
+  
+	2.	Notwithstanding the maximum number of collectives described above, every
+medical marijuana collective, dispensary, operator, establishment, or provider
+that (1) was operating in the City on or before September 14, 2007, as proven
+through three or more of the following dated records in existence in the name of
+the collective or one of its current owners for the collective’s location as
+of September 14, 2007: (a)  City of Los Angeles tax registration certificate,
+(b) State Board of Equalization seller’s permit, (c) property lease, (d)
+business insurance, (e) collective membership forms, and (f) bill issued by a
+utility, and one of which must be a City of Los Angeles tax registration
+certificate, a State Board of Equalization’s seller’s permit, or a utility
+bill; (2) proves through documentary evidence that it has operated continuously
+at its September 14, 2007 location, except that its continuous operation may
+have been disrupted by one move of location as a result of an enforcement letter
+from a federal governmental entity or by closure as a result of an enforcement
+letter from the City; (3) proves through documentary evidence that it has been
+continuously owned, in whole or in part, by at least one of its owners since
+September 14, 2007, or, as confirmed through documentary evidence, meets all of
+the following: (a) registered as a California non-profit corporation prior to
+the June 7, 2010 effective date of this article, (b) has been in good standing
+at all times since its incorporation, and (c) its chief executive officer,
+secretary, or chief financial officer identified in its Statement of
+Information, as filed most recently with the California Secretary of State prior
+to the June 7, 2010 effective date of this article, was one of its owners as of
+September 14, 2007; (4) has not been cited for a nuisance or public safety
+violation of State or local law; and (5) complies currently or identifies to the
+City during the preinspection process a new operating location that meets all of
+the distance requirements of Section 45.19.6.3 A.2. of this article, may be
+eligible to register and operate if it immediately complies with all provisions
+of State Law, is assigned a priority order pursuant to the City Clerk’s
+drawing in accordance with Section 45.19.6.2 C.1., satisfies all preinspection
+and registration requirements of this article, and within 540 days after the
+June 7, 2010 effective date of this article completes its compliance in full
+with each provision of this article.  (First Sentence Amended by Ord. No.
+181,530, Eff. 1/28/11.)  Any collectives allowed to register and operate in
+excess of 70 shall also be proportionally distributed by Community Plan Area,
+based on each Community Plan Area’s percentage share of the City’s total
+Community Plan Area population, as estimated by the Department of City Planning
+as of October 1, 2008 on Table 1, above.  In determining the number of
+collectives allowed in each Community Plan Area, the Department of City Planning
+shall apply these percentages to the total number of collectives that file their
+intent to register with the City Clerk pursuant to Subsection C.1., below. 
+(Amended by Ord. No. 181,704, Eff. 5/13/11.)	3.	The total population of the
+City, the population of the Community Plan Areas, and whether the citywide and
+Community Plan Area caps meet the needs of qualified patients, persons with
+identification cards, and their primary caregivers may be reviewed and the caps
+may be amended by ordinance after notice and hearing by the City Council. 
+Nothing contained in this article shall be interpreted or deemed to grant or
+guarantee to any collective, including but not limited to those that meet the
+requirements set forth in Section 45.19.6.2 B.2. and those granted a priority
+order pursuant to Section 45.19.6.2 C., the ability to find a location in the
+Community Plan Area of its choice or within the City more generally that
+complies with the preinspection requirements set forth in Section 45.19.6.3
+since the requirements for each collective, including, but not limited to its
+address and square footage, as well as its ability to find a willing lessor and
+to pay rent, are attributes unique to each collective and are beyond the control
+of the City.  (Amended by Ord. No. 181,530, Eff. 1/28/11.)	C.	Priority
+Order.	1.	All collectives that meet the requirements set forth in Paragraph 2.
+of Subsection B. above, including but not limited to those collectives that
+submitted their notice of intention to register and paid all required fees under
+this article in June 2010, shall: (a) personally deliver to the Office of the
+City Clerk no earlier than ten business days and no later than fifteen business
+days after the effective date of this Temporary Urgency Ordinance: (1) notice of
+their intention to register under this article, and (2) all required and
+additionally offered documents, including such forms as may be prescribed by the
+City Clerk, each under penalty of perjury, that prove that the collective
+satisfies each of the provisions of Paragraph 2. of Subsection B., and (b) pay a
+fee of $324.00 to the City Clerk and a fee of $151.00 to the Los Angeles Police
+Department for each owner and/or member engaged in the management, in order to
+continue to be considered for preinspection pursuant to Subsection D., below. 
+However, no collective may file their notice of intent with the City Clerk or
+continue to be considered for preinspection if one or more of its owners or
+members engaged in its management were convicted currently or within the
+previous ten years of a felony or a crime of moral turpitude, or are currently
+on parole or probation for the sale or distribution of a controlled substance. 
+A collective that fully and timely registered with the City under Interim
+Control Ordinance No. 179,027, as determined by the City Clerk or the Los
+Angeles Superior Court, shall be deemed to have satisfied both the operating
+date of September 14, 2007 and the provision of the documents required by
+subparagraph (1) of Paragraph 2. of Subsection B., and shall not resubmit those
+documents.  A collective that fully and timely submitted its notice of
+intention to register and paid all required fees under this article in June 2010
+shall be deemed to have satisfied the requirements of this paragraph for payment
+of fees, and shall not repay those fees.  As soon as practical after receipt of
+all notices of intent to register, the City Clerk shall notify each collective,
+by mail to the collective’s location and by posting on the website of the City
+Clerk, whether it has satisfied all requirements of Sections 45.19.6.2 B.2 and
+45.19.6.2 C.1 and is therefore eligible or ineligible to continue to be
+considered for preinspection and registration, and shall hold a drawing of all
+eligible collectives for the purpose of selecting those collectives that shall
+proceed to preinspection.  The names of the eligible collectives shall be
+drawn, up to a maximum of 100 names, and only these collectives shall proceed to
+preinspection by the Department of Building and Safety in the priority order in
+which their names were drawn by the City Clerk.  Eligible collectives whose
+names are not selected may not start the preinspection and registration process,
+but may enter any future drawing conducted in accordance with Subsection C.2.,
+below.  (Amended by Ord. No. 181,530, Eff. 1/28/11.)	The City Clerk’s
+determinations of eligibility, ineligibility, and priority order pursuant to
+this Temporary Urgency Ordinance shall be final and shall be based exclusively
+on the required forms and documentary proof submitted under penalty of perjury
+by the collective pursuant to this section, and upon such other government or
+utility records as may be obtained by the City Clerk that support or contradict
+the documents submitted by the collective.  Any collective that disputes the
+City Clerk’s decision that it is ineligible to continue to be considered for
+preinspection and registration shall personally deliver its notice of challenge
+to the City Clerk within five business days after the date on which the City
+Clerk posted its determination of the collective’s ineligibility on its
+website.  Late challenges will not be accepted.  The notice of challenge must
+be signed under penalty of perjury by the collective.  The names of all
+collectives who submit such challenges shall be provisionally added to the names
+of eligible collectives for the initial drawing of 100 collective names by the
+City Clerk.  If at any time thereafter a court agrees with the City Clerk’s
+original determination of ineligibility of the collective, the collective shall
+be removed from any and all City priority order and preinspection lists, shall
+be disqualified from all further participation in the original and any
+subsequent drawings, priority order, preinspection, and registration processes
+for those collectives determined to be eligible under this subsection, and shall
+immediately cease operation pursuant to Section 45.19.6.7.  (Amended by Ord.
+No. 181,530, Eff. 1/28/11.)	2.	If at any time after 540 days following the June
+7, 2010 effective date of this article, the total number of registered
+collectives in the City falls below 70, the City Clerk shall hold, at such time
+as the City Clerk determines in its sole discretion, additional drawings for the
+purpose of determining the priority order in which the Department of Building
+and Safety will consider preinspection and registration of additional
+collectives.  Each such drawing shall select the number of collective names for
+preinspection that would bring the total number of registered collectives in the
+City to 70, and shall select only from the names of eligible collectives that
+were not previously drawn pursuant to Subsection C.1. above, until all such
+eligible collective names have been drawn.  Once all of the eligible collective
+names have been drawn, any collective that notifies the City Clerk within one
+week after the publication of the date of a priority drawing and pays a fee of
+$50.00 to the City Clerk and a fee of $151.00 to the Los Angeles Police
+Department for each owner and/or member engaged in the management shall be
+eligible to participate in the drawings.  However, no collective may
+participate in a drawing if one or more of its owners or members engaged in its
+management were convicted currently or within the previous 10 years of a felony
+or a crime of moral turpitude, or are currently on parole or probation for the
+sale or distribution of a controlled substance.  (Amended by Ord. No. 181,704,
+Eff. 5/13/11.)	The City Clerk shall: create the entry form for participation in
+the drawings; set the deadline for submittal of all entry forms; establish and
+publish the drawings’ dates, times, and places; publish the results of all
+drawings; and have the authority to promulgate additional drawing rules and
+regulations.  All such rules and regulations shall be published once in a daily
+newspaper of general circulation in the City, and shall take effect upon
+publication.  A member engaged in the management of the collective must be
+present at a drawing in order for the collective to participate.	The order
+established by the City Clerk in the drawing shall be used by the Department of
+Building and Safety to determine the order in which the Department of Building
+and Safety will conduct preinspections pursuant to Subsection D., below, of the
+collectives that are eligible to register pursuant to this
+subdivision.	D.	Preinspection.  A collective that is eligible  to apply for
+preinspection pursuant to Subsections B. or C., above, may thereafter apply to
+the Department of Building and Safety for  preinspection to verify compliance
+with the standards set forth in Section 45.19.6.3 A. of this article.  The
+collective shall provide the address of the proposed collective location; the
+name, telephone number, and address of a person authorized to accept service of
+process for the collective; the name(s), telephone number(s), and address(es) of
+each member engaged in the management of the collective; and a 1,000-foot radius
+map signed by a licensed civil engineer, architect or land surveyor, that
+locates and identifies all sensitive uses set forth in Section 45.19.6.3 A.2. of
+this article.  A preinspection fee pursuant to Section 91.107.3.2 of this Code,
+plus a research fee for a minimum of three hours of time pursuant to Section
+98.0415(f) of this Code, and a registration fee of $688.00 plus any applicable
+surcharges, shall be paid to the Department of Building and Safety at the time
+of a request for preinspection.  The Department of Building and Safety shall
+proceed by priority order within each Community Plan Area to evaluate the
+compliance of the proposed collectives with the requirements of Section
+45.19.6.3 A. of this article. Once the Department of Building and Safety has
+determined that the maximum number of collectives authorized by Subsection B. of
+this section complies, the Department of Building and Safety shall stop
+determining the compliance of more collectives.  Any collective not in
+compliance with the requirements of Section 45.19.6.3 A. of this article, as
+determined by the Department of Building and Safety, or not considered for
+compliance because the cap had already been met, shall be notified by the
+Department of Building and Safety that it is disqualified from the preinspection
+and registration process and that it may enter any future drawing conducted in
+accordance with Subsection C., above.  (Amended by Ord. No. 181,157, Eff.
+6/7/10.)	E.	Notice of Preinspection.  Prior to accepting a request for
+preinspection, the Department of Building and Safety shall require proof that
+the collective has provided written notice to the Police Department, all
+property owners and occupants within and outside the City that are within 1,000
+feet of the exterior boundaries of the location, and to the City Council member
+of the district in which the collective is proposed to be located, the Certified
+Neighborhood Council, and any Business Improvement District (“BID”)
+representing the area in which the collective is located, of: the preinspection
+request; the proposed location of the collective; the name, telephone number,
+and address of a person authorized to accept service of process for the
+collective; the name(s), telephone number(s), and address(es) of each member
+engaged in the management of the collective; and the onsite telephone number at
+the collective and the name of the member engaged in the management of the
+collective who is responsible for receiving, logging, and responding to
+complaints regarding the collective.  This notification shall be sent by
+certified mail, postage prepaid, and return receipt requested.  Notices to
+property owners shall be sent to the last known name and address as shown on the
+records of the City Engineer or the records of the County Assessor; notices to
+occupants of all residential, commercial and industrial property can be mailed
+to “occupant”.  Proof of mailing shall be established if the collective
+files an affidavit of mailing with the Department of Building and Safety
+certifying the date on which the notice was sent, a copy of the notice, and a
+complete list of the names and addresses where the notice was sent.  (Amended
+by Ord. No. 181,595, Eff. 4/10/11.)	F.	Registration Form.  (Amended by Ord. No.
+181,157, Eff. 6/7/10.)  Upon receipt of a Department of Building and Safety
+pre-inspection report verifying compliance with the standards set forth in
+Section 45.19.6.3 A. of this Article, the collective shall file a registration
+form with the Department of Building and Safety.  The registration form shall
+require the following accurate and truthful information:  the address and
+physical description (e.g., one-story commercial building, etc.) of the proposed
+location at and upon which the collective will be located; the name, telephone
+number, and address of a person authorized to accept service of process for the
+collective; the name(s), telephone number(s), and address(es) of each member
+engaged in the management of the collective; the onsite telephone number at the
+collective and the name of the member engaged in the management of the
+collective who is responsible for receiving, logging, and responding to
+complaints regarding the collective; and any other information reasonably
+required to show that the collective complies with this Article.  In addition,
+the registration form shall confirm the consent by the collective, without
+requirement for a search warrant, subpoena or court order, for the inspection
+and copying by the Police Department of the recordings and records required to
+be maintained under Sections 45.19.6.3, 45.19.6.4, and 45.19.6.5 of this
+Article, except that private medical records shall be made available by the
+collective to the Police Department only pursuant to a properly executed search
+warrant, subpoena, or court order.	The collective shall file an updated
+registration form quarterly, but only if there were changes during the previous
+quarter to any of the information provided in the initial registration form or
+any change in status of compliance with the regulations set forth in Section
+45.19.6.3 of this Article.  Each updated registration form shall be accompanied
+by a fee of $140.00 plus any applicable surcharges.  If an enforcement action
+has been filed against the collective for any violation of this Article, the
+updated registration form shall include the names of all of the members of the
+collective.  A change of location cannot be accomplished by an updated
+registration form, but shall instead require a new pre-inspection and
+registration.  Each and every member who is engaged in the management of the
+collective shall print his or her name and sign the initial registration form
+and any subsequent updated registration form, under penalty of perjury
+certifying that all information contained in the registration form is true and
+correct.  It shall be the sole responsibility of the members engaged in the
+management of the collective to ensure that all forms and documents are
+submitted as required by this Article and that the information provided is
+accurate, complete and timely submitted.  A collective cannot operate under an
+updated registration until the updated registration has been filed with the
+Department of Building and Safety and the appropriate fee has been
+paid.	G.	Additional Registration Documents.  As attachments to the original and
+any subsequently updated registration form, the collective shall provide to the
+Department of Building and Safety:  (1) proof that the property owner of the
+location, and landlord if applicable, was given written notice sent by certified
+mail, postage prepaid, and return receipt requested that the collective intends
+to file the registration form and that the owner of the location, and landlord
+if applicable, has received a copy of the information contained in the
+registration form; (2) for each member engaged in the management of the
+collective, a fully legible copy of one government-issued form of
+identification, such as a social security card, a state driver’s license or
+identification card, or a passport; and (3) the collective’s Certificate of
+Occupancy within 10 days of issuance.	H.	Registration Timetables.  All
+collectives that meet the requirements described in Subsection B., above, shall
+comply with the following timetable:  (1) they shall notify the City Clerk of
+their intent to register under this article within one week after the effective
+date of this ordinance; (2) they shall complete their preinspection obligations
+under Subsections D. and E., above, within thirty (30) days after receiving
+priority under Subsection C., above, to apply for preinspection; and (3) they
+shall comply in full with all registration and other provisions of this article
+within 540 days after the effective date of this ordinance.  All other
+collectives shall comply with the following timetable:  (1) they shall notify
+the City Clerk of their intent to register under this article within one week
+after the publication by the City Clerk of the date of a priority drawing that
+will be conducted because the total number of registered collectives in the City
+has fallen below 70; and (2) they shall complete their preinspection obligations
+under Subsections D. and E., above, within thirty (30) days after receiving
+priority order under Subsection C., above, to apply for preinspection; and (3)
+they shall comply in full with all registration and other provisions of this
+article within 180 days after the publication by the City Clerk of the date of a
+priority drawing that will be conducted because the total number of registered
+collectives in the City has fallen below 70.  A collective that does not comply
+with its applicable timetable shall be disqualified from further participation
+in the registration process.  (Amended by Ord. No. 181,704, Eff. 5/13/11.)	For
+the purposes of this subsection, a collective shall be in compliance with
+Section 45.19.6.3 A. of this article if it has obtained all required building
+permit(s) and the permit(s) is valid and has not been expired by the Department
+of Building and Safety pursuant to the provisions of Section 98.0602 of the
+Code.  Notwithstanding the provisions of Section 12.26 A.3. of the Code, the
+submission of plans sufficient for a complete plan check and the payment of a
+fee shall not confer a vested right to establish a collective.  The provisions
+of Section 91.106.4.3.1 of this Code shall apply to any building permit issued
+for a collective.	I.	Completed Registration.  The Department of Building and
+Safety, after verification that all required fees have been paid, shall mail
+proof of a completed registration and any subsequent updated registration to the
+person authorized to accept service of process on behalf of the collective, to
+the owner of the location, the City Council member of the district in which the
+collective is located, the Certified Neighborhood Council, and to any applicable
+Business Improvement District (“BID”) in which the collective is
+located.	J.	Term of Registration/Renewal.  Each registration shall expire two
+years from the date the Department of Building and Safety mails proof of the
+completed registration to the person authorized to accept service of process on
+behalf of the collective.  A collective that has operated at all times in
+strict compliance with this article may seek to renew its registration 90 days
+prior to the registration’s expiration.  The process for renewal of the
+registration shall be the same as the process for the original registration as
+set forth in this section except that any and all applicable 360-day deadlines
+to comply shall be reduced to 90 days to comply.  Upon registration expiration
+without renewal, the collective shall cease all operations.  (Amended by Ord.
+No. 181,530, Eff. 1/28/11.)	K.	Registration Null and Void.  A registration
+accepted as complete under this article shall become null and void upon the
+cessation of marijuana cultivation at the location for 90 days or longer, upon
+the relocation of the collective to a different location, upon conviction of the
+collective or any of its members for a violation of a provision of this article,
+or two years after the issuance of the registration as set forth in Subsection
+I., above, if not renewed.  (Amended by Ord. No. 181,530, Eff. 1/28/11.)	L.	No
+Vested or Nonconforming Rights.  No registration or building permit issued
+pursuant to this article shall confer vested or nonconforming rights upon
+anyone, including but not limited to the collective, its owners, its management,
+its members, or the property owner of its location, to the continued operation
+of a collective at the location at any time after the expiration of the
+registration of the collective.  (Added by Ord. No. 181,530, Eff. 1/28/11.)

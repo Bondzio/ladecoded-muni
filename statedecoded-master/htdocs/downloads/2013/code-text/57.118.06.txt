@@ -1,0 +1,21 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FIRE PROTECTIVE SIGNALING SYSTEM. (§ 57.118.06)
+
+  FIRE PROTECTIVE SIGNALING SYSTEM.	A.	A dependable method of sounding an alarm
+of fire throughout the building shall be provided in accordance with the
+requirements in Division 122 of this article. Manual pull stations shall be
+located in the corridor on each building level adjacent to stairshafts, at the
+roof adjacent to the exterior door of each stairshaft, and at each elevator
+lobby.  Sounding devices shall be clearly audible throughout the building or on
+the floor of actuation with the capability of sounding a general alarm
+throughout the building by manual means from the building control station. Bells
+or a building communication system may be used as a sounding device. 
+Installation, alteration, and major repair of fire protective signaling systems
+shall be performed under Permit of the Department of Building and Safety
+(Electrical Division).	B.	The actuation of any fire alarm initiating device
+shall cause all audible alarm devices to sound throughout the floor of
+actuation.  Fire alarm initiating devices shall include, but not be limited to,
+the following:	1.	Manual pull stations.	2.	Fire sprinkler flow
+switches.	3.	Elevator recall/elevator smoke detectors.	4.	Area smoke and/or heat
+detectors.	5.	Building air-handling (HVAC) smoke detectors.

@@ -1,0 +1,47 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+REQUIRED INFORMATION ON PLANS. (§ 91.9307)
+
+  REQUIRED INFORMATION ON PLANS.
+	(Added by Ord. No. 172,018, Eff. 5/21/98.)91.9307.1.  General.  The plans
+shall show all necessary dimensions and materials for plan review and
+construction and shall accurately reflect the results of the engineering
+investigation and design.91.9307.2.  Existing Construction.  The plans shall
+show the existing diaphragm and shear wall sheathing and framing materials,
+fastener type and spacing, diaphragm and shear wall connections, continuity
+ties, and collector elements. The plans shall also show the portion of the
+existing materials that needs verification during construction.91.9307.3.  New
+Construction.91.9307.3.1.  Foundation Plan Elements.  The foundation plan
+shall include the size, type, location and spacing of all anchor bolts with the
+required depth of embedment, edge and end distance; the location and size of all
+columns for braced or moment frames; referenced details for the connection of
+braced or moment frames to their footing and referenced sections for any grade
+beams and footings.91.9307.3.2.  Framing Plan Elements.  The framing plan
+shall include the width, location and material of shear walls; the width,
+location and material of frames; references on details for the column to beam
+connectors, beam to wall connections, and shear transfers at floor and roof
+diaphragms; and the required nailing and length for wall top plate
+splices.91.9307.3.3.  Shear Wall Schedule, Notes and Details.  Shear walls
+shall have a referenced schedule on the plans that includes the correct shear
+wall capacity in pounds per foot; the required fastener type, length, gauge and
+head size; and a complete specification for the sheathing material and its
+thickness.  The schedule shall also show the required location of 3 inch
+nominal or two 2 inch nominal edge members; the spacing of shear transfer
+elements such as framing anchors or added sill plate nails; the required
+hold-down with its bolt, screw or nail sizes; and the dimensions, lumber grade
+and species of the attached framing member.	Notes shall show required edge
+distance for fasteners on structural wood panels and framing members; required
+flush nailing at the plywood surface; limits of mechanical penetrations; and the
+sill plate material assumed in the design.  The limits of mechanical
+penetrations shall also be detailed showing the maximum notching and drilled
+hole sizes.91.9307.3.4 General Notes.  General notes shall show the
+requirements for material testing, special inspection, structural observation
+and the proper installation of newly added materials.91.9307.3.5.  Engineer’s
+or Architect’s Statement.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  The responsible engineer or architect shall provide the following
+statements on the approved plans:	1.	“I am responsible for designing this
+building’s seismic strengthening in compliance with the minimum regulations of
+Division 93 of the Los Angeles Building Code.”	and when applicable:	2.	“The
+Registered Deputy Inspector, required as a condition of the use of structural
+design stresses requiring continuous inspection, will be responsible to me as
+required by Section 91.1704 of the Los Angeles Building Code.”

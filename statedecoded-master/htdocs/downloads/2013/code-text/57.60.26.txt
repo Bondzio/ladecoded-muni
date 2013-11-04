@@ -1,0 +1,14 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CLOSED HEAT TRANSFER SYSTEMS. (§ 57.60.26)
+
+  CLOSED HEAT TRANSFER SYSTEMS.	A.	Piping systems employed for the conducting
+of molten solids for the purpose of transfer of heat by conduction or radiation
+shall be approved by the Chief.	B.	Piping shall be fabricated of material having
+sufficient strength to withstand all pressure to which it may be subjected and
+shall readily conduct and dissipate heat.	C.	Piping shall not fatigue, distort
+or rupture under conditions of sustained pressure and prolonged heat.	D.	Closed
+piping systems connected to positive displacement pumps, or which may otherwise
+be subject to excessive pressure shall be provided with automatic by-pass valves
+and relief vents.  Such vents shall be set to operate at 125 percent of the
+working pressure and shall terminate at safe locations outside.

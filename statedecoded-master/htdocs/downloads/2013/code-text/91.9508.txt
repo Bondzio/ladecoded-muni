@@ -1,0 +1,63 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CRITERIA SELECTION. (§ 91.9508)
+
+  CRITERIA SELECTION.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)91.9508.1.  Basis for Analysis. 
+The building shall be analyzed to determine the displacements caused by inertial
+force effects determined in accordance with the dynamic lateral analysis
+procedure of Section 91.9509.  The building structural system shall provide a
+complete load path for resisting the effects of seismic loading.  The capacity
+of all parts of the structural system shall exceed the demand calculated by the
+dynamic analysis using the effective stiffnesses determined by a nonlinear
+analysis of the elements.	EXCEPTION:  Buildings conforming to the requirements
+of Sections 91.9508.4.2 and 91.9508.4.3 may be analyzed using the procedure
+specified in Sections 91.9510 and 91.9511, respectively.91.9508.2.  Site
+Geology and Soil Characteristics.  (Amended by Ord. No. 179,324, Eff. 12/10/07,
+Oper. 1/1/08.)  In the absence of a soils investigation, the soil site class
+shall be taken as Type D.91.9508.3.  Configuration Requirements.91.9508.3.1. 
+General.  Each structure shall be designated as structurally regular or
+irregular.91.9508.3.2.  Regular Structures.  Regular structures have no
+significant physical discontinuities in plan or vertical configuration or in
+their lateral force-resisting systems such as the irregular features described
+below.91.9508.3.  Configuration Requirements.91.9508.3.1.  General.  Each
+structure shall be designated as structurally regular or
+irregular.91.9508.3.2.  Regular Structures.  Regular structures have no
+significant physical discontinuities in plan or vertical configuration or in
+their lateral force-resisting systems such as the irregular features described
+below.91.9508.3.3.  Irregular Structures.  (Amended by Ord. No. 179,324, Eff.
+12/10/07, Oper. 1/1/08.)91.9508.3.3.1.  Irregular structures have significant
+physical discontinuities in configuration or in their lateral force- resisting
+systems.  Irregular features include, but are not limited to, those described
+in Tables 12.3-1 and 12.3-2 of ASCE 7.91.9508.3.3.2.  Structures having one or
+more of the features listed in Table 12.3-2 of ASCE 7 shall be designated as
+having a vertical irregularity.	EXCEPTION:  Where none of the story drift
+ratios under equivalent lateral forces is greater than 1.3 times the story drift
+ratio of the story above, the structure may be deemed to not have the structural
+irregularities of Type 1 or 2 listed in Table 12.3-2 of ASCE 7.  The story
+drift for this determination shall be calculated including torsional
+effects.91.9508.3.3.3.  Structures having one or more of the features listed in
+Table 12.3-1 of ASCE 7 shall be designated as having a plan
+irregularity.91.9508.3.3.4.  Irregular structures conforming to the
+requirements of LAMC Sections 91.9508.4 and 91.9511 may be considered regular if
+the plan and vertical irregularities are removed by the addition of lateral load
+resisting systems.91.9508.4.  Selection of Lateral Analysis
+Procedure.91.9508.4.1.  General.  Any structure may be analyzed using the
+dynamic lateral analysis procedures of Section 91.9509.  The equivalent lateral
+force procedure or the simplified analysis may be used for structures conforming
+to the requirements on the use of those analyses.91.9508.4.2.  Equivalent
+Lateral Force.  The equivalent lateral force procedure of Section 91.9510 may
+be used for regular structures or irregular structures having plan irregularity
+only of not more than four stories.91.9508.4.3.  Simplified Analysis.  Regular
+structures of not more than four stories conforming to the requirements of
+Section 91.9511 may be analyzed for a prescribed strength of their systems and
+elements.91.9508.5.  Alternative Procedures.91.9508.5.1.  General. 
+Alternative lateral analysis procedures using rational analyses based on
+well-established principles of mechanics may be used in lieu of those prescribed
+in this division when approved by the Superintendent of Building.91.9508.5.2. 
+Seismic Isolation.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  Seismic isolation (using Chapter 17 of ASCE 7, Seismic Design
+Requirements For Seismically Isolated Structures), energy dissipation and
+damping systems may be used to reduce story drift when approved by the
+Superintendent of Building.  The isolated structure shall comply with the drift
+requirements of LAMC Section 91.9509.

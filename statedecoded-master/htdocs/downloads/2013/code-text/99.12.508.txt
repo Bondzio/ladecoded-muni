@@ -1,0 +1,3004 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CITY OF LOS ANGELES CHECKLIST FOR NEWLY- CONSTRUCTED NONRESIDENTIAL AND
+HIGH-RISE RESIDENTIAL BUILDINGS. (§ 99.12.508)
+
+  CITY OF LOS ANGELES CHECKLIST FOR NEWLY- CONSTRUCTED NONRESIDENTIAL AND
+HIGH-RISE RESIDENTIAL BUILDINGS.{Click here for a PDF version of this table}  
+    
+      
+        Checklist for the City of Los Angeles
+      
+      
+        Mandator y
+      
+      
+        Voluntary
+      
+    
+    
+      
+        CalGreen
+        Tier 1
+      
+      
+        CalGreen
+        Tier 2
+      
+    
+    
+      
+        Requirements
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Project meets all of the requirements of Divisions 5.1 through 5.5.
+      
+      
+          X  
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        Planning and Design
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Site Selection
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.103.1  Community connectivity.  Locate project on a previously
+developed site within a 1/2 mile radius of at least ten basic services, listed
+in Section A5.103.1.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.103.2  Brownfield or greyfield site redevelopment or infill area
+development.  Select for development a brownfield in accordance with Section
+A5.103.2.1 or on a greyfield or infill site as defined in Section A5.102.
+        A5.103.3.1  Brownfield redevelopment.  Develop a site documented as
+contaminated and fully remediated or on a site defined as a brownfield.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        Site Preservation
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.104.1.1  Local zoning requirement in place.  Exceed the zoning’s
+open space requirement for vegetated open space on the site by 25 percent.
+        A5.104.1.2  No local zoning requirement in place.  Provide vegetated
+open space area adjacent to the building equal to the building footprint area.
+        A5.104.1.3  No open space required in zoning ordinance.  Provide
+vegetated open space equal to 20 percent of the total project site area.
+      
+      
+        
+      
+      
+              
+        
+        
+              
+        
+        
+              
+        
+      
+      
+              
+        
+        
+              
+        
+        
+              
+        
+      
+    
+    
+      
+        Deconstruction and Reuse of Existing Structures
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.105.1.1  Existing building structure. Maintain at least 75 percent
+of existing building structure (including structural floor and roof decking) and
+envelope (exterior skin and framing) based on surface area.
+          EXCEPTIONS:
+        	1.	Window assemblies and non-structural roofing material.
+         	2.	Hazardous materials that are remediated as a part of the project.
+        A5.105.1.2  Existing non-structural elements.  Reuse existing interior
+non-structural elements (interior walls, doors, floor coverings and ceiling
+systems) in at least 50 percent of the area of the completed building
+        A5.105.1.3  Salvage.  Salvage additional items in good condition such
+as light fixtures, plumbing fixtures, and doors for reuse on this project in an
+onsite storage area or for salvage in dedicated collection bins.  Document the
+weight or number of the items salvaged.
+      
+      
+        
+      
+      
+              
+        
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+        
+      
+      
+              
+        
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+        
+      
+    
+    
+      
+        Site Development
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.106.1  Storm water pollution prevention plan. For projects which
+disturb less than one acre, develop a Storm Water Pollution Prevention Plan
+(SWPPP) that has been designed, specific to its site, conforming to the State
+Storm water NPDES Construction Permit or local ordinance, whichever is stricter,
+as is required for projects over one acre. The plan should cover prevention of
+soil loss by storm water run-off and/or wind erosion, of sedimentation, and/or
+of dust/particulate matter air pollution.
+        A5.106.2  Storm water design.  Design storm water runoff rate and
+quantity in conformance with Section A5.106.3.1 and storm water runoff quality
+by Section A5.106.2.2, or by local requirements, whichever are stricter.
+        A5.106.2.1  Storm water runoff rate and quantity.  Implement a storm
+water management plan resulting in no net increase in rate and quantity of storm
+water runoff from existing to developed conditions.
+        EXCEPTION:  If the site is already greater than 50 percent impervious,
+implement a storm water management plan resulting in a 25 percent decrease in
+rate and quantity.
+        A5.106.2.2  Storm water runoff quality.  Use post construction
+treatment control best management practices (BMPs) to mitigate (infiltrate,
+filter, or treat) storm water runoff from the 85th percentile 24-hour runoff
+event (for volume-based BMPs) or the runoff produced by a rain event equal to
+two times the 85th percentile hourly intensity (for flow-based BMPs).
+      
+      
+        
+      
+      
+              
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+        
+        
+              
+        
+        
+        
+        
+        
+      
+      
+              
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+        
+        
+              
+        
+        
+        
+        
+        
+      
+    
+    
+      
+        A5.106.3  Low impact development (LID).  Reduce peak runoff in
+compliance with Section 5.106.3.1.  Employ at least two of the following
+methods or other best management practices to allow rainwater to soak into the
+ground, evaporate into the air, or collect in storage receptacles for irrigation
+or other beneficial uses.  LID strategies include, but are not limited to those
+listed in A5.106.4.
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.106.4  Bicycle parking and changing rooms.  Comply with Sections
+5.106.4.1 through 5.106.4.2; or meet local ordinance, whichever is stricter.
+        A5.106.4.1  Short-term bicycle parking.  If the project is anticipated
+to generate visitor traffic, provide permanently anchored bicycle racks within
+200 feet of the visitors’ entrance, readily visible to passers-by, for 5% of
+visitor motorized vehicle parking capacity, with a minimum of one two-bike
+capacity rack.
+        A5.106.4.2  Long-term bicycle parking.  For buildings with over ten
+tenant-occupants, provide secure bicycle parking for 5% of motorized vehicle
+parking capacity, with a minimum of one space.
+        A5.106.4.3  Changing rooms. Provide changing/shower facilities in
+accordance with Table 5.106.4.3, or document arrangements with nearby
+changing/shower facilities.
+      
+      
+          X  
+        
+        
+          X  
+        
+        
+        
+        
+          X  
+        
+        
+              
+        
+        
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+      
+    
+    
+      
+        A5.106.5.1  Designated parking.  Provide designated parking, by means
+of permanent marking or a sign,  for any combination of low-emitting,
+fuel-efficient, and carpool/van pool vehicles as shown in:
+          Table A5.106.5.1.1 for Tier 1 at ten percent of total spaces
+          Table A5.106.5.1.2 for Tier 2 at 12 percent of total spaces
+        A5.106.5.2  Designated parking.  Provide designated parking, by means
+of permanent marking or a sign, for any combination of low-emitting,
+fuel-efficient, and carpool/van pool vehicles as shown in Table 5.106.6.2.
+      
+      
+        
+        
+        
+          X  
+      
+      
+          X  
+        
+      
+      
+        
+          X  
+      
+    
+    
+      
+        A5.106.5.3.1  Electric vehicle supply wiring. Provide a minimum number
+of 208/240 V 40 amp, grounded AC outlet(s), that is equal to 5% of the total
+number of parking spaces.
+        A5.106.5.3.2  Additional Electric vehicle supply wiring.  Provide a
+minimum number of 208/240 V 40 amp, grounded AC outlet(s), that is equal to ten
+percent of the total number of parking spaces.
+      
+      
+          X  
+        
+        
+        
+        
+        
+      
+      
+        
+              
+      
+      
+        
+              
+      
+    
+    
+      
+        A5.106.6  Parking capacity.  Design parking capacity to meet but not
+exceed minimum local zoning requirements.
+        A5.106.6.1  Reduce parking capacity.  With the approval of the
+enforcement authority, employ strategies to reduce on-site parking area or
+number of stalls by 20 percent:
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.106.7  Exterior walls.  Meet requirements in the current edition of
+the California Energy Code and select one of the following for wall surfaces:
+          1.	Provide vegetative or man-made shading devices for east-, south-,
+and west-facing walls with windows.
+          2.	Use wall surfacing with SRI 25 (aged), for 75 percent of opaque
+wall areas.
+      
+      
+        
+        
+              
+        
+              
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.106.8  Light pollution reduction.  Comply with lighting power
+requirements in the California Energy Code and design interior and exterior
+lighting such that zero direct-beam illumination leaves the building site. 
+Meet or exceed exterior light levels and uniformity ratios for lighting zones
+1-4 as defined in Chapter 10 of the California Administrative Code, using the
+following strategies:
+          1.	Shield all exterior luminaires or use cutoff luminaires.
+          2.	Contain interior lighting within each source.
+          3.	Allow no more than .01 horizontal foot candle 15 ft beyond the
+site.
+          4.	Contain all exterior lighting within property boundaries.
+        	EXCEPTION:  See Los Angeles Building Code Division 12, for campus
+lighting requirements for parking facilities and walkways.
+      
+      
+          X  
+        
+        
+        
+        
+        
+          X  
+          X  
+          X  
+        
+          X  
+        
+        
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.106.9  Building orientation and window shading.  Locate and orient
+the building as follows:
+          1.	Long sides facing north and south
+          2.	Protect the building from thermal loss, drafts, and degradation of
+the building envelope caused by wind and wind-driven materials.
+          3.	Where permitted by Los Angeles Municipal Code, provide exterior
+shade for south and west-facing windows during the peak cooling season.
+      
+      
+        
+      
+      
+        
+              
+              
+        
+        
+              
+        
+      
+      
+              
+              
+        
+        
+              
+      
+    
+    
+      
+        A5.106.10  Grading and Paving.  The site shall be planned and
+developed to keep surface water away from buildings.  Construction plans shall
+indicate how site grading or a drainage system will manage all surface water
+flows.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.106.11  Heat island effect.  Reduce nonroof heat islands, and roof
+heat islands as follows:
+        A5.106.11.1  Hardscape alternatives.  Use one or a combination of
+strategies 1 through 3 for 50 percent of site hardscape or put 50 percent of
+parking underground.
+          1.	Provide shade (mature within five years of occupancy).
+          2.	Use light colored/ high-albedo materials
+          3.	Use open-grid pavement system.
+        A5.106.11.2  Cool Roof.  Use roofing materials having a solar
+reflectance, thermal emittance, or Solar Reflectance Index (SRI)3 equal to or
+greater than the values shown in:
+          Table A5.106.11.2.1 – Tier 1 or
+          Table A5.106.11.2.2 – Tier 2
+      
+      
+        
+      
+      
+              
+        
+        
+        
+        
+              
+              
+              
+        
+        
+        
+              
+              
+      
+      
+              
+        
+        
+        
+        
+              
+              
+              
+        
+        
+        
+        
+              
+      
+    
+    
+      
+        Energy Efficiency
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Performance Requirements
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.203.1  Energy performance.  Using an Alternative Calculation Method
+approved by the California Energy Commission, calculate each nonresidential
+building’s TDV energy and CO2 emissions, and compare it to the standard or
+“budget” building.
+        A5.203.1.1  Tier 1.  Exceed California Energy Code requirements, based
+on the 2008 Energy Efficiency Standards, by 15 percent.
+        A5.203.1.2  Tier 2.  Exceed California Energy Code requirements, based
+on the 2008 Energy Efficiency Standards, by 30 percent.
+        A5.203.1.3  Energy efficiency.  Exceed California Energy Code
+requirements, based on the 2008 Energy Efficiency Standards, by 15 percent.
+      
+      
+        
+        
+        
+        
+        
+        
+        
+          X  
+        6/01/11
+      
+      
+          X  
+        
+        
+      
+      
+        
+        
+          X  
+      
+    
+    
+      
+        Prescriptive Measures
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.204.1  ENERGY STAR equipment and appliances.  All equipment and
+appliances provided by the builder shall be ENERGY STAR labeled if ENERGY STAR
+is applicable to that equipment or appliance,
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.204.2  Energy monitoring.  Provide sub-metering or equivalent
+combinations of sensor measurements and thermodynamic calculations, if
+appropriate, to record energy use data for each major energy system in the
+building.
+        A5.204.2.1  Data storage. The data management system must be capable of
+electronically storing energy data and creating user reports showing hourly,
+daily, monthly and annual energy consumption for each major energy system.
+        A5.204.2.2  Data access. Hourly energy use data shall be accessible
+through a central data management system and must be available daily.
+      
+      
+        
+      
+      
+              
+        
+        
+        
+              
+        
+        
+        
+              
+        
+      
+      
+              
+        
+        
+        
+              
+        
+        
+        
+              
+        
+      
+    
+    
+      
+        A5.204.3  Demand response.  HVAC systems with Direct Digital Control
+Systems and centralized lighting systems shall include pre-programmed demand
+response strategies that are automated with either a Demand Response Automation
+Internet Software Client or dry contact relays.
+        A5.204.3.1  HVAC.  The pre-programmed demand response strategies
+should be capable of reducing the peak HVAC demand by cooling temperature set
+point adjustment.
+        A5.204.3.2  Lighting.  The pre-programmed demand response strategies
+should be capable of reducing the total lighting load by a minimum 30 percent
+through dimming control or bi-level switching.
+        A5.204.3.3  Software clients.  The software clients will be capable of
+communicating with a DR Automation Server.
+      
+      
+        
+      
+      
+              
+        
+        
+        
+        
+              
+        
+        
+              
+        
+        
+              
+        
+      
+      
+              
+        
+        
+        
+        
+              
+        
+        
+              
+        
+        
+              
+        
+      
+    
+    
+      
+        Energy Systems
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.210.1  ENERGY STAR equipment and appliances.  All residential grade
+equipment and appliances provided and installed shall be ENERGY STAR labeled if
+ENERGY STAR is applicable to that equipment or appliance.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Renewal Energy
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.211.1  On-site renewable energy.  Use on-site renewable energy for
+at least 1 percent of the electrical service overcurrent protection device
+rating calculated in accordance with the Los Angeles Electrical Code, or 1KW,
+whichever is greater, in addition to the electrical demand required to meet one
+percent of natural gas and propane use calculated in accordance with the Los
+Angeles Plumbing Code.
+        A5.211.1.1  Documentation.  Using a calculation method approved by the
+California Energy Commission, calculate the renewable on-site energy system to
+meet the requirements of Section A5.211.1, expressed in kW.
+        A5.211.3  Green Power.  If offered by the local utility provider,
+participate in a renewable energy portfolio program that provides a minimum of
+50 percent electrical power from renewable sources. Maintain documentation
+through utility billings.
+        A5.211.4  Prewiring for future solar.  Install conduit from the
+building roof or eave to a location within the building identified as suitable
+for future installation of a charge controller (regulator) and inverter.
+        A5.211.4.1  Off-grid prewiring for future solar.  If battery storage
+is anticipated, conduit shall run to a location within the building that is
+stable, weather-proof, insulated against very hot and very cold weather, and
+isolated from occupied spaces.
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          X  
+        
+        
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Elevators, Escalators, and other Equipment
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.212.1  Elevators and escalators.  In buildings with more than one
+elevator or two escalators, provide controls to reduce the energy demand of
+elevators and reduce the speed of escalators.  Document the controls in the
+project specifications and commissioning plan.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        Energy efficient steel framing
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.213.1  Steel framing.  Design for and employ techniques to avoid
+thermal bridging.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        Water Efficiency and Conservation
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Indoor Water Use
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.303.1  Meters.  Separate meters shall be installed for the uses
+described in Sections 5.503.1.1 through 5.503.1.3.
+        A5.303.1.1  Buildings in excess of 50,000 square feet.  Separate
+submeters shall be installed as follows:
+          1.	For each individual leased, rented, or other tenant space within
+the building projected to consume more than 100 gal/day.
+          2.	For spaces used for laundry or cleaners, restaurant or food
+service, medical or dental office, laboratory or beauty salon or barber shop
+projected to consume more than 100 gal/day.
+        A5.303.1.2  Excess consumption.  Any building within a project or
+space within a building that is projected to consume more than 1,000 gal/day.
+      
+      
+        
+        
+        
+          X  
+        
+          X  
+        
+        
+          X  
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+              
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+              
+      
+    
+    
+      
+        A5.303.2 20  Percent Savings.  A schedule of plumbing fixtures and
+fixture fittings that will reduce the overall use of potable water within the
+building by 20 percent shall be provided.
+        (Calculate savings by Water Use Worksheets.)
+        A5.303.2.1  Multiple showerheads serving one shower.  When single
+shower fixtures are served by more than one showerhead, the combined flow rate
+of all the showerheads shall not exceed the maximum flow rates specified in the
+20 percent reduction column contained in Table 5.303.2.3 or the shower shall be
+designed to only allow one showerhead to be in operation at a time.
+      
+      
+          X  
+        
+        
+        
+          X  
+        
+        
+        
+        
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.303.2.3.1  Tier 1 – 30 percent savings. A schedule of plumbing
+fixtures and fixture fittings that will reduce the overall use of potable water
+within the building by 30 percent shall be provided.
+        A5.303.2.3.2  Tier 2 – 35 percent savings. A schedule of plumbing
+fixtures and fixture fittings that will reduce the overall use of potable water
+within the building by 35 percent shall be provided.
+        A5.303.2.3.3  40 percent savings. A schedule of plumbing fixtures and
+fixture fittings that will reduce the overall use of potable water within the
+building by 40 percent shall be provided.
+        (Calculate savings by Water Use Worksheets.)
+      
+      
+        
+      
+      
+          X  
+        
+        
+        
+        
+        
+              
+        
+        
+        
+      
+      
+        
+          X  
+        
+        
+              
+        
+      
+    
+    
+      
+        A5.303.4  Wastewater reduction.  Each building shall reduce the
+generation of wastewater by one of the following methods:
+          1.	The installation of water-conserving fixtures or
+          2.	Utilizing non-potable water systems.
+      
+      
+        
+        As applicable
+          X  
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.303.3  Appliances.
+          1.	Clothes washers shall have a maximum Water Factor (WF) that will
+reduce the use of water.
+          2.	Dishwashers shall meet the criteria in A5.303.3(2)(a) and (b).
+          3.	Ice makers shall be air cooled.
+          4.	Food steamers shall be connectionless or boilerless.
+          5.	The use and installation of water softeners shall be limited or
+prohibited by local agencies.
+      
+      
+        
+      
+      
+              
+        
+              
+              
+              
+              
+      
+      
+              
+        
+              
+              
+              
+              
+      
+    
+    
+      
+        A5.303.5  Dual plumbing.  New buildings and facilities shall be dual
+plumbed for potable and recycled water systems.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.303.6  Plumbing Fixtures and Fittings. Plumbing fixtures (water
+closets and urinals) and fittings (faucets and showerheads) shall comply with
+the requirements listed for each type in Items listed in Table 5.303.6.
+          1.	Water closets (toilets) – flushometer type
+          2.	Water closets (toilets) – tank type
+          3.	Urinals
+          4.	Public lavatory faucets
+          5.	Public metering self-closing faucets
+          6.	Residential bathroom lavatory sink faucets
+          7.	Residential kitchen faucets
+          8.	Residential shower heads
+          9.	Single shower fixtures served by more than one showerhead
+      
+      
+        
+        
+        As applicable
+          X  
+          X  
+          X  
+          X  
+          X  
+          X  
+          X  
+          X  
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Outdoor Water Use
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.304.1  Water budget. A water budget shall be developed for landscape
+irrigation use.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.304.2  Outdoor potable water use.  Building on sites with 1,000
+square feet or more of cumulative landscaped area shall have separate meters or
+submeters for indoor and outdoor potable water use.
+        A5.304.2.1  Outdoor potable water use.  For new water service not
+subject to the provisions of Section 5.304.2, separate meters or submeters shall
+be installed for indoor and outdoor potable water use for landscaped areas.
+      
+      
+          X  
+        
+        
+        
+        
+        
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.304.3  Irrigation design.
+        Buildings on sites with 1000 square feet or more of cumulative irrigated
+landscaped area shall have irrigation controllers and sensors which include the
+following criteria, and meet manufacturer’s recommendations.
+        A5.304.3.1  Irrigation controllers.  Automatic irrigation system
+controllers installed at the time of final inspection shall comply with the
+following:
+          1.	Controllers shall be weather- or soil moisture-based controllers
+that automatically adjust irrigation in response to changes in plants’ needs
+as weather conditions change.
+          2.	Weather-based controllers without integral rain sensors or
+communication systems that account for local rainfall shall have a separate
+wired or wireless rain sensor which connects or communicates with the
+controller(s). Soil moisture-based controllers are not required to have rain
+sensor input.
+      
+      
+        
+        
+        
+        
+          X  
+        
+        As applicable
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.304.4  Potable water reduction. Provide water efficient landscape
+irrigation design that reduces by the use of potable water.
+        A5.304.4.1  Tier 1.  Reduce the use of potable water to a quantity
+that does not exceed 60 percent of ETo times the landscape area.
+        A5.304.4.2  Tier 2.  Reduce the use of potable water to a quantity
+that does not exceed 55 percent of ETo times the landscape area.
+        Methods used to accomplish the requirements of this section shall
+include, but not be limited to, the items listed in A5.304.4.
+        A5.304.4.3  Verification of compliance.  A calculation demonstrating
+the applicable potable water use reduction required by this section shall be
+provided.
+      
+      
+        
+      
+      
+          X  
+        
+        
+        
+        
+        
+          X  
+      
+      
+        
+        
+          X  
+        
+        
+        
+          X  
+      
+    
+    
+      
+        A5.304.5  Potable water elimination.  Provide a water efficient
+landscape irrigation design that eliminates the use of potable water beyond the
+initial requirements for plant installation and establishment.  Methods used to
+accomplish the requirements of this section shall include, but not be limited
+to, the items listed in A5.304.4.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.304.6  Restoration of areas disturbed by construction.  Restore all
+areas disturbed during construction by planting with local native and/or
+noninvasive vegetation.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.304.7  Previously developed sites.  On previously developed or
+graded sites, restore or protect at least 50 percent of the site area with
+native and/or noninvasive vegetation.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.304.8  Graywater irrigation system.  Install graywater collection
+system for onsite subsurface irrigation using graywater.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        Material Conservation and Resource Efficiency
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Efficient Framing Systems
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.404.1  Wood framing.  Employ advanced wood framing techniques or
+OVE, as permitted by the Department.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        Material Sources
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.405.1  Regional materials.  Select building materials or products
+for permanent installation on the project that have been harvested or
+manufactured in California or within 500 miles of the project site, meeting the
+criteria listed in A5.405.1.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.405.2  Bio-based materials.  Select bio-based building materials
+per Section A5.405.2.1 or A5.405.2.2.
+        A5.405.2.1  Certified wood products.  Certified wood is an important
+component of green building strategies and the California Building Standards
+Commission will continue to develop a standard through the next code cycle.
+        A5.405.2.2  Rapidly renewable materials.  Use materials made from
+plants harvested within a ten-year cycle for at least 2.5 percent of total
+materials value, based on estimated cost.
+      
+      
+        
+      
+      
+              
+        
+        
+        
+              
+      
+      
+              
+        
+        
+        
+              
+      
+    
+    
+      
+        A5.405.3  Reused materials.  Use salvaged, refurbished, refinished, or
+reused materials for at least 5 percent of the total value, based on estimated
+cost of materials on the project.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.405.4  Recycled content, Tier 1.  Use materials, equivalent in
+performance to virgin materials, with post- consumer or pre-consumer recycled
+content value (RCV) equaling at least 10 percent of the total value, based on
+estimated cost of materials on the project. Provide documentation as to the
+respective values.
+        A5.405.4.1  Recycled content, Tier 2.  Use materials, equivalent in
+performance to virgin materials, with post- consumer or pre-consumer recycled
+content value (RCV) for a minimum of 15 percent of the total value, based on
+estimated cost of materials on the project. Provide documentation as to the
+respective values.
+      
+      
+        
+      
+      
+          X  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+      
+        
+          X  
+      
+    
+    
+      
+        A5.405.5  Cement and concrete.  Use cement and concrete made with
+recycled products and complying with the following sections:
+        A5.405.5.1  Cement.  Meet the following standards for cement:
+          1.	Portland cement shall meet ASTM C 150.
+          2.	Blended hydraulic cement shall meet ASTM C 595.
+        A5.405.5.2  Concrete.  Unless otherwise directed by the engineer, use
+concrete manufactured with cementitious materials in accordance with Sections
+A5.405.5.2.1 and A5.405.5.2.2, as approved by the  Department.
+        A5.405.5.2.1  Supplementary cementitious materials (SCMs).  Use
+concrete made with one or more of the SCMs listed in Section A5.405.5.2.1.
+        A5.405.5.2.1.1  Mix design equation.  Use any combination of one or
+more SCMs, satisfying Equation A5.4-1.
+        	EXCEPTION:  Minimums for concrete products requiring high early
+strength may be lower as directed by the engineer.
+        A5.405.5.3  Additional means of compliance.  Any of the following
+measures may be employed for the production of cement or concrete, depending on
+their availability and suitability, in conjunction with Section A5.405.5.2.
+        A5.405.5.3.1  Cement.  The following measures may be used in the
+manufacture of cement.
+        A5.405.5.3.1.1  Alternative fuels.  Where permitted by state or local
+air quality standards, use alternative fuels.
+        A5.405.5.3.1.2  Alternative power.  Use alternate electric power
+generated at the cement plant and/or green power purchased from the utility
+meeting the requirements of A5.211.
+        A5.405.5.3.1.3  Alternative ingredients.  Use inorganic processing
+additions and limestone meeting ASTM C 150.
+        A5.405.5.3.2  Concrete.  The following measures may be used in the
+manufacture of concrete,
+        A5.405.5.3.2.1  Alternative energy.  Use renewable or alternative
+energy meeting the requirements of Section A5.211.
+        A5.405.5.3.2.2  Recycled aggregates.  Use concrete made with one or
+more of the materials listed in Section A5.405.5.3.2.2.
+        A5.405.5.3.2.3  Mixing water.  Use water meeting ASTM C1602, either
+recycled water provided by the local water purveyor or water reclaimed from
+manufacturing processes.
+      
+      
+        
+      
+      
+        
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+              
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+        
+              
+        
+        
+              
+        
+        
+        
+              
+        
+              
+        
+              
+        
+        
+      
+      
+        
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+              
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+        
+              
+        
+        
+              
+        
+        
+        
+              
+        
+              
+        
+              
+        
+        
+      
+    
+    
+      
+        Enhanced Durability and Reduced Maintenance
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.406.1  Choice of materials.  Compared to other products in a given
+product category, choose materials proven to be characterized by one or more of
+the following for a minimum of 5% of the total value, based on estimated cost of
+materials on the project.
+        A5.406.1.1  Service life.  Select materials for longevity and minimal
+deterioration under conditions of use.
+        A5.406.1.2  Reduced maintenance.  Select materials that require
+little, if any, finishing.
+      
+      
+        
+      
+      
+        
+        
+        
+              
+        
+              
+      
+      
+        
+        
+        
+              
+        
+              
+      
+    
+    
+      
+        Weather Resistance and Moisture Management
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.407.1  Weather protection.  Provide a weather- resistant exterior
+wall and foundation envelope as required by Los Angeles Building Code Section
+1403.2 and California Energy Code Section 150, manufacturer’s installation
+instructions, or local ordinance, whichever is more stringent.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.407.2  Moisture control.  Employ moisture control measures by the
+following methods;
+        A5.407.2.1  Sprinklers.  Prevent irrigation spray on structures.
+        A5.407.2.2  Entries and openings.  Design exterior entries and
+openings to prevent water intrusion into buildings.
+      
+      
+        
+          X  
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Construction Waste Reduction, Disposal and Recycling
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.408.1  Construction waste diversion.  Comply with Section 66.32 of
+the Los Angeles Municipal Code.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.408.3.1  Enhanced construction waste reduction.  Divert to recycle
+or salvage nonhazardous construction and demolition debris generated at the site
+in compliance with one of the following:
+          Tier 1. At least a 65 percent reduction.
+          Tier 2. At least an 80 percent reduction.
+      
+      
+        
+      
+      
+        
+        
+          X  
+      
+      
+        
+        
+        
+        
+          X  
+      
+    
+    
+      
+        A5.408.4  Excavated soil and land clearing debris.  100 percent of
+trees, stumps, rocks and associated vegetation and soils resulting primarily
+from land clearing shall be reused or recycled.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Life Cycle Assessment
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.409.1  Materials and system assemblies.  Select materials
+assemblies based on life cycle assessment of their embodied energy and/or green
+house gas emission potentials for a minimum of 5 percent of the total the value.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        Building Maintenance and Operation
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.410.1  Recycling by occupants.  Provide readily accessible areas
+that serve the entire building and are identified for the depositing, storage,
+and collection of non-hazardous materials for recycling.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.410.2  Commissioning.  For new buildings 10,000 square feet and
+over, building commissioning for all building systems covered by T24, Part 6,
+process systems, and renewable energy systems shall be included in the design
+and construction processes of the building project.  Commissioning requirements
+shall include as a minimum items listed in 5.410.2.
+        A5.410.2.1  Owner’s Project Requirements (OPR).  Documented before
+the design phase of the project begins the OPR shall include items listed in
+5.410.4.
+        A5.410.2.2  Basis of Design (BOD).  A written explanation of how the
+design of the building systems meets the OPR shall be completed at the design
+phase of the building project and updated periodically to cover the systems
+listed in 5.410.2.2.
+        A5.410.2.3  Commissioning plan.  A commissioning plan describing how
+the project will be commissioned shall be started during the design phase of the
+building project and shall include as a minimum items listed in 5.410.2.3.
+        A5.410.2.4  Functional performance testing shall demonstrate the
+correct installation and operation of each component, system, and
+system-to-system interface in accordance with the approved plans and
+specifications.
+        A5.410.2.5  Post construction documentation and training.  A systems
+manual and systems operations Training are required.
+        A5.410.2.5.1  Systems manual.  The Systems manual shall be delivered
+to the building owner and facilities operator and shall include the items listed
+in 5.410.2.5.1.
+        A5.410.2.5.2  Systems operations training.  The training of the
+appropriate maintenance staff for each equipment type and/or system shall
+include as a minimum items listed in 5.410.2.5.2.
+        A5.410.2.6  Commissioning report.  A complete report of commissioning
+process activities undertaken through the design, construction and
+postconstruction phases of the building project shall be completed and provided
+to the owner or representative.
+      
+      
+          X  
+        
+        
+        
+        
+        
+          X  
+        
+        
+          X  
+        
+        
+        
+          X  
+        
+        
+        
+          X  
+        
+        
+        
+        
+          X  
+        
+          X  
+        
+        
+          X  
+        
+        
+          X  
+        
+        
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.410.4  Testing, adjusting and balancing.  Testing and adjusting of
+systems shall be required for buildings less than 10,000 square feet.
+        A5.410.4.2  Systems.  Develop a written plan of procedures for testing
+and adjusting systems.  Systems to be included for testing and adjusting shall
+include at a minimum, as applicable to the project, the systems listed in
+5.410.3.2.
+        A5.410.4.3  Procedures.  Perform testing and adjusting in accordance
+with industry best practices and applicable national standards on each system.
+        A5.410.4.3.1  HVAC balancing.  Before a new space- conditioning system
+serving a building or space is operated for normal use, the system should be
+balanced in accordance with the procedures defined by national standards listed
+in 5.410.3.3.1.
+        A5.410.4.4  Reporting.  After completion of testing, adjusting and
+balancing, provide a final report of testing signed by the individual
+responsible for performing these services.
+        A5.410.4.5  Operation and maintenance manual.  Provide the building
+owner with detailed operating and maintenance instructions and copies of
+guaranties/warranties for each system prior to final inspection.
+        A5.410.4.5.1  Inspections and reports.  Include a copy of all
+inspection verifications and reports required by the Department.
+      
+      
+        
+        
+          X  
+        
+        
+        
+          X  
+        
+        
+          X  
+        
+        
+        
+          X  
+        
+        
+          X  
+        
+        
+          X  
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Environmental Quality
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Fireplaces
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.503.1.  Install only a direct-vent sealed-combustion gas or sealed
+wood-burning fireplace, or a sealed wood stove, and refer to residential
+requirements in the California Energy Code, Title 24, Part 6, Subchapter 7,
+Section 150.
+        A5.503.1.1  Wood stoves.  Wood stoves shall comply with US EPA Phase
+II emission limits.
+      
+      
+          X  
+        
+        
+        As applicable
+          X  
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Pollutant Control
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.504.1  Indoor air quality (IAQ) during construction.  Maintain IAQ
+as provided in Sections A5.504.1.1 and A5.504.1.2.
+        A5.504.1.1  Temporary ventilation.  Provide temporary ventilation
+during construction in accordance with Section 121 of the California Energy
+Code, CCR, Title 24, Part 6, and Chapter 4 of CCR, Title 8, and as listed in
+Items 1 through 4 in A5.504.1.2.
+        A5.504.1.2  Additional IAQ measures.  Employ additional measures as
+listed in Items 1 through 5 in A5.504.1.3.
+      
+      
+        
+      
+      
+        
+              
+        
+        
+        
+              
+      
+      
+        
+              
+        
+        
+        
+              
+      
+    
+    
+      
+        A5.504.2  IAQ postconstruction.  Flush out the building per Section
+A5.504.2 prior to occupancy or if the building is occupied.
+        A5.504.2.1  IAQ Testing.  A testing alternative may be employed after
+all interior finishes have been installed, using testing protocols recognized by
+the United States Environmental Protection Agency (U.S. EPA) and in accordance
+with Section A5.504.2.1.2. Retest as required in Section A5.504.2.1.3
+        A5.504.2.1.1  Maximum levels of contaminants. Allowable levels of
+contaminant concentrations measured by testing shall not exceed the following:
+          1.	Carbon Monoxide (CO): 9 parts per million, not to exceed outdoor
+levels by 2 parts per million;
+          2.	Formaldehyde: 27 parts per billion;
+          3.	Particulates (PM10): 50 micrograms per cubic meter; and
+          4.	4-Phenylcyclohexene (4-PCH): 6.5 micrograms per cubic meter; and
+          5.	Total Volatile Organic Compound (TVOC): 300 micrograms per cubic
+meter.
+        A5.504.2.1.2  Test protocols. Testing of indoor air quality should
+include the elements listed in Items 1 through 4.
+        A5.504.2.1.3  Noncomplying building areas.  For each sampling area of
+the building exceeding the maximum concentrations specified in Section
+A5.504.2.1.1, flush out with outside air and retest samples taken from the same
+area.  Repeat the procedure until testing demonstrates compliance.
+      
+      
+        
+      
+      
+              
+        
+              
+        
+        
+        
+        
+        
+        
+        
+        As applicable
+              
+        
+              
+              
+              
+        
+              
+        
+              
+        
+              
+        
+        
+        
+        
+      
+      
+              
+        
+              
+        
+        
+        
+        
+        
+        
+        
+        As applicable
+              
+        
+              
+              
+              
+        
+              
+        
+              
+        
+              
+        
+        
+        
+        
+      
+    
+    
+      
+        A5.504.3  Covering of duct openings and protection of mechanical
+equipment during construction.  At the time of rough installation, or during
+storage on the construction site and until final startup of the heating and
+cooling equipment, all duct and other related air distribution component
+openings shall be covered with tape, plastic, sheetmetal or other methods
+acceptable to the Department to reduce the amount of dust or debris which may
+collect in the system.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.504.4  Finish material pollutant control.  Finish materials shall
+comply with Sections 5.504.4.1 through 5.504.4.4.
+        A5.504.4.1  Adhesives, sealants, caulks.  Adhesives and sealants used
+on the project shall meet the requirements of the following standards.
+          1.	Adhesives, adhesive bonding primers, adhesive primers, sealants,
+sealant primers, and caulks shall comply with local or regional air pollution
+control or air quality management district rules where applicable, or SCAQMD
+Rule 1168 VOC limits, as shown in Tables 5.504.4.1 and 5.504.4.2.
+          2.	Aerosol adhesives, and smaller unit sizes of adhesives and sealant
+or caulking compounds (in units of product, less packaging, which do not weigh
+more than one pound and do not consist of more than 16 fluid ounces) shall
+comply with statewide VOC standards and other requirements, including
+prohibitions on use of certain toxic compounds, of California Code of
+Regulations, Title 17, commencing with Section 94507.
+        A5.504.4.3  Paints and coatings.  Architectural paints and coatings
+shall comply with Table 5.504.4.3 unless more stringent local limits apply.
+        A5.504.4.3.1  Aerosol Paints and Coatings.  Aerosol paints and
+coatings shall meet the Product-Weighted MIR Limits for ROC in section
+94522(a)(3) and other requirements, including prohibitions on use of certain
+toxic compounds and ozone depleting substances (CCR, Title 24, Section 94520 et
+seq).
+        A5.504.4.3.2  Verification.  Verification of compliance with this
+section shall be provided at the request of the Department.
+        A5.504.4.4  Carpet systems.  All carpet installed in the building
+interior shall meet the testing and product requirements of one of the standards
+listed in 5.504.4.4.
+        A5.504.4.4.1  Carpet cushion.  All carpet cushion installed in the
+building interior shall meet the requirements of the Carpet and Rug Institute
+Green Label program.
+        A5.504.4.4.2  Carpet adhesive.  All carpet adhesive shall meet the
+requirements of Table 804.4.1.
+        A5.504.4.5  Composite wood products.  Hardwood plywood, particleboard,
+and medium density fiberboard composite wood products used on the interior or
+exterior of the building shall meet the requirements for formaldehyde as
+specified in Table 5.504.4.
+        A5.504.4.5.1  Early compliance with formaldehyde limits.  Where
+complying composite wood product is readily available for nonresidential
+occupancies, meet Phase 2 requirements before the compliance dates indicated in
+Table 5.504.4.5 (Tier I) or use composite wood products made with either
+CARB-approved no-added formaldehyde (NAF) resins or CARB-approved ultra-low
+emitting formaldehyde (ULEF) resins (Tier II).
+        A5.504.4.5.2  Documentation.  Verification of compliance with this
+section shall be provided as requested by the Department.  Documentation shall
+include at least one of the following.
+          1.	Product certifications and specifications
+          2.	Chain of custody certifications
+          3.	Other methods acceptable to the Department
+      
+      
+        
+        
+        
+        
+          X  
+        
+        
+        
+        
+          X  
+        
+        
+        
+        
+        
+        
+          X  
+        
+          X  
+        
+        
+        
+        
+          X  
+        
+          X  
+        
+        
+          X  
+        
+        
+          X  
+        
+          X  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          X  
+        
+        As applicable
+          X  
+          X  
+          X  
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+        
+        
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+    
+    
+      
+        A5.504.4.6  Resilient flooring systems.  Comply with the VOC-emission
+limits defined in the 2009 CHPS criteria and listed on its Low-emitting
+Materials List (or Product Registry) or certified under the FloorScore program
+of the Resilient Floor Covering Institute.
+        A.504.4.4.6.1  Verification of compliance. Documentation shall be
+provided verifying that resilient flooring materials meet pollutant emission
+limits.
+        A5.504.4.7  Resilient flooring systems, Tier 1.  For 80 percent of
+floor area receiving resilient flooring, install resilient flooring complying
+with the VOC-emission limits defined in the 2009 CHPS criteria and listed on its
+Low- emitting Materials List, or certified under the FloorScore program of the
+Resilient Floor Covering Institute.
+        A5.504.4.7.1  Resilient flooring systems, Tier 2.  For 100 percent of
+floor area scheduled to receive resilient flooring, install resilient flooring
+complying with the VOC-emission limits defined in the 2009 CHPS criteria and
+listed on its Low-emitting Materials List or certified under the FloorScore
+program of the Resilient Floor Covering Institute.
+        A.504.4.4.7.2  Verification of compliance. Documentation shall be
+provided verifying that resilient flooring materials meet pollutant emission
+limits.
+        A5.504.4.8  Thermal Insulation, Tier 1.  Comply with Chapter 12-13 in
+Title 24, Part 12 and with the VOC- emission limits defined in 2009 CHPS
+criteria and listed on its Low-emitting Materials List.
+        A5.504.4.8.1  Thermal insulation, Tier 2.  Install No- Added
+Formaldehyde thermal insulation in addition to meeting A5.504.4.8.
+        A.504.4.8.2  Verification of compliance. Documentation shall be
+provided verifying that thermal insulation materials meet pollutant emission
+limits.
+        A5.504.4.9  Acoustical ceilings and wall panels.  Comply with Division
+8 of the Los Angeles Building Code and with the VOC-emission limits defined in
+the 2009 CHPS criteria and listed on its Low-emitting Materials List (or Product
+Registry).
+        A5.504.4.9.1  Verification of compliance. Documentation shall be
+provided verifying that acoustical finish materials meet the pollutant emission
+limits.
+      
+      
+          X  
+        
+        
+        
+          X  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+      
+        
+        
+        
+        
+        
+        
+        
+          X  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          X  
+        
+        
+          X  
+        
+        
+        
+        
+          X  
+        
+        
+              
+        
+        
+        
+              
+        
+        
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          X  
+        
+        
+        
+        
+          X  
+        
+        
+        
+        
+        
+          X  
+        
+          X  
+        
+        
+              
+        
+        
+        
+              
+        
+        
+      
+    
+    
+      
+        A5.504.5  Hazardous particulates and chemical pollutants.  Minimize
+and control pollutant entry into buildings and cross-contamination of regularly
+occupied areas.
+        A5.504.5.1  Entryway systems.  Install permanent entryway systems
+measuring at least six feet in the primary direction of travel to capture dirt
+and particulates at entryways directly connected to the outdoors as listed in
+Items 1 through 3 in A5.504.5.1.
+        A5.504.5.2  Isolation of pollutant sources.  In rooms where activities
+produce hazardous fumes or chemicals, exhaust them and isolate them from their
+adjacent rooms as listed in Items 1 through 3 in A5.504.5.2.
+        A5.504.5.3  Filters.  In mechanically ventilated buildings, provide
+regularly occupied areas of the building with air filtration media for outside
+and return air prior to occupancy that provides at least a MERV of 8.
+        A5.504.5.3.1  Filters.  In mechanically ventilated buildings, provide
+regularly occupied areas of the building with air filtration media for outside
+and return air prior to occupancy that provides at least a MERV of 11.
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+          X  
+        
+        
+        
+        
+        
+        
+        
+      
+      
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+      
+      
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+        
+        
+        
+        
+              
+        
+        
+        
+      
+    
+    
+      
+        A5.504.7  Environmental tobacco smoke (ETS) control.  Prohibit smoking
+within 25 feet of building entries, outdoor air intakes and operable windows
+where outdoor areas are provided for smoking or as enforced by ordinances,
+regulations, or policies, whichever are more stringent.
+      
+      
+              
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Indoor Moisture and Radon Control
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.505.1  Indoor moisture control.  Buildings shall meet or exceed the
+provisions of Los Angeles Building Code, Sections 1203 and Division 14.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Air Quality and Exhaust
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.506.1  Outside air delivery.  For mechanically or naturally
+ventilated spaces in buildings, meet the minimum requirements of Section 121 of
+the California Energy Code, CCR, Title 24, Part 6 and Chapter 4 of CCR, Title 8,
+or the applicable local code, and Division 1,whichever is more stringent.
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.506.2  Carbon dioxide (CO2) monitoring.  For buildings equipped
+with demand control ventilation, CO2 sensors and ventilation controls shall be
+specified and installed in accordance with the requirements of the latest
+edition of the California Energy Code, CCR, Title 24, Part 6, Section 121(c).
+      
+      
+          X  
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Environmental Comfort
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.507.1  Lighting and thermal comfort controls.  Provide controls in
+the workplace as described in Sections A5.507.1.1 and A5.507.1.2.
+        A5.507. 1.1  Single-occupant spaces.  Provide individual controls that
+meet energy use requirements in the California Energy Code by Sections
+A5.507.1.1.1 and A5.507.1.1.2.
+        A5.507.1.1.1  Lighting.  Provide individual task lighting and/or
+daylighting controls for at least 90 percent of the building occupants.
+        A5.507.1.1.2  Thermal comfort.  Provide individual thermal comfort
+controls for at least 50 percent of the building occupants by Items 1 and 2 in
+A5.507.1.1.2.
+        A5.507.1.2  Multi-occupant spaces.  Provide lighting and thermal
+comfort system controls for all shared multi- occupant spaces.
+      
+      
+        
+      
+      
+        
+        
+              
+        
+        
+              
+        
+              
+        
+        
+              
+        
+      
+      
+        
+        
+              
+        
+        
+              
+        
+              
+        
+        
+              
+        
+      
+    
+    
+      
+        A5.507.2  Daylight.  For other than high-rise residential dwelling
+units and hotel/motel guest rooms, provide daylit spaces as required for
+toplighting and sidelighting in the California Energy Code.  In constructing a
+design, consider Items 1 through 4 in A5.507.3.
+      
+      
+        
+      
+      
+              
+      
+      
+              
+      
+    
+    
+      
+        A5.507.3  Views. Achieve direct line of sight to the outdoor
+environment via vision glazing between 2’6&#038;″ and 7’6&#038;″ above
+finish floor for building occupants in 90 percent of all regularly occupied
+areas.
+        A5.507.3.1  Interior office spaces.  Entire areas of interior office
+spaces may be included in the calculation if at least 75 percent of each area
+has direct line of sight to perimeter vision glazing.
+        A5.507.3.2  Multi-occupant spaces.  Include in the calculation the
+square footage with direct line of sight to perimeter vision glazing.
+      
+      
+        
+      
+      
+              
+        
+        
+              
+        
+        
+              
+        
+      
+      
+              
+        
+        
+              
+        
+        
+              
+        
+      
+    
+    
+      
+        A5.507.4  Acoustical control.  Employ building assemblies and
+components with STC values determined in accordance with ASTM E 90 and ASTM
+E413.
+        A5.507.4.1  Exterior noise transmission.  Wall and floor- ceiling
+assemblies making up the building envelope shall have an STC of at least 50, and
+exterior windows shall have a minimum STC of 30 for any of the building
+locations listed in Items 1 through 3 in 5.507.5.1.
+        A5.507.4.2  Interior sound.  Wall and floor-ceiling assemblies
+separating tenant spaces and tenant spaces and public places shall have an STC
+of at least 40.
+      
+      
+              
+        
+        
+              
+        
+        
+        
+              
+        
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Outdoor Air Quality
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        A5.508.1  Ozone depletion and global warming reductions. 
+Installations of HVAC, refrigeration, and fire suppression equipment shall
+comply with Sections 5.508.1.1 and 5.508.1.2.
+        A5.508.1.1  CFCs.  Install HVAC and refrigeration equipment that does
+not contain CFCs.1
+        A5.508.1.2  Halons.  Install fire suppression equipment that does not
+contain Halons.1
+        A5.508.1.3  Hydrochlorofluorocarbons (HCFCs).  Install HVAC and
+refrigeration equipment that does not contain HCFCs.
+        A5.508.1.4  Hydrofluorocarbons (HFCs).  Install HVAC complying with
+either of the following:
+          1.	Install HVAC, refrigeration and fire suppression equipment that do
+not contain HFCs or that do not contain HFCs with a global warming potential
+greater than 150.
+          2.	Install HVAC and refrigeration equipment that limit the use of HFC
+refrigerant through the use of a secondary heat transfer fluid with a global
+warming potential no greater than 1.
+        
+          1  These measures are currently required elsewhere in statute or in
+regulation.
+      
+      
+        As applicable
+          X  
+        
+          X  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      
+      
+        
+        
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+              
+        
+        
+        
+      
+      
+        
+        
+        
+        
+        
+              
+        
+        
+        
+              
+        
+        
+              

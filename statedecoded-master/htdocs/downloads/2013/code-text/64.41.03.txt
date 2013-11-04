@@ -1,0 +1,279 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CHARGES. (§ 64.41.03)
+
+  CHARGES.
+	(Amended by Ord. No. 171,531, Eff. 4/5/97, Oper. 7/1/97.)	(a)	There is hereby
+imposed a sewer services charge for the receiving, transportation, pumping
+treatment and/or disposal of sewage through the sewer system.  (Amended by Ord.
+No 151,211, Eff. 8/7/78.)	(b)	The Sewer Service Charge (SSC) will be a charge to
+all users on the volume of sewage discharged to the sewer system from a
+premises. The SSC shall be paid by the user or other person billed by either
+Water and Power or the Office of Finance, whichever has billed for such
+charge.  If the user is someone other than the owner of the premises the owner
+and such user shall be jointly and severally obligated to pay the SSC.  The
+imposition of the SSC based on the volume of sewage discharged shall not
+preclude imposition of a supplemental charge to industrial users based on the
+quality of sewage discharged (“Quality Surcharge Fee”), as provided by
+Section 64.30 D.4. of this Code.  (Amended by Ord. No. 173, 587, Eff. 12/7/00.)
+ 	(c)	Any allocation of the Sewer Service Charge rate between the financing of
+capital improvements and the payment of the costs of operation and maintenance
+(including replacement) of the sewer system, or any other adjustment of the
+rate, necessary to comply with the provisions of federal or state law, shall be
+made by the Board following adoption of the budget for each fiscal year.	(d)	No
+Sewer Service Charge shall be billed to or collected from a premises where no
+portion of the water supplied or delivered to the premises, from whatever
+source, neither traverses through any portion of the City’s sewer collection
+system or is treated at any of the City’s sewage treatment
+facilities.	(e)	Sewer Service Charge Computation:  The Sewer Service Charge for
+each user shall be computed by multiplying the applicable rate, as provided in
+Subsection (f), by the volume of sewage discharged to the sewer system from a
+premises, as provided in Subsection (g); the result shall be decreased by a
+low-income subsidy, as provided in Subsection (h), or increased by a low-income
+subsidy surcharge, as provided in Subsection (i), whichever is
+applicable.	(f)	Rate:  The rate applicable to calculating the Sewer Service
+Charge shall be determined as follows:	(1)	For users whose premises discharge
+sewage to the sewer system, and this sewage is treated in the City’s
+facilities, the rate shall be $3.27 per hcf of sewage discharged, except as
+provided in Subdivision (2) of this Subsection.  (Amended by Ord. No. 182,076,
+Eff. 4/6/12.)	(2)	Any Low-Strength Industrial User may petition the Board and
+request to pay its Sewer Service Charge at the Low-Strength rate of $2.268 per
+hcf, for the flow component of its wastewater discharge in addition to paying a
+“Zero-Based” Quality Surcharge Fee for the strength component of its
+wastewater discharge per Section 64.30 D.4.(b) and (c) of this Code.  The
+petitioner must submit analytical data on its discharge at the time of and with
+its petition, demonstrating that the average strengths of its BOD and/or SS
+concentrations discharged over a one-year period are less than the designated
+BOD and SS values in the Board Rules and Regulations Governing Disposal of
+Industrial Wastewater into the Publicly Owned Treatment Works of the City of Los
+Angeles.  Fees paid in accordance with this paragraph shall be effective for
+services provided up to one year prior to date of petition to pay such fees. 
+(Amended by Ord. No. 182,076, Eff. 4/6/12.)	(3)	A Supplemental Charge shall be
+added to the charge imposed pursuant to the provisions of Subdivision (1) of
+this Subsection at  the rate of $0.15 per hcf of sewage discharged, and a
+Supplemental Charge shall be added to the charges imposed pursuant to
+Subdivision (2) of this Subsection at the Low-Strength rate of $0.102 per hcf. 
+The rates identified in this Subdivision shall be annually adjusted as shown in
+the table below:  (Amended by Ord. No. 182,076, Eff. 4/6/12.)
+  
+    
+      
+        
+Effective Date
+      
+      
+        
+Supplemental Sewer Service Charge ($/hcf)
+      
+      
+        Supplemental Low-Strength Sewer Service Charge ($/hcf)
+      
+    
+    
+      
+        July 1, 2012
+      
+      
+        0.30
+      
+      
+        0.209
+      
+    
+    
+      
+        July 1, 2013
+      
+      
+        0.46
+      
+      
+        0.320
+      
+    
+    
+      
+        July 1, 2014
+      
+      
+        0.70
+      
+      
+        0.488
+      
+    
+    
+      
+        July 1, 2015
+      
+      
+        0.96
+      
+      
+        0.668
+      
+    
+    
+      
+        July 1, 2016
+      
+      
+        1.24
+      
+      
+        0.858
+      
+    
+    
+      
+        July 1, 2017
+      
+      
+        1.53
+      
+      
+        1.062
+      
+    
+    
+      
+        July 1, 2018
+      
+      
+        1.84
+      
+      
+        1.278
+      
+    
+    
+      
+        July 1, 2019
+      
+      
+        2.17
+      
+      
+        1.509
+      
+    
+    
+      
+        July 1, 2020
+      
+      
+        2.53
+      
+      
+        1.754
+      
+    
+  
+	(4)	The Supplemental Charge imposed pursuant to the provisions of Subdivision
+(3) of this Subsection shall be subject to all of the provisions of this
+Article, except that it shall not be subject to the provisions of Subsection (h)
+or Subsection (i) of this Section.  (Amended by Ord. No. 182,076, Eff.
+4/6/12.)	(5)	If a premises discharges sewage to the sewage collection system but
+the sewage is not treated at the City’s sewage treatment facilities, the
+applicable rate shown at Subdivisions (1), (2) and (3) of this Subsection shall
+be 15% of what it would otherwise be if the sewage was treated at the City’s
+sewage treatment facilities.  (Added by Ord. No. 182,076, Eff.
+4/6/12.)	(g)	Sewage Volume:  The volume of sewage discharged from a premises,
+used for the purposes of calculating the Sewer Service Charge, shall be
+determined as follows, unless the Board has authorized an adjustment pursuant to
+Subsection (b) of Section 64.41.07:	(1)	For residential users, the volume for
+each day billed to a user on a premises within a fiscal year shall be the
+greater of the following:	(A)	the Winter Water Use for that user on that
+premises during the most recently determined Rainy Season Review Period
+multiplied by the corresponding Dry Winter Compensation Factor; or	(B)	the
+minimum reasonable volume of sewage discharged by a household consisting of one
+resident as determined by the Board.	EXCEPTION:  If the volume of water
+delivered to a premises during a billing period is zero, the volume of sewage
+discharged shall be zero. The Board shall establish rules to estimate the volume
+of sewage discharged when the record of data for a user on a premises during the
+most recently determined rainy season is incomplete or nonexistent.(Amended by
+Ord. No. 172,763, Eff. 9/19/99.)  	(2)	For Commercial, Governmental, Multiple
+Dwelling, and Industrial users, the volume shall be the volume of water supplied
+to the premises during the billing period multiplied by the Default Percentage
+Discharge.  The Board shall annually adjust the Default Percentage Discharge
+based, in whole or in part, on Department of Water and Power Water conservation
+policies, to reflect the amount of flow discharged to the sewer system by
+commercial, governmental, multiple dwelling, and industrial users, but in no
+event shall the Default Percentage Discharge be less than 90% or exceed 94%. 
+(Amended by Ord. No. 182,076, Eff. 4/6/12.)	(3)	Direct
+Measurement/Calculation:	A.	In lieu of paragraphs (1) or (2) above, the Board
+may authorize the direct measurement or calculation of the volume of sewage
+discharged from a premises in the following circumstances:	i.	Where in the
+Board’s judgement, the flows of sewage from the premises are sufficient for
+accurate measurement, any user may obtain a permit from the Board and install a
+device or devices approved by the Board to measure all the sewage discharged
+into the sewer system from the premises.  For purposes of this article, the
+total aggregate sewage measured through said device or devices sharing a given
+billing period will be deemed to be the sewage volume discharged from the
+premises for said billing period.	ii.	Where the plumbing on a premises has been
+arranged to isolate the plumbing which serves uses that are tributary to the
+sewer from the uses not so tributary, subject to inspection and approval by the
+Department of Building and Safety (DBS), a user may obtain Board authority to
+install one private water meter for each tributary City water meter serving the
+premises.  When the private meter is installed on the tributary service, the
+Sewer Service Charge shall be billed based on the volume of water through the
+private meter during the billing period.  When the private meter is installed
+on the non-tributary service, the Sewer Service Charge shall be billed based on
+the difference between the volume through the City meter and the private meter
+during the billing period.  A user may allow hose bibbs to remain attached to
+the tributary service, but no credit against the Sewer Service Charge shall be
+given in such a case.  The Board shall promulgate rules which determine whether
+the meter is to be installed on the tributary or non-tributary service.	A user
+may choose at any time to revert to volume determination based on the methods in
+Paragraphs (1) or (2) above, whichever is applicable; however, such a user may
+not again be approved for private metering before 12 months have elapsed since
+the effective date of reversion.	The Board may require the user at any time to
+install a device to telemeter the data obtained by the metering device back to a
+City computer if the installed meter allows for this to be done.	B.	Whenever the
+Board has authorized the direct measurement or calculation of sewage volume
+discharged from a premises, the user shall bear all responsibility for the
+expense of permits, equipment, installation, and maintenance of any private
+water meter.  The Board may require periodic testing of installed equipment to
+insure reasonable accuracy.  The board may revert a user who does not repair
+malfunctioning equipment within the time which the Board may specify to volume
+determination based on the methods in paragraphs (1) or (2)  above, whichever
+is applicable.	(h)	Low-Income Subsidy:  The Sewer Service Charge shall be
+reduced by 31% for low-income Residential users who pay such charges, the
+definition of such a class being determined by the Board of Water and Power
+Commissioners, subject to verification by the Director of Sanitation, for the
+first 18 billing units (a billing unit being each hcf of sewage entering the
+sewer system) of each two-month billing period, or the first nine billing units
+for each one-month billing period as to any such Residential user billed
+monthly.  (Amended by Ord. No. 182,076, Eff. 4/6/12.)	(i)	Low-Income Subsidy
+Surcharge:  The Sewer Service Charge to all users, who are not within the class
+of a low-income Residential user, as provided in Subsection (h), shall be
+increased by a surcharge of 0.84%.	(j)	The sewer service charge for the volume
+of sewage introduced into the sewer system from any property not supplied with
+water by Water and Power will be determined by the Board and shall be as nearly
+as possible equivalent to the sewer service charge established under this
+section for similar property supplied with water from Water and Power.	(k)	The
+Board shall have the power and duty, and is hereby directed to enforce all of
+the provisions of this article, except as otherwise set forth herein, and shall
+provide such rules and regulations as are consistent with the provisions of this
+article and as may be necessary or desirable to aid in the administration,
+including adjustments. and enforcement of the sewer service charge.	(l)	The
+Board or any of its authorized representatives may make such inspections or
+investigations as said Board deems necessary at any reasonable time in any
+building, premises or lot for any of the purposes set forth in this article. No
+person shall interfere with, prevent or refuse to permit the entry of said Board
+or any of its authorized representatives into or upon any building, premises or
+lot for any of the purposes set forth in this article.	(1)	To determine the
+size, depth and location of the sewer or storm drain connection;	(2)	To
+determine the outlet of an sewer or storm drain connection by depositing testing
+materials in any plumbing fixture attached thereto and flushing the same, if
+necessary;	(3)	To determine by measurements and samples the quantity of sewage
+or waste water being discharged into any sewer, storm drain or water
+course;	(4)	To inspect, test and sample the discharge of any device used to
+prevent the discharge into any sewer, storm drain, or water course of illegal
+waste or illegal quantities of waste, such as floor drains, sand boxes, grease
+traps or other clarifiers, also, of those devices used to grind, shred,
+pulverize, or otherwise treat garbage or industrial waste before discharging
+same into a sewer or storm drain.	(5)	To determine the location of roof,
+swimming pool and surface drains, and whether they are connected to a street
+gutter, storm drain or sewer.	(6)	To determine the nature and quantity of flow
+in any open water course or storm drain.

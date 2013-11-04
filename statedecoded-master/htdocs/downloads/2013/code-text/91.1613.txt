@@ -1,0 +1,135 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+EARTHQUAKE LOADS. (§ 91.1613)
+
+  EARTHQUAKE LOADS.
+	(Amended by Ord. No. 181,758, Eff. 8/8/11.)	Section 1613 of the CBC is adopted
+by reference, CBC Section 1613.6.7 is not adopted and in lieu of it Section
+91.1613.6.7 is added, and Sections 91.1613.8 through 91.1613.8.2, 91.1613.9
+through 91.1613.9.10.5 and 91.1613.10 through 91.1613.10.5 are amended or added,
+respectively, to read as follows.91.1613.6.7. Minimum Distance for Building
+Separation.	δM	=	Cdδmax		(Equation 16-44)Where:Cd	=	Deflection amplification
+factor in Table 12.2-1 of ASCE 7.Δmax	=	Maximum displacement defined in Section
+12.8.4.3 of ASCE 7.91.1613.8. Additional Seismic Requirements.91.1613.8.1.
+Suspended Ceilings.  Minimum design and installation standards for suspended
+ceilings shall be determined in accordance with the requirements of C.B.C.
+Section 2506.2.1 and this Section.91.1613.8.1.1. Scope.  This part contains
+special requirements for suspended ceilings and lighting systems.  The
+provisions of Section 13.5.6 of ASCE 7 shall apply except as modified
+here.91.1613.8.1.2. General.  The suspended ceilings and lighting systems shall
+not be located more than six feet (1828 mm) below the structural floor or roof
+system above unless the entire system is designed by a licensed engineer or
+architect.91.1613.8.1.3. Design and Installation Requirements.91.1613.8.1.3.1.
+Bracing at Discontinuity.  Positive bracing to the structure shall be provided
+at changes in the ceiling plane elevation or at discontinuities in the ceiling
+grid system.91.1613.8.1.3.2. Support for Appendages.  Cable trays, electrical
+conduits and piping shall be independently supported and independently braced
+from the structure.91.1613.8.1.3.3. Sprinkler Heads.  All sprinkler heads
+(drops) except fire-resistance-rated floor/ceiling or roof/ceiling assemblies,
+shall be designed to allow for free movement of the sprinkler pipes with
+oversize rings, sleeves or adaptors through the ceiling tile in accordance with
+Section 13.5.6.2.2(e) of ASCE 7.	Sprinkler heads penetrating
+fire-resistance-rated floor/ceiling or roof/ceiling assemblies shall comply with
+CBC Section 713.91.1613.8.1.3.4. Perimeter Members.  A minimum wall angle size
+of at least a two-inch (51 mm) horizontal leg shall be used at perimeter walls
+and interior full height partitions.  The first ceiling tile shall maintain
+3/4-inch (19 mm) clear from the finish wall surface.  An equivalent alternative
+detail that will provide sufficient movement due to anticipated lateral building
+displacement may be used in lieu of the long leg angle subject to the approval
+of the Superintendent of Building.91.1613.8.1.4. Special Requirements for Means
+of Egress.  Suspended ceiling assemblies located along means of egress serving
+an occupant load of 30 or more shall comply with the following
+provisions:	1.	General.  Ceiling suspension systems shall be connected and
+braced with vertical hangers attached directly to the structural floor or roof
+system above and along the means of egress serving an occupant load of 30 or
+more and at lobbies accessory to Group A Occupancies.  Spacing of vertical
+hangers shall not exceed two feet (610 mm) on center along the entire length of
+the suspended ceiling assembly located along the means of egress or at the
+lobby.	2.	Assembly Device.  All lay-in panels shall be secured to the
+suspension ceiling assembly with two hold-down clips minimum for each tile
+within a four-foot (1219 mm) radius of the exit lights and exit
+signs.	3.	Emergency Systems.  Independent supports and braces shall be provided
+for light fixtures required for exit illumination.  Power supply for exit
+illumination shall comply with the requirements of CBC Section
+1006.3.	4.	Supports for Appendage.  Separate support from the structural floor
+or roof system above shall be provided for all appendages such as light
+fixtures, air diffusers, exit signs, and similar elements.91.1613.8.2. Wood
+Diaphragms Supporting Concrete or Masonry Walls.  In addition to other
+requirements of this division for lateral-force-resisting systems, wood
+diaphragms shall comply with the following provisions:	1.	Continuous Tie
+Spacing.  The spacing of continuous ties shall not exceed 40 feet.  Added
+chords of diaphragms may be used to form subdiaphragms to transmit the anchorage
+forces to the main continuous crossties.	2.	Anchorage Force.  The maximum
+diaphragm shear used to determine the depth of the subdiaphragm shall not exceed
+75% of the maximum diaphragm shear.	3.	Horizontal Irregularities.  Chords and
+drag strut members in diaphragms having horizontal structural irregularities
+listed in Table 12.3-1 of ASCE 7 shall be designed for forces in Section
+12.3.3.4 of ASCE 7.91.1613.9.4.2.2. Base Shear.  In developing the base shear
+for seismic design, the response modification coefficient (R) shall not exceed
+5.0 for bearing wall and building frame systems.  The total base shear shall
+include the forces tributary to the base level diaphragm including forces from
+the base level diaphragm.91.1613.9.8. Primary and Secondary Anchorage and
+Diaphragm Strut Design.  Primary and secondary anchors and diaphragm struts
+shall be designed in accordance with the following provisions:	1.	Fasteners. 
+All bolted fasteners used to develop connections to wood members shall be
+provided with square plate washers at all bolt heads and nuts.  Washers shall
+be minimum 3/16 inch (4.8 mm) thick and two-inch (51 mm) square for 1/2-inch
+(12.7 mm) diameter bolts, and 1/4-inch (6.4 mm) thick and 2-1/2-inch (64 mm)
+square for 5/8-inch (15.9 mm) diameter or larger bolts.  Nuts shall be finger
+tight with ½ wrench turn prior to covering.	6.	Steel Element of Structural Wall
+Anchorage System.  The strength design forces for steel elements of the
+structural wall anchorage system, with the exception of anchor bolts and
+reinforcing steel, shall be increased by 1.4 times the forces otherwise
+required.91.1613.9.9.2. Base Shear.  In developing the base shear for seismic
+design, the response modification coefficient (R) shall not exceed 5.0 for
+bearing wall and building frame systems.91.1613.9.9.4. Drift Limitations.  The
+story drift below the base level diaphragm shall not exceed 0.007 times the
+story height at strength design force level.  The total drift from the base
+level diaphragm to the top of the foundation shall not exceed ¾ of an inch (19
+mm).  Where the story height or the height from the base level diaphragm to the
+top of the foundation varies because of a stepped footing or story offset, the
+height shall be measured from the average height of the top of the foundation. 
+The story drift shall not be reduced by the effect of horizontal diaphragm
+stiffness.91.1613.10. Earthquake Recording Instrumentation.91.1613.10.1.
+Applicability.  The requirements of this Section shall apply to buildings for
+which permits were issued after July 1, 1965.91.1613.10.2. General.  Every new
+building over six stories in height with an aggregate floor area of 60,000
+square feet (5574 m2) or more and every new building over ten stories in height
+regardless of the floor area shall be equipped with at least three approved
+recording accelerographs.	EXCEPTION:  A building selected by the State of
+California as part of its Strong Motion Instrumentation Program (Section 2700,
+Chapter 8, Division 2, California Public Resources Code) need not comply with
+this Section until it ceases to be part of the program.	All new buildings that
+are designed using the nonlinear response history procedure of “Seismic
+Response History Procedures” of Chapter 16 of ASCE 7 shall be equipped with a
+structural monitoring system in accordance with standards established by the
+Superintendent of Building.91.1613.10.3. Maintenance.  Maintenance and service
+of the instruments shall be provided by the owner of the building subject to the
+approval of the Superintendent of Building.  Data produced by the instruments
+shall be made available to the Superintendent of Building on
+request.	Maintenance and service of the instruments shall be performed annually
+and shall be performed only by an approved testing agency.  The owner shall
+file with the Department a written report from an approved testing agency
+certifying that each instrument has been serviced and is in proper working
+condition.  This report shall be submitted when the instruments are installed
+and annually thereafter.  Each instrument shall have affixed to it an
+externally visible tag specifying the date of the last maintenance or service
+and the printed name and address of the testing agency performing the
+service.91.1613.10.4. Location.  For new buildings requiring accelerographs per
+Section 91.1613.10.2, the instruments shall be located in the basement,
+mid-height and near the top of the building.  Each instrument shall be located
+so that access is maintained at all times and is unobstructed by room
+contents.  A sign stating “MAINTAIN CLEAR ACCESS TO THIS INSTRUMENT” in
+one-inch block letters shall be posted in a conspicuous location at the
+instrument.91.1613.10.5. Instrumentation of Existing Buildings.  All owners of
+existing structures selected by the Department shall provide accessible space
+for the installation of appropriate earthquake-recording instruments. 
+Locations of the instruments shall be determined by the engineer of record and
+approved by the Department.  The owners shall make arrangements with the
+Department to provide, maintain and service the instruments as required above. 
+Data shall be the property of the Department, but copies of individual records
+shall be made available to the public on request with the payment of an
+appropriate fee.	All legally existing instruments shall be maintained and
+serviced in proper working condition.  Each instrument shall be maintained and
+serviced as specified by Section 91.1613.10.3 and shall be provided with a sign
+as required by Section 91.1613.10.4.

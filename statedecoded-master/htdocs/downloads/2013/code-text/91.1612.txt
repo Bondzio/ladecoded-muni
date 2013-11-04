@@ -1,0 +1,29 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FLOOD LOADS. (§ 91.1612)
+
+  FLOOD LOADS.
+	(Added by Ord. No. 181,758, Eff. 8/8/11.)	Section 1612 of the CBC is adopted by
+reference, except CBC Section 1612.5 is not adopted and in lieu Section
+91.1612.5 is added.  91.1612.5. Flood Hazard Documentation.  The following
+documentation shall be prepared and sealed by a registered design professional
+and submitted to the Department:	1. 	For construction in flood hazard areas not
+subject to high-velocity wave action:	1.1. 	The elevation of the lowest floor,
+including the basement member.	1.2.	For fully enclosed areas below the design
+flood elevation where provisions to allow for the automatic entry and exit of
+floodwaters do not meet the minimum requirements in Section 2.6.2.1 of ASCE 24,
+construction documents shall include a statement that the design will provide
+for equalization of hydrostatic flood forces in accordance with Section 2.6.2.2
+of ASCE 24.	1.3. 	For dry floodproofed nonresidential buildings, construction
+documents shall include a statement that the dry floodproofing is designed in
+accordance with ASCE 24.	2. 	For construction in flood hazard areas subject to
+high-velocity wave action:	2.1. 	The elevation of the bottom of the lowest
+horizontal structural.	2.2. 	Construction documents shall include a statement
+that the building is designed in accordance with ASCE 24, including that the
+pile or column foundation and building or structure to be attached thereto is
+designed to be anchored to resist flotation, collapse and lateral movement due
+to the effects of wind and flood loads acting simultaneously on all building
+components, and other load requirements of Chapter 16.2.3. For breakaway walls
+designed to resist a nominal load of less than 10 psf (0.48 kN/m2) or more than
+20 psf (0.96 kN/m2), construction documents shall include a statement that the
+breakaway wall is designed in accordance with ASCE 24.

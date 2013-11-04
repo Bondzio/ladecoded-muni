@@ -1,0 +1,164 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+PORTABLE FIRE EXTINGUISHER SIZE AND PLACEMENT. (§ 57.140.10)
+
+  PORTABLE FIRE EXTINGUISHER SIZE AND PLACEMENT.	The minimum number, size, and
+type of portable fire extinguisher needed to protect a building, structure, or
+premises shall be determined in accordance with the provisions of this
+section.	A.	Class A Hazard: Where the flammable or combustible materials present
+a hazard of Class A fires there shall be an approved Class A portable fire
+extinguisher within 75 feet of every portion of the building, structure, or
+premises in accordance with Table 140-A.TABLE 140-A
+CLASS A HAZARDS
+  
+    
+      
+        Type of Hazard
+      
+      
+        Minimum Extinguisher Rating
+      
+      
+        Maximum Distance in Feet
+      
+    
+    
+      
+        Light
+      
+      
+        2A
+      
+      
+        75
+      
+    
+    
+      
+        Ordinary
+      
+      
+        2A
+      
+      
+        75
+      
+    
+    
+      
+        Extra
+      
+      
+        4A*
+      
+      
+        75
+      
+    
+  
+	*  Two 2-1/2 gal. water type extinguishers may be used to fulfill the
+requirement of one 4A rated extinguisher.	B.	Class B Hazard: In every building,
+structure, or premises where flammable liquids are used, processed, produced, or
+stored, approved Class B portable fire extinguishers shall be provided and
+located as determined by the Chief.	1.	Where the flammable or combustible
+materials present a hazard of Class B fires only, Class B extinguishers shall be
+provided in accordance with Table 140-B.TABLE 140-B
+CLASS B HAZARDS  
+    
+      
+        Type of Hazard
+      
+      
+        *Minimum Extinguisher Rating
+      
+      
+        **Maximum Distance in Feet
+      
+    
+    
+      
+        Light
+      
+      
+        10B
+      
+      
+        30
+      
+    
+    
+      
+        Ordinary
+      
+      
+        10B
+      
+      
+        30
+      
+    
+    
+      
+        
+      
+      
+        20B
+      
+      
+        50
+      
+    
+    
+      
+        Extra
+      
+      
+        40B
+      
+      
+        30
+      
+    
+    
+      
+        
+      
+      
+        80B
+      
+      
+        50
+      
+    
+  
+	*  Two or more extinguishers of lower ratings shall not be used to fulfill the
+protection requirements of Table 140-B.	**  The protection requirements may be
+accomplished with extinguishers of higher ratings provided the travel distance
+to such larger extinguishers shall not exceed 50 feet.	2.	In addition, Class B
+extinguishers shall be located within buildings in accordance with the
+following:	a.	At least one extinguisher having a rating of not less than 20B
+shall be located outside of, but not more than 10 feet, from a door opening into
+any Hazardous Materials Room.	b.	At least one extinguisher having a rating of
+not less than 20B shall be located not less than 10 feet nor more than 30 feet
+from any flammable liquid storage area outside of a Hazardous Materials Room or
+adjacent to a spray booth.	c.	At least one extinguisher having a rating of not
+less than l0B shall be located not less than 10 feet nor more than 30 feet from
+any dip tank having a liquid surface area less than 10 square feet or a capacity
+of less than 150 gallons. Every dip tank exceeding these dimensions shall be
+equipped with an automatic fire extinguishing system complying with Division 141
+of this article.	d.	At least one extinguisher having a rating of not less than
+l0B shall be located adjacent to and within 50 feet of where flammable liquids
+are displayed for retail sale.	C.	Class C Hazard: Portable fire extinguishers
+with Class C ratings shall be required where energized electrical panels or
+equipment may be encountered which would require a nonconducting extinguishing
+agent.  The extinguisher size and location shall be determined on the basis of
+the anticipated Class A or B hazard surrounding the electrical equipment. 
+Extinguishers shall be located not more than 50 feet from the Class C
+hazard.	D.	Class D Hazard: Portable fire extinguishers for Class D hazards shall
+be required on the basis of the specific combustible metal and the size and area
+to be covered. Extinguishers shall be of an approved extinguishing agent and
+located not more than 75 feet from the Class D hazard.	E.	The provisions of this
+section may be altered at the discretion of the Chief upon consideration of the
+special features such as the use of the occupancy, the quantity, distribution,
+and arrangement of the flammable or combustible materials, and the construction
+of the building.

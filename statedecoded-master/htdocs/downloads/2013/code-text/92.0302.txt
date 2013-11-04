@@ -1,0 +1,23 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+PRIVATE RESIDENCE INCLINED ELEVATORS. (§ 92.0302)
+
+  PRIVATE RESIDENCE INCLINED ELEVATORS.	(Amended by Ord. No. 179,328, Eff.
+12/10/07, Oper. 1/1/08.)	All inclined elevators in private residences shall
+comply with the provisions of ASME A 17.1 and this article.  Part 5, Section
+5.4 of ASME A17.1-2004 is adopted by reference, with the following exceptions
+and modifications:  Sections 5.3.1.7.7, 5.3.1.18.4, 5.3.1.18.5 and 5.4.8 are
+not adopted.	(a)	Suspension Means.  Suspension means shall comply with Part 5,
+Section 5.3.1.12 of ASME A 17.1-2004.	(b)	Machine and Controls.  Machine and
+controls shall be located as follows:	1.	Machines, controls and disconcerting
+means shall not be mounted on cars, and shall be located outside of the hoistway
+in spaces dedicated to the elevator equipment.	2.	The machine room shall have a
+head clearance of at least seven feet, and shall be provided with permanent
+electric lighting and a duplex receptacle rated at not less than 15A at
+120V.	3.	Required workspace clearance for elevator control and/or machinery
+spaces shall be located entirely within the interior of the
+building.	(c)	Maintenance.  The owner shall develop, implement, and maintain a
+written maintenance program for in accordance with the manufacturer’s
+recommendations.  The maintenance shall be performed by a registered
+Journey-Level Elevator Mechanic as required by Section 92.0119.  A log of all
+repairs and maintenance shall be kept at the location.

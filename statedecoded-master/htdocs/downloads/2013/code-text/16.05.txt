@@ -1,0 +1,370 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SITE PLAN REVIEW. (§ 16.05)
+
+  SITE PLAN REVIEW.
+	(Renumbered and amended by Ord. No. 166,127, Eff. 9/23/90, Oper. 10/13/90.)
+
+	A.	Purpose.  The purposes of site plan review are to promote orderly
+development, evaluate and mitigate significant environmental impacts, and
+promote public safety and the general welfare by ensuring that development
+projects are properly related to their sites, surrounding properties, traffic
+circulation, sewers, other infrastructure and environmental setting; and to
+control or mitigate the development of projects which are likely to have a
+significant adverse effect on the environment as identified in the City’s
+environmental review process, or on surrounding properties by reason of
+inadequate site planning or improvements.
+
+	B.	Definitions.  (Amended by Ord. No. 173,754, Eff. 3/5/01.)  For the purpose
+of this section, the following words and phrases shall have the meanings
+specified below.  Other terms used in this section shall have the meanings set
+forth in Section 12.03 of this Code if defined there.
+
+	1.	Development Project.  The construction of, addition to, or alteration of,
+any building or structure, or a change of use of an existing building or
+structure that requires a building permit and that results in an increase in
+floor area, or a net increase in average daily vehicle trips as determined by
+using trip generation factors promulgated by the Department of Transportation
+for the purpose of effectuating this section.
+
+	2.	Discretionary Approval.  An approval initiated by application of a property
+owner or representative related to the use of land including, but not limited
+to, a:
+
+	(a)	zone change;
+
+	(b)	height district change;
+
+	(c)	supplemental use district;
+
+	(d)	conditional use approval;
+
+	(e)	use, area or height variance;
+
+	(f)	parcel map;
+
+	(g)	tentative tract map;
+
+	(h)	coastal development permit;
+
+	(i)	development agreement;
+
+	(j)	adjustments;
+
+	(k)	density bonus greater than the minimums pursuant to Government Code Section
+65915;
+
+	(l)	density transfer plan;
+
+	(m)	exception from a geographically specific plan;
+
+	(n)	project permit pursuant to a moratorium or interim control ordinance;
+
+	(o)	public benefit projects; or
+
+	(p)	Floor area deviation of less than 50,000 square feet pursuant to 14.5.7 of
+Article 4.5 of the Los Angeles Municipal Code.  (Added by Ord. No. 181,574,
+Eff. 3/27/11.)
+
+	3.	Fast-food Establishment.  Any establishment which dispenses food for
+consumption on or off the premises, and which has the following
+characteristics:  a limited menu, items prepared in advance or prepared or
+heated quickly, no table orders, and food served in disposable wrapping or
+containers.
+
+	C.	Requirements.
+
+	1.	  (Amended by Ord. No. 172,489, Eff. 4/16/99.)  No grading permit,
+foundation permit, building permit, or use of land permit shall be issued for
+any of the following development projects unless a site plan approval has first
+been obtained pursuant to this section.  This provision shall apply to
+individual projects for which permits are sought and also to the cumulative sum
+of related or successive permits which are part of a larger project, such as
+piecemeal additions to a building, or multiple buildings on a lot, as determined
+by the Director.
+
+	(a)	Any development project which creates, or results in an increase of, 50,000
+gross square feet or more of nonresidential floor area.
+
+	(b)	Any development project which creates, or results in an increase of, 50 or
+more dwelling units or guest rooms, or combination thereof.
+
+	(c)	Any change of use to a Drive-Through Fast-food Establishment or any change
+of use to a Fast-food Establishment, either of which results in a net increase
+of 500 or more average daily trips as determined by, and using the trip
+generation factors promulgated by the Department of Transportation.
+
+	(d)	Any change of use other than to a Drive-Through Fast-food Establishment or
+to a Fast-food Establishment which results in a net increase of 1,000 or more
+average daily trips as determined by, and using the trip generation factors
+promulgated by the Department of Transportation.
+
+	(e)	Any residential (including Apartment Hotel or mixed-use) building located
+within the Greater Downtown Housing Incentive Area.  (Added by Ord. No.
+179,076, Eff. 9/23/07.)
+
+	This subdivision shall not apply to one-family dwellings.
+
+	2.	Enforcement.  No grading permit foundation permit, building permit, or
+certificate of occupancy shall be issued for a development project approved
+under this site plan review process unless the project meets all requirements
+and conditions of the site plan approval. Permits issued in error shall be
+treated as specified in Section 11.02 of this Code. If the development project
+approval authorized by this section is utilized, the conditions of that approval
+become effective immediately. The violation of any such condition shall
+constitute a violation of this chapter and shall be subject to the same
+penalties as any other violation of this Code.
+
+	D.	Exemptions.  (Amended by Ord. No. 172,489, Eff. 4/16/99.)
+
+	1.	(Amended by Ord. No. 173,492, Eff. 10/10/00.)  Unless made discretionary by
+any other provision of law, the approval of any building permit for a
+development project which does not exceed the thresholds set forth in this
+subsection and Section 12.24U14 is ministerial and exempt from the requirements
+of the California Environmental Quality Act.
+
+	2.	Any development project with a still-valid discretionary approval, including
+but not limited to those listed in Subsection B.2. of this section, shall be
+exempt from site plan review only if the applicable decision-making body
+determines in writing that the prior discretionary approval, and the required
+environmental review, considered significant aspects of the approved project’s
+design (such as, but not limited to, building location, height, density, use,
+parking, access) and that the existing environmental documentation under the
+California Environmental Quality Act is adequate for the issuance of the present
+permit in light of the conditions specified in Section 21166 of the California
+Public Resources Code.  The Department of City Planning may require supplements
+to the environmental documentation to maintain its currentness.  The Director
+is authorized to establish procedures to process determinations required under
+this subdivision.  (Amended by Ord. No. 177,103, Eff. 12/18/05.)
+
+	3.	Any development project located within the boundaries of an adopted
+redevelopment project area shall be exempt from site plan review when:
+
+	(a)	The Community Redevelopment Agency of the City of Los Angeles (CRA) and the
+City Council have approved an owner participation agreement, a disposition and
+development agreement, a loan agreement, a cooperation agreement or other
+discretionary agreement for the development project; and
+
+	(b)	The project has been considered during a public hearing conducted in
+accordance with the CRA’s adopted policies and procedures for public hearings.
+
+	(c)	The residential (including Apartment Hotel or mixed-use) building is within
+the Greater Downtown Housing Incentive Area and has been determined by the
+Community Redevelopment Agency (CRA) to comply with the Urban Design Standards
+and Guidelines, prepared by the CRA and approved by the City Planning Commission
+when the City Planning Commission finds that the guidelines are consistent with
+the applicable community plans.  (Added by Ord. No. 179,076, Eff. 9/23/07.)
+
+	Prior to the issuance of any building permit, the CRA shall certify to the
+Director and the Department of Building and Safety that the required
+notification, hearing and agreement have been completed.
+
+	4.	Any development project within a specific plan area for which an EIR was
+certified by the City Council not more than six years prior to the date of the
+present application for a building permit.  The date of the application shall
+be the date on which architectural and structural plans sufficient for a
+complete plan check are accepted by the Department of Building and Safety. 
+This exemption shall be applicable only if the Director determines in writing
+that the EIR considered significant aspects of the approved project’s design
+(such as, but not limited to, building location, height, density, use, parking,
+access) and that it is adequate for the issuance of the present permit.  The
+Director is hereby authorized to establish procedures to process determinations.
+
+	5.	Any development project on a motion picture and/or television production lot
+that is industrially or commercially zoned and is enclosed by a minimum six foot
+high wall or other barrier (such as building walls, fences, topographical
+barrier, etc.) which separates the facility and the development from adjacent
+properties.  However, all new office uses shall be directly related to motion
+picture and/or television production and shall not be rented or leased to other
+entities not directly related to motion picture and/or television production
+uses.
+
+	(6)	Adaptive Reuse Projects in the Downtown Project Area pursuant to Section
+12.22A26.  (Added by Ord. No. 172,571, Eff. 6/3/99.)
+
+	(7)	Any residential (including Apartment Hotel or mixed use) building located
+within the Greater Downtown Housing Incentive Area that is subject to Section
+12.22 A.30. of this Code.  (Added by Ord. No. 181,557, Eff. 3/15/11.)
+
+	E.	Directors Authority.
+
+	1.	The Director or his/her designee shall have the authority to approve,
+conditionally approve, or deny site plan approval for development projects
+specified in Section 16.05C above in accordance with the purpose and provisions
+of this section.
+
+	2.	In granting site plan approval, the Director may condition and/or modify the
+project, or select an alternative project, as he or she deems necessary to
+implement the general or specific plan and to mitigate significant adverse
+effects of the development project on the environment and surrounding areas.
+
+	3.	The Director is authorized to designate one or more members of the
+professional staff of the Department of City Planning to perform any of the
+Director’s duties under this section. The Director shall establish
+administrative methods, guidelines, procedures, and forms as may be necessary to
+conduct the review and render a decision expeditiously, prior to processing any
+site plan review application.
+
+	4.	The Director shall not approve or conditionally approve a site plan review
+for a development project unless he or she does one of the following in
+accordance with the requirements of CEQA and the State and City CEQA Guidelines:
+
+	a.	Approve a proposed Negative Declaration or Mitigated Negative Declaration.
+
+	b.	Certify completion of an EIR.
+
+	F.	In granting an approval, the Director, or the Area Planning Commission on
+appeal, shall find:  (Amended by Ord. No. 182,095, Eff. 5/7/12.)
+
+	1.	that the project is in substantial conformance with the purposes, intent and
+provisions of the General Plan, applicable community plan, and any applicable
+specific plan;
+
+	2.	that the project consists of an arrangement of buildings and structures
+(including height, bulk and setbacks), off-street parking facilities, loading
+areas, lighting, landscaping, trash collection, and other such pertinent
+improvements, that is or will be compatible with existing and future development
+on adjacent properties and neighboring properties; and
+
+	3.	that any residential project provides recreational and service amenities to
+improve habitability for its residents and minimize impacts on neighboring
+properties.
+
+	G.	Procedure.
+
+	1.	Site Plan Review Application.  Application for the site plan review shall
+be filed in any public office of the Department of City Planning, upon such
+forms and accompanied by applicable fees, a site plan drawn to scale, and other
+information prescribed by the Director for that purpose. The application shall
+be verified by either the property owner, lessee, owner in escrow, or a legally
+authorized agent.
+
+	2.	Environmental Review.  As part of the application for site plan review, the
+applicant shall file necessary forms and information for environmental review as
+prescribed by the Director. The Director, or his/her designee, shall cause to be
+prepared, concurrently with the review and approval of the site plan, the
+required environmental studies and notices for the project; except that in the
+adopted redevelopment project areas, the CRA shall assume lead agency
+responsibilities for environmental review of all projects subject to the
+provisions of this section and shall prepare the required environmental studies
+and notices.
+
+	3.	Notice – Hearing – Time Limits.
+
+	a.	The Director shall refer all completed applications for site plan review to
+affected City departments for their review and report. For projects in adopted
+redevelopment project areas, the completed applications shall be sent to the
+Administrator of the CRA for review and report as to conformity with the adopted
+Redevelopment Plan applicable to the project. Responses shall be returned within
+fifteen (15) days after receipt, or such other period agreed to by the Director
+and the affected agency or department.
+
+	b.	(Amended by Ord. No. 173,992, Eff. 7/6/01.)  If the Director finds that the
+matter may have a significant effect on neighboring properties, the Director
+shall set the matter for public hearing.  If the application is set for public
+hearing, written notice of the hearing shall be sent by First Class Mail at
+least 15 days prior to the hearing to the applicant, owners and tenants of the
+property involved, owners and tenants of all property within 100 feet of the
+boundary of the subject site, the City Councilmembers representing the area in
+which the property is located, the Administrator of the CRA for projects within
+an adopted redevelopment project area, and any organization representing
+property owners or the community in the project vicinity if they request in
+writing to be notified.  Notice shall also be given by at least one publication
+in a newspaper of general circulation in the City, designated for that purpose
+by the City Clerk, not less than 15 days prior to the date of the hearing.
+
+	c.	The Director shall grant, conditionally grant or deny site plan approval
+within sixty (60) days after:
+
+	(1)	the date of filing of an application, or
+
+	(2)	where an EIR is required, the date the EIR is certified as complete.
+
+	This time limit may be extended up to forty-five (45) days by mutual consent of
+the applicant and the Director. The time limit shall also be extended if
+necessary to prepare and process an EIR, as provided in Section 12.25A of this
+Code.
+
+	d.	The Director shall send notice of the determination to the applicant and the
+interested parties listed in Section 16.05G3(b) of the determination by First
+Class Mail. Failure to receive notice shall not invalidate any action taken
+pursuant to this section.  (Amended by Ord. No. 172,489, Eff. 4/16/99.)
+
+	4.	Determination Effective – Appeal.  The determination of the Director
+shall become final after an elapsed period of fifteen (15) days from the date of
+mailing of the determination to the applicant, unless a written appeal is filed
+within such period as provided in Subsection 16.05H. The Director shall notify
+the Department of Building and Safety of the final approval of site plan review.
+
+	5.	Failure to Act – Transfer of Jurisdiction.  (Amended by Ord. No. 173,374,
+Eff. 8/3/00.)  If the Director fails to make a decision on an application
+within the time limit specified in this subsection, the applicant may file a
+request for transfer of jurisdiction to the Area Planning Commission, in which
+case the Director shall lose jurisdiction. The Area Planning Commission shall
+consider the matter following the same procedures and limitations as are
+applicable to the Director.  A request for transfer of jurisdiction may be
+filed in any public office of the Department of City Planning.
+
+	6.	(Deleted by Ord. No. 182,106, Eff. 5/20/12.)
+
+	H.	Appeals.
+
+	1.	Authority.  (Amended by Ord. No. 173,268, Eff. 7/1/00, Oper. 7/1/00.)  The
+Area Planning Commission of the area in which the property is located shall have
+the authority to decide appeals from site plan review decisions made by the
+Director.  Prior to deciding an appeal, the Area Planning Commission shall hold
+a hearing or direct a hearing officer to do so.
+
+	2.	Filing an Appeal.  (Amended by Ord. No. 173,268, Eff. 7/1/00, Oper.
+7/1/00.)  The applicant, any officer, board, department, or bureau of the City,
+or any interested person aggrieved by the decision of the Director may file an
+appeal to the Area Planning Commission.  Appeals shall be in writing and shall
+set forth specifically the reasons why the decision should not be upheld. 
+Appeals shall be filed in any public office of the Department of City Planning,
+upon required forms and accompanied by applicable fees, within 15 days of the
+mailing of the decision to the applicant.  An appeal not properly or timely
+filed shall not be accepted.
+
+	3.	Hearing Notice.  (Amended by Ord. No. 173,268, Eff. 7/1/00, Oper.
+7/1/00.)  Upon receipt of the appeal application, the Area Planning Commission
+Secretary shall set the matter for a public hearing to be held within 30 days of
+the filing of the appeal.  The Secretary shall give notice of the hearing to
+the appellant and to all the other parties specified in Subsection G.3.(b)
+above, within the time and in the manner specified in that subsection.
+
+	4.	Decision.  (Amended by Ord. No. 173,268, Eff. 7/1/00, Oper. 7/1/00.)  The
+Area Planning Commission shall render its decision in writing within 15 days
+after completion of the hearing.  The Area Planning Commission may sustain or
+reverse any decision of the Director, and may establish additional conditions to
+conform with the findings required in Subsection F.  The decision shall be in
+writing and based upon evidence in the record, including testimony and documents
+produced at the hearing before the Area Planning Commission, and supported by
+additional findings as may be required by Section 16.05 F. above.  If the Area
+Planning Commission fails to act within the time specified, the action of the
+Director shall be final.
+
+	5.	Notice.  The Secretary shall notify the Department of Building and Safety
+of final appeal decisions.
+
+	I.	Alternative Thresholds.  (Amended by Ord. No. 172,489, Eff. 4/16/99.)  A
+different threshold from that indicated in Section 16.05 C. of this Code may be
+established within a Community Plan or Specific Plan, or portion thereof, when
+specifically stated in the plan text and only when the plan area contains one or
+more of the following:
+
+	1.	A transportation impacted area;
+
+	2.	An environmentally sensitive area;
+
+	3.	An historically sensitive area; or
+
+	4.	Any other area of special significance which is clearly identified as to its
+significance and the need for a different threshold level.
+
+	J.	Severability.  If any provision or clause of this ordinance or the
+application thereof to any person or circumstance is held to be unconstitutional
+or otherwise invalid by any court of competent jurisdiction, such invalidity
+shall not affect other ordinance provisions, clauses or applications thereof
+which can be implemented without the invalid provision, clause or application,
+and to this end the provisions and clauses of this ordinance are declared to be
+severable.

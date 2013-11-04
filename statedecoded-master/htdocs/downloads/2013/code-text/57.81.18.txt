@@ -1,0 +1,17 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+HEATING DIP TANK LIQUIDS. (§ 57.81.18)
+
+  HEATING DIP TANK LIQUIDS.	When dip tank liquids are heated either by the
+dipping of heated articles or by application of heat to the liquid, the
+following controls shall be provided to prevent excessive temperature, vapor
+accumulation, and autoignition:	A.	Dip tanks shall be equipped with an approved
+manual-reset, excess temperature control unit designed to shut down the heating
+and conveyor systems, if any, upon reaching such excess temperature.  Excess
+temperature shall mean any temperature above which the required ventilation
+system cannot safely handle generated vapors. In no case shall this temperature
+exceed the boiling point, or come within 100°F. of the autoignition temperature
+of the dip tank liquid.	B.	Heating and cooling units for liquids shall be of an
+approved type and maintained in good repair.	C.	Parts shall not be dipped if
+their surface temperature is within 100°F. of the autoignition temperature of
+the dip tank liquid.

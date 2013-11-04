@@ -1,0 +1,238 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+NFPA-14. (§ 94.2020.0)
+
+  NFPA-14.
+	(Amended by Ord. No. 181,757, Eff. 7/6/11.)
+	NFPA 14-2007 is adopted by reference with the following exceptions,
+modifications, and additions:94.2020.1. NFPA 14-2007 Sections 1.3. through 1.3.3
+are not adopted.94.2020.2. NFPA 14-2007 Chapter 2 is not adopted.94.2020.3. NFPA
+14-2007 Sections 3.2. is adopted by reference, except that the following section
+is not adopted:	3.2.2. Authority Having Jurisdiction.94.2020.4. NFPA 14-2007
+Sections 3.3.3. through 3.3.3.2. are not adopted.94.2020.5. NFPA 14-2007 Section
+4.1.3. is not adopted.94.2020.6. NFPA 14-2007 Section 4.5.1.3. is not
+adopted.94.2020.7. NFPA 14-2007 Section 4.6.4. is added and modified to read as
+follows:	4.6.4. Nozzles.  Nozzles provided for Class II standpipe outlets shall
+be listed variable fog nozzles.94.2020.8. NFPA 14-2007 Section 4.8.2. is added
+and modified to read as follows:	4.8.2. Each Fire Department connection shall
+have at least two 2-1/2 inch internal threaded swivel fittings having NH
+standard threads as specified in NFPA 1963, Standard for Screw Threads and
+Gaskets for Fire Hose Connections.	The number of Fire Department hose inlets
+shall be at least as required in Table No. 4.8.2 of this chapter. Fire
+Department connections shall be equipped with caps to protect against entry of
+debris into the system.TABLE 4.8.2
+NUMBER OF FIRE DEPARTMENT CONNECTIONS
+  
+    
+      
+        HEIGHT OF HIGHEST OUTLET ABOVE FIRE DEPARTMENT CONNECTION, FEET
+      
+      
+        NUMBER OF FIRE DEPARTMENT CONNECTIONS
+      
+    
+    
+      
+        1 or 2 Risers
+      
+      
+        3 or more Risers
+      
+    
+    
+      
+        Less than 50
+      
+      
+        2
+      
+      
+        2
+      
+    
+    
+      
+        50 and over
+      
+      
+        4
+      
+      
+        6
+      
+    
+  
+94.2020.9. NFPA 14-2007 Section 5.1.3. is added and modified to read as
+follows:	5.1.3. The spacing and location of standpipes and hose connections
+shall be in accordance with Section 905 of the Building Code.94.2020.10. NFPA
+14-2007 Section 5.1.4. is not adopted.94.2020.11. NFPA 14-2007 Section 5.3.3. is
+added and modified to read as follows:	5.3.3. Class III Systems. Class III is a
+standpipe system directly connected to a water supply and equipped with 2-1/2
+inch outlets or 2-1/2 inch and 1-1/2 inch outlets when a 1-1/2 inch hose is
+required. Hose connections for Class III systems may be made through 2-1/2 hose
+valves with easily removable 2-1/2 inch by 1-1/2 inch reducers.94.2020.12. NFPA
+14-2007 Section 5.5.2. is added and modified to read as follows	5.5.2. A valved
+outlet for a pressure gauge shall be installed on the upstream and downstream
+sides of every pressure regulating device.	EXCEPTION:  Class I and Class III
+hose outlets.94.2020.13. NFPA 14-2007 Section 6.1.2.5. is added and modified to
+read as follows:	6.1.2.5. To minimize or prevent pipe breakage where subject to
+earthquakes, standpipe systems shall be protected in accordance with Section
+94.2010 of this Division.94.2020.14. NFPA 14-2007 Section 6.3.4.1. is added and
+modified to read as follows:	6.3.4.1. Valves shall be within six feet six inches
+of the floor or shall be operable from fixed ladders or clamped tread ladders on
+risers, or use chains within six feet six inches of the floor connected to valve
+hand wheels or other suitable means.94.2020.15. NFPA 14-2007 Section 6.3.7.1 is
+added and modified to read as follows:	6.3.7.1. System water supply valves,
+isolation control valves, and other valves in fire mains shall be supervised in
+an approved manner in the open position by one of the following
+methods:	1.	Where a building has a fire alarm system or a sprinkler monitoring
+system installed, the valve shall be supervised by:	a.	A central station,
+proprietary, or remote supervising station; or	b.	A local signaling service that
+initiates an audible signal at a constantly attended location.	2.	Where a
+building does not have a fire alarm system or a sprinkler monitoring system
+installed, the valve shall be supervised by:	a.	Locking the valves in the open
+position; or	b.	Sealing of valves and a approved weekly recorded inspection
+where valves are located within fenced  enclosures under the control of the
+owner.94.2020.16. NFPA 14-2007 Section 6.4.5.3 is added and modified to read as
+follows:	6.4.5.3. Fire Department inlets shall supply all Class I and Class III
+standpipes except for buildings with multiple zones.	In buildings which have
+multiple zones, each zone shall be provided with separate inlet
+connections.	Where the Fire Department inlet connection does not serve the
+entire building, the portions served shall be suitably identified.	The Fire
+Department connection shall be adequate to supply the required flow and
+pressure.94.2020.17. NFPA 14-2007 Section 7.2.2 is added and modified to read as
+follows:	7.2.2. When system pressure-regulating device(s) are used in lieu of
+providing separate pumps, multiple zones shall be permitted to be supplied by a
+single pumping system and pressure-regulating device(s) under the following
+conditions:	1.	Pressure-regulating device(s) shall be permitted to control
+pressure in the lower division;	2.	A method to isolate the pressure-regulating
+device(s) shall be provided for maintenance and repair;	3.	Regulating devices
+shall be arranged so that the failure of any single device does not allow
+pressure in excess of 175 psi (12.1 bar) to more than two hose
+connections;	4.	An equally sized bypass around the pressure-regulating
+device(s), with a normally closed control valve, shall be
+installed;	5.	Pressure-regulating device(s) shall be installed not more than 7
+ft 6 in (2.31 m) above the floor;	6.	The pressure-regulating device shall be
+provided with inlet and outlet pressure gauges;	7.	The fire department
+connection(s) shall be connected to the system side of the outlet isolation
+valve;	8.	The pressure-regulating device shall be provided with a pressure
+relief valve in accordance with the manufacturers recommendations;	9.	Remote
+monitoring and supervision for detecting high pressure failure of the
+pressure-regulating device shall be provided in accordance with NFPA 72,
+National Fire Alarm Code; and	10.	The pumping system shall be adequate when
+three pumps are out of operation.94.2020.18. NFPA 14-2007 Section 7.3.1.1 is
+added and modified to read as follows:	7.3.1.1. Fire Department Outlets.  Fire
+Department outlets shall be installed so as to be easily accessible for use by
+the Fire Department. Hose connections and hose stations shall be located not
+less than three feet or more than five feet above the floor.  A wrench
+clearance on all sides of the outlet shall be provided to insure that a 12-inch
+long wrench can be used to connect hose to outlet.  There shall be at least
+one-inch clearance around the hose valve handle.  Outlets shall be provided
+with a listed hose valve protected by a 2-1/2 inch by 1-1/2 inch reducer and
+1-1/2 inch cap and attachment chain.94.2020.19. NFPA 14-2007 Section 7.3.2 is
+added and modified to read as follows:	7.3.2. Class I Systems. Class I systems
+shall be provided with 2-1/2 in. (65mm) hose connections in the following
+locations:	1.	At the main floor landing in exit stairways;	2.	On each side of
+the wall adjacent to the exit openings of horizontal exits;	3.	In other than
+covered mall buildings, in each exit passageway at the entrance from the
+building areas to the passageway;	4.	In covered mall buildings, at the entrance
+to each exit passageway or exit corridor, and at the interior side of public
+entrances from the exterior to the mall; and	5.	At the highest landing of
+stairways with stairway access to a roof, or on roofs with a slope of less than
+4 in 12 where stairways do not access the roof.94.2020.20. NFPA 14-2007Section
+7.9 is added and modified to read as follows:	7.9. System Zoning
+Requirements.	7.9.2. Height Limit.  Buildings shall be zoned so that standpipe
+system risers do not exceed 275 feet in height unless control of the nozzle
+pressure under both flow and static conditions is attained at each standpipe
+outlet by the installation of a listed pressure-regulating device and provided
+further that all of the following three limitations are met:	1.	The pressure on
+the listed pressure-regulating device inlet side is not in excess of the rated
+working pressure of the listed pressure-regulating device and the remaining
+portions of the standpipe system are rated for not less than the maximum system
+pressure;	2.	The hose valve outlet pressure is limited as required in Section
+7.2.1.2 of NFPA-14; and	3.	The zone height does not exceed 400 feet.	7.9.3.
+Zoned systems shall comply with Alternate 1 or 2, below:	1.	Alternate 1.  The
+pumping system shall be adequate when three pumps are out of
+operation.	2.	Alternate 2.  Design shall comply with the following:  When fire
+pumps are required, separate fire pumps shall be required to serve each zone. 
+Fire pumps that individually serve separate zones and which are located at the
+same level may be installed in series.  Fire pumps installed in series shall
+serve each zone independently.	7.9.3.1. and 7.9.3.2. are not adopted.	7.9.4.
+Direct supply piping from the higher-zone fire pump to the higher-zone system
+piping shall be provided when the fire pump for the higher zone is on the same
+level as the fire pump serving the lower zone.  Two direct supply lines shall
+be provided to each zone with two or more standpipes.  The size of the direct
+supply piping to each zone shall be not less than the size of the largest
+standpipe riser served.	Lower-zone standpipe piping may be used to supply the
+higher zone and shall not be less than the size of the largest standpipe riser
+of the higher-zone system that is being supplied.  The two zones shall be
+connected by a minimum of two supply pipes of which one shall be automatically
+providing water to the higher zone from the lower zone.  A secondary method of
+supply is required when a residual pressure of 100 psi cannot be
+provided.	7.9.4.1 is not adopted.94.2020.21. NFPA 14-2007 Section 7.10.1.3.1.1
+is added and modified to read as follows:	7.10.1.3.1.1. Where the sprinkler
+system water supply requirement, including the water stream allowance as
+determined in accordance with Section 2010 of this Division, exceeds the system
+demand established by Sections 7.7 and 7.10.1 of NFPA-14, the larger of the two
+values shall be provided.94.2020.22. NFPA 14-2007 Subsections (3) and (5) of
+Section 9.1.5 are not adopted.94.2020.23. NFPA 14-2007 Section 9.2.1 is added
+and modified to read as follows:	9.2.1. Buildings Over 150 Feet
+High.	1.	Redundancy.  The system shall be adequate when either one pump, one
+pump driver, one riser or zone pressure regulator is out of
+operation.	2.	Power.  Pumps shall be either diesel engine or electric motor
+driven. Electric fire pump motors shall be supplied from normal and the
+emergency standby power system.  At least 750 g.p.m. shall be supplied by an
+electric motor driven pump.	If water flow requirements call for more than one
+pump to start, the normal and emergency power shall be sized to run all pumps at
+the same time.  The normal and emergency power system shall have adequate
+capacity and rating for all loads, including the redundant pump(s) to be
+operated simultaneously.  The controller for each unit of multiple pumps shall
+incorporate a sequential timing device to prevent any one driver from starting
+simultaneously with any other.  Failure of a leading driver to start shall not
+prevent subsequent drivers from starting.  Locking out of motors is
+prohibited.94.2020.24. NFPA 14-2007 Section 11.2.3 is added and modified to read
+as follows:	11.2.3. Flushing the System Risers.  Water shall flow from the
+topmost outlet of each riser until the system is clear of all debris.	11.2.3.1.
+Roof Outlets.  Standpipe systems shall be designed so that all risers can be
+flushed through outlets located on the roof.	11.2.3.2. Flow.  All standpipe
+risers shall be flushed individually through the roof at residual pressure of at
+least 65 psi until the system is clear of debris.  The flow for Class I and
+Class III standpipes shall be at least 500 g.p.m. through each riser.94.2020.25.
+NFPA 14-2007 Section 11.5.6.3 is added and modified to read as
+follows:	11.5.6.3. Pressure Regulator Valve Test.	11.5.6.3.1. Test Required. 
+When required by the Department, 2-1/2 inch pressure regulator valves installed
+on standpipe outlets shall be tested for proper operation at a flow of 300
+g.p.m. with a residual pressure of 125 psi in the presence of a representative
+of the Department.	11.5.6.3.2. Safety.  Test nozzles and other equipment shall
+be adequately secured so as to eliminate danger to personnel.	11.5.6.3.3.
+Opening.  An accessible 2-1/2 inch capped or plugged test opening shall be
+installed adjacent to each pressure regulator valve.	11.5.6.3.4. Drain.  The
+test openings shall drain to a minimum 3-inch drain line constructed and
+installed as required for fire sprinkler drains.  The drains shall not
+discharge where they may cause damage.  Where available, drains shall terminate
+to the fire water storage tank. 	11.5.6.3.5. Interconnection.  The test drain
+shall either be separate or connect to a fire sprinkler drain to a fire
+protection tank.94.2020.26. NFPA 14-2007 Chapter 12 is added and modified to
+read as follows:	Buildings Under Construction.	12.1. General. During the
+construction of a building and until the permanent fire-extinguishing system has
+been installed and is in service, fire protection shall be provided in
+accordance with this section.	12.2. Where required.  Every building four
+stories or more in height shall be provided with at least one standpipe for use
+during construction.  The standpipes shall be installed when the progress of
+construction is not more than 40 feet (12.19 m) in height above the lowest level
+of Fire Department access.  The standpipe shall be provided with Fire
+Department hose connections at accessible locations adjacent to usable stairs
+and the standpipe outlets shall be located adjacent to those usable stairs. 
+The standpipe systems shall be extended as construction progresses to within one
+floor of the highest point of construction having secured decking or
+flooring.	In each floor there shall be provided a 2-1/2 inch (63.5 mm) valve
+outlet for Fire Department use.  Where construction height requires
+installation of a Class III standpipe, fire pumps and water main connections
+shall be provided to serve the standpipe.	12.3. Temporary Standpipes. 
+Temporary Standpipes may be provided in place of permanent systems if they are
+designed to furnish a minimum of 500 gallons (1893 L) of water per minute at 50
+pounds per square inch (345 kPa) pressure with a standpipe size of at least four
+inches (102 mm).  All pumping equipment sufficient to provide this pressure and
+volume shall be available at all times when a Class III standpipe system is
+required.	12.4. Detailed Requirements.  Standpipe Systems for buildings under
+construction shall be installed as required for permanent Standpipe Systems.

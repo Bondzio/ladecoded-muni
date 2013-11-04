@@ -1,0 +1,954 @@
+<?xml version="1.0"?>
+<law><section_number>94.2010.0</section_number><edition_id>1</edition_id><section_id>3447</section_id><structure_id>42</structure_id><catch_line>Nfpa-13.</catch_line><history></history><full_text>&#xA0; NFPA-13.
+	(Amended by Ord. No. 181,757, Eff. 7/6/11.)
+
+	NFPA 13-2010 is adopted by reference with the following exceptions and modifications.
+
+94.2010.1. NFPA 13-2010 Section 1.4 is not adopted.
+
+94.2010.2. NFPA 13-2010 Section 3.2 is adopted by reference except that the following sections are not adopted:
+
+	3.2.2. Authority Having Jurisdiction.
+
+	3.2.6. Standard.
+
+94.2010.3. NFPA 13-2010 Section 5.1.3 is added and modified to read as follows:
+
+	5.1.3. Classification of Occupancies. For the purpose of determining the level of protection to be provided by required sprinkler system installations, Table No. 5.1 of this Chapter shall be used.
+
+	For hazard classification other than those indicated, see appropriate nationally recognized standards for design criteria.
+
+	When fire sprinkles systems are required in buildings of undetermined use, they shall be designed and installed to have a sprinkler density of not less than that required of an Ordinary Hazard Group 2 use with a minimum design area of 3,000 square feet. Use is considered undetermined if not specified at the time of permit issued.
+
+	Where a subsequent occupancy requires a system with a greater capability, it shall be the responsibility of the occupant and/or owner to upgrade the system to the required density for the new occupancy.
+
+	5.1.3.1. Group H, Division 5 Occupancies.&#xA0; Where the design area of the sprinklers system consists of a corridor protected by one row of sprinklers, the maximum number of sprinkler required to be calculated is 13.
+
+	5.1.3.2. Group L Occupancies.&#xA0; Research laboratories and similar areas of group L occupancy shall not be less than that required for Ordinary Hazard Group 2 with a design area of not less than 3,000 square feet (279 m2).
+
+TABLE NO. 5.1
+HAZARD CLASSIFICATION
+
+
+  
+    
+      
+        
+        OCCUPANCY OF BUILDING OR PORTION OF BUILDING
+      
+      
+        HAZARD CLASSIFICATION
+      
+    
+    
+      
+        Group A Occupancies used as meeting rooms, library reading rooms, restaurant seating areas, clubs, theaters, museums, health clubs, educational classrooms and churches.
+Group B Occupancies used as offices, data processing areas, colleges and universities.
+Group E Occupancies other than shops and laboratories.
+Group I Occupancy living and sleeping areas
+Group R, Division I Occupancies.1&#xA0; Typically, one would expect that these uses are such that the quantity and combustibility of contents results in relatively low-rate-of-heat-release fires.
+      
+      
+        Light
+      
+    
+    
+      
+        Groups B, F, S and U Occupancies used for light manufacturing, commercial kitchens, laundries, automobile parking garages, bakeries, canneries, electronic plants, beverage manufacturing and glass products manufacturing plants not producing dust or fibers.&#xA0; In mixed occupancies housing group L occupancies, the portions of the building not classified as group L occupancy.&#xA0; Typically these uses are such that the quantity of combustibles is relatively low, the combustibility of contents is moderate, storage does not exceed 8 feet in height, and moderate-rate-of-heat-release fires would be expected.
+      
+      
+        Ordinary
+Group 1
+      
+    
+    
+      
+        Groups B, F, M, and S Occupancies used for chemical plant laboratories, mercantile, machine shops, printing plants, library stack areas, metal working, wood product assembly, textile manufacturing, confectionery products, cold storage warehouses,2 cereal mills, service stations and repair garages.&#xA0; Typically these uses are such that the quantity of combustibles is moderate.&#xA0; The combustibility of contents is moderate, storage does not exceed 12 feet in height 2 and moderate-rate-of-heat-release fires would be expected. 
+Also:
+Group A Occupancies such as exhibition halls.
+Groups B, F and S Occupancies used as tobacco products manufacturing, paper and pulp mills, piers and wharfs, and warehousing2 of higher combustible contents (including packaging).
+Group H Occupancies used as feed mills, tire manufacturing, chemical plants, repair garages and woodworking.&#xA0; Group H, Division 5 Occupancies, except storage rooms with dispensing.&#xA0; Research laboratories and similar areas of group L occupancy. Typically these uses are such that high-rate-of-heat-release fires would be expected and the spread of fire would be rapid.
+      
+      
+        Ordinary
+Group 2
+      
+    
+    
+      
+        Group H Occupancies used for printing (using inks with flashpoints below 100 degrees F.) combustible hydraulic fluid-use areas such as die casting and metal extruding, upholstering with plastic foam, rubber reclaiming, compounding, drying, milling, vulcanizing, plywood and particle board manufacturing, saw mills, textile picking, opening, blending, garneting, carding and combining of cotton, synthetics, wool shoddy or burlap. &#xA0; Typically these uses are such that a significant fire hazard exists.
+      
+      
+        Extra Hazard
+Group 1
+      
+    
+    
+      
+        Group H Occupancies used as asphalt saturating, flammable liquids spraying, flow coating, open oil quenching, varnish and paint dipping, solvent cleaning and manufactured home or modular building manufacturing (where the finished building enclosure is present and has combustible interiors). Storage rooms with dispensing located in Group H, Division 5 Occupancies.&#xA0; These uses are such that a severe fire hazard exits.
+      
+      
+        Extra Hazard
+Group 2 3
+      
+    
+  
+
+
+	1&#xA0; See also Section 8.4.5 of NFPA 13-2010.
+	2&#xA0; For high-piled storage, see NFPA 13-2010.
+	3&#xA0; For additional and more stringent criteria, see California Fire Code Chapters 27, 28, 34, and the Los Angeles Fire Code.
+
+94.2010.4. NFPA 13-2010 Section 6.1.1.2 is not adopted and NFPA 13-2010 Section 6.1.1.1 is modified to read as follows:
+
+	6.1.1.1. All materials and devices shall be listed and approved.
+
+94.2010.5. NFPA 13-2010 Section 6.3.6.1 is added and modified to read as follows:
+
+	6.3.6.1. Other types of pipe or tube, such as plastic, may be used if it is investigated and found to be listed for this service.
+
+94.2010.6. NFPA 13-2010 Section 6.7.1.3.3 is not adopted.
+
+94.2010.7. NFPA 13-2010 Section 6.9.1 is added and modified to read as follows:
+
+	6.9.1. Waterflow alarm apparatus shall be listed for the service and constructed and installed so that any flow of water from a sprinkler system equal to or greater than that from a single automatic sprinkler of the smallest orifice size installed on the system shall result in an audible alarm on the premises within two minutes after the flow begins.
+
+94.2010.8. NFPA 13-2010 Section 6.9.4.1 is added and modified to read as follows:
+
+	6.9.4.1. Electrically operated alarm attachments forming part of an auxiliary, proprietary, remote station or local signaling system shall be installed in accordance with the Los Angeles Fire Code.
+
+94.2010.9. NFPA 13-2010 Section 8.15.1.2.9 is added and modified to read as follows:
+
+	8.15.1.2.9. Concealed spaces with volumes not exceeding 160 cubic feet above a room or aggregate of rooms not exceeding 55 square feet in area, shall not require sprinkler protection.
+
+94.2010.10. Reserved.
+
+94.2010.11. Reserved.
+
+94.2010.12. Reserved.
+
+94.2010.13. NFPA 13-2010 Section 8.15.1.2.15 is added and modified to read as follows:
+
+	8.15.1.2.15. Exterior columns under 10 ft2 (0.93 m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system, shall not require sprinkler protection.
+
+94.2010.14. NFPA 13-2010 Sections 8.15.4.1 through 8.15.4.5 are not adopted and Section 8.15.4 is added and modified to read as follows:
+
+	8.15.4. Water curtains shall consist of closely spaced sprinklers in combination with draft stops. The draft stops shall be located immediately adjacent to the opening shall be at least 18 inches deep and shall be of noncombustible or limited-combustible material that will stay in place before and during sprinkler operation.&#xA0; Sprinklers shall be spaced not more than six feet apart and placed six to 12 inches from the draft stop on the side away from the opening.&#xA0; Where sprinklers are closer than six feet, cross baffles shall be provided in accordance with Section 8.6.3.4.2 of NFPA-13.
+
+94.2010.15. NFPA 13-2010 Section 8.15.7.1 is added and modified to read as follows:
+
+	8.15.7.1. Unless the requirements of 8.15.7.2&#xA0; and 8.15.7.3 are met sprinklers shall be installed under exterior roofs, canopies, porte-cocheres, balconies, decks or similar projections exceeding 4 ft (1.2 m) in width.
+
+94.2010.16. NFPA 13-2010 Section 8.15.7.2 is added and modified to read as follows:
+
+	8.15.7.2. Sprinklers shall be permitted to be omitted where the canopies, roofs, balconies, decks, or similar projections are constructed with materials that are noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire Retardant Coatings for Building Materials.
+
+94.2010.17. NFPA 13-2010 Section 8.15.7.3 is added and modified to read as follows:
+
+	8.15.7.3. Sprinklers shall be permitted to be omitted from below the canopies, roofs, balconies, decks, or similar projections of combustible construction, provided the exposed finish material on the roof, or canopy, is noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire-Retardant Coatings for Building Materials, and the roofs, or canopies, contains only sprinklered concealed spaces or any of the following unsprinklered combustible concealed spaces:
+
+	1.	Combustible concealed spaces filled entirely with noncombustible insulation.
+
+	2.	Light or ordinary hazard occupancies where noncombustible or limited-combustible ceilings are directly attached to the bottom of solid wood joists so as to create enclosed joist spaces 160 ft3 (4.5 m3) or less in volume, including space below insulation that is laid directly on top or within the ceiling joists in an otherwise sprinklered attic [See 11.2.3.1.4(4)(d)].
+
+	3.	Concealed spaces over isolated small roofs, or canopies, not exceeding 55 ft2.
+
+94.2010.18. NFPA 13-2010 Section 8.15.7.4 is not adopted.
+
+94.2010.19. Reserved.
+
+94.2010.20. NFPA 13-2010 Section 8.16.1.1.1.4 is added and modified to read as follows:
+
+	8.16.1.1.1.4. Where a system includes floor control valves, a hydraulic design information sign containing information for the floor shall be provided at each floor control valve.&#xA0; A hydraulic design information sign shall be provided for each area calculated.&#xA0; The installing contractor shall identify a hydraulically designed sprinkler system with a permanently marked weatherproof metal or rigid plastic sign secured with corrosion resistant wire, chain, or other approved means.&#xA0; Such signs shall be placed at the alarm valve, dry pipe valve, pre-action valve, or deluge valve supplying the corresponding hydraulically designed area.
+
+94.2010.21. NFPA 13-2010 Section 8.16.1.1.1.5 is added and modified to read as follows:
+
+	8.16.1.1.1.5. Control valves, check valves, drain valves, antifreeze valves shall be readily accessible for inspection, testing, and maintenance.&#xA0; Valves located more than 6&#x2032;-6&amp;&#x2033; above the finished floor shall be provided with a means of opening and closing the valve from the floor level.
+
+94.2010.22. NFPA 13-2010 Section 8.16.1.1.2.5 is added and modified to read as follows:
+
+	8.16.1.1.2.5. All valves controlling the water supply for automatic sprinkler systems and water-flow switches on all sprinkler systems shall be electrically monitored where required by the Los Angeles Building Code Section 91.903.4 and 91.903.4.1.
+
+	EXCEPTION:&#xA0; Underground key or hub valves in roadway boxes provided by the municipality or public utility need not be monitored.
+
+94.2010.23. NFPA 13-2010 Section 8.16.1.1.7 is added and modified to read as follows:
+
+	8.16.1.1.7. Valve Access.&#xA0; All valves controlling water supplies for sprinkler systems or portions of the system shall be accessible.&#xA0; These valves shall be within six feet six inches of the floor or shall be operable from fixed ladders or clamped tread ladders on risers, or use chains within six feet six inches of the floor connected to valve hand wheels or other suitable means.&#xA0; All valves shall be provided with adequate clearance for normal operation.
+
+94.2010.24. NFPA 13-2010 Section 8.16.1.1.9 is added and modified to read as follows:
+
+	8.16.1.1.9. Floor (Level) Control Valves.
+
+	1.	Where required.&#xA0; In buildings with over two levels or two floors, a supervised valve capable of independently controlling the fire sprinkler system on each level, penthouse, roof structure, mezzanine and basement shall be installed.&#xA0; The maximum area covered by a single floor control valve shall not exceed the areas specified in section 8.2 of NFPA 13-2010.
+
+	EXCEPTIONS:
+
+	1.	Floor control valves need not be provided for levels, penthouses, roof structures, mezzanines and basement with 20 or fewer fire sprinklers.
+
+	2.	In partially sprinklered buildings, sprinklers serving window openings along an exit way or property line, or stair shafts and adjacent doors may have a sectional control valve to control the system in each of these areas instead of a floor control valve.
+
+	3.	Valves required for hazardous locations may be located downstream of floor control valves.
+
+	4.	One- and two-family dwellings.
+
+	2.	Locations.&#xA0; Floor control valves shall be within a stairway enclosure or within the vestibule or on the access balcony of a smoke proof enclosure.
+
+	EXCEPTIONS:
+
+	1.	In buildings with three or fewer stories or where there is no stairway that serves a floor, control valves may be located elsewhere on the floor level.
+
+	2.	Unenclosed stairways in parking garages.
+
+94.2010.25. NFPA 13-2010 Section 8.16.1.1.10 is added and modified to read as follows:
+
+	8.16.1.1.10. Special Hazard Locations and Hazardous Occupancies.&#xA0; The piping serving each linen chute, each paint spray booth, each trash chute, including trash room, and each separate trash room shall be controlled by valves that control no other sprinklers.
+
+94.2010.26. NFPA 13-2010 Section 8.16.1.2.6 is added and modified to read as follows:
+
+	8.16.1.2.6. Identification Pressure Regulators.&#xA0; Signs shall be posted at pressure regulators for fire sprinklers stating the required setting of the pressure regulator.
+
+94.2010.27. NFPA 13-2010 Section 8.16.1.5.1 is added and modified to read as follows:
+
+	8.16.1.5.1. Private fire service main systems shall have sectional fire control valves at appropriate points in order to permit sectionalizing the system in the event of break or for the making of repairs or extensions.
+
+94.2010.28. NFPA 13-2010 Section 8.16.1.5.1.1 is added and modified to read as follows:
+
+	8.16.1.5.1.1. Sectional control valves are not required when the fire service main system serves less than six fire appurtenances.
+
+94.2010.29. NFPA 13-2010 Section 8.16.1.5.1.2. is added and modified to read as follows:
+
+	8.16.1.5.1.2. Sectional control valves shall be indicating valves in accordance with Section 6.7.1.3. NFPA 13-2010.
+
+94.2010.30. NFPA 13-2010 Section 8.16.1.5.1.3. is added and modified to read as follows:
+
+	8.16.1.5.1.3. Sectional control valves shall be located so that no more than five fire appurtenances are affected by shut-down of any single portion of the fire service main.&#xA0; Each fire hydrant, fire sprinkler system riser, and standpipe riser shall be considered a separate fire appurtenance.&#xA0; In-rack sprinkler systems shall not be considered as a separate appurtenance.
+
+94.2010.31. NFPA 13-2010 Section 8.16.1.5.1.4 is added and modified to read as follows:
+
+	8.16.1.5.1.4. The number of fire appurtenances between sectional control valves is allowed to be modified by the authority having jurisdiction.
+
+94.2010.32. NFPA 13-2010 Section 8.16.1.5.1.5 is added and modified to read as follows:
+
+	8.16.1.5.1.5. Looped underground systems shall be provided with sectional valves regardless of the number of appurtenances.
+
+94.2010.33. NFPA 13-2010 Section 8.16.1.5.2 is added and modified to read as follows:
+
+	8.16.1.5.2. A valve shall be provided on each bank where a main crosses a body of water or outside the building foundation(s) where the main or section of main runs under a building.
+
+94.2010.34. NFPA 13-2010 Section 8.16.4.2.4 is not adopted.
+
+94.2010.35. NFPA 13-2010 Section 8.17.1.1 is added and modified to read as follows:
+
+	8.17.1.1. Local water-flow alarms shall be provided on each sprinkler system having more than five sprinklers and shall be located in an area approved by the Administrative Authority.
+
+94.2010.36. NFPA 13-2010 Sections 9.1.1.2 and 9.1.1.3 are not adopted, and NFPA 13-2010 Section 9.1.1.1 is added and modified to read as follows:
+
+	9.1.1.1. General.&#xA0; Types of hangers shall be in accordance with the requirements of Section 9.1 of NFPA 13-2010.
+
+	EXCEPTION:&#xA0; Hangers designed by a registered structural or civil engineer for lateral loads in accordance with Section 1613 of the Building Code and the requirements of Section 9.3.7 of NFPA 13-2010 shall be acceptable.
+
+94.2010.37. NFPA 13-2010 Section 9.1.1.4.3 is added and modified to read as follows:
+
+	9.1.1.4.3. Fasteners as specified in 9.1.4 and 9.1.5 shall be permitted to be not listed.
+
+94.2010.38. NFPA 13-2010 Section 9.1.3.1 is added and modified to read as follows:
+
+	9.1.3.1. Unless prohibited by 9.1.3.2 or 9.1.3.3, the use of listed inserts set in concrete and listed post- installed anchors to support hangars shall be permitted for mains and branch lines provided they meet the requirements of the LABC Sections 91.1613 and 91.1912 and require special inspection as required by Section 91.1704 of the LABC and installed in conformance with all listing requirements.
+
+94.2010.39. NFPA 13-2010 Section 9.1.3.9.1.1 is added and modified to read as follows:
+
+	9.1.3.9.1.1. Powder-driven studs used for attaching hangers to the building structure are prohibited in Seismic design Categories C, D, E and F.
+
+94.2010.40. NFPA 13-2010 Section 9.3.5.6.1 is added and modified to read as follows:
+
+	9.3.5.6.1. Unless the requirements of section 9.3.5.6.2 are met, the horizontal loads for braces shall be determined by analysis based on horizontal force of Fp=0.76 Wp, where Fp is the horizontal force factor and Wp is 1.15 times the weight of the water filled piping.
+
+94.2010.41. NFPA 13-2010 Section 9.3.5.8.7 is added and modified to read as follows:
+
+	9.3.5.8.7. Where pipe is used for sway bracing, it shall have a wall thickness of not less than Schedule 40. The loads determined in 9.3.5.6 shall not exceed the lesser of the maximum&#xA0; allowable loads provided in Table 9.3.5.8.7(a), Table 9.3.5.8.7(b), and Table 9.3.5.8.7(c) or the manufacturer&#x2019;s certified maximum allowable horizontal loads for 30- to 44-degree, 45- to 59-degree, 60- to 89-degree, and 90-degree brace angles.
+
+94.2010.42. NFPA 13-2010 Section 9.3.5.8.10 is not adopted.
+
+94.2010.43. NFPA 13-2010 Section 9.3.5.9.4 is added and modified to read as follows:
+
+	9.3.5.9.4. Where lag screws or power-driven fasteners shall not be used to attach sway braces to the building structure.
+
+94.2010.44. NFPA 13-2010 Section 9.3.5.9.6 is added and modified to read as follows:
+
+	9.3.5.9.6. Fastening methods other than those identified in 9.3.5.9 and 9.3.5.8.10 shall not apply to other fastening methods, which shall be acceptable for use if certified by a registered professional engineer to support the loads determined in accordance with the criteria in 9.3.5.6. Calculations shall be submitted to the authority having jurisdiction.
+
+94.2010.45. NFPA 13-2010 Section 9.3.5.9.7.2 is added and modified to read as follows:
+
+	9.3.5.9.7.2. Concrete anchors other than those shown in Figure 9.3.5.9.1 and identified in 9.3.5.8.10 shall be acceptable for use where designed in accordance with the requirements of the building code and certified by a registered professional engineer.&#xA0;
+
+94.2010.46. NFPA 13-2010 Section 9.3.6.1(3) is added and modified to read as follows:
+
+	9.3.6.1(3). No. 12,440 lb (200Kg) wire installed at least 45 degrees from the vertical plane and anchored on both sides of the pipe. Powder-driven fasteners for attaching restraint are allowed to be used provided that the restraint component does not support the dead load.
+
+94.2010.47. NFPA 13-2010 Section 9.3.7.7 is not adopted.
+
+94.2010.48. NFPA 13-2010 Section 9.3.7.9 is amended and modified to read as follows:
+
+	9.3.7.9. The systems are required to be protected against earthquakes using a horizontal force factor exceeding 0.50 Wp, where Wp is the weight of the water-filled pipe.
+
+94.2010.49. NFPA 13-2010 Section 10.6.5. is added and modified to read as follows:
+
+	10.6.5. Pipe joints shall not be located under foundation footings.&#xA0; The pipe under the building or building foundation shall not contain mechanical joints.
+
+	EXCEPTIONS:
+
+	1.	Where allowed in accordance with 10.6.2;
+
+	2.	Alternate designs may be utilized where designed by a registered professional engineer and approved by the enforcing agency.
+
+94.2010.50. NFPA 13-2010 Section 10.9.1 is added and modified to read as follows:
+
+	10.9.1. Backfill shall be well tamped in layers or puddle under and around pipes to prevent settlement or lateral movement.&#xA0; Backfill shall consist of clean fill sand or pea gravel to a minimum of 6&amp;&#x2033; below and to a minimum of 12&amp;&#x2033; above the pipe and shall contain no ashes cinders, refuse, organic matter, or other corrosive materials.&#xA0; Other backfill materials and methods are permitted where designed by a registered professional engineer and approved by the enforcing agency.
+
+94.2010.51. NFPA 13-2010 Section 11.1.6.6 is added and modified to read as follows:
+
+	11.1.6.6. When hose valves for Fire Department use are attached to wet pipe sprinkler system risers in accordance with Section 8.17.5.2 of NFPA 13-2010:
+
+	1.	The water supply shall not be required to be added to the standpipe demand as determined from Section 94.2020 of this chapter.
+
+	2.	 Where the combined sprinkler system demand and hose stream allowance of Table 11.2.3.1.2 of NFPA 13-2010 exceeds the requirements of Section 94.2020 of this division, this higher demand shall be used.
+
+	3.	 For partially sprinklered buildings, the sprinkler demand, not including hose stream allowance, as indicated in Table 11.2.3.1.1 of NFPA 13-2010, shall be added to the requirements given in Section 94.2020 of this Division.
+
+94.2010.52. NFPA 13-2010 Section 11.2.3.1.4(4)(i) is added and modified to read as follows:
+
+	11.2.3.1.4(4)(i). Exterior columns under 10 ft2 (0.93 m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system.
+
+94.2010.53. NFPA 13-2010 Section 11.2.3.2.3.1 is added and modified to read as follows:
+
+	11.2.3.2.3.1. Where listed quick-response sprinklers, excluding extended coverage quick-response sprinklers, are used throughout a system or portion of a system having the same hydraulic design basis, the system area of operation shall be permitted to be reduced without revising the density as indicated in Figure 11.2.3.2.3.1 when all of the following conditions are satisfied:
+
+	1.	 Wet pipe system;
+
+	2.	Light hazard occupancy;
+
+	3.	20 ft (6.1 m) maximum ceiling height; and
+
+	4.	There are no unprotected ceiling pockets as allowed by Sections 8.6.7 and 8.8.7 exceeding 32 ft2 (3 m2).
+
+94.2010.54. NFPA 13-2010 Section 11.2.3.2.3.2 is added and modified to read as follows:
+
+	11.2.3.2.3.2. The number of sprinklers in the design area shall never be less than seven.
+
+94.2010.55. NFPA 13-2010 Section 11.3.3.5 is added and modified to read as follows:
+
+	11.3.3.5. When the water curtain is located in an otherwise un-sprinklered area, the design shall include all the sprinklers in each fire separation area being protected.
+
+94.2010.56. NFPA 13-2010 Section 12.2.1 is added and modified to read as follows:
+
+	12.2.1. Except as allowed by section 12.2.2, small hose connections 1 1/2 (38 mm) shall be provided where the system is not subject to freezing in accordance with 8.17.5 for first-aid-fire-fighting and overhaul operations.
+
+94.2010.57. NFPA 13-2010 Section 23.1.7 is not adopted.
+
+94.2010.58. NFPA 13-2010 Section 24.1 is added and modified to read as follows:
+
+	24.1. Approval of Sprinkler Systems and Private Fire Service Mains.&#xA0; The installing contractor shall do the following:
+
+	1.	Notify the authority having jurisdiction and the property owner or property owner&#x2019;s authorized representative of the time and date testing will be performed;
+
+	2.	Perform all required testing (see Section 24.2);
+
+	3.	Complete and sign the appropriate contractor&#x2019;s material and test certificate(s) (see Figure 24.1);
+
+	4.	Remove all caps and straps prior to placing the sprinkler system in service; and
+
+	5.	Upon system acceptance by the authority having jurisdiction a label prescribed by Title 19 California Code of Regulations, Chapter 5 shall be affixed to each system riser.
+
+94.2010.59. NFPA 13-2010 Section 24.4 is added and modified to read as follows:
+
+	24.4. Instructions.&#xA0; The installing contractor shall provide the property owner or the property owner&#x2019;s authorized representative with the following:
+
+	1.	 All literature and instructions provided by the manufacturer describing proper operation and maintenance of any equipment and devices installed;
+
+	2. 	NFPA 25, Standard for the inspection, testing, and maintenance of Water-Based Fire Protection Systems, 2006 California Edition; and
+
+	3.	Title 19, California Code of Regulations, Chapter 5, &#x201C;Fire Extinguishing Systems.&#x201D;
+
+94.2010.60. NFPA 13-2010 Section 24.5.1 is added and modified to read as follows:
+
+	24.5.1. &#x201C;Pipe schedule systems shall be provided with a sign indicating that the system was designed and installed as a pipe schedule system and the hazard classification(s) included in the design.&#x201D;
+
+94.2010.61. NFPA 13-2010 Section 24.5.2 is added and modified to read as follows:
+
+	24.5.2. The sign shall include the following information:
+
+	1.	Location of the design area or areas;
+
+	2.	Discharge densities over the design area or areas;
+
+	3.	 Required flow and pressure of the system at the base of the riser;
+
+	4.	Presence of high piled storage;
+
+	5.	Maximum height of storage planned;
+
+	6.	Aisle width planned;
+
+	7.	Required flow and pressure of the system at the water supply source;
+
+	8.	Required flow and pressure of the system at the discharge side of the fire pump where a fire pump is installed;
+
+	9.	Type or types and number of sprinklers or nozzles installed including the orifice size, temperature rating, orientation, K-Factor, Sprinkler Identification Number (SIN) for sprinkler heads when applicable and response type;
+
+	10.	The minimum discharge flow rate and pressure required from the hydraulically most demanding sprinkler;
+
+	11.	The required pressure settings for pressure reducing valves;
+
+	12.	For deluge sprinkler systems, the required flow and pressure at the hydraulically most demanding sprinkler or nozzle;
+
+	13.	The protection area per sprinkler based on the hydraulic calculations; and
+
+	14.	The edition of NFPA 13 to which the system was designed and installed.</full_text><order_by>2010.0</order_by><ancestry><unit id="42" label="article"><name>Plumbing Code</name><identifier>4</identifier><url>/9/4/</url></unit><unit id="3" label="chapter"><name>Building Regulations</name><identifier>9</identifier><url>/9/</url></unit></ancestry><structure_contents><unit id="2313"><structure_id>42</structure_id><section_number>94.100.0</section_number><catch_line>
+
+</catch_line><url>/94.100.0/</url><token>94.100.0</token></unit><unit id="1849"><structure_id>42</structure_id><section_number>94.101.0</section_number><catch_line>Title, Scope And General.</catch_line><url>/94.101.0/</url><token>94.101.0</token></unit><unit id="3861"><structure_id>42</structure_id><section_number>94.102.0</section_number><catch_line>Organization And Enforcement.</catch_line><url>/94.102.0/</url><token>94.102.0</token></unit><unit id="246"><structure_id>42</structure_id><section_number>94.103.0</section_number><catch_line>Permits And Inspections.</catch_line><url>/94.103.0/</url><token>94.103.0</token></unit><unit id="2850"><structure_id>42</structure_id><section_number>94.201.0</section_number><catch_line>General.</catch_line><url>/94.201.0/</url><token>94.201.0</token></unit><unit id="711"><structure_id>42</structure_id><section_number>94.202.0</section_number><catch_line>Definition Of Terms.</catch_line><url>/94.202.0/</url><token>94.202.0</token></unit><unit id="750"><structure_id>42</structure_id><section_number>94.203.0</section_number><catch_line>A.</catch_line><url>/94.203.0/</url><token>94.203.0</token></unit><unit id="336"><structure_id>42</structure_id><section_number>94.204.0</section_number><catch_line>B.</catch_line><url>/94.204.0/</url><token>94.204.0</token></unit><unit id="3752"><structure_id>42</structure_id><section_number>94.205.0</section_number><catch_line>C.</catch_line><url>/94.205.0/</url><token>94.205.0</token></unit><unit id="1300"><structure_id>42</structure_id><section_number>94.206.0</section_number><catch_line>D.</catch_line><url>/94.206.0/</url><token>94.206.0</token></unit><unit id="151"><structure_id>42</structure_id><section_number>94.207.0</section_number><catch_line>E.</catch_line><url>/94.207.0/</url><token>94.207.0</token></unit><unit id="1665"><structure_id>42</structure_id><section_number>94.208.0</section_number><catch_line>F.</catch_line><url>/94.208.0/</url><token>94.208.0</token></unit><unit id="3619"><structure_id>42</structure_id><section_number>94.209.0</section_number><catch_line>G.</catch_line><url>/94.209.0/</url><token>94.209.0</token></unit><unit id="426"><structure_id>42</structure_id><section_number>94.210.0</section_number><catch_line>H.</catch_line><url>/94.210.0/</url><token>94.210.0</token></unit><unit id="1815"><structure_id>42</structure_id><section_number>94.211.0</section_number><catch_line>I.</catch_line><url>/94.211.0/</url><token>94.211.0</token></unit><unit id="2548"><structure_id>42</structure_id><section_number>94.212.0</section_number><catch_line>J.</catch_line><url>/94.212.0/</url><token>94.212.0</token></unit><unit id="4155"><structure_id>42</structure_id><section_number>94.213.0</section_number><catch_line>K.</catch_line><url>/94.213.0/</url><token>94.213.0</token></unit><unit id="472"><structure_id>42</structure_id><section_number>94.214.0</section_number><catch_line>L.</catch_line><url>/94.214.0/</url><token>94.214.0</token></unit><unit id="709"><structure_id>42</structure_id><section_number>94.215.0</section_number><catch_line>M.</catch_line><url>/94.215.0/</url><token>94.215.0</token></unit><unit id="1581"><structure_id>42</structure_id><section_number>94.216.0</section_number><catch_line>N.</catch_line><url>/94.216.0/</url><token>94.216.0</token></unit><unit id="4125"><structure_id>42</structure_id><section_number>94.217.0</section_number><catch_line>O.</catch_line><url>/94.217.0/</url><token>94.217.0</token></unit><unit id="478"><structure_id>42</structure_id><section_number>94.218.0</section_number><catch_line>P.</catch_line><url>/94.218.0/</url><token>94.218.0</token></unit><unit id="1539"><structure_id>42</structure_id><section_number>94.219.0</section_number><catch_line>Q.</catch_line><url>/94.219.0/</url><token>94.219.0</token></unit><unit id="832"><structure_id>42</structure_id><section_number>94.220.0</section_number><catch_line>R.</catch_line><url>/94.220.0/</url><token>94.220.0</token></unit><unit id="2012"><structure_id>42</structure_id><section_number>94.221.0</section_number><catch_line>S.</catch_line><url>/94.221.0/</url><token>94.221.0</token></unit><unit id="4152"><structure_id>42</structure_id><section_number>94.222.0</section_number><catch_line>T.</catch_line><url>/94.222.0/</url><token>94.222.0</token></unit><unit id="441"><structure_id>42</structure_id><section_number>94.223.0</section_number><catch_line>U.</catch_line><url>/94.223.0/</url><token>94.223.0</token></unit><unit id="2778"><structure_id>42</structure_id><section_number>94.224.0</section_number><catch_line>V.</catch_line><url>/94.224.0/</url><token>94.224.0</token></unit><unit id="1589"><structure_id>42</structure_id><section_number>94.225.0</section_number><catch_line>W.</catch_line><url>/94.225.0/</url><token>94.225.0</token></unit><unit id="1737"><structure_id>42</structure_id><section_number>94.226.0</section_number><catch_line>X.</catch_line><url>/94.226.0/</url><token>94.226.0</token></unit><unit id="3331"><structure_id>42</structure_id><section_number>94.227.0</section_number><catch_line>Y.</catch_line><url>/94.227.0/</url><token>94.227.0</token></unit><unit id="771"><structure_id>42</structure_id><section_number>94.228.0</section_number><catch_line>Z.</catch_line><url>/94.228.0/</url><token>94.228.0</token></unit><unit id="132"><structure_id>42</structure_id><section_number>94.300.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.300.0/</url><token>94.300.0</token></unit><unit id="3599"><structure_id>42</structure_id><section_number>94.400.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.400.0/</url><token>94.400.0</token></unit><unit id="3140"><structure_id>42</structure_id><section_number>94.500.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.500.0/</url><token>94.500.0</token></unit><unit id="422"><structure_id>42</structure_id><section_number>94.600.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.600.0/</url><token>94.600.0</token></unit><unit id="1461"><structure_id>42</structure_id><section_number>94.700.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.700.0/</url><token>94.700.0</token></unit><unit id="4129"><structure_id>42</structure_id><section_number>94.800.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.800.0/</url><token>94.800.0</token></unit><unit id="1613"><structure_id>42</structure_id><section_number>94.900.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.900.0/</url><token>94.900.0</token></unit><unit id="3387"><structure_id>42</structure_id><section_number>94.1000.0</section_number><catch_line>General.</catch_line><url>/94.1000.0/</url><token>94.1000.0</token></unit><unit id="2213"><structure_id>42</structure_id><section_number>94.1100.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.1100.0/</url><token>94.1100.0</token></unit><unit id="555"><structure_id>42</structure_id><section_number>94.1201.0</section_number><catch_line>General.</catch_line><url>/94.1201.0/</url><token>94.1201.0</token></unit><unit id="3675"><structure_id>42</structure_id><section_number>94.1202.0</section_number><catch_line>Definitions.</catch_line><url>/94.1202.0/</url><token>94.1202.0</token></unit><unit id="3335"><structure_id>42</structure_id><section_number>94.1203.0</section_number><catch_line>Workmanship.</catch_line><url>/94.1203.0/</url><token>94.1203.0</token></unit><unit id="1585"><structure_id>42</structure_id><section_number>94.1204.0</section_number><catch_line>Inspection.</catch_line><url>/94.1204.0/</url><token>94.1204.0</token></unit><unit id="2649"><structure_id>42</structure_id><section_number>94.1205.0</section_number><catch_line>Certificate Of Inspection.</catch_line><url>/94.1205.0/</url><token>94.1205.0</token></unit><unit id="2473"><structure_id>42</structure_id><section_number>94.1206.0</section_number><catch_line>Authority To Render Gas Service.</catch_line><url>/94.1206.0/</url><token>94.1206.0</token></unit><unit id="73"><structure_id>42</structure_id><section_number>94.1207.0</section_number><catch_line>Authority To Disconnect.</catch_line><url>/94.1207.0/</url><token>94.1207.0</token></unit><unit id="3574"><structure_id>42</structure_id><section_number>94.1208.0</section_number><catch_line>Temporary Use Of Gas.</catch_line><url>/94.1208.0/</url><token>94.1208.0</token></unit><unit id="3819"><structure_id>42</structure_id><section_number>94.1209.0</section_number><catch_line>Gas Meter Locations.</catch_line><url>/94.1209.0/</url><token>94.1209.0</token></unit><unit id="2338"><structure_id>42</structure_id><section_number>94.1210.0</section_number><catch_line>Material For Gas Piping.</catch_line><url>/94.1210.0/</url><token>94.1210.0</token></unit><unit id="3388"><structure_id>42</structure_id><section_number>94.1211.0</section_number><catch_line>Installation Of Gas Piping.</catch_line><url>/94.1211.0/</url><token>94.1211.0</token></unit><unit id="1729"><structure_id>42</structure_id><section_number>94.1212.0</section_number><catch_line>Appliance Connectors.</catch_line><url>/94.1212.0/</url><token>94.1212.0</token></unit><unit id="3825"><structure_id>42</structure_id><section_number>94.1213.0</section_number><catch_line>Liquified Petroleum Gas Facilities And Piping.</catch_line><url>/94.1213.0/</url><token>94.1213.0</token></unit><unit id="2043"><structure_id>42</structure_id><section_number>94.1214.0</section_number><catch_line>Leaks.</catch_line><url>/94.1214.0/</url><token>94.1214.0</token></unit><unit id="837"><structure_id>42</structure_id><section_number>94.1215.0</section_number><catch_line>Interconnection Of Gas Piping Systems.</catch_line><url>/94.1215.0/</url><token>94.1215.0</token></unit><unit id="566"><structure_id>42</structure_id><section_number>94.1216.0</section_number><catch_line>Required Gas Supply.</catch_line><url>/94.1216.0/</url><token>94.1216.0</token></unit><unit id="3127"><structure_id>42</structure_id><section_number>94.1217.0</section_number><catch_line>Required Gas Piping Size.</catch_line><url>/94.1217.0/</url><token>94.1217.0</token></unit><unit id="4184"><structure_id>42</structure_id><section_number>94.1218.0</section_number><catch_line>Medium Pressure Gas Piping Systems.</catch_line><url>/94.1218.0/</url><token>94.1218.0</token></unit><unit id="2329"><structure_id>42</structure_id><section_number>94.1219.0</section_number><catch_line>Seismic Gas And Excess Flow Shut Off Valves.</catch_line><url>/94.1219.0/</url><token>94.1219.0</token></unit><unit id="2698"><structure_id>42</structure_id><section_number>94.1300.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.1300.0/</url><token>94.1300.0</token></unit><unit id="3808"><structure_id>42</structure_id><section_number>94.1400.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.1400.0/</url><token>94.1400.0</token></unit><unit id="2125"><structure_id>42</structure_id><section_number>94.1500.0</section_number><catch_line>General.</catch_line><url>/94.1500.0/</url><token>94.1500.0</token></unit><unit id="2706"><structure_id>42</structure_id><section_number>94.1600.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.1600.0/</url><token>94.1600.0</token></unit><unit id="96"><structure_id>42</structure_id><section_number>94.1700.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.1700.0/</url><token>94.1700.0</token></unit><unit id="84"><structure_id>42</structure_id><section_number>94.1800.0</section_number><catch_line>Basic Provisions.</catch_line><url>/94.1800.0/</url><token>94.1800.0</token></unit><unit id="690"><structure_id>42</structure_id><section_number>94.2000.0</section_number><catch_line>General.</catch_line><url>/94.2000.0/</url><token>94.2000.0</token></unit><unit id="2939"><structure_id>42</structure_id><section_number>94.2001.0</section_number><catch_line>Scope.</catch_line><url>/94.2001.0/</url><token>94.2001.0</token></unit><unit id="3531"><structure_id>42</structure_id><section_number>94.2002.0</section_number><catch_line>Adopted Standards.</catch_line><url>/94.2002.0/</url><token>94.2002.0</token></unit><unit id="1125"><structure_id>42</structure_id><section_number>94.2003.0</section_number><catch_line>Definitions.</catch_line><url>/94.2003.0/</url><token>94.2003.0</token></unit><unit id="551"><structure_id>42</structure_id><section_number>94.2004.0</section_number><catch_line>Material And Devices, All Fire Protection Systems.</catch_line><url>/94.2004.0/</url><token>94.2004.0</token></unit><unit id="2485"><structure_id>42</structure_id><section_number>94.2005.0</section_number><catch_line>Location.</catch_line><url>/94.2005.0/</url><token>94.2005.0</token></unit><unit id="3293"><structure_id>42</structure_id><section_number>94.2006.0</section_number><catch_line>Protection From Mechanical Damage.</catch_line><url>/94.2006.0/</url><token>94.2006.0</token></unit><unit id="1044"><structure_id>42</structure_id><section_number>94.2007.0</section_number><catch_line>Drainage Requirement Fire Protection Systems.</catch_line><url>/94.2007.0/</url><token>94.2007.0</token></unit><unit id="3447"><structure_id>42</structure_id><section_number>94.2010.0</section_number><catch_line>Nfpa-13.</catch_line><url>/94.2010.0/</url><token>94.2010.0</token></unit><unit id="3193"><structure_id>42</structure_id><section_number>94.2011.0</section_number><catch_line>Pilot Heads.</catch_line><url>/94.2011.0/</url><token>94.2011.0</token></unit><unit id="1398"><structure_id>42</structure_id><section_number>94.2012.0</section_number><catch_line>Compact Storage (Moveable Files).</catch_line><url>/94.2012.0/</url><token>94.2012.0</token></unit><unit id="3327"><structure_id>42</structure_id><section_number>94.2013.0</section_number><catch_line>Nfpa-13-R.</catch_line><url>/94.2013.0/</url><token>94.2013.0</token></unit><unit id="3911"><structure_id>42</structure_id><section_number>94.2014.0</section_number><catch_line>Nfpa-13-D.</catch_line><url>/94.2014.0/</url><token>94.2014.0</token></unit><unit id="1773"><structure_id>42</structure_id><section_number>94.2020.0</section_number><catch_line>Nfpa-14.</catch_line><url>/94.2020.0/</url><token>94.2020.0</token></unit><unit id="3682"><structure_id>42</structure_id><section_number>94.2021.0</section_number><catch_line>Class H Standpipes.</catch_line><url>/94.2021.0/</url><token>94.2021.0</token></unit><unit id="2337"><structure_id>42</structure_id><section_number>94.2030.0</section_number><catch_line>Fire Pumps And Drivers.</catch_line><url>/94.2030.0/</url><token>94.2030.0</token></unit><unit id="2751"><structure_id>42</structure_id><section_number>94.2040.0</section_number><catch_line>Underground Fire Protection Piping.</catch_line><url>/94.2040.0/</url><token>94.2040.0</token></unit><unit id="2558"><structure_id>42</structure_id><section_number>94.2050.0</section_number><catch_line>Fire Protection Tanks.</catch_line><url>/94.2050.0/</url><token>94.2050.0</token></unit><unit id="2707"><structure_id>42</structure_id><section_number>94.2060.0</section_number><catch_line>High-Rise Buildings.</catch_line><url>/94.2060.0/</url><token>94.2060.0</token></unit></structure_contents><previous_section id="1044"><structure_id>42</structure_id><section_number>94.2007.0</section_number><catch_line>Drainage Requirement Fire Protection Systems.</catch_line><url>/94.2007.0/</url><token>94.2007.0</token></previous_section><next_section id="3193"><structure_id>42</structure_id><section_number>94.2011.0</section_number><catch_line>Pilot Heads.</catch_line><url>/94.2011.0/</url><token>94.2011.0</token></next_section><metadata></metadata><references></references><url>/94.2010.0/</url><token>94.2010.0</token><formats><txt>/94.2010.0.txt</txt><json>/94.2010.0.xml</json></formats><dublin_core><Title>Nfpa-13.</Title><Type>Text</Type><Format>text/html</Format><Identifier>&#xA7; 94.2010.0</Identifier><Relation>Los Angeles Municipal Code</Relation></dublin_core><plain_text>                            LOS ANGELES MUNICIPAL CODE
+
+NFPA-13. (&#xA7; 94.2010.0)
+
+&#xA0; NFPA-13.
+	(Amended by Ord. No. 181,757, Eff. 7/6/11.)	NFPA 13-2010 is adopted by
+reference with the following exceptions and modifications.94.2010.1. NFPA
+13-2010 Section 1.4 is not adopted.94.2010.2. NFPA 13-2010 Section 3.2 is
+adopted by reference except that the following sections are not adopted:	3.2.2.
+Authority Having Jurisdiction.	3.2.6. Standard.94.2010.3. NFPA 13-2010 Section
+5.1.3 is added and modified to read as follows:	5.1.3. Classification of
+Occupancies. For the purpose of determining the level of protection to be
+provided by required sprinkler system installations, Table No. 5.1 of this
+Chapter shall be used.	For hazard classification other than those indicated, see
+appropriate nationally recognized standards for design criteria.	When fire
+sprinkles systems are required in buildings of undetermined use, they shall be
+designed and installed to have a sprinkler density of not less than that
+required of an Ordinary Hazard Group 2 use with a minimum design area of 3,000
+square feet. Use is considered undetermined if not specified at the time of
+permit issued.	Where a subsequent occupancy requires a system with a greater
+capability, it shall be the responsibility of the occupant and/or owner to
+upgrade the system to the required density for the new occupancy.	5.1.3.1. Group
+H, Division 5 Occupancies.&#xA0; Where the design area of the sprinklers system
+consists of a corridor protected by one row of sprinklers, the maximum number of
+sprinkler required to be calculated is 13.	5.1.3.2. Group L Occupancies.&#xA0;
+Research laboratories and similar areas of group L occupancy shall not be less
+than that required for Ordinary Hazard Group 2 with a design area of not less
+than 3,000 square feet (279 m2).TABLE NO. 5.1
+HAZARD CLASSIFICATION
+  
+    
+      
+        
+        OCCUPANCY OF BUILDING OR PORTION OF BUILDING
+      
+      
+        HAZARD CLASSIFICATION
+      
+    
+    
+      
+        Group A Occupancies used as meeting rooms, library reading rooms,
+restaurant seating areas, clubs, theaters, museums, health clubs, educational
+classrooms and churches.
+Group B Occupancies used as offices, data processing areas, colleges and
+universities.
+Group E Occupancies other than shops and laboratories.
+Group I Occupancy living and sleeping areas
+Group R, Division I Occupancies.1&#xA0; Typically, one would expect that these uses
+are such that the quantity and combustibility of contents results in relatively
+low-rate-of-heat-release fires.
+      
+      
+        Light
+      
+    
+    
+      
+        Groups B, F, S and U Occupancies used for light manufacturing,
+commercial kitchens, laundries, automobile parking garages, bakeries, canneries,
+electronic plants, beverage manufacturing and glass products manufacturing
+plants not producing dust or fibers.&#xA0; In mixed occupancies housing group L
+occupancies, the portions of the building not classified as group L occupancy.&#xA0;
+Typically these uses are such that the quantity of combustibles is relatively
+low, the combustibility of contents is moderate, storage does not exceed 8 feet
+in height, and moderate-rate-of-heat-release fires would be expected.
+      
+      
+        Ordinary
+Group 1
+      
+    
+    
+      
+        Groups B, F, M, and S Occupancies used for chemical plant laboratories,
+mercantile, machine shops, printing plants, library stack areas, metal working,
+wood product assembly, textile manufacturing, confectionery products, cold
+storage warehouses,2 cereal mills, service stations and repair garages.&#xA0;
+Typically these uses are such that the quantity of combustibles is moderate.&#xA0;
+The combustibility of contents is moderate, storage does not exceed 12 feet in
+height 2 and moderate-rate-of-heat-release fires would be expected. 
+Also:
+Group A Occupancies such as exhibition halls.
+Groups B, F and S Occupancies used as tobacco products manufacturing, paper and
+pulp mills, piers and wharfs, and warehousing2 of higher combustible contents
+(including packaging).
+Group H Occupancies used as feed mills, tire manufacturing, chemical plants,
+repair garages and woodworking.&#xA0; Group H, Division 5 Occupancies, except
+storage rooms with dispensing.&#xA0; Research laboratories and similar areas of
+group L occupancy. Typically these uses are such that high-rate-of-heat-release
+fires would be expected and the spread of fire would be rapid.
+      
+      
+        Ordinary
+Group 2
+      
+    
+    
+      
+        Group H Occupancies used for printing (using inks with flashpoints below
+100 degrees F.) combustible hydraulic fluid-use areas such as die casting and
+metal extruding, upholstering with plastic foam, rubber reclaiming, compounding,
+drying, milling, vulcanizing, plywood and particle board manufacturing, saw
+mills, textile picking, opening, blending, garneting, carding and combining of
+cotton, synthetics, wool shoddy or burlap. &#xA0; Typically these uses are such that
+a significant fire hazard exists.
+      
+      
+        Extra Hazard
+Group 1
+      
+    
+    
+      
+        Group H Occupancies used as asphalt saturating, flammable liquids
+spraying, flow coating, open oil quenching, varnish and paint dipping, solvent
+cleaning and manufactured home or modular building manufacturing (where the
+finished building enclosure is present and has combustible interiors). Storage
+rooms with dispensing located in Group H, Division 5 Occupancies.&#xA0; These uses
+are such that a severe fire hazard exits.
+      
+      
+        Extra Hazard
+Group 2 3
+      
+    
+  
+	1&#xA0; See also Section 8.4.5 of NFPA 13-2010.
+	2&#xA0; For high-piled storage, see NFPA 13-2010.
+	3&#xA0; For additional and more stringent criteria, see California Fire Code
+Chapters 27, 28, 34, and the Los Angeles Fire Code.94.2010.4. NFPA 13-2010
+Section 6.1.1.2 is not adopted and NFPA 13-2010 Section 6.1.1.1 is modified to
+read as follows:	6.1.1.1. All materials and devices shall be listed and
+approved.94.2010.5. NFPA 13-2010 Section 6.3.6.1 is added and modified to read
+as follows:	6.3.6.1. Other types of pipe or tube, such as plastic, may be used
+if it is investigated and found to be listed for this service.94.2010.6. NFPA
+13-2010 Section 6.7.1.3.3 is not adopted.94.2010.7. NFPA 13-2010 Section 6.9.1
+is added and modified to read as follows:	6.9.1. Waterflow alarm apparatus shall
+be listed for the service and constructed and installed so that any flow of
+water from a sprinkler system equal to or greater than that from a single
+automatic sprinkler of the smallest orifice size installed on the system shall
+result in an audible alarm on the premises within two minutes after the flow
+begins.94.2010.8. NFPA 13-2010 Section 6.9.4.1 is added and modified to read as
+follows:	6.9.4.1. Electrically operated alarm attachments forming part of an
+auxiliary, proprietary, remote station or local signaling system shall be
+installed in accordance with the Los Angeles Fire Code.94.2010.9. NFPA 13-2010
+Section 8.15.1.2.9 is added and modified to read as follows:	8.15.1.2.9.
+Concealed spaces with volumes not exceeding 160 cubic feet above a room or
+aggregate of rooms not exceeding 55 square feet in area, shall not require
+sprinkler protection.94.2010.10. Reserved.94.2010.11. Reserved.94.2010.12.
+Reserved.94.2010.13. NFPA 13-2010 Section 8.15.1.2.15 is added and modified to
+read as follows:	8.15.1.2.15. Exterior columns under 10 ft2 (0.93 m2) in total
+area, formed by studs or wood joist, with no sources of ignition within the
+column, supporting exterior canopies that are fully protected with a sprinkler
+system, shall not require sprinkler protection.94.2010.14. NFPA 13-2010 Sections
+8.15.4.1 through 8.15.4.5 are not adopted and Section 8.15.4 is added and
+modified to read as follows:	8.15.4. Water curtains shall consist of closely
+spaced sprinklers in combination with draft stops. The draft stops shall be
+located immediately adjacent to the opening shall be at least 18 inches deep and
+shall be of noncombustible or limited-combustible material that will stay in
+place before and during sprinkler operation.&#xA0; Sprinklers shall be spaced not
+more than six feet apart and placed six to 12 inches from the draft stop on the
+side away from the opening.&#xA0; Where sprinklers are closer than six feet, cross
+baffles shall be provided in accordance with Section 8.6.3.4.2 of
+NFPA-13.94.2010.15. NFPA 13-2010 Section 8.15.7.1 is added and modified to read
+as follows:	8.15.7.1. Unless the requirements of 8.15.7.2&#xA0; and 8.15.7.3 are met
+sprinklers shall be installed under exterior roofs, canopies, porte-cocheres,
+balconies, decks or similar projections exceeding 4 ft (1.2 m) in
+width.94.2010.16. NFPA 13-2010 Section 8.15.7.2 is added and modified to read as
+follows:	8.15.7.2. Sprinklers shall be permitted to be omitted where the
+canopies, roofs, balconies, decks, or similar projections are constructed with
+materials that are noncombustible, limited-combustible, or fire retardant
+treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood
+and Fire Retardant Coatings for Building Materials.94.2010.17. NFPA 13-2010
+Section 8.15.7.3 is added and modified to read as follows:	8.15.7.3. Sprinklers
+shall be permitted to be omitted from below the canopies, roofs, balconies,
+decks, or similar projections of combustible construction, provided the exposed
+finish material on the roof, or canopy, is noncombustible, limited-combustible,
+or fire retardant treated wood as defined in NFPA 703, Standard for Fire
+Retardant-Treated Wood and Fire-Retardant Coatings for Building Materials, and
+the roofs, or canopies, contains only sprinklered concealed spaces or any of the
+following unsprinklered combustible concealed spaces:	1.	Combustible concealed
+spaces filled entirely with noncombustible insulation.	2.	Light or ordinary
+hazard occupancies where noncombustible or limited-combustible ceilings are
+directly attached to the bottom of solid wood joists so as to create enclosed
+joist spaces 160 ft3 (4.5 m3) or less in volume, including space below
+insulation that is laid directly on top or within the ceiling joists in an
+otherwise sprinklered attic [See 11.2.3.1.4(4)(d)].	3.	Concealed spaces over
+isolated small roofs, or canopies, not exceeding 55 ft2.94.2010.18. NFPA 13-2010
+Section 8.15.7.4 is not adopted.94.2010.19. Reserved.94.2010.20. NFPA 13-2010
+Section 8.16.1.1.1.4 is added and modified to read as follows:	8.16.1.1.1.4.
+Where a system includes floor control valves, a hydraulic design information
+sign containing information for the floor shall be provided at each floor
+control valve.&#xA0; A hydraulic design information sign shall be provided for each
+area calculated.&#xA0; The installing contractor shall identify a hydraulically
+designed sprinkler system with a permanently marked weatherproof metal or rigid
+plastic sign secured with corrosion resistant wire, chain, or other approved
+means.&#xA0; Such signs shall be placed at the alarm valve, dry pipe valve,
+pre-action valve, or deluge valve supplying the corresponding hydraulically
+designed area.94.2010.21. NFPA 13-2010 Section 8.16.1.1.1.5 is added and
+modified to read as follows:	8.16.1.1.1.5. Control valves, check valves, drain
+valves, antifreeze valves shall be readily accessible for inspection, testing,
+and maintenance.&#xA0; Valves located more than 6&#x2032;-6&amp;&#x2033; above the finished
+floor shall be provided with a means of opening and closing the valve from the
+floor level.94.2010.22. NFPA 13-2010 Section 8.16.1.1.2.5 is added and modified
+to read as follows:	8.16.1.1.2.5. All valves controlling the water supply for
+automatic sprinkler systems and water-flow switches on all sprinkler systems
+shall be electrically monitored where required by the Los Angeles Building Code
+Section 91.903.4 and 91.903.4.1.	EXCEPTION:&#xA0; Underground key or hub valves in
+roadway boxes provided by the municipality or public utility need not be
+monitored.94.2010.23. NFPA 13-2010 Section 8.16.1.1.7 is added and modified to
+read as follows:	8.16.1.1.7. Valve Access.&#xA0; All valves controlling water
+supplies for sprinkler systems or portions of the system shall be accessible.&#xA0;
+These valves shall be within six feet six inches of the floor or shall be
+operable from fixed ladders or clamped tread ladders on risers, or use chains
+within six feet six inches of the floor connected to valve hand wheels or other
+suitable means.&#xA0; All valves shall be provided with adequate clearance for
+normal operation.94.2010.24. NFPA 13-2010 Section 8.16.1.1.9 is added and
+modified to read as follows:	8.16.1.1.9. Floor (Level) Control Valves.	1.	Where
+required.&#xA0; In buildings with over two levels or two floors, a supervised valve
+capable of independently controlling the fire sprinkler system on each level,
+penthouse, roof structure, mezzanine and basement shall be installed.&#xA0; The
+maximum area covered by a single floor control valve shall not exceed the areas
+specified in section 8.2 of NFPA 13-2010.	EXCEPTIONS:	1.	Floor control valves
+need not be provided for levels, penthouses, roof structures, mezzanines and
+basement with 20 or fewer fire sprinklers.	2.	In partially sprinklered
+buildings, sprinklers serving window openings along an exit way or property
+line, or stair shafts and adjacent doors may have a sectional control valve to
+control the system in each of these areas instead of a floor control
+valve.	3.	Valves required for hazardous locations may be located downstream of
+floor control valves.	4.	One- and two-family dwellings.	2.	Locations.&#xA0; Floor
+control valves shall be within a stairway enclosure or within the vestibule or
+on the access balcony of a smoke proof enclosure.	EXCEPTIONS:	1.	In buildings
+with three or fewer stories or where there is no stairway that serves a floor,
+control valves may be located elsewhere on the floor level.	2.	Unenclosed
+stairways in parking garages.94.2010.25. NFPA 13-2010 Section 8.16.1.1.10 is
+added and modified to read as follows:	8.16.1.1.10. Special Hazard Locations and
+Hazardous Occupancies.&#xA0; The piping serving each linen chute, each paint spray
+booth, each trash chute, including trash room, and each separate trash room
+shall be controlled by valves that control no other sprinklers.94.2010.26. NFPA
+13-2010 Section 8.16.1.2.6 is added and modified to read as follows:	8.16.1.2.6.
+Identification Pressure Regulators.&#xA0; Signs shall be posted at pressure
+regulators for fire sprinklers stating the required setting of the pressure
+regulator.94.2010.27. NFPA 13-2010 Section 8.16.1.5.1 is added and modified to
+read as follows:	8.16.1.5.1. Private fire service main systems shall have
+sectional fire control valves at appropriate points in order to permit
+sectionalizing the system in the event of break or for the making of repairs or
+extensions.94.2010.28. NFPA 13-2010 Section 8.16.1.5.1.1 is added and modified
+to read as follows:	8.16.1.5.1.1. Sectional control valves are not required when
+the fire service main system serves less than six fire appurtenances.94.2010.29.
+NFPA 13-2010 Section 8.16.1.5.1.2. is added and modified to read as
+follows:	8.16.1.5.1.2. Sectional control valves shall be indicating valves in
+accordance with Section 6.7.1.3. NFPA 13-2010.94.2010.30. NFPA 13-2010 Section
+8.16.1.5.1.3. is added and modified to read as follows:	8.16.1.5.1.3. Sectional
+control valves shall be located so that no more than five fire appurtenances are
+affected by shut-down of any single portion of the fire service main.&#xA0; Each
+fire hydrant, fire sprinkler system riser, and standpipe riser shall be
+considered a separate fire appurtenance.&#xA0; In-rack sprinkler systems shall not
+be considered as a separate appurtenance.94.2010.31. NFPA 13-2010 Section
+8.16.1.5.1.4 is added and modified to read as follows:	8.16.1.5.1.4. The number
+of fire appurtenances between sectional control valves is allowed to be modified
+by the authority having jurisdiction.94.2010.32. NFPA 13-2010 Section
+8.16.1.5.1.5 is added and modified to read as follows:	8.16.1.5.1.5. Looped
+underground systems shall be provided with sectional valves regardless of the
+number of appurtenances.94.2010.33. NFPA 13-2010 Section 8.16.1.5.2 is added and
+modified to read as follows:	8.16.1.5.2. A valve shall be provided on each bank
+where a main crosses a body of water or outside the building foundation(s) where
+the main or section of main runs under a building.94.2010.34. NFPA 13-2010
+Section 8.16.4.2.4 is not adopted.94.2010.35. NFPA 13-2010 Section 8.17.1.1 is
+added and modified to read as follows:	8.17.1.1. Local water-flow alarms shall
+be provided on each sprinkler system having more than five sprinklers and shall
+be located in an area approved by the Administrative Authority.94.2010.36. NFPA
+13-2010 Sections 9.1.1.2 and 9.1.1.3 are not adopted, and NFPA 13-2010 Section
+9.1.1.1 is added and modified to read as follows:	9.1.1.1. General.&#xA0; Types of
+hangers shall be in accordance with the requirements of Section 9.1 of NFPA
+13-2010.	EXCEPTION:&#xA0; Hangers designed by a registered structural or civil
+engineer for lateral loads in accordance with Section 1613 of the Building Code
+and the requirements of Section 9.3.7 of NFPA 13-2010 shall be
+acceptable.94.2010.37. NFPA 13-2010 Section 9.1.1.4.3 is added and modified to
+read as follows:	9.1.1.4.3. Fasteners as specified in 9.1.4 and 9.1.5 shall be
+permitted to be not listed.94.2010.38. NFPA 13-2010 Section 9.1.3.1 is added and
+modified to read as follows:	9.1.3.1. Unless prohibited by 9.1.3.2 or 9.1.3.3,
+the use of listed inserts set in concrete and listed post- installed anchors to
+support hangars shall be permitted for mains and branch lines provided they meet
+the requirements of the LABC Sections 91.1613 and 91.1912 and require special
+inspection as required by Section 91.1704 of the LABC and installed in
+conformance with all listing requirements.94.2010.39. NFPA 13-2010 Section
+9.1.3.9.1.1 is added and modified to read as follows:	9.1.3.9.1.1. Powder-driven
+studs used for attaching hangers to the building structure are prohibited in
+Seismic design Categories C, D, E and F.94.2010.40. NFPA 13-2010 Section
+9.3.5.6.1 is added and modified to read as follows:	9.3.5.6.1. Unless the
+requirements of section 9.3.5.6.2 are met, the horizontal loads for braces shall
+be determined by analysis based on horizontal force of Fp=0.76 Wp, where Fp is
+the horizontal force factor and Wp is 1.15 times the weight of the water filled
+piping.94.2010.41. NFPA 13-2010 Section 9.3.5.8.7 is added and modified to read
+as follows:	9.3.5.8.7. Where pipe is used for sway bracing, it shall have a wall
+thickness of not less than Schedule 40. The loads determined in 9.3.5.6 shall
+not exceed the lesser of the maximum&#xA0; allowable loads provided in Table
+9.3.5.8.7(a), Table 9.3.5.8.7(b), and Table 9.3.5.8.7(c) or the manufacturer&#x2019;s
+certified maximum allowable horizontal loads for 30- to 44-degree, 45- to
+59-degree, 60- to 89-degree, and 90-degree brace angles.94.2010.42. NFPA 13-2010
+Section 9.3.5.8.10 is not adopted.94.2010.43. NFPA 13-2010 Section 9.3.5.9.4 is
+added and modified to read as follows:	9.3.5.9.4. Where lag screws or
+power-driven fasteners shall not be used to attach sway braces to the building
+structure.94.2010.44. NFPA 13-2010 Section 9.3.5.9.6 is added and modified to
+read as follows:	9.3.5.9.6. Fastening methods other than those identified in
+9.3.5.9 and 9.3.5.8.10 shall not apply to other fastening methods, which shall
+be acceptable for use if certified by a registered professional engineer to
+support the loads determined in accordance with the criteria in 9.3.5.6.
+Calculations shall be submitted to the authority having jurisdiction.94.2010.45.
+NFPA 13-2010 Section 9.3.5.9.7.2 is added and modified to read as
+follows:	9.3.5.9.7.2. Concrete anchors other than those shown in Figure
+9.3.5.9.1 and identified in 9.3.5.8.10 shall be acceptable for use where
+designed in accordance with the requirements of the building code and certified
+by a registered professional engineer.&#xA0;94.2010.46. NFPA 13-2010 Section
+9.3.6.1(3) is added and modified to read as follows:	9.3.6.1(3). No. 12,440 lb
+(200Kg) wire installed at least 45 degrees from the vertical plane and anchored
+on both sides of the pipe. Powder-driven fasteners for attaching restraint are
+allowed to be used provided that the restraint component does not support the
+dead load.94.2010.47. NFPA 13-2010 Section 9.3.7.7 is not adopted.94.2010.48.
+NFPA 13-2010 Section 9.3.7.9 is amended and modified to read as
+follows:	9.3.7.9. The systems are required to be protected against earthquakes
+using a horizontal force factor exceeding 0.50 Wp, where Wp is the weight of the
+water-filled pipe.94.2010.49. NFPA 13-2010 Section 10.6.5. is added and modified
+to read as follows:	10.6.5. Pipe joints shall not be located under foundation
+footings.&#xA0; The pipe under the building or building foundation shall not contain
+mechanical joints.	EXCEPTIONS:	1.	Where allowed in accordance with
+10.6.2;	2.	Alternate designs may be utilized where designed by a registered
+professional engineer and approved by the enforcing agency.94.2010.50. NFPA
+13-2010 Section 10.9.1 is added and modified to read as follows:	10.9.1.
+Backfill shall be well tamped in layers or puddle under and around pipes to
+prevent settlement or lateral movement.&#xA0; Backfill shall consist of clean fill
+sand or pea gravel to a minimum of 6&amp;&#x2033; below and to a minimum of
+12&amp;&#x2033; above the pipe and shall contain no ashes cinders, refuse, organic
+matter, or other corrosive materials.&#xA0; Other backfill materials and methods are
+permitted where designed by a registered professional engineer and approved by
+the enforcing agency.94.2010.51. NFPA 13-2010 Section 11.1.6.6 is added and
+modified to read as follows:	11.1.6.6. When hose valves for Fire Department use
+are attached to wet pipe sprinkler system risers in accordance with Section
+8.17.5.2 of NFPA 13-2010:	1.	The water supply shall not be required to be added
+to the standpipe demand as determined from Section 94.2020 of this chapter.	2.	
+Where the combined sprinkler system demand and hose stream allowance of Table
+11.2.3.1.2 of NFPA 13-2010 exceeds the requirements of Section 94.2020 of this
+division, this higher demand shall be used.	3.	 For partially sprinklered
+buildings, the sprinkler demand, not including hose stream allowance, as
+indicated in Table 11.2.3.1.1 of NFPA 13-2010, shall be added to the
+requirements given in Section 94.2020 of this Division.94.2010.52. NFPA 13-2010
+Section 11.2.3.1.4(4)(i) is added and modified to read as
+follows:	11.2.3.1.4(4)(i). Exterior columns under 10 ft2 (0.93 m2) in total
+area, formed by studs or wood joist, with no sources of ignition within the
+column, supporting exterior canopies that are fully protected with a sprinkler
+system.94.2010.53. NFPA 13-2010 Section 11.2.3.2.3.1 is added and modified to
+read as follows:	11.2.3.2.3.1. Where listed quick-response sprinklers, excluding
+extended coverage quick-response sprinklers, are used throughout a system or
+portion of a system having the same hydraulic design basis, the system area of
+operation shall be permitted to be reduced without revising the density as
+indicated in Figure 11.2.3.2.3.1 when all of the following conditions are
+satisfied:	1.	 Wet pipe system;	2.	Light hazard occupancy;	3.	20 ft (6.1 m)
+maximum ceiling height; and	4.	There are no unprotected ceiling pockets as
+allowed by Sections 8.6.7 and 8.8.7 exceeding 32 ft2 (3 m2).94.2010.54. NFPA
+13-2010 Section 11.2.3.2.3.2 is added and modified to read as
+follows:	11.2.3.2.3.2. The number of sprinklers in the design area shall never
+be less than seven.94.2010.55. NFPA 13-2010 Section 11.3.3.5 is added and
+modified to read as follows:	11.3.3.5. When the water curtain is located in an
+otherwise un-sprinklered area, the design shall include all the sprinklers in
+each fire separation area being protected.94.2010.56. NFPA 13-2010 Section
+12.2.1 is added and modified to read as follows:	12.2.1. Except as allowed by
+section 12.2.2, small hose connections 1 1/2 (38 mm) shall be provided where the
+system is not subject to freezing in accordance with 8.17.5 for
+first-aid-fire-fighting and overhaul operations.94.2010.57. NFPA 13-2010 Section
+23.1.7 is not adopted.94.2010.58. NFPA 13-2010 Section 24.1 is added and
+modified to read as follows:	24.1. Approval of Sprinkler Systems and Private
+Fire Service Mains.&#xA0; The installing contractor shall do the
+following:	1.	Notify the authority having jurisdiction and the property owner or
+property owner&#x2019;s authorized representative of the time and date testing will
+be performed;	2.	Perform all required testing (see Section 24.2);	3.	Complete
+and sign the appropriate contractor&#x2019;s material and test certificate(s) (see
+Figure 24.1);	4.	Remove all caps and straps prior to placing the sprinkler
+system in service; and	5.	Upon system acceptance by the authority having
+jurisdiction a label prescribed by Title 19 California Code of Regulations,
+Chapter 5 shall be affixed to each system riser.94.2010.59. NFPA 13-2010 Section
+24.4 is added and modified to read as follows:	24.4. Instructions.&#xA0; The
+installing contractor shall provide the property owner or the property owner&#x2019;s
+authorized representative with the following:	1.	 All literature and
+instructions provided by the manufacturer describing proper operation and
+maintenance of any equipment and devices installed;	2. 	NFPA 25, Standard for
+the inspection, testing, and maintenance of Water-Based Fire Protection Systems,
+2006 California Edition; and	3.	Title 19, California Code of Regulations,
+Chapter 5, &#x201C;Fire Extinguishing Systems.&#x201D;94.2010.60. NFPA 13-2010 Section
+24.5.1 is added and modified to read as follows:	24.5.1. &#x201C;Pipe schedule
+systems shall be provided with a sign indicating that the system was designed
+and installed as a pipe schedule system and the hazard classification(s)
+included in the design.&#x201D;94.2010.61. NFPA 13-2010 Section 24.5.2 is added and
+modified to read as follows:	24.5.2. The sign shall include the following
+information:	1.	Location of the design area or areas;	2.	Discharge densities
+over the design area or areas;	3.	 Required flow and pressure of the system at
+the base of the riser;	4.	Presence of high piled storage;	5.	Maximum height of
+storage planned;	6.	Aisle width planned;	7.	Required flow and pressure of the
+system at the water supply source;	8.	Required flow and pressure of the system
+at the discharge side of the fire pump where a fire pump is installed;	9.	Type
+or types and number of sprinklers or nozzles installed including the orifice
+size, temperature rating, orientation, K-Factor, Sprinkler Identification Number
+(SIN) for sprinkler heads when applicable and response type;	10.	The minimum
+discharge flow rate and pressure required from the hydraulically most demanding
+sprinkler;	11.	The required pressure settings for pressure reducing
+valves;	12.	For deluge sprinkler systems, the required flow and pressure at the
+hydraulically most demanding sprinkler or nozzle;	13.	The protection area per
+sprinkler based on the hydraulic calculations; and	14.	The edition of NFPA 13 to
+which the system was designed and installed.
+</plain_text><html>
+					&lt;section&gt;&lt;p&gt;&#xA0; NFPA-13.
+	(Amended by Ord. No. 181,757, Eff. 7/6/11.)&lt;br /&gt;&lt;br /&gt;	NFPA 13-2010 is adopted by reference with the following exceptions and modifications.&lt;br /&gt;&lt;br /&gt;94.2010.1. NFPA 13-2010 Section 1.4 is not adopted.&lt;br /&gt;&lt;br /&gt;94.2010.2. NFPA 13-2010 Section 3.2 is adopted by reference except that the following sections are not adopted:&lt;br /&gt;&lt;br /&gt;	3.2.2. Authority Having &lt;span class="dictionary"&gt;Jurisdiction&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;	3.2.6. Standard.&lt;br /&gt;&lt;br /&gt;94.2010.3. NFPA 13-2010 Section 5.1.3 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	5.1.3. Classification of Occupancies. For the purpose of determining the level of protection to be provided by required sprinkler system installations, Table No. 5.1 of this Chapter shall be used.&lt;br /&gt;&lt;br /&gt;	For hazard classification other than those indicated, see appropriate nationally recognized standards for design criteria.&lt;br /&gt;&lt;br /&gt;	When fire sprinkles systems are required in buildings of undetermined use, they shall be designed and installed to have a sprinkler density of not less than that required of an Ordinary Hazard Group 2 use with a minimum design area of 3,000 square feet. Use is considered undetermined if not specified at the time of permit issued.&lt;br /&gt;&lt;br /&gt;	Where a subsequent occupancy requires a system with a greater capability, it shall be the responsibility of the occupant and/or owner to upgrade the system to the required density for the new occupancy.&lt;br /&gt;&lt;br /&gt;	5.1.3.1. Group H, Division 5 Occupancies.&#xA0; Where the design area of the sprinklers system consists of a corridor protected by one row of sprinklers, the maximum number of sprinkler required to be calculated is 13.&lt;br /&gt;&lt;br /&gt;	5.1.3.2. Group L Occupancies.&#xA0; Research laboratories and similar areas of group L occupancy shall not be less than that required for Ordinary Hazard Group 2 with a design area of not less than 3,000 square feet (279 m2).&lt;br /&gt;&lt;br /&gt;TABLE NO. 5.1
+HAZARD CLASSIFICATION&lt;br /&gt;&lt;br /&gt;
+  
+    
+      
+        
+        OCCUPANCY OF BUILDING OR PORTION OF BUILDING
+      
+      
+        HAZARD CLASSIFICATION
+      
+    
+    
+      
+        Group A Occupancies used as meeting rooms, library reading rooms, restaurant seating areas, clubs, theaters, museums, health clubs, educational classrooms and churches.
+Group B Occupancies used as offices, data processing areas, colleges and universities.
+Group E Occupancies other than shops and laboratories.
+Group I Occupancy living and sleeping areas
+Group R, Division I Occupancies.1&#xA0; Typically, one would expect that these uses are such that the quantity and combustibility of contents results in relatively low-rate-of-heat-release fires.
+      
+      
+        Light
+      
+    
+    
+      
+        Groups B, F, S and U Occupancies used for light manufacturing, commercial kitchens, laundries, automobile parking garages, bakeries, canneries, electronic plants, beverage manufacturing and glass products manufacturing plants not producing dust or fibers.&#xA0; In mixed occupancies housing group L occupancies, the portions of the building not classified as group L occupancy.&#xA0; Typically these uses are such that the quantity of combustibles is relatively low, the combustibility of contents is moderate, storage does not exceed 8 feet in height, and moderate-rate-of-heat-release fires would be expected.
+      
+      
+        Ordinary
+Group 1
+      
+    
+    
+      
+        Groups B, F, M, and S Occupancies used for chemical plant laboratories, mercantile, machine shops, printing plants, library stack areas, metal working, wood product assembly, textile manufacturing, confectionery products, cold storage warehouses,2 cereal mills, service stations and repair garages.&#xA0; Typically these uses are such that the quantity of combustibles is moderate.&#xA0; The combustibility of contents is moderate, storage does not exceed 12 feet in height 2 and moderate-rate-of-heat-release fires would be expected. 
+Also:
+Group A Occupancies such as exhibition halls.
+Groups B, F and S Occupancies used as tobacco products manufacturing, paper and pulp mills, piers and wharfs, and warehousing2 of higher combustible contents (including packaging).
+Group H Occupancies used as feed mills, tire manufacturing, chemical plants, repair garages and woodworking.&#xA0; Group H, Division 5 Occupancies, except storage rooms with dispensing.&#xA0; Research laboratories and similar areas of group L occupancy. Typically these uses are such that high-rate-of-heat-release fires would be expected and the spread of fire would be rapid.
+      
+      
+        Ordinary
+Group 2
+      
+    
+    
+      
+        Group H Occupancies used for printing (using inks with flashpoints below 100 degrees F.) combustible hydraulic fluid-use areas such as die casting and metal extruding, upholstering with plastic foam, rubber reclaiming, compounding, drying, milling, vulcanizing, plywood and particle board manufacturing, saw mills, textile picking, opening, blending, garneting, carding and combining of cotton, synthetics, wool shoddy or burlap. &#xA0; Typically these uses are such that a significant fire hazard exists.
+      
+      
+        Extra Hazard
+Group 1
+      
+    
+    
+      
+        Group H Occupancies used as asphalt saturating, flammable liquids spraying, flow coating, open oil quenching, varnish and paint dipping, solvent cleaning and manufactured home or modular building manufacturing (where the finished building enclosure is present and has combustible interiors). Storage rooms with dispensing located in Group H, Division 5 Occupancies.&#xA0; These uses are such that a severe fire hazard exits.
+      
+      
+        Extra Hazard
+Group 2 3
+      
+    
+  &lt;br /&gt;&lt;br /&gt;
+	1&#xA0; See also Section 8.4.5 of NFPA 13-2010.
+	2&#xA0; For high-piled storage, see NFPA 13-2010.
+	3&#xA0; For additional and more stringent criteria, see California Fire Code Chapters 27, 28, 34, and the Los Angeles Fire Code.&lt;br /&gt;&lt;br /&gt;94.2010.4. NFPA 13-2010 Section 6.1.1.2 is not adopted and NFPA 13-2010 Section 6.1.1.1 is modified to read as follows:&lt;br /&gt;&lt;br /&gt;	6.1.1.1. All &lt;span class="dictionary"&gt;materials&lt;/span&gt; and devices shall be listed and approved.&lt;br /&gt;&lt;br /&gt;94.2010.5. NFPA 13-2010 Section 6.3.6.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	6.3.6.1. Other types of pipe or tube, such as plastic, may be used if it is investigated and found to be listed for this service.&lt;br /&gt;&lt;br /&gt;94.2010.6. NFPA 13-2010 Section 6.7.1.3.3 is not adopted.&lt;br /&gt;&lt;br /&gt;94.2010.7. NFPA 13-2010 Section 6.9.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	6.9.1. Waterflow alarm apparatus shall be listed for the service and constructed and installed so that any flow of water from a sprinkler system equal to or greater than that from a single automatic sprinkler of the smallest orifice size installed on the system shall result in an audible alarm on the premises within two minutes after the flow begins.&lt;br /&gt;&lt;br /&gt;94.2010.8. NFPA 13-2010 Section 6.9.4.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	6.9.4.1. Electrically operated alarm &lt;span class="dictionary"&gt;attachments&lt;/span&gt; forming part of an auxiliary, proprietary, remote station or local signaling system shall be installed in accordance with the Los Angeles Fire Code.&lt;br /&gt;&lt;br /&gt;94.2010.9. NFPA 13-2010 Section 8.15.1.2.9 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.15.1.2.9. Concealed spaces with volumes not exceeding 160 cubic feet above a room or aggregate of rooms not exceeding 55 square feet in area, shall not require sprinkler protection.&lt;br /&gt;&lt;br /&gt;94.2010.10. Reserved.&lt;br /&gt;&lt;br /&gt;94.2010.11. Reserved.&lt;br /&gt;&lt;br /&gt;94.2010.12. Reserved.&lt;br /&gt;&lt;br /&gt;94.2010.13. NFPA 13-2010 Section 8.15.1.2.15 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.15.1.2.15. Exterior columns under 10 ft2 (0.93 m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system, shall not require sprinkler protection.&lt;br /&gt;&lt;br /&gt;94.2010.14. NFPA 13-2010 Sections 8.15.4.1 through 8.15.4.5 are not adopted and Section 8.15.4 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.15.4. Water curtains shall consist of closely spaced sprinklers in combination with draft stops. The draft stops shall be located immediately adjacent to the opening shall be at least 18 inches deep and shall be of noncombustible or limited-combustible &lt;span class="dictionary"&gt;material&lt;/span&gt; that will &lt;span class="dictionary"&gt;stay&lt;/span&gt; in place before and during sprinkler operation.&#xA0; Sprinklers shall be spaced not more than six feet apart and placed six to 12 inches from the draft stop on the side away from the opening.&#xA0; Where sprinklers are closer than six feet, cross baffles shall be provided in accordance with Section 8.6.3.4.2 of NFPA-13.&lt;br /&gt;&lt;br /&gt;94.2010.15. NFPA 13-2010 Section 8.15.7.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.15.7.1. Unless the requirements of 8.15.7.2&#xA0; and 8.15.7.3 are met sprinklers shall be installed under exterior roofs, canopies, porte-cocheres, balconies, decks or similar projections exceeding 4 ft (1.2 m) in width.&lt;br /&gt;&lt;br /&gt;94.2010.16. NFPA 13-2010 Section 8.15.7.2 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.15.7.2. Sprinklers shall be permitted to be omitted where the canopies, roofs, balconies, decks, or similar projections are constructed with &lt;span class="dictionary"&gt;materials&lt;/span&gt; that are noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire Retardant Coatings for Building &lt;span class="dictionary"&gt;Materials&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;94.2010.17. NFPA 13-2010 Section 8.15.7.3 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.15.7.3. Sprinklers shall be permitted to be omitted from below the canopies, roofs, balconies, decks, or similar projections of combustible construction, provided the exposed finish &lt;span class="dictionary"&gt;material&lt;/span&gt; on the roof, or canopy, is noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire-Retardant Coatings for Building &lt;span class="dictionary"&gt;Materials&lt;/span&gt;, and the roofs, or canopies, contains only sprinklered concealed spaces or any of the following unsprinklered combustible concealed spaces:&lt;br /&gt;&lt;br /&gt;	1.	Combustible concealed spaces filled entirely with noncombustible insulation.&lt;br /&gt;&lt;br /&gt;	2.	Light or ordinary hazard occupancies where noncombustible or limited-combustible ceilings are directly attached to the bottom of solid wood joists so as to create enclosed joist spaces 160 ft3 (4.5 m3) or less in volume, including space below insulation that is laid directly on top or within the ceiling joists in an otherwise sprinklered attic [See 11.2.3.1.4(4)(d)].&lt;br /&gt;&lt;br /&gt;	3.	Concealed spaces over isolated small roofs, or canopies, not exceeding 55 ft2.&lt;br /&gt;&lt;br /&gt;94.2010.18. NFPA 13-2010 Section 8.15.7.4 is not adopted.&lt;br /&gt;&lt;br /&gt;94.2010.19. Reserved.&lt;br /&gt;&lt;br /&gt;94.2010.20. NFPA 13-2010 Section 8.16.1.1.1.4 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.16.1.1.1.4. Where a system includes floor control valves, a hydraulic design information sign containing information for the floor shall be provided at each floor control valve.&#xA0; A hydraulic design information sign shall be provided for each area calculated.&#xA0; The installing contractor shall identify a hydraulically designed sprinkler system with a permanently marked weatherproof metal or rigid plastic sign secured with corrosion resistant wire, chain, or other approved means.&#xA0; Such signs shall be placed at the alarm valve, dry pipe valve, pre-action valve, or deluge valve supplying the corresponding hydraulically designed area.&lt;br /&gt;&lt;br /&gt;94.2010.21. NFPA 13-2010 Section 8.16.1.1.1.5 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	8.16.1.1.1.5. Control valves, check valves, drain valves, antifreeze valves shall be readily accessible for inspection, testing, and maintenance.&#xA0; Valves located more than 6&#x2032;-6&″ above the finished floor shall be provided with a means of opening and closing the valve from the floor level.<br /><br />94.2010.22. NFPA 13-2010 Section 8.16.1.1.2.5 is added and modified to read as follows:<br /><br />	8.16.1.1.2.5. All valves controlling the water supply for automatic sprinkler systems and water-flow switches on all sprinkler systems shall be electrically monitored where required by the Los Angeles Building Code Section 91.903.4 and 91.903.4.1.<br /><br />	EXCEPTION:  Underground key or hub valves in roadway boxes provided by the municipality or public utility need not be monitored.<br /><br />94.2010.23. NFPA 13-2010 Section 8.16.1.1.7 is added and modified to read as follows:<br /><br />	8.16.1.1.7. Valve Access.  All valves controlling water supplies for sprinkler systems or portions of the system shall be accessible.  These valves shall be within six feet six inches of the floor or shall be operable from fixed ladders or clamped tread ladders on risers, or use chains within six feet six inches of the floor connected to valve hand wheels or other suitable means.  All valves shall be provided with adequate clearance for normal operation.<br /><br />94.2010.24. NFPA 13-2010 Section 8.16.1.1.9 is added and modified to read as follows:<br /><br />	8.16.1.1.9. Floor (Level) Control Valves.<br /><br />	1.	Where required.  In buildings with over two levels or two floors, a supervised valve capable of independently controlling the fire sprinkler system on each level, penthouse, roof structure, mezzanine and basement shall be installed.  The maximum area covered by a single floor control valve shall not exceed the areas specified in section 8.2 of NFPA 13-2010.<br /><br />	EXCEPTIONS:<br /><br />	1.	Floor control valves need not be provided for levels, penthouses, roof structures, mezzanines and basement with 20 or fewer fire sprinklers.<br /><br />	2.	In partially sprinklered buildings, sprinklers serving window openings along an exit way or property line, or stair shafts and adjacent doors may have a sectional control valve to control the system in each of these areas instead of a floor control valve.<br /><br />	3.	Valves required for hazardous locations may be located downstream of floor control valves.<br /><br />	4.	One- and two-family dwellings.<br /><br />	2.	Locations.  Floor control valves shall be within a stairway enclosure or within the vestibule or on the access balcony of a smoke proof enclosure.<br /><br />	EXCEPTIONS:<br /><br />	1.	In buildings with three or fewer stories or where there is no stairway that serves a floor, control valves may be located elsewhere on the floor level.<br /><br />	2.	Unenclosed stairways in parking garages.<br /><br />94.2010.25. NFPA 13-2010 Section 8.16.1.1.10 is added and modified to read as follows:<br /><br />	8.16.1.1.10. Special Hazard Locations and Hazardous Occupancies.  The piping serving each linen chute, each paint spray booth, each trash chute, including trash room, and each separate trash room shall be controlled by valves that control no other sprinklers.<br /><br />94.2010.26. NFPA 13-2010 Section 8.16.1.2.6 is added and modified to read as follows:<br /><br />	8.16.1.2.6. Identification Pressure Regulators.  Signs shall be posted at pressure regulators for fire sprinklers stating the required setting of the pressure regulator.<br /><br />94.2010.27. NFPA 13-2010 Section 8.16.1.5.1 is added and modified to read as follows:<br /><br />	8.16.1.5.1. Private fire service main systems shall have sectional fire control valves at appropriate points in <span class="dictionary">order</span> to permit sectionalizing the system in the event of break or for the making of repairs or extensions.<br /><br />94.2010.28. NFPA 13-2010 Section 8.16.1.5.1.1 is added and modified to read as follows:<br /><br />	8.16.1.5.1.1. Sectional control valves are not required when the fire service main system serves less than six fire appurtenances.<br /><br />94.2010.29. NFPA 13-2010 Section 8.16.1.5.1.2. is added and modified to read as follows:<br /><br />	8.16.1.5.1.2. Sectional control valves shall be indicating valves in accordance with Section 6.7.1.3. NFPA 13-2010.<br /><br />94.2010.30. NFPA 13-2010 Section 8.16.1.5.1.3. is added and modified to read as follows:<br /><br />	8.16.1.5.1.3. Sectional control valves shall be located so that no more than five fire appurtenances are affected by shut-down of any single portion of the fire service main.  Each fire hydrant, fire sprinkler system riser, and standpipe riser shall be considered a separate fire appurtenance.  In-rack sprinkler systems shall not be considered as a separate appurtenance.<br /><br />94.2010.31. NFPA 13-2010 Section 8.16.1.5.1.4 is added and modified to read as follows:<br /><br />	8.16.1.5.1.4. The number of fire appurtenances between sectional control valves is allowed to be modified by the authority having <span class="dictionary">jurisdiction</span>.<br /><br />94.2010.32. NFPA 13-2010 Section 8.16.1.5.1.5 is added and modified to read as follows:<br /><br />	8.16.1.5.1.5. Looped underground systems shall be provided with sectional valves regardless of the number of appurtenances.<br /><br />94.2010.33. NFPA 13-2010 Section 8.16.1.5.2 is added and modified to read as follows:<br /><br />	8.16.1.5.2. A valve shall be provided on each bank where a main crosses a body of water or outside the building foundation(s) where the main or section of main runs under a building.<br /><br />94.2010.34. NFPA 13-2010 Section 8.16.4.2.4 is not adopted.<br /><br />94.2010.35. NFPA 13-2010 Section 8.17.1.1 is added and modified to read as follows:<br /><br />	8.17.1.1. Local water-flow alarms shall be provided on each sprinkler system having more than five sprinklers and shall be located in an area approved by the Administrative Authority.<br /><br />94.2010.36. NFPA 13-2010 Sections 9.1.1.2 and 9.1.1.3 are not adopted, and NFPA 13-2010 Section 9.1.1.1 is added and modified to read as follows:<br /><br />	9.1.1.1. General.  Types of hangers shall be in accordance with the requirements of Section 9.1 of NFPA 13-2010.<br /><br />	EXCEPTION:  Hangers designed by a registered structural or civil engineer for lateral loads in accordance with Section 1613 of the Building Code and the requirements of Section 9.3.7 of NFPA 13-2010 shall be acceptable.<br /><br />94.2010.37. NFPA 13-2010 Section 9.1.1.4.3 is added and modified to read as follows:<br /><br />	9.1.1.4.3. Fasteners as specified in 9.1.4 and 9.1.5 shall be permitted to be not listed.<br /><br />94.2010.38. NFPA 13-2010 Section 9.1.3.1 is added and modified to read as follows:<br /><br />	9.1.3.1. Unless prohibited by 9.1.3.2 or 9.1.3.3, the use of listed inserts set in concrete and listed post- installed anchors to support hangars shall be permitted for mains and branch lines provided they meet the requirements of the LABC Sections 91.1613 and 91.1912 and require special inspection as required by Section 91.1704 of the LABC and installed in conformance with all listing requirements.<br /><br />94.2010.39. NFPA 13-2010 Section 9.1.3.9.1.1 is added and modified to read as follows:<br /><br />	9.1.3.9.1.1. Powder-driven studs used for attaching hangers to the building structure are prohibited in Seismic design Categories C, D, E and F.<br /><br />94.2010.40. NFPA 13-2010 Section 9.3.5.6.1 is added and modified to read as follows:<br /><br />	9.3.5.6.1. Unless the requirements of section 9.3.5.6.2 are met, the horizontal loads for braces shall be determined by analysis based on horizontal force of Fp=0.76 Wp, where Fp is the horizontal force factor and Wp is 1.15 times the weight of the water filled piping.<br /><br />94.2010.41. NFPA 13-2010 Section 9.3.5.8.7 is added and modified to read as follows:<br /><br />	9.3.5.8.7. Where pipe is used for sway bracing, it shall have a wall thickness of not less than Schedule 40. The loads determined in 9.3.5.6 shall not exceed the lesser of the maximum  allowable loads provided in Table 9.3.5.8.7(a), Table 9.3.5.8.7(b), and Table 9.3.5.8.7(c) or the manufacturer’s certified maximum allowable horizontal loads for 30- to 44-degree, 45- to 59-degree, 60- to 89-degree, and 90-degree brace angles.<br /><br />94.2010.42. NFPA 13-2010 Section 9.3.5.8.10 is not adopted.<br /><br />94.2010.43. NFPA 13-2010 Section 9.3.5.9.4 is added and modified to read as follows:<br /><br />	9.3.5.9.4. Where lag screws or power-driven fasteners shall not be used to attach sway braces to the building structure.<br /><br />94.2010.44. NFPA 13-2010 Section 9.3.5.9.6 is added and modified to read as follows:<br /><br />	9.3.5.9.6. Fastening methods other than those identified in 9.3.5.9 and 9.3.5.8.10 shall not apply to other fastening methods, which shall be acceptable for use if certified by a registered professional engineer to support the loads determined in accordance with the criteria in 9.3.5.6. Calculations shall be submitted to the authority having <span class="dictionary">jurisdiction</span>.<br /><br />94.2010.45. NFPA 13-2010 Section 9.3.5.9.7.2 is added and modified to read as follows:<br /><br />	9.3.5.9.7.2. Concrete anchors other than those shown in Figure 9.3.5.9.1 and identified in 9.3.5.8.10 shall be acceptable for use where designed in accordance with the requirements of the building code and certified by a registered professional engineer. <br /><br />94.2010.46. NFPA 13-2010 Section 9.3.6.1(3) is added and modified to read as follows:<br /><br />	9.3.6.1(3). No. 12,440 lb (200Kg) wire installed at least 45 degrees from the vertical plane and anchored on both sides of the pipe. Powder-driven fasteners for attaching restraint are allowed to be used provided that the restraint component does not support the dead load.<br /><br />94.2010.47. NFPA 13-2010 Section 9.3.7.7 is not adopted.<br /><br />94.2010.48. NFPA 13-2010 Section 9.3.7.9 is amended and modified to read as follows:<br /><br />	9.3.7.9. The systems are required to be protected against earthquakes using a horizontal force factor exceeding 0.50 Wp, where Wp is the weight of the water-filled pipe.<br /><br />94.2010.49. NFPA 13-2010 Section 10.6.5. is added and modified to read as follows:<br /><br />	10.6.5. Pipe joints shall not be located under foundation footings.  The pipe under the building or building foundation shall not contain mechanical joints.<br /><br />	EXCEPTIONS:<br /><br />	1.	Where allowed in accordance with 10.6.2;&lt;br /&gt;&lt;br /&gt;	2.	Alternate designs may be utilized where designed by a registered professional engineer and approved by the enforcing agency.&lt;br /&gt;&lt;br /&gt;94.2010.50. NFPA 13-2010 Section 10.9.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	10.9.1. Backfill shall be well tamped in layers or puddle under and around pipes to prevent &lt;span class="dictionary"&gt;settlement&lt;/span&gt; or lateral movement.&#xA0; Backfill shall consist of clean fill sand or pea gravel to a minimum of 6&″ below and to a minimum of 12&″ above the pipe and shall contain no ashes cinders, refuse, organic matter, or other corrosive <span class="dictionary">materials</span>.  Other backfill <span class="dictionary">materials</span> and methods are permitted where designed by a registered professional engineer and approved by the enforcing agency.<br /><br />94.2010.51. NFPA 13-2010 Section 11.1.6.6 is added and modified to read as follows:<br /><br />	11.1.6.6. When hose valves for Fire Department use are attached to wet pipe sprinkler system risers in accordance with Section 8.17.5.2 of NFPA 13-2010:<br /><br />	1.	The water supply shall not be required to be added to the standpipe demand as determined from Section 94.2020 of this chapter.<br /><br />	2.	 Where the combined sprinkler system demand and hose stream allowance of Table 11.2.3.1.2 of NFPA 13-2010 exceeds the requirements of Section 94.2020 of this division, this higher demand shall be used.<br /><br />	3.	 For partially sprinklered buildings, the sprinkler demand, not including hose stream allowance, as indicated in Table 11.2.3.1.1 of NFPA 13-2010, shall be added to the requirements given in Section 94.2020 of this Division.<br /><br />94.2010.52. NFPA 13-2010 Section 11.2.3.1.4(4)(i) is added and modified to read as follows:<br /><br />	11.2.3.1.4(4)(i). Exterior columns under 10 ft2 (0.93 m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system.<br /><br />94.2010.53. NFPA 13-2010 Section 11.2.3.2.3.1 is added and modified to read as follows:<br /><br />	11.2.3.2.3.1. Where listed quick-response sprinklers, excluding extended coverage quick-response sprinklers, are used throughout a system or portion of a system having the same hydraulic design basis, the system area of operation shall be permitted to be reduced without revising the density as indicated in Figure 11.2.3.2.3.1 when all of the following conditions are satisfied:<br /><br />	1.	 Wet pipe system;&lt;br /&gt;&lt;br /&gt;	2.	Light hazard occupancy;&lt;br /&gt;&lt;br /&gt;	3.	20 ft (6.1 m) maximum ceiling height; and&lt;br /&gt;&lt;br /&gt;	4.	There are no unprotected ceiling pockets as allowed by Sections 8.6.7 and 8.8.7 exceeding 32 ft2 (3 m2).&lt;br /&gt;&lt;br /&gt;94.2010.54. NFPA 13-2010 Section 11.2.3.2.3.2 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	11.2.3.2.3.2. The number of sprinklers in the design area shall never be less than seven.&lt;br /&gt;&lt;br /&gt;94.2010.55. NFPA 13-2010 Section 11.3.3.5 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	11.3.3.5. When the water curtain is located in an otherwise un-sprinklered area, the design shall include all the sprinklers in each fire separation area being protected.&lt;br /&gt;&lt;br /&gt;94.2010.56. NFPA 13-2010 Section 12.2.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	12.2.1. Except as allowed by section 12.2.2, small hose connections 1 1/2 (38 mm) shall be provided where the system is not subject to freezing in accordance with 8.17.5 for first-aid-fire-fighting and overhaul operations.&lt;br /&gt;&lt;br /&gt;94.2010.57. NFPA 13-2010 Section 23.1.7 is not adopted.&lt;br /&gt;&lt;br /&gt;94.2010.58. NFPA 13-2010 Section 24.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	24.1. Approval of Sprinkler Systems and Private Fire Service Mains.&#xA0; The installing contractor shall do the following:&lt;br /&gt;&lt;br /&gt;	1.	Notify the authority having &lt;span class="dictionary"&gt;jurisdiction&lt;/span&gt; and the property owner or property owner&#x2019;s authorized representative of the time and date testing will be performed;&lt;br /&gt;&lt;br /&gt;	2.	Perform all required testing (see Section 24.2);&lt;br /&gt;&lt;br /&gt;	3.	Complete and sign the appropriate contractor&#x2019;s &lt;span class="dictionary"&gt;material&lt;/span&gt; and test certificate(s) (see Figure 24.1);&lt;br /&gt;&lt;br /&gt;	4.	Remove all caps and straps prior to placing the sprinkler system in service; and&lt;br /&gt;&lt;br /&gt;	5.	Upon system acceptance by the authority having &lt;span class="dictionary"&gt;jurisdiction&lt;/span&gt; a label prescribed by Title 19 California Code of Regulations, Chapter 5 shall be affixed to each system riser.&lt;br /&gt;&lt;br /&gt;94.2010.59. NFPA 13-2010 Section 24.4 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	24.4. Instructions.&#xA0; The installing contractor shall provide the property owner or the property owner&#x2019;s authorized representative with the following:&lt;br /&gt;&lt;br /&gt;	1.	 All literature and instructions provided by the manufacturer describing proper operation and maintenance of any equipment and devices installed;&lt;br /&gt;&lt;br /&gt;	2. 	NFPA 25, Standard for the inspection, testing, and maintenance of Water-Based Fire Protection Systems, 2006 California Edition; and&lt;br /&gt;&lt;br /&gt;	3.	Title 19, California Code of Regulations, Chapter 5, &#x201C;Fire Extinguishing Systems.&#x201D;&lt;br /&gt;&lt;br /&gt;94.2010.60. NFPA 13-2010 Section 24.5.1 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	24.5.1. &#x201C;Pipe schedule systems shall be provided with a sign indicating that the system was designed and installed as a pipe schedule system and the hazard classification(s) included in the design.&#x201D;&lt;br /&gt;&lt;br /&gt;94.2010.61. NFPA 13-2010 Section 24.5.2 is added and modified to read as follows:&lt;br /&gt;&lt;br /&gt;	24.5.2. The sign shall include the following information:&lt;br /&gt;&lt;br /&gt;	1.	Location of the design area or areas;&lt;br /&gt;&lt;br /&gt;	2.	Discharge densities over the design area or areas;&lt;br /&gt;&lt;br /&gt;	3.	 Required flow and pressure of the system at the base of the riser;&lt;br /&gt;&lt;br /&gt;	4.	Presence of high piled storage;&lt;br /&gt;&lt;br /&gt;	5.	Maximum height of storage planned;&lt;br /&gt;&lt;br /&gt;	6.	Aisle width planned;&lt;br /&gt;&lt;br /&gt;	7.	Required flow and pressure of the system at the water supply source;&lt;br /&gt;&lt;br /&gt;	8.	Required flow and pressure of the system at the discharge side of the fire pump where a fire pump is installed;&lt;br /&gt;&lt;br /&gt;	9.	Type or types and number of sprinklers or nozzles installed including the orifice size, temperature rating, orientation, K-Factor, Sprinkler Identification Number (SIN) for sprinkler heads when applicable and response type;&lt;br /&gt;&lt;br /&gt;	10.	The minimum discharge flow rate and pressure required from the hydraulically most demanding sprinkler;&lt;br /&gt;&lt;br /&gt;	11.	The required pressure settings for pressure reducing valves;&lt;br /&gt;&lt;br /&gt;	12.	For deluge sprinkler systems, the required flow and pressure at the hydraulically most demanding sprinkler or nozzle;&lt;br /&gt;&lt;br /&gt;	13.	The protection area per sprinkler based on the hydraulic calculations; and&lt;br /&gt;&lt;br /&gt;	14.	The edition of NFPA 13 to which the system was designed and installed.&lt;/p&gt;&lt;/section&gt;</html><text><unit id="3421" prefix=""><text>&#xA0; NFPA-13.
+	(Amended by Ord. No. 181,757, Eff. 7/6/11.)	NFPA 13-2010 is adopted by reference with the following exceptions and modifications.94.2010.1. NFPA 13-2010 Section 1.4 is not adopted.94.2010.2. NFPA 13-2010 Section 3.2 is adopted by reference except that the following sections are not adopted:	3.2.2. Authority Having Jurisdiction.	3.2.6. Standard.94.2010.3. NFPA 13-2010 Section 5.1.3 is added and modified to read as follows:	5.1.3. Classification of Occupancies. For the purpose of determining the level of protection to be provided by required sprinkler system installations, Table No. 5.1 of this Chapter shall be used.	For hazard classification other than those indicated, see appropriate nationally recognized standards for design criteria.	When fire sprinkles systems are required in buildings of undetermined use, they shall be designed and installed to have a sprinkler density of not less than that required of an Ordinary Hazard Group 2 use with a minimum design area of 3,000 square feet. Use is considered undetermined if not specified at the time of permit issued.	Where a subsequent occupancy requires a system with a greater capability, it shall be the responsibility of the occupant and/or owner to upgrade the system to the required density for the new occupancy.	5.1.3.1. Group H, Division 5 Occupancies.&#xA0; Where the design area of the sprinklers system consists of a corridor protected by one row of sprinklers, the maximum number of sprinkler required to be calculated is 13.	5.1.3.2. Group L Occupancies.&#xA0; Research laboratories and similar areas of group L occupancy shall not be less than that required for Ordinary Hazard Group 2 with a design area of not less than 3,000 square feet (279 m2).TABLE NO. 5.1
+HAZARD CLASSIFICATION
+  
+    
+      
+        
+        OCCUPANCY OF BUILDING OR PORTION OF BUILDING
+      
+      
+        HAZARD CLASSIFICATION
+      
+    
+    
+      
+        Group A Occupancies used as meeting rooms, library reading rooms, restaurant seating areas, clubs, theaters, museums, health clubs, educational classrooms and churches.
+Group B Occupancies used as offices, data processing areas, colleges and universities.
+Group E Occupancies other than shops and laboratories.
+Group I Occupancy living and sleeping areas
+Group R, Division I Occupancies.1&#xA0; Typically, one would expect that these uses are such that the quantity and combustibility of contents results in relatively low-rate-of-heat-release fires.
+      
+      
+        Light
+      
+    
+    
+      
+        Groups B, F, S and U Occupancies used for light manufacturing, commercial kitchens, laundries, automobile parking garages, bakeries, canneries, electronic plants, beverage manufacturing and glass products manufacturing plants not producing dust or fibers.&#xA0; In mixed occupancies housing group L occupancies, the portions of the building not classified as group L occupancy.&#xA0; Typically these uses are such that the quantity of combustibles is relatively low, the combustibility of contents is moderate, storage does not exceed 8 feet in height, and moderate-rate-of-heat-release fires would be expected.
+      
+      
+        Ordinary
+Group 1
+      
+    
+    
+      
+        Groups B, F, M, and S Occupancies used for chemical plant laboratories, mercantile, machine shops, printing plants, library stack areas, metal working, wood product assembly, textile manufacturing, confectionery products, cold storage warehouses,2 cereal mills, service stations and repair garages.&#xA0; Typically these uses are such that the quantity of combustibles is moderate.&#xA0; The combustibility of contents is moderate, storage does not exceed 12 feet in height 2 and moderate-rate-of-heat-release fires would be expected. 
+Also:
+Group A Occupancies such as exhibition halls.
+Groups B, F and S Occupancies used as tobacco products manufacturing, paper and pulp mills, piers and wharfs, and warehousing2 of higher combustible contents (including packaging).
+Group H Occupancies used as feed mills, tire manufacturing, chemical plants, repair garages and woodworking.&#xA0; Group H, Division 5 Occupancies, except storage rooms with dispensing.&#xA0; Research laboratories and similar areas of group L occupancy. Typically these uses are such that high-rate-of-heat-release fires would be expected and the spread of fire would be rapid.
+      
+      
+        Ordinary
+Group 2
+      
+    
+    
+      
+        Group H Occupancies used for printing (using inks with flashpoints below 100 degrees F.) combustible hydraulic fluid-use areas such as die casting and metal extruding, upholstering with plastic foam, rubber reclaiming, compounding, drying, milling, vulcanizing, plywood and particle board manufacturing, saw mills, textile picking, opening, blending, garneting, carding and combining of cotton, synthetics, wool shoddy or burlap. &#xA0; Typically these uses are such that a significant fire hazard exists.
+      
+      
+        Extra Hazard
+Group 1
+      
+    
+    
+      
+        Group H Occupancies used as asphalt saturating, flammable liquids spraying, flow coating, open oil quenching, varnish and paint dipping, solvent cleaning and manufactured home or modular building manufacturing (where the finished building enclosure is present and has combustible interiors). Storage rooms with dispensing located in Group H, Division 5 Occupancies.&#xA0; These uses are such that a severe fire hazard exits.
+      
+      
+        Extra Hazard
+Group 2 3
+      
+    
+  
+	1&#xA0; See also Section 8.4.5 of NFPA 13-2010.
+	2&#xA0; For high-piled storage, see NFPA 13-2010.
+	3&#xA0; For additional and more stringent criteria, see California Fire Code Chapters 27, 28, 34, and the Los Angeles Fire Code.94.2010.4. NFPA 13-2010 Section 6.1.1.2 is not adopted and NFPA 13-2010 Section 6.1.1.1 is modified to read as follows:	6.1.1.1. All materials and devices shall be listed and approved.94.2010.5. NFPA 13-2010 Section 6.3.6.1 is added and modified to read as follows:	6.3.6.1. Other types of pipe or tube, such as plastic, may be used if it is investigated and found to be listed for this service.94.2010.6. NFPA 13-2010 Section 6.7.1.3.3 is not adopted.94.2010.7. NFPA 13-2010 Section 6.9.1 is added and modified to read as follows:	6.9.1. Waterflow alarm apparatus shall be listed for the service and constructed and installed so that any flow of water from a sprinkler system equal to or greater than that from a single automatic sprinkler of the smallest orifice size installed on the system shall result in an audible alarm on the premises within two minutes after the flow begins.94.2010.8. NFPA 13-2010 Section 6.9.4.1 is added and modified to read as follows:	6.9.4.1. Electrically operated alarm attachments forming part of an auxiliary, proprietary, remote station or local signaling system shall be installed in accordance with the Los Angeles Fire Code.94.2010.9. NFPA 13-2010 Section 8.15.1.2.9 is added and modified to read as follows:	8.15.1.2.9. Concealed spaces with volumes not exceeding 160 cubic feet above a room or aggregate of rooms not exceeding 55 square feet in area, shall not require sprinkler protection.94.2010.10. Reserved.94.2010.11. Reserved.94.2010.12. Reserved.94.2010.13. NFPA 13-2010 Section 8.15.1.2.15 is added and modified to read as follows:	8.15.1.2.15. Exterior columns under 10 ft2 (0.93 m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system, shall not require sprinkler protection.94.2010.14. NFPA 13-2010 Sections 8.15.4.1 through 8.15.4.5 are not adopted and Section 8.15.4 is added and modified to read as follows:	8.15.4. Water curtains shall consist of closely spaced sprinklers in combination with draft stops. The draft stops shall be located immediately adjacent to the opening shall be at least 18 inches deep and shall be of noncombustible or limited-combustible material that will stay in place before and during sprinkler operation.&#xA0; Sprinklers shall be spaced not more than six feet apart and placed six to 12 inches from the draft stop on the side away from the opening.&#xA0; Where sprinklers are closer than six feet, cross baffles shall be provided in accordance with Section 8.6.3.4.2 of NFPA-13.94.2010.15. NFPA 13-2010 Section 8.15.7.1 is added and modified to read as follows:	8.15.7.1. Unless the requirements of 8.15.7.2&#xA0; and 8.15.7.3 are met sprinklers shall be installed under exterior roofs, canopies, porte-cocheres, balconies, decks or similar projections exceeding 4 ft (1.2 m) in width.94.2010.16. NFPA 13-2010 Section 8.15.7.2 is added and modified to read as follows:	8.15.7.2. Sprinklers shall be permitted to be omitted where the canopies, roofs, balconies, decks, or similar projections are constructed with materials that are noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire Retardant Coatings for Building Materials.94.2010.17. NFPA 13-2010 Section 8.15.7.3 is added and modified to read as follows:	8.15.7.3. Sprinklers shall be permitted to be omitted from below the canopies, roofs, balconies, decks, or similar projections of combustible construction, provided the exposed finish material on the roof, or canopy, is noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire-Retardant Coatings for Building Materials, and the roofs, or canopies, contains only sprinklered concealed spaces or any of the following unsprinklered combustible concealed spaces:	1.	Combustible concealed spaces filled entirely with noncombustible insulation.	2.	Light or ordinary hazard occupancies where noncombustible or limited-combustible ceilings are directly attached to the bottom of solid wood joists so as to create enclosed joist spaces 160 ft3 (4.5 m3) or less in volume, including space below insulation that is laid directly on top or within the ceiling joists in an otherwise sprinklered attic [See 11.2.3.1.4(4)(d)].	3.	Concealed spaces over isolated small roofs, or canopies, not exceeding 55 ft2.94.2010.18. NFPA 13-2010 Section 8.15.7.4 is not adopted.94.2010.19. Reserved.94.2010.20. NFPA 13-2010 Section 8.16.1.1.1.4 is added and modified to read as follows:	8.16.1.1.1.4. Where a system includes floor control valves, a hydraulic design information sign containing information for the floor shall be provided at each floor control valve.&#xA0; A hydraulic design information sign shall be provided for each area calculated.&#xA0; The installing contractor shall identify a hydraulically designed sprinkler system with a permanently marked weatherproof metal or rigid plastic sign secured with corrosion resistant wire, chain, or other approved means.&#xA0; Such signs shall be placed at the alarm valve, dry pipe valve, pre-action valve, or deluge valve supplying the corresponding hydraulically designed area.94.2010.21. NFPA 13-2010 Section 8.16.1.1.1.5 is added and modified to read as follows:	8.16.1.1.1.5. Control valves, check valves, drain valves, antifreeze valves shall be readily accessible for inspection, testing, and maintenance.&#xA0; Valves located more than 6&#x2032;-6&amp;&#x2033; above the finished floor shall be provided with a means of opening and closing the valve from the floor level.94.2010.22. NFPA 13-2010 Section 8.16.1.1.2.5 is added and modified to read as follows:	8.16.1.1.2.5. All valves controlling the water supply for automatic sprinkler systems and water-flow switches on all sprinkler systems shall be electrically monitored where required by the Los Angeles Building Code Section 91.903.4 and 91.903.4.1.	EXCEPTION:&#xA0; Underground key or hub valves in roadway boxes provided by the municipality or public utility need not be monitored.94.2010.23. NFPA 13-2010 Section 8.16.1.1.7 is added and modified to read as follows:	8.16.1.1.7. Valve Access.&#xA0; All valves controlling water supplies for sprinkler systems or portions of the system shall be accessible.&#xA0; These valves shall be within six feet six inches of the floor or shall be operable from fixed ladders or clamped tread ladders on risers, or use chains within six feet six inches of the floor connected to valve hand wheels or other suitable means.&#xA0; All valves shall be provided with adequate clearance for normal operation.94.2010.24. NFPA 13-2010 Section 8.16.1.1.9 is added and modified to read as follows:	8.16.1.1.9. Floor (Level) Control Valves.	1.	Where required.&#xA0; In buildings with over two levels or two floors, a supervised valve capable of independently controlling the fire sprinkler system on each level, penthouse, roof structure, mezzanine and basement shall be installed.&#xA0; The maximum area covered by a single floor control valve shall not exceed the areas specified in section 8.2 of NFPA 13-2010.	EXCEPTIONS:	1.	Floor control valves need not be provided for levels, penthouses, roof structures, mezzanines and basement with 20 or fewer fire sprinklers.	2.	In partially sprinklered buildings, sprinklers serving window openings along an exit way or property line, or stair shafts and adjacent doors may have a sectional control valve to control the system in each of these areas instead of a floor control valve.	3.	Valves required for hazardous locations may be located downstream of floor control valves.	4.	One- and two-family dwellings.	2.	Locations.&#xA0; Floor control valves shall be within a stairway enclosure or within the vestibule or on the access balcony of a smoke proof enclosure.	EXCEPTIONS:	1.	In buildings with three or fewer stories or where there is no stairway that serves a floor, control valves may be located elsewhere on the floor level.	2.	Unenclosed stairways in parking garages.94.2010.25. NFPA 13-2010 Section 8.16.1.1.10 is added and modified to read as follows:	8.16.1.1.10. Special Hazard Locations and Hazardous Occupancies.&#xA0; The piping serving each linen chute, each paint spray booth, each trash chute, including trash room, and each separate trash room shall be controlled by valves that control no other sprinklers.94.2010.26. NFPA 13-2010 Section 8.16.1.2.6 is added and modified to read as follows:	8.16.1.2.6. Identification Pressure Regulators.&#xA0; Signs shall be posted at pressure regulators for fire sprinklers stating the required setting of the pressure regulator.94.2010.27. NFPA 13-2010 Section 8.16.1.5.1 is added and modified to read as follows:	8.16.1.5.1. Private fire service main systems shall have sectional fire control valves at appropriate points in order to permit sectionalizing the system in the event of break or for the making of repairs or extensions.94.2010.28. NFPA 13-2010 Section 8.16.1.5.1.1 is added and modified to read as follows:	8.16.1.5.1.1. Sectional control valves are not required when the fire service main system serves less than six fire appurtenances.94.2010.29. NFPA 13-2010 Section 8.16.1.5.1.2. is added and modified to read as follows:	8.16.1.5.1.2. Sectional control valves shall be indicating valves in accordance with Section 6.7.1.3. NFPA 13-2010.94.2010.30. NFPA 13-2010 Section 8.16.1.5.1.3. is added and modified to read as follows:	8.16.1.5.1.3. Sectional control valves shall be located so that no more than five fire appurtenances are affected by shut-down of any single portion of the fire service main.&#xA0; Each fire hydrant, fire sprinkler system riser, and standpipe riser shall be considered a separate fire appurtenance.&#xA0; In-rack sprinkler systems shall not be considered as a separate appurtenance.94.2010.31. NFPA 13-2010 Section 8.16.1.5.1.4 is added and modified to read as follows:	8.16.1.5.1.4. The number of fire appurtenances between sectional control valves is allowed to be modified by the authority having jurisdiction.94.2010.32. NFPA 13-2010 Section 8.16.1.5.1.5 is added and modified to read as follows:	8.16.1.5.1.5. Looped underground systems shall be provided with sectional valves regardless of the number of appurtenances.94.2010.33. NFPA 13-2010 Section 8.16.1.5.2 is added and modified to read as follows:	8.16.1.5.2. A valve shall be provided on each bank where a main crosses a body of water or outside the building foundation(s) where the main or section of main runs under a building.94.2010.34. NFPA 13-2010 Section 8.16.4.2.4 is not adopted.94.2010.35. NFPA 13-2010 Section 8.17.1.1 is added and modified to read as follows:	8.17.1.1. Local water-flow alarms shall be provided on each sprinkler system having more than five sprinklers and shall be located in an area approved by the Administrative Authority.94.2010.36. NFPA 13-2010 Sections 9.1.1.2 and 9.1.1.3 are not adopted, and NFPA 13-2010 Section 9.1.1.1 is added and modified to read as follows:	9.1.1.1. General.&#xA0; Types of hangers shall be in accordance with the requirements of Section 9.1 of NFPA 13-2010.	EXCEPTION:&#xA0; Hangers designed by a registered structural or civil engineer for lateral loads in accordance with Section 1613 of the Building Code and the requirements of Section 9.3.7 of NFPA 13-2010 shall be acceptable.94.2010.37. NFPA 13-2010 Section 9.1.1.4.3 is added and modified to read as follows:	9.1.1.4.3. Fasteners as specified in 9.1.4 and 9.1.5 shall be permitted to be not listed.94.2010.38. NFPA 13-2010 Section 9.1.3.1 is added and modified to read as follows:	9.1.3.1. Unless prohibited by 9.1.3.2 or 9.1.3.3, the use of listed inserts set in concrete and listed post- installed anchors to support hangars shall be permitted for mains and branch lines provided they meet the requirements of the LABC Sections 91.1613 and 91.1912 and require special inspection as required by Section 91.1704 of the LABC and installed in conformance with all listing requirements.94.2010.39. NFPA 13-2010 Section 9.1.3.9.1.1 is added and modified to read as follows:	9.1.3.9.1.1. Powder-driven studs used for attaching hangers to the building structure are prohibited in Seismic design Categories C, D, E and F.94.2010.40. NFPA 13-2010 Section 9.3.5.6.1 is added and modified to read as follows:	9.3.5.6.1. Unless the requirements of section 9.3.5.6.2 are met, the horizontal loads for braces shall be determined by analysis based on horizontal force of Fp=0.76 Wp, where Fp is the horizontal force factor and Wp is 1.15 times the weight of the water filled piping.94.2010.41. NFPA 13-2010 Section 9.3.5.8.7 is added and modified to read as follows:	9.3.5.8.7. Where pipe is used for sway bracing, it shall have a wall thickness of not less than Schedule 40. The loads determined in 9.3.5.6 shall not exceed the lesser of the maximum&#xA0; allowable loads provided in Table 9.3.5.8.7(a), Table 9.3.5.8.7(b), and Table 9.3.5.8.7(c) or the manufacturer&#x2019;s certified maximum allowable horizontal loads for 30- to 44-degree, 45- to 59-degree, 60- to 89-degree, and 90-degree brace angles.94.2010.42. NFPA 13-2010 Section 9.3.5.8.10 is not adopted.94.2010.43. NFPA 13-2010 Section 9.3.5.9.4 is added and modified to read as follows:	9.3.5.9.4. Where lag screws or power-driven fasteners shall not be used to attach sway braces to the building structure.94.2010.44. NFPA 13-2010 Section 9.3.5.9.6 is added and modified to read as follows:	9.3.5.9.6. Fastening methods other than those identified in 9.3.5.9 and 9.3.5.8.10 shall not apply to other fastening methods, which shall be acceptable for use if certified by a registered professional engineer to support the loads determined in accordance with the criteria in 9.3.5.6. Calculations shall be submitted to the authority having jurisdiction.94.2010.45. NFPA 13-2010 Section 9.3.5.9.7.2 is added and modified to read as follows:	9.3.5.9.7.2. Concrete anchors other than those shown in Figure 9.3.5.9.1 and identified in 9.3.5.8.10 shall be acceptable for use where designed in accordance with the requirements of the building code and certified by a registered professional engineer.&#xA0;94.2010.46. NFPA 13-2010 Section 9.3.6.1(3) is added and modified to read as follows:	9.3.6.1(3). No. 12,440 lb (200Kg) wire installed at least 45 degrees from the vertical plane and anchored on both sides of the pipe. Powder-driven fasteners for attaching restraint are allowed to be used provided that the restraint component does not support the dead load.94.2010.47. NFPA 13-2010 Section 9.3.7.7 is not adopted.94.2010.48. NFPA 13-2010 Section 9.3.7.9 is amended and modified to read as follows:	9.3.7.9. The systems are required to be protected against earthquakes using a horizontal force factor exceeding 0.50 Wp, where Wp is the weight of the water-filled pipe.94.2010.49. NFPA 13-2010 Section 10.6.5. is added and modified to read as follows:	10.6.5. Pipe joints shall not be located under foundation footings.&#xA0; The pipe under the building or building foundation shall not contain mechanical joints.	EXCEPTIONS:	1.	Where allowed in accordance with 10.6.2;	2.	Alternate designs may be utilized where designed by a registered professional engineer and approved by the enforcing agency.94.2010.50. NFPA 13-2010 Section 10.9.1 is added and modified to read as follows:	10.9.1. Backfill shall be well tamped in layers or puddle under and around pipes to prevent settlement or lateral movement.&#xA0; Backfill shall consist of clean fill sand or pea gravel to a minimum of 6&amp;&#x2033; below and to a minimum of 12&amp;&#x2033; above the pipe and shall contain no ashes cinders, refuse, organic matter, or other corrosive materials.&#xA0; Other backfill materials and methods are permitted where designed by a registered professional engineer and approved by the enforcing agency.94.2010.51. NFPA 13-2010 Section 11.1.6.6 is added and modified to read as follows:	11.1.6.6. When hose valves for Fire Department use are attached to wet pipe sprinkler system risers in accordance with Section 8.17.5.2 of NFPA 13-2010:	1.	The water supply shall not be required to be added to the standpipe demand as determined from Section 94.2020 of this chapter.	2.	 Where the combined sprinkler system demand and hose stream allowance of Table 11.2.3.1.2 of NFPA 13-2010 exceeds the requirements of Section 94.2020 of this division, this higher demand shall be used.	3.	 For partially sprinklered buildings, the sprinkler demand, not including hose stream allowance, as indicated in Table 11.2.3.1.1 of NFPA 13-2010, shall be added to the requirements given in Section 94.2020 of this Division.94.2010.52. NFPA 13-2010 Section 11.2.3.1.4(4)(i) is added and modified to read as follows:	11.2.3.1.4(4)(i). Exterior columns under 10 ft2 (0.93 m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system.94.2010.53. NFPA 13-2010 Section 11.2.3.2.3.1 is added and modified to read as follows:	11.2.3.2.3.1. Where listed quick-response sprinklers, excluding extended coverage quick-response sprinklers, are used throughout a system or portion of a system having the same hydraulic design basis, the system area of operation shall be permitted to be reduced without revising the density as indicated in Figure 11.2.3.2.3.1 when all of the following conditions are satisfied:	1.	 Wet pipe system;	2.	Light hazard occupancy;	3.	20 ft (6.1 m) maximum ceiling height; and	4.	There are no unprotected ceiling pockets as allowed by Sections 8.6.7 and 8.8.7 exceeding 32 ft2 (3 m2).94.2010.54. NFPA 13-2010 Section 11.2.3.2.3.2 is added and modified to read as follows:	11.2.3.2.3.2. The number of sprinklers in the design area shall never be less than seven.94.2010.55. NFPA 13-2010 Section 11.3.3.5 is added and modified to read as follows:	11.3.3.5. When the water curtain is located in an otherwise un-sprinklered area, the design shall include all the sprinklers in each fire separation area being protected.94.2010.56. NFPA 13-2010 Section 12.2.1 is added and modified to read as follows:	12.2.1. Except as allowed by section 12.2.2, small hose connections 1 1/2 (38 mm) shall be provided where the system is not subject to freezing in accordance with 8.17.5 for first-aid-fire-fighting and overhaul operations.94.2010.57. NFPA 13-2010 Section 23.1.7 is not adopted.94.2010.58. NFPA 13-2010 Section 24.1 is added and modified to read as follows:	24.1. Approval of Sprinkler Systems and Private Fire Service Mains.&#xA0; The installing contractor shall do the following:	1.	Notify the authority having jurisdiction and the property owner or property owner&#x2019;s authorized representative of the time and date testing will be performed;	2.	Perform all required testing (see Section 24.2);	3.	Complete and sign the appropriate contractor&#x2019;s material and test certificate(s) (see Figure 24.1);	4.	Remove all caps and straps prior to placing the sprinkler system in service; and	5.	Upon system acceptance by the authority having jurisdiction a label prescribed by Title 19 California Code of Regulations, Chapter 5 shall be affixed to each system riser.94.2010.59. NFPA 13-2010 Section 24.4 is added and modified to read as follows:	24.4. Instructions.&#xA0; The installing contractor shall provide the property owner or the property owner&#x2019;s authorized representative with the following:	1.	 All literature and instructions provided by the manufacturer describing proper operation and maintenance of any equipment and devices installed;	2. 	NFPA 25, Standard for the inspection, testing, and maintenance of Water-Based Fire Protection Systems, 2006 California Edition; and	3.	Title 19, California Code of Regulations, Chapter 5, &#x201C;Fire Extinguishing Systems.&#x201D;94.2010.60. NFPA 13-2010 Section 24.5.1 is added and modified to read as follows:	24.5.1. &#x201C;Pipe schedule systems shall be provided with a sign indicating that the system was designed and installed as a pipe schedule system and the hazard classification(s) included in the design.&#x201D;94.2010.61. NFPA 13-2010 Section 24.5.2 is added and modified to read as follows:	24.5.2. The sign shall include the following information:	1.	Location of the design area or areas;	2.	Discharge densities over the design area or areas;	3.	 Required flow and pressure of the system at the base of the riser;	4.	Presence of high piled storage;	5.	Maximum height of storage planned;	6.	Aisle width planned;	7.	Required flow and pressure of the system at the water supply source;	8.	Required flow and pressure of the system at the discharge side of the fire pump where a fire pump is installed;	9.	Type or types and number of sprinklers or nozzles installed including the orifice size, temperature rating, orientation, K-Factor, Sprinkler Identification Number (SIN) for sprinkler heads when applicable and response type;	10.	The minimum discharge flow rate and pressure required from the hydraulically most demanding sprinkler;	11.	The required pressure settings for pressure reducing valves;	12.	For deluge sprinkler systems, the required flow and pressure at the hydraulically most demanding sprinkler or nozzle;	13.	The protection area per sprinkler based on the hydraulic calculations; and	14.	The edition of NFPA 13 to which the system was designed and installed.</text><type>section</type><prefixes><unit></unit></prefixes><entire_prefix></entire_prefix><prefix_anchor></prefix_anchor><level>1</level></unit></text></law>

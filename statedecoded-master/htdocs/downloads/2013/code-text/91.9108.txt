@@ -1,0 +1,108 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ANALYSIS AND DESIGN. (§ 91.9108)
+
+  ANALYSIS AND DESIGN.
+	(Amended by Ord. No. 171,175, Eff. 7/25/96.)	For the purpose of this section,
+“anchorage system(s)” shall mean all structural elements, which supports the
+wall in the lateral direction, including wall anchorage and continuity tie
+(cross-tie) connectors in subdiaphragms and main diaphragms for retrofit and
+repairs.91.9108.1.  Wall Panel Anchorage.  Concrete walls shall be anchored to
+all floors and roofs which provide lateral support for the wall.  The anchorage
+shall provide a positive direct connection between the wall and floor or roof
+construction capable of resisting a horizontal force equal to 30 percent of the
+tributary wall weight for all buildings, and 45 percent of the tributary wall
+weight for essential buildings, or a minimum force of 250 pounds per linear foot
+of wall, whichever is greater.  The required anchorage shall be based on the
+tributary wall panel assuming simple supports  at floors and roof.	EXCEPTION: 
+Alternate design may be approved by the Superintendent when justified by well
+established principles of mechanics.91.9108.2.  Special Requirements for Wall
+Anchors and Continuity Ties.  (Amended by Ord. No. 181,758, Eff. 8/8/11.)  The
+steel elements of the wall anchorage systems and continuity ties shall be
+designed by the allowable stress design method using a load factor of 1.7.  The
+1/3 stress increase permitted by CBC Section 1605.3.1.1 shall not be permitted
+for materials using allowable stress design methods.	The strength design
+specified in CBC Section 1912, using a load factor of 2.0 in lieu of 1.4 for
+earthquake loading, shall be used for design of embedment in concrete.	Wall
+anchors shall be provided to resist out-of-plane forces, independent of existing
+shear anchors.	EXCEPTION:  Existing cast-in-place shear anchors may be used as
+wall anchors if the tie element can be readily attached to the anchors and if
+the engineer or architect can establish tension values for the existing anchors
+through the use of approved as-built plans or testing, and through analysis
+showing that the bolts are capable of resisting the total shear load while being
+acted upon by the maximum tension force due to earthquake.  Criteria for
+analysis and testing shall be determined by the Superintendent.	Expansion
+anchors are not allowed without special approval of the Superintendent. 
+Attaching the edge of plywood sheathing to steel ledgers is not considered as
+complying with the positive anchoring requirements of the Code; and attaching
+the edge of steel decks to steel ledgers is not considered as providing the
+positive anchorage of this Code unless testing and/or analysis are performed,
+which establish shear values for the attachment perpendicular to the edge of the
+deck.91.9108.3.  Development of Anchor Loads into the Diaphragm.  (Amended by
+Ord. No. 181,758, Eff. 8/8/11.)  Development of anchor loads into roof and
+floor diaphragms shall comply with Section 91.1615.4 and Section 12.11 of ASCE
+7.	EXCEPTION:  If continuously tied girders are present, then the maximum
+spacing of the continuity ties is the greater of the girder spacing or 24 feet
+(7315 mm).	In wood diaphragms, anchorage shall not be accomplished by use of toe
+nails or nails subject to withdrawal, nor shall wood ledgers, top plates or
+framing be used in cross-grain bending or cross-grain tension.  The continuous
+ties required by Section 91.1615.4 and Section 12.11 of ASCE 7 shall be in
+addition to the diaphragm sheathing.	Lengths of development of anchor loads in
+wood diaphragms shall be based on existing field nailing of the sheathing unless
+existing edge nailing is positively identified on the original construction
+plans or at the site.	At reentrant corners, continuity collectors may be
+required for existing return walls not designed as shear walls, to develop into
+the diaphragm a force equal to the lesser of the rocking or shear capacity of
+the return wall, or the tributary shear, but not exceeding the capacity of the
+diaphragm.  Shear anchors for the return wall shall be commensurate with the
+collector force.  If a truss or beam, other than rafters or purlins, is
+supported by the return wall or by a column integral with the return wall, an
+independent secondary column, is required to support the roof or floor members
+whenever rocking or shear capacity of the return wall is governing.	Seismic
+deflection shall be determined at the return walls, and fins/canopies at
+entrances, to ensure deflection compatibility with the diaphragm, by either
+seismically isolating the element or attaching the element and integrating its
+load into the diaphragm.91.9108.4.  Anchorage at Pilasters.  (Amended by Ord.
+No. 172,592, Eff. 6/28/99, Oper. 7/1/99.)  Anchorage of pilasters shall be
+designed for the tributary wall anchoring load per Section 91.9108.1 of this
+Code, considering the wall as a two-way slab.  The edge of the two-way slab
+shall be considered “fixed” when there is continuity at pilasters, and
+considered “pinned” at roof or floor levels.  The pilasters or the walls
+immediately adjacent to the pilasters shall be anchored directly to the roof
+framing such that the existing vertical anchor bolts at the top of the pilasters
+are by-passed without causing tension or shear failure at the top of the
+pilasters.	EXCEPTION:  If existing vertical anchor bolts at the top of the
+pilasters are used for the anchorage, then additional exterior confinement shall
+be provided.	The minimum anchorage at a floor or roof between the pilasters
+shall be that specified in Section 91.9108.1 of this Code.91.9108.5. 
+Symmetry.  Symmetry of connectors in the anchorage system is required. 
+Eccentricity may be allowed when it can be shown that all components of forces
+are positively resisted and justified by calculations or tests.91.9108.6. 
+Minimum Roof Member Size.  Wood members used to develop anchorage forces to the
+diaphragm must be at least 3x for new construction and replacement.  All such
+members must be checked for gravity and earthquake as part of the wall anchorage
+system.  For existing buildings, the member check shall be without the 1/3
+stress increase per Section 91.9108.2.91.9108.7.  Combination of Anchor
+Types.  To repair and retrofit existing buildings, a combination of different
+anchor types of different behavior or stiffness shall not be permitted.  The
+capacity of the new and existing connectors cannot be added.91.9108.8. 
+Prohibited Anchors.  Usage of connectors that were bent and/or stretched from
+the intended use shall be prohibited.91.9108.9.  Crack and Damage Repairs,
+Evaluation of Existing Structural Alterations.  The engineer shall report any
+observed structural conditions and structural damage that have imminent life
+safety effects on the buildings and recommend repairs.  Evaluations and repairs
+shall be reviewed and approved by the Department.  The engineer shall also
+evaluate the effects of alterations such as openings cut in existing wall panels
+without a permit, that may present immediate life safety hazard and correct when
+necessary.91.9108.10.  Miscellaneous.  Existing mezzanines relying on the
+tilt-up walls for vertical and/or lateral support shall be anchored to the walls
+for the tributary mezzanine load.  Walls depending on the mezzanine for lateral
+support shall be anchored per Sections 91.9108.1, 91.9108.2 and
+91.9108.3.	EXCEPTION:  Existing mezzanines that have independent lateral and
+vertical support need not be anchored to the walls.	Existing interior masonry or
+concrete walls not designed as shear walls, that extend to the floor above or to
+the roof diaphragm shall also be anchored for out-of-plane forces per Sections
+91.9108.1, 91.9108.2 and 91.9108.3 of this Code.  In the in-plane direction,
+the walls may be isolated or shall be developed into the diaphragm for a lateral
+force equal to the lesser of the rocking or shear capacity of the wall, or the
+tributary shear but not exceeding the diaphragm capacity.

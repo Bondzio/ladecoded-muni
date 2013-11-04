@@ -1,0 +1,178 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DYNAMIC LATERAL ANALYSIS PROCEDURE. (§ 91.9509)
+
+  DYNAMIC LATERAL ANALYSIS PROCEDURE.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)91.9509.1.  General.  (Amended by
+Ord. No. 172,592, Eff. 6/28/99, Oper. 7/1/99.)  Structures shall be analyzed
+for seismic forces acting concurrently on the orthogonal axes of the
+structure.  The effects of the loading on two orthogonal axes shall be combined
+by the square root of the sum of the squares (SRSS) methods.91.9509.2.  Ground
+Motion.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The
+seismic ground motion values shall be determined in accordance with ASCE 7 and
+may be one of the following:	1.	The elastic design response spectrum shall be
+75% of the response spectrum described in Section 11.4.5 of ASCE 7.	2.	A
+site-specific response spectrum shall be 75% of the site-specific response
+spectrum described in Section 11.4.7 of ASCE 7.91.9509.3.  Mathematical
+Model.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The
+three- dimensional mathematical model of the physical structure shall represent
+the spatial distribution of mass and stiffness of the structure to an extent
+that is adequate for the calculation of the significant features of its dynamic
+response.  All concrete and masonry elements shall be included in the model of
+the physical structure.	EXCEPTION:  Concrete or masonry partitions that are
+adequately isolated from the concrete frame members and the floor
+above.	Cast-in-place reinforced concrete floors with span-to- depth ratios less
+than 3:1 may be assumed to be rigid diaphragms.  Other floors, including floors
+constructed of precast elements with or without a reinforced concrete topping,
+shall be analyzed in conformance with Section 12.3.1.3 of ASCE 7 to determine if
+they must be considered as flexible diaphragms.  The effective in-plane
+stiffness of the diaphragm, including effects of cracking and discontinuity
+between precast elements shall be considered.  Ramps that interconnect floor
+levels shall be modeled as having mass appropriately distributed on that
+element.  The lateral stiffness of the ramp may be calculated as having
+properties based on the uncracked cross section of the slab exclusive of beams
+and girders.91.9509.4.  Effective Stiffness.91.9509.4.1.  General.  The
+effective stiffness of concrete and masonry elements or systems shall be
+calculated as the secant stiffness of the element or system with due
+consideration of the effects of tensile cracking and compression strain.  The
+secant stiffness shall be taken from the force-displacement relationship of the
+element or system.  The secant stiffness shall be measured as the slope from
+the origin to the intersection of the force-displacement relationship at the
+assumed displacement.  The force-displacement relationship shall be determined
+by a nonlinear analysis.  The force-displacement analysis shall include the
+calculation of the displacement at which strength degradation
+begins.	EXCEPTION:  The initial effective moment of inertia of beams and
+columns in shear wall or infilled frame buildings may be estimated using Table
+95-D.  The ratio of effective moment of inertia used for the beams and for the
+columns shall be verified by Formula (9-1), (9-2) and (9-3).  The estimates
+shall be revised if the ratio used exceeds the ratio calculated by more than 20
+percent.			(9-1)
+	WHERE:			(9-2)	AND:			(9-3)91.9509.4.2.  Infills.  The effective stiffness of
+an infill shall be determined from a nonlinear analysis of the infill and the
+confining frame.  The effect of the infill on the stiffness of the system shall
+be determined by differencing the force-displacement relationship of the
+frame-infill system from the frame-only system.91.9509.4.3.  Model of Infill. 
+The mathematical model of an infilled frame structure shall include the
+stiffness effects of the infill as a pair of diagonals in the bays of the
+frame.  The diagonals shall be considered as having concrete properties and
+only axial loads.  Their lines of action shall intersect the beam-column
+joints.  The secant stiffness of the force-displacement relationship,
+calculated as prescribed in Section 91.9509.4.2, shall be used to determine the
+effective area of the diagonals.  The effective stiffness of the frame shall be
+determined as specified in Section 91.9509.4.1.  Other procedures that provide
+the same effective stiffness for the combination of infill and frame may be used
+when approved by the Superintendent of Building.91.9509.4.4.  Effective
+Stiffness of Elements and Systems.  The effective stiffnesses shall be
+determined by an iterative method.  The mathematical model using assumed
+effective stiffnesses shall be used to calculate dynamic displacements.  The
+effective stiffness of all concrete and masonry elements shall be modified to
+represent the secant stiffness obtained from the nonlinear force-displacement
+analysis of the element or system at the calculated displacement.  A
+re-analysis of the mathematical model shall be made using the adjusted effective
+stiffness of existing and supplemental elements and systems until closure of the
+iterative process is obtained.  A difference of 10 percent from the effective
+stiffness used and that recalculated may be assumed to be closure of the
+iterative process.91.9509.5.  Description of Analysis Procedures.91.9509.5.1. 
+Response Spectrum Analysis.  Response spectrum analysis is an elastic dynamic
+analysis of a structure utilizing the peak dynamic response of all modes having
+a significant contribution to total structural response.  Peak modal responses
+are calculated using the ordinates of the appropriate response spectrum curve
+which correspond to the modal periods.  Maximum modal contributions are
+combined in a statistical manner to obtain an approximate total structural
+response.91.9509.5.2.  Number of Modes.  The requirement of Section
+91.9509.5.1 may be satisfied by demonstrating that for the modes considered, at
+least 90 percent of the participating mass of the structure is included in the
+calculation of response for each principal horizontal direction.91.9509.5.3. 
+Combining Modes.  The peak displacements for each mode shall be combined by
+recognized methods.  Modal interaction effects of three-dimensional models
+shall be considered when combining modal maxima.91.9509.5.4.  Torsion.  The
+three-dimensional analysis shall be considered as including all torsional
+effects including accidental torsional effects.91.9509.6.  Material
+Characteristics.  The stress-strain relationship of concrete, masonry and
+reinforcement shall be determined by testing or from published data.  The
+procedure for testing and determination of stress-strain values shall be as
+prescribed in one of the following:	A.	Concrete.  The compressive strength of
+existing concrete shall be determined by tests on cores sampled from the
+structure or may be taken from information given on the construction documents
+and confirmed by limited testing.  A default value of horizontal shear stress
+may be used in Section 91.9511.5.1 without testing of the compressive strength
+of the existing concrete.	1.	The cutting of cores shall not significantly reduce
+the strength of the existing structure.  Cores shall not be taken in columns. 
+Existing reinforcement shall not be cut.	2.	If the construction documents do not
+specify a minimum compressive strength of the classes of concrete, five cores
+per story, with a minimum of ten cores, shall be obtained for
+testing.	EXCEPTION:  If the coefficient of variation of the compressive
+strength does not exceed 15 percent, the number of cores per story may be
+reduced to two and the minimum number of tests reduced to five.	3.	When the
+construction documents specify a minimum compressive strength, two cores per
+story, per class of concrete, shall be taken in the areas where that concrete
+was to be placed.  A minimum of five cores shall be obtained for testing.  If
+a higher strength of concrete was specified for columns than the remainder of
+the concrete, cores taken in the beams for verification of the specified
+strength of the beams, shall be substituted for tests in the columns.  The
+strength specified for columns may be used in the analyses if the specified
+compressive strength in the beams is verified.	4.	The sampling for the concrete
+strength tests shall be distributed uniformly in each story.  If the building
+has shear walls, a minimum of 50 percent of the cores shall be taken from the
+shear walls.  Not more than 25 percent of the required cores shall be taken in
+floor and roof slabs.  The remainder of cores may be taken from the center of
+beams at mid-span.  In concrete frame buildings, 75 percent of the cores shall
+be taken from the beams.	5.	The mean value of the compressive stresses obtained
+from the core testing for each class of concrete shall be used in the
+analyses.  Values of peak strain that is associated with peak compressive
+stress may be taken from published data for the nonlinear analyses of reinforced
+concrete elements.	B.	Solid Grouted Reinforced Masonry.  The compressive
+strength of solid grouted concrete block or brick masonry may be taken as 2000
+psi (13.8 MPa).  The strain associated with peak stress may be taken as
+0.0025.	C.	Partially Grouted Masonry.  A minimum of five units shall be removed
+from the walls and tested in conformance with ASTM C 140.  Compressive strength
+of the masonry may be determined in accordance with CBC Section 2105.2.2,
+assuming Type S mortar.  The strain associated with peak stress may be taken as
+0.0025.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)	D.	Unreinforced Masonry.	1.	The stress-strain relationship of existing
+unreinforced masonry shall be determined by in-place cyclic testing.  The test
+procedure shall conform to Section 91.9513.	2.	One stress-strain test per story
+and a minimum of five tests shall be made in the unreinforced masonry infills. 
+The location of the tests shall be uniformly distributed throughout the
+building.	3.	The average values of the stress-strain values obtained from
+testing shall be used in the nonlinear analyses of frame-infill assemblies or in
+the calculation of the effective diagonal brace that is used in the simplified
+analysis procedure of Section 91.9511.	E.	Reinforcement.  The yield stress of
+each type of new or existing reinforcement shall be taken from Table 95-E unless
+the reinforcement is sampled and tested for yield stress.  The axial
+reinforcement in columns of post-1933 buildings shall be assumed to be hard
+grade unless noted otherwise on the construction documents.	F.	Combination of
+Concrete and Masonry Materials.  Combinations of masonry and concrete infills
+shall be assumed to have equal strain.  The secant moduli at peak stress of the
+masonry and concrete shall be used to determine the effective transformed area
+of the composite material.91.9509.7.  Story Drift Limitation.91.9509.7.1. 
+Definition.  Story drift is the displacement of one level relative to the level
+above or below calculated by the response spectrum analysis using the
+appropriate effective stiffness.91.9509.7.2.  Limitation.  The story drift is
+limited to that displacement that causes any of the following
+effects:	1.	Compressive strain of 0.003 in the frame confining infill or in a
+shear wall.	2.	Compressive strain of 0.004 in a reinforced concrete column
+unless the engineer can show by published experimental research that the
+existing confinement reinforcement justifies higher values of strain.	3.	Peak
+strain in masonry infills as determined by experimental data or by physical
+testing as prescribed in Section 91.9513.	4.	Displacement that was calculated by
+the nonlinear analysis as when strength degradation of any element
+began.	EXCEPTION:  Item 4 may be taken as the displacement that causes a
+strength degradation in that line of resistance equal to 10 percent of the sum
+of the strength of the elements in that line of resistance.	5.	A story drift of
+0.015 using the dynamic analysis procedure or the forces specified in Section
+91.9510.  This limitation shall not supersede the limitations of Items
+1-4.91.9509.8.  Compressive Strain Determination.91.9509.8.1.  General.  The
+compressive strain in columns, shear walls and infills may be determined by the
+nonlinear analysis or a procedure that assumes plane sections remain
+plane.91.9509.8.2.  Axial and Flexural Loading.  The compressive strain shall
+be determined for combined flexure and axial loading.  The flexural moments
+shall be taken from the response spectrum model for frame or shear wall
+buildings, and from the substructure model for infill frames.  The axial loads
+shall have the following combination of effects, where L is unreduced live
+load:U = 1.0 D + 0.3 L = 1.0 E	(9-4)U = 0.9 D  -  1.0  E	(9-5)91.9509.9. 
+Shear Strength Limitation.  The required in-plane shear strength of all
+columns, piers and shear walls shall be the shear associated with the moments
+induced at the ends of columns or piers and at the base of shear walls by the
+story displacements.  No strength reduction factors shall be used in the
+determination of strength.

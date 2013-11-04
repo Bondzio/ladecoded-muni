@@ -1,0 +1,195 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MATERIALS OF CONSTRUCTION. (§ 91.8809)
+
+  MATERIALS OF CONSTRUCTION.
+	(Amended by Ord. No. 171,175, Eff. 7/25/96.)91.8809.1.  General.  All
+materials permitted by this Code, including their appropriate allowable stresses
+and those existing configurations of materials specified herein, may be utilized
+to meet the requirements of this division.91.8809.2.  Existing
+Materials.91.8809.2.1.  General.  (Amended by Ord. No. 171,939, Eff.
+4/15/98.)  Unreinforced masonry walls analyzed in accordance with this section
+may provide vertical support for roof and floor construction and resistance to
+lateral loads.	All units of both bearing and nonbearing walls shall be laid with
+full shoved mortar joints; all head, bed and wall (collar) joints shall be
+solidly filled with mortar; and the bonding of adjacent wythes of multiwythe
+walls shall be as follows:	The facing and backing shall be bonded so that not
+less than 4 percent of the wall surface of each face is composed of headers
+extending not less than four inches (102 mm) into the backing.  The distance
+between adjacent full-length headers shall not exceed 24 inches (610 mm) either
+vertically or horizontally. In walls in which a single header does not extend
+through the wall, headers from the opposite sides shall overlap at least four
+inches (102 mm), or headers from opposite sides shall be covered with another
+header course overlapping the header below at least four inches (102 mm).	Wythes
+of walls not bonded as described above shall be considered as veneer.  The
+veneer wythe shall not be included in the effective thickness used in
+calculating the height-to-thickness ratio and the shear capacity of the
+wall.	Tension stresses due to seismic forces normal to the wall may be neglected
+if the wall does not exceed the height-to-thickness ratio in Table No. 88-G and
+the in-plane shear stresses due to seismic loads as set forth in Table No.
+88-J.	If the wall height-to-thickness ratio exceeds the specified limits, the
+wall may be supported by vertical bracing members designed in accordance with
+Division 16 of this Code.  The deflection of such bracing member at design
+loads shall not exceed one tenth of the wall thickness.	EXCEPTION:  The wall
+may be supported by flexible vertical bracing members designed in accordance
+with Section 91.8808.2 if the deflection at design loads is not less than one
+quarter or more than one third of the wall thickness.	All vertical bracing
+members shall be attached to floor and roof construction for their design loads
+independently of required wall anchors.  Horizontal spacing of vertical bracing
+members shall not exceed one half the unsupported height of the wall or 10 feet
+(3048 mm).	The wall height may be measured vertically to bracing elements other
+than a floor or roof.  Spacing of the bracing elements and wall anchors shall
+not exceed six feet (1829 mm). Bracing elements shall be detailed to minimize
+the horizontal displacement of the wall by components of vertical displacements
+of the floor or roof.91.8809.2.2.  Veneer.  (Amended by Ord. No. 181,758, Eff.
+8/8/11.)  Veneer shall be anchored with approved anchor ties conforming to the
+required design capacity specified in Section 91.1405 of this Code and placed at
+a maximum spacing of 24 inches (610 mm).	EXCEPTION:  Existing veneer anchor
+ties may be acceptable provided the ties are in good condition and conform to
+the minimum size, maximum spacing and material requirements specified in the
+provisions of the Los Angeles Building Ordinances in effect prior to October 6,
+1933.  Said provisions specified that veneer anchor ties shall be corrugated
+galvanized iron strips not less than one inch (25 mm) in width, eight inches
+(203 mm) in length and 1/16 inch (1.6 mm) in thickness and shall be located and
+laid in every alternate course in the vertical height of the wall at a spacing
+not to exceed 17 inches (432 mm) on center horizontally.  As an alternate, said
+provisions specified that such ties may be laid in every fourth course
+vertically at a spacing not to exceed nine inches (229 mm) on center
+horizontally.	The existence and condition of existing veneer anchor ties shall
+be verified as follows:	1.	An approved testing laboratory shall verify the
+location and spacing of the ties and shall submit a report to the Department for
+approval as a part of the structural analysis.	2.	The veneer in a selected area
+shall be removed to expose a representative sample of ties (not less than four)
+for inspection by the Department.91.8809.2.3.  Existing Roof, Floors, Walls,
+Footings and Wood Framing.  Existing materials, including wood shear walls
+utilized in the described configuration, may be used as part of the lateral
+load-resisting system, provided that the stresses in these materials do not
+exceed the values shown in Table No. 88-H.91.8809.3.  Strengthening of Existing
+Materials.  New materials, including wood shear walls, may be utilized to
+strengthen portions of the existing seismic resisting system in the described
+configurations, provided that the stresses do not exceed the values shown in
+Table No. 88-I.91.8809.4.  Alternate Materials.  Alternate materials, designs
+and methods of construction may be approved by the Department in accordance with
+the provisions of Article 8, Chapter IX of the Los Angeles Municipal
+Code.91.8809.5  Minimum Acceptable Quality of Existing Unreinforced Masonry
+Walls.91.8809.5.1.  General Provisions.  (Amended by Ord. No. 171,939, Eff.
+4/15/98.)  All unreinforced masonry walls utilized to carry vertical loads and
+seismic forces parallel and perpendicular to the wall plane shall be tested as
+specified in this section.  All masonry quality shall equal or exceed the
+minimum standards established herein or shall be removed and replaced by new
+materials. Alternate methods of testing may be approved by the Department.  The
+quality of mortar in all masonry walls shall be determined by performing
+in-place shear tests or by testing eight-inch (203 mm) diameter cores.	The
+vertical wall joint between wythes (collar joints) shall be inspected at the
+test location after the in-place shear tests, and an estimate of the percentage
+of wythe-to-wythe mortar coverage shall be reported along with the results of
+the in-place shear tests.  Where the exterior face is veneer, the type of
+veneer, its thickness and its bonding and/or ties to the structural wall masonry
+shall also be reported.	Alternative methods of testing may be approved by the
+Department.  Nothing shall prevent pointing with mortar of all the masonry wall
+joints before the tests are first made.  Prior to any pointing, the mortar
+joints must be raked and cleaned to remove loose and deteriorated mortar. 
+Mortar for pointing shall be Type S or N except masonry cements shall not be
+used.  All preparation and mortar pointing shall be done under the continuous
+inspection of a registered deputy inspector.  At the conclusion of the
+inspection, the inspector shall submit a written report to the licensed engineer
+or architect responsible for the seismic analysis of the building setting forth
+the result of the work inspected.  Such report shall be submitted to the
+Department for approval as part of the structural analysis.	All testing shall
+meet Department-approved testing method parameters (including rate of load
+application) and shall be performed in accordance with the requirements
+specified in this section by a testing agency approved by the Department.	An
+accurate record of all such tests and their location in the building shall be
+recorded and these results shall be submitted to the Department for approval as
+part of the structural analysis.91.8809.5.2.  Number and Location of Tests. 
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)  The minimum number of tests shall
+be as follows:	1.	At each of both the first and top stories, not less than two
+per wall line or line of wall elements providing a common line of resistance to
+lateral forces.	2.	At each of all other stories, not less than one per wall
+element providing a common line of resistance to lateral forces.	3.	In any case,
+not less than one per 1,500 square feet (139.4 m2) of wall surface and a total
+of eight.	The shear tests shall be taken at locations representative of the
+mortar conditions throughout the entire building, taking into account variations
+in workmanship at different building height levels, variations in weathering of
+the exterior surfaces and variations in the condition of the interior surfaces
+due to deterioration caused by leaks and condensation of water and/or by the
+deleterious effects of other substances contained within the building.  Where
+the higher h/t ratios allowed in Footnotes Nos. 4 and 5 of Table No. 88-G are to
+be used, the in-place shear tests taken at the top story shall be included in
+the 80 percent of the shear tests used to determine the minimum mortar shear
+strength.	The exact test or core location shall be determined at the building
+site by the licensed engineer or architect responsible for the seismic analysis
+of the subject building.91.8809.5.3.  In-Place Shear Tests.  (Amended by Ord.
+No. 181,758, Eff. 8/8/11.)  The bed joints of the outer wythe of the masonry
+shall be tested in shear by laterally displacing a single brick relative to the
+adjacent bricks in that wythe.  The mortar in the opposite head joint of the
+brick to be tested shall be removed and cleaned prior to testing.  The minimum
+quality mortar in 80 percent of the shear tests shall not be less than the total
+of 30 psi (206.9 kPa) plus the axial stress in the wall at the point of the
+test.  The shear stress shall be based on the gross area of both bed joints and
+shall be that shear stress at which movement of the masonry is first measured or
+at which cracking first appears.	An internal caliper, graduated in 0.001 of an
+inch (0.025 mm) increments shall be used to measure movement of the masonry
+unit.  A hydraulic jack equipped with a pressure gauge graduated in increments
+of 50 psi (345 kPa) or less shall be used.  The jack load shall be applied at a
+rate not exceeding 5,000 pounds (22 240 N) per minute.	The test shall be
+conducted by a minimum of two technicians.  Load and displacement readings
+shall be recorded at the following intervals:	1.	At a caliper reading of 0.001
+inch (0.025 mm);	2.	At first visually observed sign of movement or cracking of
+the mortar or masonry unit;	3.	At a caliper reading of 0.02 inch (0.51 mm);
+and	4.	The ultimate load on the unit.	The masonry unit to be tested shall not be
+located adjacent to a bond course in a brick wall laid in common bond.  Tests
+to evaluate the mortar quality of structural walls shall not be conducted in
+masonry veneer.	Walls with mortar values which are consistently low and do not
+meet the minimum quality values specified in this Section shall be entirely
+pointed per Chapter A1, Section A103 and A106.3.3.9 of 2007 California Existing
+Building Code except that the depth of joint penetration shall be 1-l/2 inch (38
+mm) in lieu of the 3/4 inch (19 mm) specified.91.8809.5.4.  Core Tests. 
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)  A minimum number of mortar test
+specimens equal to the number of required cores shall be prepared from the cores
+and tested as specified herein.  The mortar joint of the outer wythe of the
+masonry core shall be tested in shear by placing the circular core section in a
+compression testing machine with the mortar bed joint rotated 15 degrees from
+the axis of the applied load.  The mortar joint tested in shear shall have an
+average ultimate stress of 20 psi (138 kPa) based on the gross area.  The
+average shall be obtained from the total number of cores made.  If test
+specimens cannot be made from cores taken, the shear value shall be reported as
+zero.91.8809.6.  Testing of Shear Bolts.  (Amended by Ord. No. 171,939, Eff.
+4/15/98.)  One fourth of all new shear bolts and dowels embedded in
+unreinforced masonry walls shall be tested by a registered deputy building
+inspector using a torque calibrated wrench to the following minimum
+torques:	1/2-inch-diameter bolts or dowels – 40 foot-pounds.	5/8-inch-diameter
+bolts or dowels – 50 foot-pounds.	3/4-inch-diameter bolts or dowels – 60
+foot-pounds.	For SI: 1 inch = 25.4 mm, 1 foot-pound = 1.356 Nm	No bolts
+exceeding 3/4-inch (19.1 mm) shall be used.  All nuts shall be installed over
+malleable iron or plate washers when bearing on wood and heavy cut washers when
+bearing on steel.91.8809.7.  Determination of Allowable Stresses for Design
+Methods Based on Test Results.91.8809.7.1.  Design Shear Values.  (Amended by
+Ord. No. 171,939, Eff. 4/15/98.)  Design seismic in-plane shear stresses shall
+be substantiated by tests performed as specified in Section 91.8809.5.3 and
+91.8809.5.4.	Design stresses shall be related to test results obtained in
+accordance with Table No. 88-J.  Intermediate values between 3 and 10 psi (20.7
+kPa and 69 kPa) may be interpolated.91.8809.7.2.  Design compression and
+tension values.  (Amended by Ord. No. 171,939, Eff. 4/15/98.)  Compression
+stresses for unreinforced masonry having a minimum design shear value of three
+psi (20.7 kPa) shall not exceed 100 psi (690 kPa).  Design tension values for
+unreinforced masonry shall not be permitted.91.8809.8.  (Amended by Ord. No.
+171,939, Eff. 4/15/98.)  Five percent of the existing rod anchors utilized as
+all or part of the required wall anchors shall be tested in pullout by an
+approved testing laboratory.  The minimum number tested shall be four per
+floor, with two tests at walls with joists framing into the wall and two tests
+at walls with joists parallel to the wall.  The test apparatus shall be
+supported on the masonry wall at a minimum distance of the wall thickness from
+the anchor tested.  The rod anchor shall be given a preload of 300 pounds (136
+kg) prior to establishing a datum for recording elongation.  The tension test
+load reported shall be recorded at 1/8–inch (3.2 mm) relative movement of the
+anchor and the adjacent masonry surface. Results of all tests shall be
+reported.  The report shall include the test results as related to the wall
+thickness and joist orientation.  The allowable resistance value of the
+existing anchors shall be 40 percent of the average of those tested anchors
+having the same wall thickness and joist orientation.91.8809.9.  Qualification
+tests for devices used for wall anchorage shall be tested with the entire
+tension load carried on the enlarged head at the exterior face of the wall. Bond
+on the part of the device between the enlarged head and the interior wall face
+shall be eliminated for the qualification tests.  The resistance value assigned
+the device shall be 20 percent of the average of the ultimate loads.

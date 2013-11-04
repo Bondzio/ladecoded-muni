@@ -1,0 +1,44 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+EQUIVALENT LATERAL FORCE PROCEDURE. (§ 91.9510)
+
+  EQUIVALENT LATERAL FORCE PROCEDURE.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)91.9510.1.  General.  Structures
+shall be analyzed for prescribed forces acting concurrently on the orthogonal
+axes of the building.  The effects of the loading on the two orthogonal axes
+shall be combined as required by Section 91.9509.1.91.9510.2.  Base Shear for
+Analysis.  (Amended by Ord. No. 181,758, Eff. 8/8/11.)  The base shear used to
+determine story drifts shall be determined using 75 percent of that currently
+required by Section 12.8.1 of the ASCE 7.	WHERE:	R	=	1.4 for concrete frame
+buildings with masonry infill and all other reinforced concrete buildings.
+ 	EXCEPTION:  R = 1.0 for single story buildings.	The R value in Table 12.2-1
+of ASCE 7 of this Code for new building design shall not be used for story drift
+determination.91.9510.3.  Structure Period.  (Amended by Ord. No. 179,324,
+Eff. 12/10/07, Oper. 1/1/08.)  The fundamental period of the structure, T, in
+the direction under consideration can be calculated by Equation 12.8-7 of ASCE 7
+or using the structural properties and deformational characteristics of the
+resisting elements in a properly substantiated analysis without subject to the
+limitations established by Table 12.8-1 of ASCE 7.91.9510.4.  Vertical
+Distribution of Forces.  (Amended by Ord. No. 181,758, Eff. 8/8/11.)  The base
+shear shall be distributed over the height of the structure in conformance with
+Formula (10-1).			(10-1)WHERE:	Cvx	=	vertical distribution factor to be applied
+to V to obtain the story force at level x.	K	=	an exponent related to building
+period as follows:For buildings having a period of 0.5 seconds or less, k =
+1.0For buildings having a period of 2.5 seconds or more, k = 2.0For buildings
+having a period between 0.5 and 2.5 seconds, k may be taken as two or determined
+by linear interpolation between one and two.91.9510.5.  Horizontal Distribution
+of Shear.  The effective stiffness of elements shall be used for the horizontal
+distribution of shear.91.9510.6.  Horizontal Torsional Moments.  Provision
+shall be made for increased displacements resulting from horizontal torsion. 
+The effects of torsional moments shall be included in the determination of the
+effective stiffness of elements and systems.  Reinforced concrete floors may be
+considered as rigid diaphragms.91.9510.7.  Effective Stiffness.  The effective
+stiffness of concrete and masonry elements shall be determined as prescribed in
+Section 91.9509.4.91.9510.8.  Material Characteristics.  Material
+characteristics shall be determined as prescribed in Section
+91.9509.6.91.9510.9.  Story Drift Limitations.  Story drift limits shall be as
+prescribed in Section 91.9509.7.91.9510.10.  Compressive Strain
+Determination.  Compressive strain shall be determined as prescribed in Section
+91.9509.8.91.9510.11.  Shear Strength Limitation.  The in-plane shear strength
+shall equal or exceed the shear forces determined as prescribed in Section
+91.9509.9.

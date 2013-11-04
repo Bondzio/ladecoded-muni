@@ -1,0 +1,151 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CONVENTIONAL LIGHT-FRAME CONSTRUCTION. (§ 91.2308)
+
+  CONVENTIONAL LIGHT-FRAME CONSTRUCTION.
+	(Amended by Ord. 181,758, Eff. 8/8/11.)	Section 2308 of the CBC is adopted by
+reference, except that Sections 2308.3.4, 2308.12.1, 2308.12.2, 2308.12.4 and
+2308.12.5 of the CBC are not adopted and in lieu Sections 91.2308.3.4,
+91.2308.12.1, 91.2308.12.2, 91.2308.12.4, 91.2308.12.5 and Table 2308.12.4 are
+added. 91.2308.3.4. Braced Wall Line Support.  Braced wall lines shall be
+supported by continuous foundations.	EXCEPTION:  For structures with a maximum
+plan dimension not over 50 feet (15240 mm), continuous foundations are required
+at exterior walls only for structures not assigned to Seismic Design Category D,
+E or F.91.2308.12.1. Number of Stories.  Structures of conventional light-frame
+construction shall not exceed one story in height in Seismic Design Category D
+or E.91.2308.12.2. Concrete or Masonry.  Concrete or masonry walls and stone or
+masonry veneer shall not extend above the basement.	EXCEPTION:  Stone and
+masonry veneer is permitted to be used in the first story above grade plane in
+Seismic Design Category D provided the following criteria are met:	1.	The type
+of brace in accordance with CBC Section 2308.9.3 shall be Method 3 and the
+allowable shear capacity in accordance with CBC Table 2306.4.1 of this division
+shall be a minimum of 350 plf (5108 N/m).	2.	The bracing of the first story
+shall be located at each end and at least every 25 feet (7620 mm) on center but
+not less than 45 percent of the braced wall line.	3.	Hold-down connectors shall
+be provided at the ends of braced walls for the first floor to foundation with
+an allowable design of 2,100 pounds (9341 N).	4.	Cripple walls shall not be
+permitted.	5.	Anchored masonry and stone wall veneer not exceeding five inches
+(127 mm) in thickness shall conform to the requirements of Division 14 of this
+Code and shall not extend more than five feet (1524 mm) above the first story
+finished floor. 91.2308.12.4. Braced Wall Line Sheathing.  Braced wall lines
+shall be braced by one of the types of sheathing prescribed by CBC Table
+2308.12.4 as shown in CBC Figure 2308.9.3.  The sum of lengths of braced wall
+panels at each braced wall line shall conform to CBC Table 2308.12.4.  Braced
+wall panels shall be distributed along the length of the braced wall line and
+start at not more than 8 feet (2438 mm) from each end of the braced wall line. 
+Panel sheathing joints shall occur over studs or blocking.  Sheathing shall be
+fastened to studs, top and bottom plates and at panel edges occurring over
+blocking.  Wall framing to which sheathing used for bracing is applied shall be
+nominal 2 inch wide [actual 1 1/2 inch (38 mm)] or larger members, spaced a
+maximum of 16 inches on center.  Nailing shall be minimum 8d common placed 3/8
+inches from panel edges and spaced not more than 6 inches on center, and 12
+inches on center along intermediate framing members.  Braced wall panel
+construction types shall not be mixed within a braced wall line.  Braced wall
+panels required by CBC Section 2308.12.4 may be eliminated when all of the
+following requirements are met:	1.	One story detached Group U occupancies not
+more than 25 feet in depth or length.	2.	The roof and three enclosing walls are
+solid sheathed with 1/2-inch nominal thickness wood structural panels with 8d
+common nails placed 3/8 inches from panel edges and spaced not more than 6
+inches on center along all panel edges and 12 inches on center along
+intermediate framing members.  Wall openings for doors or windows are permitted
+provided a minimum 4 foot wide wood structural braced panel with minimum height
+to length ratio of 2 to 1 is provided at each end of the wall line and that the
+wall line be sheathed for 50% of its length.	Wood structural panel sheathing
+shall be minimum of 15/32 inch thick nailed with a 8d common placed 3/8 inches
+from panel edges and spaced not more than 6 inches on center and 12 inches on
+center along intermediate framing members.TABLE 2308.12.4
+WALL BRACING IN SEISMIC DESIGN CATEGORIES D AND E
+(Minimum Length of Wall Bracing Per Each 25LinearFeet of Braced Wall Line a)
+  
+    
+      
+        Condition
+      
+      
+        SHEATHING TYPE b
+      
+      
+        SDS < 0.50
+      
+      
+        0.50 ≤ SDS < 0.75
+      
+      
+        0.75 ≤ SDS ≤ 1.00
+      
+      
+        SDS > 1.00
+      
+    
+    
+      
+        One Story
+      
+      
+        G-P c
+      
+      
+        10 feet 8inches
+      
+      
+        14 feet 8inches
+      
+      
+        18 feet 8inches
+      
+      
+        25 feet 0inches
+      
+    
+    
+      
+        S-W d
+      
+      
+        5 feet 4inches
+      
+      
+        8 feet 0inches
+      
+      
+        9 feet 4inches
+      
+      
+        12 feet 0inches
+      
+    
+  
+For SI: one inch = 25.4 mm, one foot = 304.8 mm.a.	Minimum length of panel
+bracing of one face of the wall for S-W sheathing shall be at least
+4′-0&#038;″ long or both faces of the wall for G-P sheathing shall be at
+least 8′-0&#038;″ long; h/w ratio shall not exceed 2:1. For S-W panel
+bracing of the same material on two faces of the wall, the minimum length is
+permitted to be one-half the tabulated value but the h/w ratio shall not exceed
+2:1 and design for uplift is required.
+b.	G-P = gypsum board, lath and portland cement plaster or gypsum sheathing
+boards; S-W = wood structural panels. 
+c.	Nailing as specified below shall occur at all panel edges at studs, at top
+and bottom plates and, where occurring, at blocking: For 1/2-inch gypsum board,
+5d (0.113 inch diameter) cooler nails at 7 inches on center;
+	For 5/8-inch gypsum board, No. 11 gage (0.120 inch diameter) at 7 inches on
+center; For gypsum sheathing board, 13/4 inches long by 7/16-inch head, diamond
+point galvanized nails at 4 inches on center; For gypsum lath, No. 13 gage
+(0.092 inch) by 11/8 inches long, 19/64-inch head, plasterboard at 5 inches on
+center; For Portland cement plaster, No. 11 gage (0.120 inch) by 11/2 inches
+long, 7/16- inch head at 6 inches on center;
+d. 	S-W sheathing shall be a minimum of 15/32&#038;″ thick nailed with 8d
+common placed 3/8 inches from panel edges and spaced not more than 6 inches on
+center and 12 inches on center along intermediate framing members.91.2308.12.5.
+Attachment of Sheathing.  Fastening of braced wall panel sheathing shall not be
+less than that prescribed in Table 2308.12.4 of this division or CBC Section
+2304.9.1. Wall sheathing shall not be attached to framing members by
+adhesives.  Staple fasteners in Table 2304.9.1 shall not be used to resist or
+transfer seismic forces in structures assigned to Seismic Design Category D, E
+or F.	EXCEPTION:  Staples may be used to resist or transfer seismic forces when
+the allowable shear values are substantiated by cyclic testing and approved by
+the building official.	All braced wall panels shall extend to the roof sheathing
+and shall be attached to parallel roof  rafters or blocking above with framing
+clips (18 gauge minimum) spaced at maximum 24 inches (6096 mm) on center four 8d
+nails per leg (total 8d nails per clip). Braced wall panels shall be laterally
+braced at each top corner and at maximum 24 inch (6096 mm) intervals along the
+top plate of discontinuous vertical framing.

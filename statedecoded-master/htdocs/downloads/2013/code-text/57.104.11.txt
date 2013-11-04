@@ -1,0 +1,15 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+EQUIPMENT STANDARDS. (§ 57.104.11)
+
+  EQUIPMENT STANDARDS.	A.	Equipment shall be of a type and design which will
+not discharge a flammable vapor-air mixture when used with the intended
+material.	B.	Pressurized material tank shall be approved for a working pressure
+equal to the approved working pressure of air tank supplying pressure to it or
+equal to the maximum air pressure to which the material tank may be submitted,
+whichever is greater.	C.	Pressurized material tank shall have a relief valve set
+to operate at a pressure of not greater than 125 percent of the designed working
+pressure of the tank.	D.	There shall be a pressure regulating valve installed on
+the inlet side of pressurized material tank.	E.	There shall be a
+manually-operated shutoff valve in the discharge line of pressurized material
+tank.

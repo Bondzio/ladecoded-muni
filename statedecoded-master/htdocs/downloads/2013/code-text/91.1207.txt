@@ -1,0 +1,62 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SOUND TRANSMISSION. (§ 91.1207)
+
+  SOUND TRANSMISSION.	Section 1207 of the CBC is adopted by reference, except
+Sections 1207.1, 1207.11.1, 1207.11.3, 1207.11.4 and 1207.12 of the CBC are not
+adopted and in lieu, Sections 91.1207.1, 91.1207.11.1, 91.1207.11.3,
+91.1207.11.4 and 91.1207.12 are added.91.1207.1.  Purpose and Scope.  The
+purpose of this section is to establish uniform minimum noise insulation
+performance standards to protect persons within new hotels, motels, dormitories,
+residential care facilities, apartment houses, dwellings, private schools, and
+places of worship from the effects of excessive noise, including but not limited
+to, hearing loss or impairment and interference with speech and
+sleep.91.1207.11.1.  Application Consistent with Local Land-Use Standards. 
+All structures identified in Section 91.1207.1 located in noise critical areas,
+such as proximity to highways, county roads, city streets, railroads, rapid
+transit lines, airports or industrial areas shall be designed to prevent the
+intrusion of exterior noises beyond prescribed levels.  Proper design shall
+include, but shall not be limited to, orientation of the structure, setbacks,
+shielding and sound insulation of the building itself.91.1207.11.3.  Airport
+Noise Sources.  (Amended by Ord. No. 181,758, Eff. 8/8/11.)  Residential
+structures and all other structures identified in Section 91.1207.1 located
+where the annual Ldn or CNEL (as defined in Title 21, Division 2.5, Chapter 6,
+Section 5001,California Code of Regulations) exceeds 60 db, shall require an
+acoustical analysis showing that the proposed design will achieve the prescribed
+allowable interior level.	EXCEPTION:  New single family detached dwellings and
+all non-residential noise sensitive structures located outside the noise impact
+boundary of 65 db CNEL are exempt from Section 91.1207.	Alterations or additions
+to all noise sensitive structures, within the 65 db and greater CNEL shall
+comply with Section 91.1207.  If the addition or alteration cost exceeds 75% of
+the replacement cost of the existing structure, then the entire structure must
+comply with Section 91.1207.	For public-use airports or heliports, the Ldn or
+CNEL shall be determined from the Aircraft Noise Impact Area Map prepared by the
+Airport Authority.  For military bases, the Ldn shall be determined from the
+facility Air Installation Compatible Use Zone (AICUZ) plan.  For all other
+airports or heliports, or public-use airports or heliports for which a land-use
+plan has not been developed, the Ldn or CNEL shall be determined from the noise
+element of the general plan of the local jurisdiction.	When aircraft noise is
+not the only significant source, noise levels from all sources shall be added to
+determine the composite site noise level.91.1207.11.4.  Other Noise Sources. 
+All structures identified in Section 91.1207.1 located where the Ldn or CNEL
+exceeds 60db shall require an acoustical analysis showing that the proposed
+design will limit exterior noise to the prescribed allowable interior level. 
+The noise element of the local general plan shall be used to the greatest extent
+possible to identify sites with noise levels potentially greater than
+60db.91.1207.12.  Compliance.  Evidence of compliance shall be submitted with
+the application for a building permit for all structures identified in Section
+91.1207.1.  Evidence of compliance shall consist of the submittal of an
+acoustical analysis report prepared under the supervision of a person
+experienced in the field of acoustical engineering or the use of prescriptive
+standards as determined by the Superintendent of Building for residential
+structures.  The report shall show topographical relationships of noise sources
+and dwelling sites, identification of noise sources and their characteristics,
+predicted noise spectra and levels at the exterior of the proposed structure
+considering present and future land usage, the basis for the prediction
+(measured or obtained from published data), the noise attenuation measures to be
+applied, and an analysis of the noise insulation effectiveness of the proposed
+construction showing that the prescribed interior level requirements are met.	If
+interior allowable noise levels are met by requiring that windows be unopenable
+or closed, the design for the structure must also specify a ventilation or
+air-conditioning system to provide a habitable interior environment.  The
+ventilation system must not compromise the interior room noise reduction.

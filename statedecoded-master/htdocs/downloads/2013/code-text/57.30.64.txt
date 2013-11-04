@@ -1,0 +1,15 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+STATIC ELECTRICITY. (§ 57.30.64)
+
+  STATIC ELECTRICITY.	A.	Where containers are not effectively grounded and
+bonded by contact or connection, provisions shall be made to prevent the
+accumulation of static electrical charges which may create a source of ignition
+in the presence of flammable vapors or gases.	B.	Bonding devices which are
+temporarily clamped, clipped, or otherwise attached to movable equipment shall
+have a conductor of ample length to assure the effective attachment of the
+device. This conductor shall be stranded wire not smaller than No. 8, A.W.G.
+(America Wire Gage).	C.	When attaching bonding clamps or clips, a secure and
+positive metal-to-metal contact shall be made. Such attachments shall be made
+before closures are opened and liquid movements are started and shall not be
+broken until after liquid movements are stopped and closures are made.

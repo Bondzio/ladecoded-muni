@@ -1,0 +1,40 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CONSTRUCTION REQUIREMENTS AND LIMITATIONS. (§ 91.7014)
+
+  CONSTRUCTION REQUIREMENTS AND LIMITATIONS.
+	(Added by Ord. No. 171,175, Eff. 7/25/96.)91.7014.1.  Construction, General. 
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)  No structure shall be constructed
+upon a slope steeper than one unit vertical in two units horizontal (50%
+slope).  For building location and setback requirements, see Division
+18.	EXCEPTIONS:	1.	Subject to approval by the Department, construction may be
+placed upon slopes steeper than one unit vertical in two units horizontal (50%
+slope), provided reports from a soils engineer and engineering geologist
+recommend favorably toward construction.  The reports shall include adequate
+information and analysis to show to the Department’s satisfaction that the
+underlying bedrock and natural soils and slope surface materials have strength
+characteristics sufficient to produce a stable slope with a factor of safety of
+not less than 1.5 for static loads.  The reports shall incorporate provisions
+for downhill creep in the design of footings where applicable.	2.	Where a minor
+amount of the structure is constructed on the slope or where the construction
+consists of an unroofed deck, the Department may approve the construction
+without engineering and geological reports.91.7014.2.  Slough Wall.  (Amended
+by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  If potential sloughing
+hazards affecting buildings or structures are present on natural, cut or fill
+slopes in excess of 20 feet (6096 mm) in vertical height, slough protection
+devices may be required by the Department.91.7014.3.  Flood and Mudflow
+Protection.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.) 
+Flood and mudflow protection shall be provided for all new buildings, additions
+to buildings and substantial improvements to buildings, which are located on
+sites determined by the Department to be subject to those conditions, in
+accordance with Ordinance No. 163,913.	The recommendations for mudflow
+protection shall be contained in a site investigation report made by persons
+qualified and licensed in civil engineering, engineering geology and/or soils
+engineering to ascertain the location, magnitude and extent of potential mudflow
+hazards and to recommend measures for protection or the elimination of those
+hazards.  The use of the minimum design parameters specified in this Code shall
+be justified in the report.	Minimum design parameters to be used for mud/debris
+flow control systems within and at the base of concentration drainage areas
+are:	1.	A channel flow capacity of ten cubic feet per second (0.28 m3/s) per
+acre (ha) of tributary drainage area; or	2.	A temporary storage capacity of 400
+cubic yards (306 m3) per acre (ha) of tributary drainage area.

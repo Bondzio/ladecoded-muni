@@ -1,0 +1,8 @@
+.DS_Store
+.vagrant/
+Vagrantfile
+htdocs/admin/.htpasswd
+htdocs/admin/xml/
+htdocs/admin/import-data/
+htdocs/.sass-cache/
+package.box

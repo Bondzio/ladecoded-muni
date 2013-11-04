@@ -1,0 +1,2026 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INDUSTRIAL WASTEWATER DISPOSAL. (§ 64.30)
+
+  INDUSTRIAL WASTEWATER DISPOSAL.
+	(Amended In Entirety by Ord. No. 173,980, Eff. 7/1/01.)	A.	General
+Provisions.	1.	Policy.  It is the policy of the City of Los Angeles to assure
+that the highest and best use of the Publicly Owned Treatment Works (POTW) is
+for the collection, treatment and disposal of domestic wastewater. The use of
+this system for industrial wastewater is a privilege which is subject to the
+requirements of this section.	2.	Objectives.  This section sets forth uniform
+requirements for direct and indirect dischargers to the POTW.  Through a permit
+and inspection program administered under the jurisdiction of the Board, the
+City seeks to comply with all applicable State and Federal laws.	As a part of
+the permit and inspection program provided herein, the Board and the Director
+shall have the power, jurisdiction, and supervision over places of discharge of
+wastewater into the POTW, necessary to adequately enforce and administer all
+laws and lawful standards and orders, or special orders, to assure the
+implementation of the following objectives:	(a)	Prevent any discharge into the
+POTW which may interfere with the operations thereof;	(b)	Prevent any discharge
+into the POTW which will pass through the POTW, inadequately treated, into
+receiving waters, land or the atmosphere or otherwise be incompatible with the
+POTW;	(c)	Protect the POTW, from damage by any pollutants;	(d)	Provide the
+opportunity to recycle and reclaim sludges and wastewater from the
+POTW;	(e)	Provide for recovery of costs, including administration,
+implementation and enforcement of the program established herein, associated
+with the discharge of wastewater to the POTW;	(f)	Protect the life, health, and
+safety of operating and maintenance personnel;	(g)	Preserve hydraulic capacity
+in the POTW;	(h)	Insure the health, safety and welfare of the
+public.	3.	Scope.  This section provides for the regulation of dischargers to
+the POTW through the issuance of Industrial Wastewater Permits containing
+specific discharge requirements and through enforcement of general discharge
+prohibitions; authorizes monitoring and enforcement activities; imposes
+reporting requirements on specific permittees; and sets fees for the recovery of
+program costs. This section shall apply to all dischargers within the City of
+Los Angeles and to all persons outside the City of Los Angeles who discharge to
+the City’s POTW except as otherwise provided herein, the Director of the
+Bureau of Sanitation under the jurisdiction of the Board of Public Works shall
+administer, implement and enforce the provisions of this
+section.	B.	Regulations.	1.	Prohibitions:	(a)	Discharge Prohibitions.  Except
+as expressly allowed in an Industrial Wastewater Permit, no person shall
+discharge, permit the discharge, cause the discharge or contribute to the
+discharge of the following to the POTW:	(1)	Gasoline, mercury, total
+identifiable chlorinated hydrocarbons, kerosene, naphtha, benzene, toluene,
+xylene, ethers, alcohols, ketones, aldehydes, peroxides, chlorates,
+perchlorates, bromates, carbides, hydrides, solvents, pesticides or jet
+fuel.	(2)	Any liquids, solids or gases which by reason of their nature or
+quantity are flammable, reactive, explosive, corrosive, or radioactive, or by
+interaction with other materials could result in fire, explosion or
+injury.	(3)	Any solid or viscous materials which could cause obstruction to the
+flow or operation of the POTW.	(4)	Any toxic pollutants in sufficient quantity
+to injure or interfere with any wastewater treatment process, including private
+pretreatment systems, to constitute a hazard or cause injury to human, animal,
+plant or fish life, or to exceed any limitation set forth in this
+Section.	(5)	Any noxious or malodorous liquids, gases, or solids in sufficient
+quantity either singly or by interaction with other materials to create a public
+nuisance, hazard to life, or to prevent entry of any person to the POTW.	(6)	Any
+material of sufficient quantity to interfere with any POTW treatment plant
+process or to render any product thereof unsuitable for reclamation and
+reuse.	(7)	Any material in sufficient quantity to cause the POTW to be in
+noncompliance with biosolids use or disposal criteria, guidelines or regulations
+in conjunction with Section 405 of the Act, the Solid Waste Disposal Act (SWDA),
+the Clean Air Act, the Toxic Substances Control Act, the Marine Protection
+Research and Sanctuaries Act, or State criteria (including those contained in
+any state sludge management plan prepared pursuant to Title II of SWDA)
+applicable to the biosolids management method being used.	(8)	Any material which
+will cause the POTW to violate its NPDES Permit, applicable Federal and State
+statutes, rules or regulations.	(9)	Any wastewater containing pigment which is
+not removed in the ordinary POTW treatment process and which creates a visual
+contrast with the material appearance of the POTW discharge observable at the
+point of POTW discharge.	(10)	Any wastewater having a heat content in such
+quantities that the temperature of the wastewater at the introduction into the
+POTW Collection system exceeds 140 degrees Fahrenheit, or at the introduction
+into the POTW treatment plant exceeds 104 degrees Fahrenheit.	(11)	Any
+pollutants, including oxygen demanding pollutants, released at a flow rate or
+pollutant concentration which will cause or contribute to interference, as that
+term is defined in Section 64.00.	(12)	Any storm water collected and discharged
+to the POTW, except as specifically authorized by the Director.	(13)	Single pass
+cooling water in excess of 200 gallons per day discharged to the POTW. However,
+the blowdown or bleedoff from cooling towers or other evaporative coolers may be
+accepted into the POTW.	(14)	Any wastewater which constitutes a hazard or causes
+injury to human; animal, plant or fish life or creates a public
+nuisance.	(15)	Recognizable portions of the human or animal
+anatomy.	(16)	Floatable material which is readily removable.	(b)	Prohibitions
+Against Interference, Hazard, or Injury to Human, Animal, Plant, or Fish Life. 
+Except as expressly allowed in an Industrial Wastewater Permit, no person shall
+discharge, permit the discharge to, cause the discharge or contribute to the
+discharge to the POTW, any material of sufficient quantity which, singly or by
+interaction with other materials, interferes with the POTW treatment plant
+process or renders any product thereof unsuitable for reclamation and reuse,
+causes the POTW to be in noncompliance as that term is used with respect to
+provisions listed in Paragraph (a)(7) above, or which constitutes a hazard to or
+which may cause injury to human, animal, plant or fish life.  In the provision
+hereof, assuming violation of no other provision hereof, the violator shall be
+subject only to imposition of further permit conditions, administrative orders,
+permit suspension or revocation.	2.	Pollutant Limitations.	(a)	Specific
+Pollutant Limits.  No person shall introduce wastewater to the POTW that
+exceeds the following limitations:
+  
+    
+      
+        Arsenic	
+      
+      
+        3 mg/L
+      
+    
+    
+      
+        Cadmium	
+      
+      
+        15 mg/L
+      
+    
+    
+      
+        Copper 	
+      
+      
+        15 mg/L
+      
+    
+    
+      
+        Cyanide (Total)	
+      
+      
+        10 mg/L
+      
+    
+    
+      
+        Cyanide (Free)	
+      
+      
+        2 mg/L
+      
+    
+    
+      
+        Dissolved Sulfides	
+      
+      
+        0.1 mg/L
+      
+    
+    
+      
+        Lead	
+      
+      
+        5 mg/L
+      
+    
+    
+      
+        Nickel	
+      
+      
+        12 mg/L
+      
+    
+    
+      
+        pH Range	
+      
+      
+        5.5-11
+      
+    
+    
+      
+        Silver	
+      
+      
+        5 mg/L
+      
+    
+    
+      
+        Total chromium	
+      
+      
+        10 mg/L
+      
+    
+    
+      
+        Zinc	
+      
+      
+        25 mg/L
+      
+    
+    
+      
+        Dispersed oil and grease (Total)	
+      
+      
+        600 mg/L
+      
+    
+    
+      
+        Floatable oil and grease	
+      
+      
+        None Visible
+      
+    
+  
+	The above limitations shall not apply where more restrictive limitations are
+imposed by permit or National Categorical Pretreatment
+Standards.	(b)	Radioactive Wastes.  No person shall discharge radioactive
+wastes except in accordance with the State of California Administrative Code,
+Title 17, Public Health, Regulations of the Bureau of Radiological
+Health.	(c)	Infectious Wastes.  No person shall discharge infectious waste,
+unless such waste is ground in a grinder which meets the Board’s fineness of
+grind requirements as set forth in Paragraph (e) of this Subdivision 2 and is
+discharged into the POTW.  Entry to the grinding mechanism shall be restricted
+to a 6-inch by 9-inch opening. The material shall be segregated from other solid
+wastes and shall be contained in plastic bags or other suitable disposable
+containers which shall not exceed five (5) gallons capacity and shall be colored
+red for identification. Container and contents shall be weighed and recorded
+prior to disposal. These records shall be made available to the Board for
+inspection.	(d)	Human or Animal Anatomy.  Recognizable portions of the human or
+animal anatomy shall not be ground or discharged to the POTW.	(e)	Grinder
+Wastes.  (Amended by Ord. No. 174,047, Eff. 8/5/01.)  The use of garbage
+grinder to discharge food wastes from commercial kitchens, markets, or food
+plants to the POTW is prohibited unless expressly allowed by the Director. 
+When the use of a grinder is allowed, the following fineness of grind
+requirements shall be met at all times.	(1)	At least 40% shall pass a No. 8
+sieve.	(2)	At least 65% shall pass a No. 3 sieve.	(3)	100% shall pass a 1/2-inch
+screen.	(f)	Sharps.  No person shall discharge sharps unless ground in an
+approved grinder capable of meeting the Board’s fineness of grind requirements
+set forth in Paragraph (e) of this subdivision, and discharged to the POTW.
+Sharps shall be ground by an approved grinder not exceeding five (5)
+horsepower.	3.	National Categorical Pretreatment Standards
+(NCPS).	(a)	Standards.  Upon the promulgation of mandatory NCPS for any
+industrial category, the NCPS, if more restrictive than limitations otherwise
+imposed under this section, shall apply.  A discharger shall comply with
+applicable NCPS as set forth in 40 CFR Part 401 et seq.	(b)	Compliance
+Schedule.  The Director may impose a phased compliance schedule to ensure that
+affected industries meet the NCPS. Failure to meet the phased compliance
+schedule may result in permit revocation.	4.	Dilution.  No discharger shall use
+any water to dilute any pollutant to achieve compliance with the discharge
+limitations contained in this section.	5.	Uncontrolled
+Discharges.	(a)	Containment of Uncontrolled Discharges.  Upon written
+notification by the Director, dischargers shall provide spill containment for
+uncontrolled discharges of prohibited material or other substances regulated by
+this section. Facilities to contain spills shall be provided and maintained at
+the discharger’s own cost and expense. Dischargers so notified shall provide
+detailed spill containment plans, including facilities and operating procedures,
+to the Director for review. Such plans shall be approved by the Director before
+commencement of construction of the facility. Construction shall be completed
+within the time period designated by the Director. Review and approval of spill
+containment plans and operating procedures shall not relieve the discharger from
+the responsibility to modify its facility as necessary to meet the requirements
+of this section.	(b)	Notification of Uncontrolled Discharges.  In the event of
+an uncontrolled discharge, the discharger shall immediately notify the Director
+of the incident by telephone. The notification shall include location of
+discharge, type of material, concentration and volume, and corrective actions
+taken.	(c)	Written Report Describing Uncontrolled Discharges.  Within ten (10)
+days following the uncontrolled discharge, the discharger shall submit to the
+Director a detailed written report describing the cause of the discharge,
+corrective action taken, and measures to be taken to prevent future occurrences.
+Such notification shall not relieve the discharger of liability or fines
+incurred as a result of this uncontrolled discharge.	(d)	Notice to Employees;
+Notification to Director of Uncontrolled Discharge.  A legible, understandable
+and conspicuously placed notice shall be permanently posted on the
+discharger’s bulletin board or other prominent place advising employees to
+call the Director, in the event of an uncontrolled discharge, as soon as
+possible or within one hour of the discharge, and to provide at least the
+information listed below. In the event of a substantial number of the
+discharger’s employees use a language other than English as a primary
+language, the notice shall be worded in both English and the language or
+languages involved. The notice shall set forth the current phone number of the
+Director, and shall identify the following as the minimum necessary information
+which is to be provided to the Director:	(1)	Time, location, type, concentration
+and volume of discharge.	(2)	Corrective action taken. Employers shall insure
+that all employees in a position to cause or allow an uncontrolled discharge to
+occur are advised of this notification
+procedure.	C.	Administration.	1.	Industrial Wastewater
+Permit.	(a)	Application.  No person shall discharge industrial wastewater to
+the POTW without permission as provided in an Industrial Wastewater Permit. The
+permit shall not be issued until determination has been made by the Board that
+the wastewater to be discharged shall not violate any provisions of this Code,
+the Board’s Rules and Regulations, the water quality objectives for receiving
+waters established by the California Water Quality Control Board, Los Angeles
+Region, or any applicable federal or state statutes, rules or regulations. Such
+determination shall be made from the information set forth in the application
+for permit.	(b)	Permit Information.  A separate permit shall be required for
+each point of discharge to the POTW. In connection therewith, the applicant may
+be required to furnish the following:	(1)	(Amended by Ord. No. 177,614, Eff.
+7/19/06.)  The name and address of the applicant;	(2)	The name and address of
+the discharger;	(3)	The address or location of the premises where the discharge
+will take place;	(4)	The Standard Industrial Classification (SIC) of the
+discharger;	(5)	Information with respect to constituents and characteristics of
+wastewater proposed to be discharged, including, but not limited to, those
+referred to in Subsection B of this section. Sampling and analysis shall be
+performed in accordance with procedures established by the EPA pursuant to
+Section 304(g) of the Act and contained in 40 CFR, Part 136, as amended, and by
+laboratories certified by the State of California. In the absence of a State
+certification process, the Director may certify a laboratory to perform
+necessary sampling and analysis;	(6)	Time and duration of the proposed discharge
+or discharges;	(7)	Average daily and 5-minute peak wastewater flow rates,
+including daily, monthly and seasonal variations, if any;	(8)	Site plans, floor
+plans, mechanical and plumbing plans and details to show all sewers and storm
+drains, connections and appurtenances by their size, location and
+elevation.	(9)	Description of activities, facilities and plant processes on the
+applicant’s premises, including all pollutants which could be
+discharged.	(10)	Detailed plans showing pretreatment facilities, sampling
+facilities, uncontrolled discharge containment facilities, and operating
+procedures.	(11)	Identification of the nature and concentration of any pollutant
+located at the premises of the discharger (and/or applicant if different) if
+that pollutant is prohibited from discharge under Subdivision 1 of Subsection B
+of this section, or any proposed discharge which is regulated as provided in
+Subdivision 2 of Subsection B of this section, plus a statement specifying
+whether the specific limitations set forth in said Subdivision 2 are being met,
+and, if not, what additional Operation and Maintenance (O &#038; M) or
+pretreatment is proposed by the discharger to cause compliance;	(12)	The
+shortest time schedule by which the discharger shall provide the necessary
+additional pretreatment, if additional pretreatment or O &#038; M will be
+required to meet the regulations in Subsection B of this section. Any completion
+date in such a proposed schedule shall not be later than the compliance date
+established by the applicable regulation.	(13)	The schedule shall provide for
+reporting increments in progress in the form of dates for commencement and
+completion of major events leading to the construction and operation of
+additional pretreatment necessary for the discharger to meet the applicable
+regulation (e.g., hiring an engineer, completing preliminary and final plans,
+executing contract for major components, commencing construction, completing
+construction).	(14)	After permit issuance, progress reports shall be submitted
+subject to the same limitations set forth in Subparagraph (7) of Paragraph (h)
+of Subdivision 2 of this Subsection C, except that time limits specified
+pursuant to this section for reporting, commencement and completion of major
+events leading to the construction and operation of additional pretreatment
+required for the discharger to meet the applicable regulations may be extended
+by mutual consent of the discharger and the Director, and provided however, that
+in no event shall any such date be extended beyond the compliance date
+established by the applicable regulation.	(15)	Each product of the discharger by
+type, amount, and rate of production;	(16)	Type and amount of raw materials
+processed by the discharger (average and maximum per day);	(17)	Number of
+employees, hours of operation of plant, and hours of operation of the proposed
+pretreatment system;	(18)	Copies of any current City Business License, NPDES
+Permit, South Coast Air Quality Management District Permit, Regional Water
+Quality Control Board Permit and State Department of Health Services Permit for
+the subject premises;	(19)	The name, business address, and motor vehicle
+driver’s license number of the authorized representative;	(20)	Any other
+information deemed by the Director to be necessary to evaluate the permit
+application.	(21)	The application shall be signed under penalty of perjury by
+the authorized representative of the discharger. After evaluation and acceptance
+of the data furnished, the Board may issue an Industrial Wastewater Permit
+subject to the terms and conditions imposed by the Director pursuant to
+Paragraph (c) of this Subdivision as stated herein. Granting of the permit shall
+not relieve the discharger from the responsibility for compliance with all
+provisions of this section. By acceptance of a permit,  the applicant thereby
+delegates authority to the Director to enter the premises of the applicant as
+necessary for purposes of inspection and maintenance with respect to any
+wastewater discharge therefrom.	(c)	Exemptions.  An Industrial Wastewater
+Permit is not required for the following dischargers or discharges to the
+POTW:	(1)	(Amended by Ord. No. 177,614, Eff. 7/19/06.)  An FSE that does not
+potentially generate waste FOG during food preparation processes, and does not
+significantly affect the POTW, as determined by the Director, provided that the
+FSE has implemented and demonstrates compliance with BMP requirements as
+specified in the Rules and Regulations;	(2)	Bleed-off or blowdown from cooling
+towers, evaporation condensers or other recirculating water devices with rated
+capacity of 25 tons or less,	(3)	Self-service laundries with washing machines of
+20 pounds maximum capacity, with further allowance that the facility may also
+have a maximum of two machines with maximum 50-pound capacity of
+each,	(4)	Discharges from establishments wherein the industrial wastewater
+discharge is less than 200 gallons per day (gpd) and pretreatment is not
+required.	(d)	Permit Conditions.  Industrial Wastewater Permits shall be
+subject to all provisions of this Code, all other applicable statutes, rules and
+regulations, and fees and charges established by the City. The Director shall
+have authority to impose permit conditions including the following:	(1)	Limits
+on the average and maximum wastewater constituents and
+characteristics;	(2)	Limits on average and maximum rate and time of
+discharge;	(3)	Limits regarding the discharge of specific
+pollutants;	(4)	Requirements for installation and maintenance of inspection and
+sampling facilities and uncontrolled discharge containment
+facilities;	(5)	Requirements, which may include specific sampling locations,
+frequency of sampling, times of sampling, number, types, test standards and
+reporting schedules, for monitoring programs;	(6)	Compliance
+schedules;	(7)	Requirements for submission of technical or discharge
+reports;	(8)	(Amended by Ord. No. 174,047, Eff. 8/5/01.)  Requirements for
+maintaining and affording City access to plant records relating to discharges,
+including hauled waste records and manifests;	(9)	Requirements for notification
+of the City of any new introduction of wastewater constituents or any
+substantial change in the volume or character of the wastewater
+constituents;	(10)	Requirements for notification of slug discharges;	(11)	(New
+Subpara. 11 Added by Ord. No. 174,047, Eff. 8/5/01.)  The Director may require
+all industrial users to install pretreatment systems, upgrade existing
+pretreatment systems and/or install additional pretreatment systems, implement
+Best Management Practices, and any other conditions deemed appropriate to
+achieve the objectives of this ordinance as defined in Subsection A Subdivision
+2 of LAMC 64.30.	(12)	(Subpara. 11 Renumbered Subpara. 12 by Ord. No. 174,047,
+Eff. 8/5/01.)  Other conditions deemed appropriate by the Director to ensure
+compliance with this section.	(e)	Change of Ownership or Location.  An
+Industrial Wastewater Permit shall not be transferable, by operation of law or
+otherwise, either from one location to another, or from one person to another.
+For purposes of this subdivision, statutory mergers or name changes shall not
+constitute a transfer or a change in ownership. Following a change in ownership,
+and upon application for a new Industrial Wastewater Permit, a temporary permit
+may be issued by the Director for a period of no more than 180 days pending the
+issuance of such new permit.	(f)	Delayed Commencement of Discharge.  All
+permitted discharges must commence within 180 days from the effective date of
+the Industrial Wastewater Permit or the permit is deemed void.	(g)	Duration of
+Industrial Wastewater Permit.  Except as otherwise provided herein, Industrial
+Wastewater Permits may be issued for a specified time period and may be subject
+to expiration and renewal as determined by the Director.  Industrial Wastewater
+Permits for Significant Industrial Users shall have a duration or effective life
+not to exceed three (3) years from the date of initial issuance or
+reissuance.	(h)	Permit Renewal.  Applications for permit renewal shall be filed
+with the Director a minimum of ninety (90) days prior to the permit expiration
+date.	(i)	Administrative Permit Cancellation.  As part of permit
+administration, the Director may cancel any Industrial Wastewater Permit with
+the express written consent of the permittee or upon verification that one or
+more of the following conditions exist:
+	(1)	The permittee is not a batch treatment discharger and has permanently
+ceased the discharging of industrial wastewater to the POTW; or changes in the
+industrial process or reduction of discharge levels occur such that an
+Industrial Wastewater Permit is no longer required as provided by the exemption
+provisions of this subsection; or	(2)	Changes in industrial process or reduction
+of discharge levels occur such that an Industrial Wastewater Permit is no longer
+required as provided by the exemption provisions of this subsection;
+or	(3)	Change of business ownership; or	(4)	Change or abandonment of the site or
+location described by the permit.	(j)	Permit Reinstatement.  Notwithstanding
+any other provisions of this Code, a permit which has been administratively
+canceled pursuant to Paragraph (i) of this subdivision, shall be reinstated upon
+the written request of the permittee and upon approval by  the Director. 
+Request for reinstatement under this paragraph must be made within 180 days from
+the effective date of cancellation.  Administrative permit cancellation,
+pursuant to Paragraph (i) of this subdivision, shall not be used in lieu of the
+enforcement remedy set forth for permit suspension or revocation, as provided in
+Subsection E of this section.	(k)	Private Septage Disposal Facilities (PSDF). 
+PSDFs discharging to the POTW shall be subject to all provisions of this Section
+including the following specific requirements.	(1)	PSDF’s shall be required to
+maintain an Industrial Wastewater Permit. Exemptions under Paragraph (c) of
+Subdivision 1 of Subsection C of this Section shall not apply to private septage
+disposal facilities.	(2)	All waste discharged through a PSDF shall be subject to
+discharge prohibitions under Subdivision 1 of Subsection B of Section 64.30 and
+specific pollutant limitations under Subdivision 2 of Subsection B of Section
+64.30.	(3)	In cases where hauled septage is discharged at a facility in addition
+to any discharge from any other industrial operations performed at that site, a
+separate industrial wastewater permit shall be required specifically for the
+discharge of hauled septage in addition to any other required industrial
+wastewater permit(s).	(4)	(Amended by Ord. No. 174,047, Eff. 8/5/01.) 
+Additional regulations regarding the operation of PSDFs are specified in the
+Board’s Rules and Regulations.  All PSDFs shall be required to comply with
+these Rules and Regulations.	(l)	Food Service Establishment (FSE)
+Requirements.  (Amended by Ord. No. 177,614, Eff. 7/19/06.)  All FSEs must
+implement and demonstrate compliance with Best Management Practices (BMP)
+requirements as specified in the Board s Rules and Regulations.	FSEs that are
+required to maintain an Industrial Wastewater Permit are also required to
+install, operate, and maintain an approved type and adequately sized, remotely
+located and readily accessible, grease interceptor, unless a conditional waiver
+is granted by the Director.	All FSEs to be newly constructed are subject to
+grease interceptor requirements and shall not qualify for a conditional waiver
+unless exempt as specified in Section C.1.(c)(1).  Existing FSEs with planned
+modifications having a building permit valuation of $100,000 or more are also
+subject to grease interceptor requirements and shall not qualify for a
+conditional waiver unless exempt as specified in Section C.1.(c)(1).	Additional
+regulations regarding FSEs are specified in the Board’s Rules and Regulations.
+All food service establishments are required to comply with these Rules and
+Regulations.	(1)	Grease Interceptor Specifications.  All grease interceptors
+must meet the specifications as set forth in Sections 94.1014.0 through
+94.1017.3 of the City of Los Angeles Plumbing Code.	(2)	Conditional Waiver from
+Grease Interceptor Installation Requirements.  Under the sole discretion of the
+Director, an FSE determined to have no immediate adverse impact on the POTW may
+be granted a conditional waiver from grease interceptor installation
+requirements. The Director may, at any time, revoke this conditional waiver and
+require the FSE to install a grease interceptor.	(3)	Variance to Allow
+Alternative Grease Removal Devices.  If an FSE can demonstrate that
+installation of a grease interceptor is not feasible due to space constraints or
+other considerations, the Director may issue a variance from grease interceptor
+requirements and authorize the installation of alternative grease removal
+devices.  Alternative grease removal devices include, but are not limited to,
+devices that are used to trap, separate and hold grease from wastewater and
+prevent it from being discharged into the POTW.  All alternative grease removal
+devices must be approved by the Director, on a case-by-case basis.  The FSE
+must also demonstrate that BMPs have been implemented.	2.	Reporting
+Requirements.	(a)	Federal Reporting Requirements and Additional Reporting
+Requirements.  Notwithstanding the reporting requirements set forth in 40 CFR
+Part 403, including, but not limited to, the requirements as set forth in 40 CFR
+§403.12, the Director may impose additional reporting requirements by permit or
+otherwise.	(b)	Reporting by Dischargers Subject to NCPS.  Unless required more
+frequently or otherwise specified by the Director, dischargers which are subject
+to NCPS shall submit, to the Director, semi-annually, a Periodic Compliance
+Report which shall contain, at a minimum, the information required by 40 CFR
+§403.12(e).  The Director may require a discharger to submit such reports on a
+more frequent basis and may base such decision upon the amount of discharge or
+other site-specific concerns the Director may have pertaining to the
+discharge.  In addition, dischargers that are subject to NCPS shall submit
+Baseline Monitoring Reports (BMRs) and Reports on Compliance (RC) in accordance
+with the General Pretreatment Regulations for Existing and New Sources of
+Pollution (Title 40, Code of Federal Regulations, Part 403.12).	(c)	Reporting by
+SIUs not Subject To NCPS.  Unless required more frequently by the Director,
+dischargers which are Significant Industrial Users but are not subject to NCPS
+shall submit to the Director semi-annually a report indicating the nature,
+concentration and flow of pollutants in the effluent which are required to be
+reported by the Director.  At a minimum, the report shall contain the
+information required by 40 CFR § 403.12(h).	(d)	Production Data.  The Director
+may require any discharger to submit production data.  At a minimum,
+dischargers subject to equivalent mass or concentration limits or subject to
+production-based NCPS shall report production data as follows:	(1)	Dischargers
+subject to NCPS in which equivalent mass or concentration limits are established
+by the Director in accordance with 40 CFR §403.6(c) shall report a reasonable
+measure of long term production rate (based upon the criteria used for
+developing the discharger’s effluent limitations) in its Report on Compliance
+and its Periodic Compliance Reports, as applicable.  In addition, such
+dischargers shall notify the Director in accordance with Paragraph (e) of this
+Subdivision after the discharger has a reasonable basis to know that the
+production level will significantly change within the next calendar
+month.	(2)	All other dischargers subject to NCPS expressed in terms of allowable
+pollutant discharge per unit of production (or other measure of production)
+shall include information on the actual production during the sampling period in
+its Report on Compliance and its Periodic Compliance Reports, as
+applicable.	(e)	Notification of Changed Discharge.	(1)	All industrial
+dischargers shall provide written notification to the Director before any
+planned change, including physical alterations or additions to the permitted
+facility, production increases and anticipated process changes which will result
+in a substantial change in the volume or character of pollutants to be
+discharged, including notification of changes in the listed or characteristic
+hazardous wastes for which the discharger has submitted initial notification
+under 40 CFR §403.12(p).  Notice shall be provided at least ninety (90) days
+before the change, except if such notice is not feasible, the discharger shall
+provide the Director notice as soon as the information becomes available.	(2)	No
+wastewater discharge shall be commenced, without notification to and approval by
+the Director, in which there has been a substantial change in the volume or
+characteristic which causes it to be different from that expressly allowed under
+the permit issued.  Upon such notification, the Director, in his/her
+discretion, may require that a new application be filed and a new permit
+obtained before any wastewater discharge involving the changed characteristic
+takes place.	(f)	Signatory/Certification for Baseline Monitoring Reports,
+Reports on Compliance, and Periodic Compliance Reports.  Baseline Monitoring
+Reports, Reports on Compliance and Periodic Compliance Reports submitted by
+dischargers subject to NCPS shall be signed by an authorized representative of
+the discharger and shall contain the following certification:	I certify under
+penalty of law that this document and all attachments were prepared under my
+direction or supervision in accordance with a system designed to assure that
+qualified personnel properly gather and evaluate the information submitted. 
+Based on my inquiry of the person or persons who manage the system, or those
+persons directly responsible for gathering the information, the information
+submitted is, to the best of my knowledge and belief, true, accurate, and
+complete.  I am aware that there are significant penalties for submitting false
+information, including the possibility of fine and imprisonment for knowing
+violations.	(g)	Signatory/Certification for Other Reports.  The Director, at
+his/her discretion, may require other reports or information submitted by
+dischargers subject to NCPS, or any other discharger, to meet
+signatory/certification requirements as the Director deems
+appropriate.	(h)	Adoption of New City Specific Pollutant Limitations.  Within
+180 days after promulgation of a new City Specific Pollutant Limitation and
+notification thereof by the Board to specific dischargers affected thereby, any
+discharger subject to such limitations shall submit to the Director a report
+containing:	(1)	The name and address of the discharger;	(2)	The address or
+location of the premises where the discharge does or will take place;	(3)	The
+nature, average production rate, and Standard Industrial Classification of the
+operations carried out by the discharger;	(4)	The average and maximum flow of
+the discharge in gallons per day;	(5)	The nature and concentration of pollutants
+in the discharge from each regulated process and identification of applicable
+limitations. The concentration shall be reported as a maximum or average as
+provided in applicable limitations. If equivalent concentration limits have been
+calculated in accordance with the limitation, this adjusted concentration limit
+shall also be submitted;	(6)	A statement, reviewed by an authorized
+representative and certified under penalty of perjury by a person with primary
+responsibility for the operation which contributes to the discharge, indicating
+whether the limitations are being met, and, if not, what operation and
+maintenance improvements or additional pretreatment is required for
+compliance;	(7)	The shortest schedule under which any additional pretreatment or
+operation and maintenance improvements required as a result of the new
+limitations or requirements imposed pursuant to Paragraph (a) of Subdivision 1
+of Subsection C of this section will be completed.	(i)	The completion date in
+such a schedule shall not be later than the compliance date established for the
+applicable limitation.	(ii)	The schedule shall provide for reporting increments
+of progress in the form of dates for the commencement and completion of major
+events leading to the construction and operation of any additional pretreatment
+necessary (e.g., hiring an engineer, completing preliminary and final plans,
+executing contracts for major components, commencing construction, completing
+construction).	(iii)	The discharger shall also submit a written progress report
+to the Director, not later than 14 days following each increment of progress
+date in the schedule and the final date for compliance. That report shall state
+whether the discharger is in compliance with the scheduled increment of
+progress. If compliance was not achieved, the report shall state the date by
+which the discharger expects to comply with the scheduled increment of progress,
+the reason for the failure to comply, and the steps being taken by the
+discharger to maintain the established compliance schedule.	(iv)	The time limit
+specified in this paragraph for operation or maintenance improvements or
+additional pretreatment may be extended by the Board.	3.	Monitoring
+Facilities.  The Director may require to be provided, operated and maintained
+at the discharger’s expense, separate and secured monitoring facilities to
+allow inspection, sampling, and flow measurement of the discharge. The
+monitoring facilities ordinarily shall be situated on the discharger’s
+premises and in said event the Director shall be granted total and unrestricted
+access thereto and use thereof by the discharger as a condition of that
+discharger’s permit; however, at its discretion the Board may allow monitoring
+facilities to be constructed off-premises.	4.	Monitoring and
+Sampling.	(a)	Pre-Notification.  Any discharger may be required by the
+Director, by permit or otherwise, to engage in periodic monitoring and sampling
+of its discharge.  Where a discharger is required to monitor or sample, the
+discharger shall notify the Director by telephone at least 48 hours in advance
+of any monitoring or sampling to be performed.  Notification shall include the
+date, time and location of proposed monitoring and sampling.  Monitoring and
+sampling shall be carried out during a period of normal operations.  Prior to
+the commencement of any sampling or monitoring, the Director may request that
+the discharger furnish to the Director a split sample and all supporting data
+(i.e., methodology, flow measuring data, strip chart recordings, and other
+pertinent information).  The Director reserves the right to refuse any data
+developed from the monitoring or sampling activity if the discharger fails to
+comply with the pre-notification procedure.	(b)	Notification of Discharge
+Violations and Resampling.  If sampling performed by a discharger indicates a
+violation, the discharger shall notify the Director within 24 hours of becoming
+aware of the violation.  The discharger shall also repeat the sampling and
+analysis and submit the results of the repeat analysis to the Director within 30
+days after becoming aware of the violation, except the discharger is not
+required to resample if:	(1)	The Director performs sampling at the
+discharger’s facility at a frequency of at least once per month, or	(2)	The
+Director performs sampling at the discharger’s facility between the time when
+the discharger performs its initial sampling and the time the discharger
+receives the results of this sampling.	(c)	Representative Samples.  Samples
+shall represent the normal wastewater flow to the POTW over a 24-hour period. 
+Composite samples shall be collected according to time or flow as specified by
+the Director, with at least one sample collected hourly.  The Director may
+require grab samples or continuous monitoring as deemed appropriate (e.g. pH and
+flow).  Samples may be collected either manually or by automatic integrated
+sampling equipment approved by the Director.	(d)	Sample Analysis.  The
+handling, storage, and analysis of all samples taken for the determination of
+the characteristics of wastewater discharged shall be performed by laboratories
+certified by the State of California and shall be in accordance with the
+procedures established by the EPA pursuant to Section 304(a) of the Act and
+contained in 40 CFR, Part 136, as amended.  In the absence of a State
+certification process, the Director may approve of a laboratory to perform any
+necessary sampling and analysis.	5.	Inspection and Sampling.	(a)	Inspections to
+Enforce Local, State, and Federal Laws.  Whenever it is necessary to make an
+inspection to enforce any of the provisions of or perform any duty imposed by
+this section or other applicable law, or whenever the Director has reasonable
+cause to believe that there exists upon any premises any violation of the
+provisions of this section or other applicable law, or any condition which makes
+such premises hazardous, unsafe, or dangerous, the Director is hereby authorized
+to enter such property at any reasonable time and to inspect the same and
+perform any duty imposed upon the Director by this section or other applicable
+law provided that:	(1)	If the property is occupied, the Director shall first
+present proper credentials to the occupant and request entry explaining the
+reasons therefore and;	(2)	If the property is unoccupied the Director shall
+first make a reasonable effort to locate the owner or other persons having
+charge or control of the property and request entry, explaining the reasons
+therefore.  If such entry is refused or cannot be obtained because the owner or
+other person having charge or control of the property cannot be found after due
+diligence, the Director shall have recourse to every remedy provided by law to
+secure lawful entry and inspect the property.	(b)	Inspections to Safeguard the
+Public Health or Safety.  Notwithstanding the foregoing, if the Director has
+reasonable cause to believe that wastewater discharge conditions on or emanating
+from the premises are so hazardous, unsafe or dangerous as to require immediate
+inspection to safeguard the public health or safety, the Director shall have the
+right to immediately enter and inspect the property, and may use any reasonable
+means required to effect such entry and make such inspection, whether the
+property is occupied or unoccupied and whether or not formal permission to
+inspect has been obtained. If the property is occupied, the Director shall first
+present proper credentials to the occupant and demand entry, explaining the
+reasons therefor and the purpose of the inspection.	(c)	Penalty for Refusal to
+Permit Director to Make Inspections.  No person shall fail or refuse, after
+proper demand has been made upon that person as provided in Paragraph (b) of
+this Subdivision 5, to promptly permit the Director to make any inspection
+provided for by said Paragraph (b). Any person violating this subdivision shall
+be guilty of a misdemeanor.	(d)	Consent and Agreement to Enter Premises.  The
+applicant, by accepting any permit issued pursuant to this section, does thereby
+consent and agree to the entry upon the premises, described in the permit, by
+Department personnel for the following purposes as required by this section or
+other applicable laws. The City shall be afforded access at all reasonable
+times:	(1)	for the purposes of inspection, sampling, flow measurement,
+examination of records in the performance of other authorized duties;	(2)	to set
+up on the discharger’s property such devices as are necessary to conduct
+sampling inspections, compliance-monitoring, flow measuring or metering
+operations;	(3)	to inspect and copy any records, reports, test results or other
+information required to carry out the provisions of this section; and	(4)	to
+photograph any waste, waste container, vehicle, waste treatment process,
+discharge location, or violation discovered during an inspection.	(e)	Entry of
+Premises with Security Measures.  Where a discharger has instituted security
+measures requiring proper identification and clearance before entry onto the
+premises, the discharger shall make all necessary arrangements with its security
+guards in order that, upon presentation of such identification, City personnel
+shall be permitted to enter the premises without delay for the purpose of
+performing their authorized duties.	6.	Public Access to Information.  Discharge
+and effluent data provided to the City by the discharger shall be available to
+the public without restriction. Other information may be subject to a claim of
+confidentiality by the discharger. All information which is submitted to the
+City by the discharger shall be available to the public, at least to the extent
+provided by 40 CFR 2.302. With the exception of governmental agencies, any
+person requesting this information from the City shall be required, prior to the
+receipt of the requested information, to pay the reasonable cost of said data
+gathering, reproduction and transmission incurred by the
+City.	7.	Confidentiality.  All information, except for discharge and effluent
+data, submitted to the City pursuant to this section may be claimed by the
+discharger to be confidential. Any such claim must be asserted at the time of
+submission of the information or data to the City. The claim may be asserted by
+stamping the words “Confidential Business Information” on each page
+containing such information or by other means, however, if no claim is asserted
+at the time of submission, the City may make the information available to the
+public without further notice. If such a claim is asserted, the information will
+be treated in accordance with the procedures set forth in 40 CFR Part 2 (Public
+Information).	8.	Falsifying Information.  No person shall knowingly make any
+false statement, representation or certification in any application, record,
+report, plan or other document filed with the Director or required to be
+maintained pursuant to this section, or tamper with or knowingly render
+inaccurate any monitoring device required under this section.	9.	Rules and
+Regulations.  The Board shall adopt rules and regulations consistent with this
+section to effectuate its purpose and intent.	D.	Fees and Charges.	1.	Purpose
+and Disposition.  It is the purpose of this subsection to provide for the
+recovery of City costs associated with the discharge of wastewater to the
+POTW.  With the exception of Wastewater Sampling and Analysis Fees, all fees
+and money collected by the City pursuant to the provisions of this section shall
+be deposited into the Sewer Construction and Maintenance Fund established by
+Section 64.19.2 of this Code. Monies required hereunder to be deposited into
+that Fund shall be expended for the purposes set forth in said section and to
+provide for any appropriate refunds relative to such fees.	2.	Application
+Fees.  (Amended by Ord. No. 182,076, Eff. 4/6/12.)  The Board shall require
+payment of an initial fee of $370 for each application for an Industrial
+Wastewater Permit.  No permit shall be deemed valid until the initial fee has
+been paid.  The application fee shall be annually adjusted as shown in the
+table below:
+  
+    
+      
+        Effective Date
+      
+      
+        Permit Application Fees
+      
+    
+    
+      
+        July 1, 2012
+      
+      
+        $385
+      
+    
+    
+      
+        July 1, 2013
+      
+      
+        $400
+      
+    
+    
+      
+        July 1, 2014
+      
+      
+        $424
+      
+    
+    
+      
+        July 1, 2015
+      
+      
+        $450
+      
+    
+    
+      
+        July 1, 2016
+      
+      
+        $479
+      
+    
+    
+      
+        July 1, 2017
+      
+      
+        $510
+      
+    
+    
+      
+        July 1, 20182
+      
+      
+        $544
+      
+    
+    
+      
+        July 1, 2019
+      
+      
+        $579
+      
+    
+    
+      
+        July 1, 2020
+      
+      
+        $616
+      
+    
+  	3.	Inspection and Control Fees.	(a)	Purpose of Inspection and Control Fees. 
+All permitted facilities must pay an annual Inspection and Control (I &#038; C)
+Fee as a function of their assigned Inspection Classification Number. Inspection
+and Control Fees are part of the City’s approved wastewater revenue program
+and pay for the basic level of services which include the following:	- 
+Permitting,
+	-  Inspection,
+	-  Sampling,
+	-  Providing laboratory analytical services,
+	-  Monitoring facilities’ self monitoring program,
+	-  Inventory control and development,
+	-  Systems development and data management,
+	-  Reporting to local, State and Federal authorities.	(b)	Inspection and
+Control Fee Schedule.  (Amended by Ord. No. 182,076, Eff. 4/6/12.)  The
+Inspection and Control (I&#038;C) Fee shall be paid quarterly in arrears by each
+permittee, except permittees in the Class I SubClass group as specified in
+Subsection D.3.(c), in possession of a valid Industrial Wastewater Permit in
+accordance with the following schedule:
+  
+    
+      
+        I&#038;C Class
+      
+      
+        Annual Fee
+      
+      
+        Quarterly Fee
+      
+    
+    
+      
+        Class 1
+      
+      
+        $254.00
+      
+      
+        $63.50
+      
+    
+    
+      
+        Class 2
+      
+      
+        $508.00
+      
+      
+        $127.00
+      
+    
+    
+      
+        Class 3
+      
+      
+        $761.00
+      
+      
+        $190.25
+      
+    
+    
+      
+        Class 4
+      
+      
+        $1,015.00
+      
+      
+        $253.75
+      
+    
+    
+      
+        Class 5
+      
+      
+        $1,269.00
+      
+      
+        $317.25
+      
+    
+    
+      
+        Class 12
+      
+      
+        $3,045.00
+      
+      
+        $761.25
+      
+    
+    
+      
+        Class 1D
+      
+      
+        $51.00
+      
+      
+        N/A
+      
+    
+  
+	I&#038;C Fees shall be annually adjusted as shown in the table below:
+  
+    
+      
+        I&#038;C 
+Class
+      
+      
+        July 1, 2012
+      
+      
+        July 1, 2013
+      
+      
+        July 1, 2014
+      
+      
+        July 1, 2015
+      
+      
+        July 1, 2016
+      
+      
+        July 1, 2017
+      
+      
+        July 1, 2018
+      
+      
+        July 1, 2019
+      
+      
+        July 1, 2020
+      
+    
+    
+      
+        Class 1
+      
+      
+        $264
+      
+      
+        $274
+      
+      
+        $291
+      
+      
+        $308
+      
+      
+        $328
+      
+      
+        $350
+      
+      
+        $373
+      
+      
+        $397
+      
+      
+        $423
+      
+    
+    
+      
+        Class 2
+      
+      
+        $528
+      
+      
+        $549
+      
+      
+        $582
+      
+      
+        $617
+      
+      
+        $657
+      
+      
+        $700
+      
+      
+        $745
+      
+      
+        $793
+      
+      
+        $845
+      
+    
+    
+      
+        Class 3
+      
+      
+        $792
+      
+      
+        $823
+      
+      
+        $873
+      
+      
+        $925
+      
+      
+        $985
+      
+      
+        $1,049
+      
+      
+        $1,118
+      
+      
+        $1,190
+      
+      
+        $1,268
+      
+    
+    
+      
+        Class 4
+      
+      
+        $1,056
+      
+      
+        $1,098
+      
+      
+        $1,164
+      
+      
+        $1,234
+      
+      
+        $1,314
+      
+      
+        $1,399
+      
+      
+        $1,490
+      
+      
+        $1,587
+      
+      
+        $1,690
+      
+    
+    
+      
+        Class 5
+      
+      
+        $1,320
+      
+      
+        $1,372
+      
+      
+        $1,455
+      
+      
+        $1,542
+      
+      
+        1,642
+      
+      
+        $1,749
+      
+      
+        $1,863
+      
+      
+        $1,984
+      
+      
+        $2,113
+      
+    
+    
+      
+        Class 12
+      
+      
+        $3,167
+      
+      
+        $3,294
+      
+      
+        $3,491
+      
+      
+        $3,701
+      
+      
+        $3,941
+      
+      
+        $4,197
+      
+      
+        $4,470
+      
+      
+        $4,761
+      
+      
+        $5,070
+      
+    
+    
+      
+        Class 1D
+      
+      
+        $53
+      
+      
+        $55
+      
+      
+        $58
+      
+      
+        $62
+      
+      
+        $66
+      
+      
+        $70
+      
+      
+        $75
+      
+      
+        $80
+      
+      
+        $85
+      
+    
+  
+	(c)	Class I SubClasses.  A Subclass of Class I described above may be
+established by the Board to apply to certain groups of permittees under Class I
+that qualify for reduced inspection and control services.  The Board may group
+permittees for this purpose based on the amount and type of discharges and based
+on the viability of implementing  Best Management Practices as an effective
+control mechanism that merits reduced inspection and control services. 
+Consequently, the annual fee will be a portion of the Class I annual fee and in
+the amount proportional to the cost of inspection and control services provided
+for that group of permittees and as specified in Table I of the Board’s Rules
+and Regulations.	(d)	I &#038; C Fee Payment Schedule.  Each permittee, except
+the Class I Subclass group, shall make quarterly payments in arrears on the
+first of April, July, October or January, following the first permit anniversary
+date.	(e)	Class I Subclass Fee Payment Schedule.  Permittees under the Class I
+SubClass group shall commence making annual payments on the first of April,
+July, October or January, following the first quarterly period in which their
+permit becomes effective.	4.	Quality Surcharge Fee.	(a)	Quality Surcharge Fee
+Requirement.  The Sewer Service Charge (SSC), as established under Sections
+64.41 of the Code, recovers the cost of treatment of domestic strength wastes
+discharged to the POTW for treatment.  The SSC is paid by all of the users of
+the POTW.  However, industrial wastewater discharged by Industrial Users (IUs)
+can vary significantly in strength from that of domestic sewage.  Industrial
+wastewater strength can be higher or lower than that of the domestic sewage.  A
+permittee whose discharge is determined to contain BOD or SS, as defined in
+Subsection A. of Section 64.00 of this Code, with concentrations in excess of
+the designated BOD and SS values in the Board Rules and Regulations shall pay a
+quality surcharge fee.	(b)	Quality Surcharge Fee Determination.  A fee based on
+the quality/strength of the Wastewater discharged into the POTW shall be paid
+quarterly in arrears by all Industrial User or permittees in possession of a
+valid Industrial Wastewater Permit where the Wastewater of said permittees is
+found to be subject to the City’s Quality Surcharge Fee and which is treated
+in a City treatment plant. The permittee may choose to be billed for the
+City’s Quality Surcharge Fee based on either the provisions of Subsections
+64.30 D.4.(b)(1) or 64.30 D.4.(b)(2) below.	(1)	(Amended by Ord. No. 182,076,
+Eff. 4/6/12.)  Permittees whose discharge is determined to contain BOD or SS,
+as defined in Subsection A. of Section 64.00 of this Code, with concentrations
+in excess of the designated BOD and SS values in the Board Rules and Regulations
+Governing Disposal of Industrial Wastewater Into the Publicly Owned Treatment
+Works of the City of Los Angeles shall pay a Quality Surcharge Fee (QSF)
+according to the following formula and provisions.	The Quality Surcharge Fee,
+for these permittees, shall be determined pursuant to the following formula:	C =
+V [a(SS-DSS) + b(BOD-DBOD)]k	where:	“C” is the Quality Surcharge
+Fee.	“V” is the average daily volume of wastewater discharged in gallons and
+shall be deemed: (1) the volume of water supplied to the premises, adjusted as
+determined by the Board to account for water not discharged into the POTW; (2)
+the metered volume of wastewater discharged into the POTW, in accordance with a
+measuring device approved by the Board; or (3) a figure determined by the Board,
+based upon any other equitable method.	“SS” is the suspended solids as
+defined in Subdivision 75. of Subsection A. of Section 64.00 of this Code,
+expressed in milligrams per liter.	“BOD” is the biochemical oxygen demand of
+the wastewater as defined in Subdivision 6. of Subsection A. of Section 64.00 of
+this Code, expressed in milligrams per liter.	“DSS” is the suspended solids
+concentration designated by the Board in the Board Rules and
+Regulations.	“DBOD” is the biochemical oxygen demand concentration
+designated by the Board in the Board Rules and Regulations.	“a”, is the
+verifiable cost assessed for each pound of suspended solids, $0.365.	“b”, is
+the verifiable cost assessed for each pound of biochemical oxygen demand,
+$0.363.	“k”, is (365 x 8.34)/1,000,000, a dimensional constant to convert C
+to dollars.	The values for “a” and “b” shall be annually adjusted as
+shown in the table below:
+  
+    
+      
+        
+Effective Date
+      
+      
+        New BOD Rate ($/pounds of BOD)
+      
+      
+        New SS Rate ($/pounds of SS)
+      
+    
+    
+      
+        July 1, 2012
+      
+      
+        0.377
+      
+      
+        0.380
+      
+    
+    
+      
+        July 1, 2013
+      
+      
+        0.393
+      
+      
+        0.395
+      
+    
+    
+      
+        July 1, 2014
+      
+      
+        0.416
+      
+      
+        0.419
+      
+    
+    
+      
+        July 1, 2015
+      
+      
+        0.441
+      
+      
+        0.444
+      
+    
+    
+      
+        July 1, 2016
+      
+      
+        0.470
+      
+      
+        0.472
+      
+    
+    
+      
+        July 1, 2017
+      
+      
+        0.500
+      
+      
+        0.503
+      
+    
+    
+      
+        July 1, 2018
+      
+      
+        0.533
+      
+      
+        0.536
+      
+    
+    
+      
+        July 1, 2019
+      
+      
+        0.567
+      
+      
+        0.571
+      
+    
+    
+      
+        July 1, 2020
+      
+      
+        0.604
+      
+      
+        0.608
+      
+    
+  
+	If the term containing SS or BOD is negative, a value of zero shall be used for
+the term.	(i)	In determining the amount of Quality Surcharge Fee to be paid by
+various industrial users, the Board may establish industry-wide averages for SS
+and BOD values.  The Board may group permittees into appropriate discharge
+volume ranges each of which shall be represented by an average discharge
+volume.  Where sampling and volume measurements of any permittee are not
+practical for physical, economic or other reasons, these averages may be used in
+establishing such permittee’s Quality Surcharge Fee.	(ii)	Any permittee whose
+fee has been determined in the above manner who is not satisfied that the
+averages are applicable to its discharge, may submit appropriate engineering
+data to the Board for its consideration.  If the Board finds that such
+permittee’s discharge differs significantly from the averages established, it
+may determine the fee on a more appropriate basis.	(2)	Permittees whose
+discharge is determined to contain BOD or SS, as defined in Subsection A. of
+Section 64.00 of this Code, with concentrations less than the designated BOD and
+SS  values in the Board Rules and Regulations may petition the Board to pay a
+Low-Strength SSC Rate as defined in Section 64.41.01 (o), of the Code.  Upon
+qualification, such permittee may be allowed to pay a Low-Strength SSC Rate
+where the Low-Strength SSC Rate excludes the cost component associated with the
+domestic sewage strength included in the SSC rate.  However, should such a
+permittee petition and be allowed to pay a Low-Strength SSC Rate, such permittee
+shall simultaneously become subject to the Zero-Based Quality Surcharge Fee
+(QSF) as defined in Subsection 64.30 D.4.(c) below.  This fee is to recover the
+treatment cost associated with removal of BOD and SS, as defined below, in the
+permittee’s discharge.  This fee is also representative of and a replacement
+for the strength cost component of the Sewer Service Charge (SSC) not included
+in the Low-Strength SSC Rate as defined in Section 64.41.01 (o) of the Code.	The
+Quality Surcharge Fee, for these permittees, shall be determined pursuant to the
+following formula:	C  =  V [a(SS) + b(BOD)]k	where:	C, V, a, b, k, BOD and SS
+are defined under Section 64.30, Subsection D.4.(b) above.	(c)	Zero-Based
+Quality Surcharge Fee Qualifications and Requirements.  Any discharger, in
+possession of a valid Industrial Wastewater Permit, that petitions to pay a
+Low-Strength SSC Rate and a Zero-Based QSF, shall meet the following
+qualifications and requirements:	(1)	The discharger, if not in possession of a
+valid Industrial Wastewater Permit, must apply for and obtain an industrial
+wastewater discharge permit as defined under Subsection 64.30 C.1. of the
+Code.	(2)	The permittee must petition, in writing, to the Board to be placed on
+the Zero-Based Quality Surcharge Fee;	(3)	The permittee must submit analytical
+data of its discharge, at the time of and with its petition, to demonstrate that
+the strength of its discharge does qualify for the Low-Strength SSC
+Rate;	(4)	The permittee shall become subject to self monitoring of its
+discharge, per Industrial Waste Management Division policies and also as defined
+and established in Section 9 of the Board’s Rules and Regulations and,	(5)	The
+permittee shall install a sampling facility, for the purposes of
+self-monitoring, in accordance to the requirements set forth by the
+Director.	(d)	Determination of Surcharge Fees for Ground Solid Wastes.  Where
+ground solid wastes such as garbage, market refuse, food plant wastes and
+hospital wastes are discharged to the POTW, their weights shall be recorded
+prior to disposal or may be estimated by the Board, and a dry weight loading
+calculated for determination of surcharges. Food processors which grind food
+plant wastes for discharge to the POTW and hospitals which grind infectious
+wastes for discharge to the POTW may be required to report quarterly the total
+weight of material ground for surcharge determination.	5.	Private Septage
+Disposal Facility (PSDF) Fees.  Subject to the provisions of this Subsection,
+all PSDFs shall pay, quarterly in arrears, the following fees and discharge user
+rates:	(a)	PSDF Inspection and Control Fee.  An annual Inspection and Control
+(I &#038; C) Fee, in the amount corresponding to the I and Classification Number
+as set forth in Table 1 of the Board’s Rules and Regulations and;	(b)	PSDF
+Septage Treatment Cost Recovery User Fee.  (Amended by Ord. No. 182,076, Eff.
+4/6/12.)  A per gallon Septage Treatment Cost Recovery User fee at the rate of
+$0.0528 per gallon as applied to the full-tank capacity of each vehicle
+discharging at the PSDF.  The rate shall be annually adjusted as shown in the
+table below:
+  
+    
+      
+        Effective Date
+      
+      
+        User Fees ($/gallon)
+      
+    
+    
+      
+        July 1, 2012
+      
+      
+        0.0542
+      
+    
+    
+      
+        July 1, 2013
+      
+      
+        0.0557
+      
+    
+    
+      
+        July 1, 2014
+      
+      
+        0.0572
+      
+    
+    
+      
+        July 1, 2015
+      
+      
+        0.0587
+      
+    
+    
+      
+        July 1, 2016
+      
+      
+        0.0603
+      
+    
+    
+      
+        July 1, 2017
+      
+      
+        0.0612
+      
+    
+    
+      
+        July 1, 20182
+      
+      
+        0.0621
+      
+    
+    
+      
+        July 1, 2019
+      
+      
+        0.0631
+      
+    
+    
+      
+        July 1, 2020
+      
+      
+        0.0640
+      
+    
+  	6.	Wastewater Sampling and Analysis Fee.  (Renumbered by Ord. No. 182,076,
+Eff. 4/6/12.)  The Board may charge a fee of $100 for each analysis performed
+by or on behalf of the Bureau of Sanitation or the Department of General
+Services, on wastewater samples taken from the discharger. Monies collected
+pursuant to this Subdivision 5 shall be deposited into the General Fund to the
+account of the Department of General Services.	7.	Significant Industrial User
+Fee.  (Renumbered and Amended by Ord. No. 182,076, Eff. 4/6/12.)  In addition
+to any fees and charges required by this Subsection, Significant Industrial
+Users (SIUs), as defined in Section 64.00, shall be charged additional fees in
+accordance with the following schedule for each applicable Industrial Wastewater
+Permit:
+  
+    
+      
+        SIU Group
+      
+      
+        Group Identification
+      
+      
+        Amount of Fee
+      
+    
+    
+      
+        I
+      
+      
+        Categorical Industrial Users with an average discharge equal to or
+greater than 10,000 gallons per day
+      
+      
+        $4,359
+      
+    
+    
+      
+        II
+      
+      
+        Categorical Industrial Users other than Electroplaters with an average
+discharge less than 10,000 gallons per day
+      
+      
+        $4,216
+      
+    
+    
+      
+        III
+      
+      
+        Category 413 Industrial Users (Electroplaters) with an  average
+discharge less than 10,000 gallons per day
+      
+      
+        $2,308
+      
+    
+    
+      
+        IV
+      
+      
+        Non-Categorical Industrial Users with an average discharge of equal to
+or greater than 250,000 gallons per day
+      
+      
+        $3,605
+      
+    
+    
+      
+        V
+      
+      
+        Non-Categorical Industrial Users with an average discharge of equal to
+or greater than 40,000 gallons but less than 250,000 gallons per day
+      
+      
+        $2,617
+      
+    
+    
+      
+        VI
+      
+      
+        Non-Categorical Industrial Users with an average discharge of equal to
+or greater than 25,000 gallons but less than 40,000 gallons per day, OR; any
+industrial user that is designated by the Director to have a reasonable
+potential to adversely affect the POTW’s operation or for violating any
+pretreatment standards or requirement.
+      
+      
+        $2,453
+      
+    
+  
+	SIU Fees shall be annually adjusted as shown in the table below:
+  
+    
+      
+        Annual Fee and Effective Date
+      
+    
+    
+      
+        SIU
+Group
+      
+      
+        July 1, 2012
+      
+      
+        July 1, 2013
+      
+      
+        July 1, 2014
+      
+      
+        July 1, 2015
+      
+      
+        July 1, 2016
+      
+      
+        July 1, 2017
+      
+      
+        July 1, 2018
+      
+      
+        July 1, 2019
+      
+      
+        July 1, 2020
+      
+    
+    
+      
+        Group I
+      
+      
+        $4,533
+      
+      
+        $4,714
+      
+      
+        $4,997
+      
+      
+        $5,297
+      
+      
+        $5,641
+      
+      
+        $6,008
+      
+      
+        $6,399
+      
+      
+        $6,814
+      
+      
+        $7,257
+      
+    
+    
+      
+        Group II
+      
+      
+        $4,385
+      
+      
+        $4,560
+      
+      
+        $4,834
+      
+      
+        $5,124
+      
+      
+        $5,457
+      
+      
+        $5,812
+      
+      
+        $6,189
+      
+      
+        $6,592
+      
+      
+        $7,020
+      
+    
+    
+      
+        Group III
+      
+      
+        $2,400
+      
+      
+        $2,496
+      
+      
+        $2,646
+      
+      
+        $2,805
+      
+      
+        $2,987
+      
+      
+        $3,181
+      
+      
+        $3,388
+      
+      
+        $3,608
+      
+      
+        $3,843
+      
+    
+    
+      
+        Group IV
+      
+      
+        $3,749
+      
+      
+        $3,899
+      
+      
+        $4,133
+      
+      
+        $4,381
+      
+      
+        $4,665
+      
+      
+        $4,969
+      
+      
+        $5,292
+      
+      
+        $5,636
+      
+      
+        $6,002
+      
+    
+    
+      
+        Group V
+      
+      
+        $2,721
+      
+      
+        $2,830
+      
+      
+        $3,000
+      
+      
+        $3,180
+      
+      
+        $3,387
+      
+      
+        $3,607
+      
+      
+        $3,841
+      
+      
+        $4,091
+      
+      
+        $4,357
+      
+    
+    
+      
+        Group VI
+      
+      
+        $2,551
+      
+      
+        $2,654
+      
+      
+        $2,813
+      
+      
+        $2,982
+      
+      
+        $3,175
+      
+      
+        $3,382
+      
+      
+        $3,602
+      
+      
+        $3,836
+      
+      
+        $4,085
+      
+    
+  
+	8.	Due Dates.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)	(a)	Fee Due
+Dates for other than I &#038; C Class I SubClass Fees. Fees subject to the
+provisions of this subdivision, Inspection and Control Fees, Quality Surcharge
+Fees, Private Septage Disposal Facility Fees, and Significant Industrial User
+Fees shall be due in quarterly installments payable on the first day of January,
+April, July and October, with each such payment applicable to the immediately
+preceding quarter.	(b)	Class I SubClasses Fee Due Dates.	(1)	I &#038; C Fees. 
+Class I SubClass permittees shall commence making annual payments on the first
+of April, July, October or January, following the first quarterly period in
+which their permit becomes effective. The following outlines the billing
+schedule for Class I SubClasses permittees:	Permit Effective Period	Bill Due
+Date
+	Jul-Sept.			October 1
+	Oct-Dec.			Jan 1
+	Jan-March			April 1
+	Apr-Jun.			July 1	(2)	Quality Surcharge Fees.  Class I SubClass permittees
+subject to Quality Surcharge Fees shall be subject to the same schedule of
+payments set forth in the provisions of Subsections 64.30 D.4.(10)(a)
+above.	9.	Cost Recovery For Sewer Maintenance.  (Renumbered by Ord. No.
+182,076, Eff. 4/6/12.)  The Board may charge any discharger for the cost of
+sewer maintenance resulting from its wastewater discharge.	10.	Delinquency –
+Penalty Charges.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+ 
+	(a)	Delinquency – Penalties.  If the fees are not paid on or before the last
+day of the quarter in which they are due, a penalty equal to 2.5% of any
+outstanding fees, but not less than $10.00, shall be added to the fees.  The
+fees, including penalty, shall become a part of the fees required by this
+section and be payable for that quarter.  Any fees remaining unpaid after the
+last day of the quarter shall be added and carried over to the amount owing for
+the next quarter and become part of the fees owing for that quarter.
+ 	(b)	Continued Delinquency.  All principal charges, excluding accrued
+penalties, carried over from a prior quarter shall be assessed an additional
+penalty in the amount of 2.5% if not paid on or before the last day of each
+quarter until paid in full.   All charges carried over into the next quarter
+shall continue being carried over and added to charges accruing for the
+following quarter, if any, without limitation and all outstanding principal
+charges shall be subject to continued penalties as provided here for each
+quarter in which they remain unpaid. These charges and penalties shall continue
+to accrue quarterly until paid regardless of whether the permit is revoked as
+provided here.	(c)	Delayed billing.  If the invoices for any fees due, pursuant
+to this section, are not mailed before the due date, these fees shall not become
+delinquent until 35 days following the invoice mailing date, at which time, the
+fees shall become delinquent and the charges and time payment factors as
+provided above shall apply.		(d)	Revocation.  If the total invoiced amount is
+not paid by the last day of the month of any quarter in which there is an amount
+owing from a previous quarter, the permit shall be subject to revocation as
+provided in Subsection E below.  Before the Board may grant any new permit, all
+outstanding delinquent fees and penalties must be paid.	11.	Liability for Costs
+of Correction Arising from Unlawful Discharge.  (Renumbered by Ord. No.
+182,076, Eff. 4/6/12.)   Whenever any discharger introduces or causes to be
+introduced wastewater in violation of this section and such discharge, either
+singly or by interaction with other discharges, results in damage to or is
+otherwise detrimental to or adversely affects the POTW, said discharger shall be
+liable to the City for reasonable costs necessary to correct that discharge,
+detriment or adverse effect, including, but not limited to labor, material,
+inspection, transportation, overhead, and incidental; expenses associated with
+the corrective action. The discharger shall additionally be liable to the City
+for the reasonable costs of investigation by the City arising from the unlawful
+discharge.	E.	Enforcement	1.	Suspension of Industrial Wastewater
+Permit.	(a)	Permit Suspension Criteria.  The Director may suspend an Industrial
+Wastewater Permit when such a suspension is necessary in order to stop a
+discharge which presents an imminent hazard to the public health, safety or
+welfare, to the local environment, or which either singly or by interaction with
+other discharges, is an imminent hazard to the POTW or places the City in
+violation of its NPDES permit.	(b)	Discharger Response to Suspension
+Notification.  Any discharger notified of a suspension of that discharger’s
+Industrial Wastewater Permit shall immediately cease and desist the discharge of
+all industrial wastewater into the POTW.  Any discharger notified of a
+suspension of that discharger’s Industrial Wastewater Permit issued for a
+private sewage disposal system shall immediately cease and desist the discharge
+of industrial wastewater into both the private sewage disposal system and the
+POTW.	(c)	Failure of Discharger to Comply with a Suspension Order.  In the
+event of a failure of a discharger to comply voluntarily with a suspension
+order, the Board may take such steps as are reasonably necessary to ensure
+compliance. These include, but are not limited to, immediate blockage or
+disconnection of the discharger’s connection to the POTW, and a request to the
+Department of Water and Power that it discontinue water service of the affected
+property until full compliance with the Notice to Comply has been
+achieved.	(d)	Notice of an Intended Order of Suspension.  The Director in the
+event of violation of this section, may serve the discharger with a notice of an
+intended order of suspension, stating the reasons therefor, the opportunity for
+a hearing with respect thereto, and the proposed effective date of the intended
+order.	(e)	Order of Suspension Board Hearing.  Any discharger suspended or
+served with a notice of an intended order of suspension may file with the
+Secretary of the Board a request for a Board hearing with respect thereto.
+Filing of such request shall not stay a suspension. In the event a suspension of
+a permit due to imminent hazard related to continued discharge, the discharger
+may request a hearing, and the Board or a hearing examiner designated by the
+Board for that purpose, shall conduct a hearing within three days of receipt of
+the request. In the event of hearing requests, for other than an imminent hazard
+suspension, the Board shall hold a hearing on the suspension within 14 days of
+receipt of the request. At the close of the hearing the Board shall make its
+determination whether to terminate, or conditionally terminate the suspension
+imposed by the Director, or the Board may cause the permit to be revoked. Except
+in the case of a hearing within three days being required as above provided,
+reasonable notice of the hearing shall be given to the suspended discharger in
+the manner provided for in Subdivision 6 of Subsection E of this
+section.	(f)	Stay of Order of Suspension.  In the event that the Board fails to
+meet within the time set forth above or fails to make a determination within 72
+hours after the close of the hearing, the order of suspension shall be stayed
+until a Board determination is made with respect to the action of the
+Director.	(g)	Reinstatement of Industrial Wastewater Permit.  The Director
+shall reinstate the Industrial Wastewater Permit upon proof of compliance which
+ends the emergency nature of the hazard created by the discharge that had been
+cause for the Director to initiate the suspension, provided that the Director is
+satisfied that all discharge requirements of this section, the Board’s Rules
+and Regulations, and any Board order will be implemented.	2.	Revocation of
+Industrial Wastewater Permit.  The Board may revoke an Industrial Wastewater
+Permit upon a finding that the discharger has violated any provision of this
+section or the Board’s Rules and Regulations. No revocation shall be ordered
+until a notice and hearing on the question has been held by the Board as
+provided in Subdivisions 4 and 5 of this Subsection E of Section
+64.30.	3.	Additional Emergency Remedial Measures.  The Director shall have full
+power and authority to take any necessary precautions including but not limited
+to, decontamination, sewer closure, packaging, diking, and transportation of
+materials, in order to protect life, protect property, or prevent further damage
+resulting from a condition that is likely to result in a discharge which
+presents an imminent hazard to the public health, safety or welfare; or which
+either singly or by interaction with other discharges, is an imminent hazard to
+the POTW; or which places the City in violation of its NPDES permit. In the
+pursuit of such an operation, City personnel, any party contracting with the
+City, or duly authorized representative of another governmental agency shall
+have immediate access to the premises. The Director may prohibit approach to the
+scene of such emergency by any person vehicle, vessel or thing, and all persons
+not actually employed in the extinguishment of the condition or the preservation
+of lives and property in the vicinity thereof.	4.	Board Hearing.	(a)	Appointment
+of Hearing Examiner.  With respect to permit revocation or suspension hearings,
+the Board may conduct the hearing or may appoint one or more examiners or
+designate one or more of its members to serve as hearing examiners and to
+conduct a hearing with respect to any appeal or protest filed. At such hearing
+the discharger may appear personally or through counsel, cross-examine witnesses
+and present evidence in the discharger’s behalf.	(b)	Board Decision.  The
+hearing examiner or examiners, if other than the Board, shall submit a written
+report and recommendations to the Board together with a brief summary of the
+evidence considered and conclusions reached with respect thereto. The Board,
+after considering evidence presented at such a hearing, and any report submitted
+to it with respect to such a hearing, or after any hearing which it conducts,
+shall adopt findings supported by evidence, and may adopt, reject, or modify in
+whole or in part, make its decision, and issue its order. If the Board’s order
+is to revoke the discharger’s Industrial Wastewater Permit, the order may be
+effective forthwith, or at a later specified date. The discharger shall be
+notified in writing of the Board’s action.	(c)	Compliance with Order of
+Revocation.  Any discharger whose Industrial Wastewater Permit has been revoked
+shall immediately cease and desist all discharge of any wastewater covered by
+the Permit. The Board may disconnect or permanently block the discharger’s
+connection if such action is necessary to ensure compliance with the order of
+revocation.	(d)	Conditions for Resumption of Discharge after Permit
+Revocation.  After revocation of a discharger’s Industrial Wastewater Permit,
+there shall be no further discharge of industrial wastewater by that discharger
+into the POTW unless there has been a new application filed, all fees and
+charges that would be required upon an initial application and all delinquent
+fees, charges, penalties and other sums owed by the discharger and/or the
+applicant to the City have been paid to the City, and a new Industrial
+Wastewater Permit has been issued. Any costs incurred by the City, including
+administrative costs and investigative fees, in revoking the Permit and
+disconnecting the connection if necessary, shall also be paid for by the
+discharger before issuance of a new Industrial Wastewater Permit.	5.	Notice. 
+Notice of the hearing shall be given to the discharger at least ten (10) days
+prior to the date of hearing. Unless otherwise provided herein, any notice
+required to be given by the Director under this section shall be in writing and
+served in person or by registered or certified mail addressed to the
+addressee’s last known address with request for return receipt. Where no
+address is known, service may be made upon the owner of record of the property
+upon which the alleged violation occurred or by posting the notice conspicuously
+on the property.	Notice shall be deemed to have been given at the time the
+written notice is deposited, postage prepaid, in the United States mail at Los
+Angeles, California.	6.	Public List of Significant Noncompliant Industrial
+Dischargers.  The Director shall identify a discharger as meeting one or more
+of the Significant Noncompliance (SNC) criteria listed in 40 CFR Section
+403.8(f)(2)(vii) and shall publish notice in the largest daily newspaper
+published in the City of such status. The criteria for SNC shall be as
+follows:	(a)	Sixty-six percent (66%) or more of wastewater measurements taken
+during a 6 month period exceed the discharge limit for the same pollutant
+parameter by any amount;	(b)	Thirty-three percent (33%) or more of the
+wastewater measurements taken during a 6 month period for each pollutant equals
+or exceeds the product of the daily maximum limit or the average limit
+multiplied by the applicable criteria (1.4 for BOD, TSS, oil and grease, and 1.2
+for all other pollutants except pH);	(c)	Any other effluent violation that the
+Director believes has caused, alone or in combination with other discharges,
+interference or pass through (including endangering the health of POTW personnel
+or the general public);	(d)	Any discharge of pollutants that has caused imminent
+endangerment to the public, human health or welfare or to the environment or has
+resulted in the City’s exercise of its emergency authority to halt or prevent
+such a discharge;	(e)	Failure to meet, within ninety (90) days of the scheduled
+date, a compliance schedule milestone contained in a permit or Administrative
+Order for starting construction, completing construction, or attaining final
+compliance;	(f)	Failure to provide, within 30 days after the due date, any
+required reports such as 90 day compliance reports, periodic self-monitoring
+reports and reports on compliance with compliance schedules;	(g)	Failure to
+accurately report noncompliance;	(h)	Any other violation or group of violations
+that the Director determines will adversely affect the operation or
+implementation of its pretreatment program.	7.	Penalties for
+Violations.	(a)	Criminal Penalty.  Except as expressly provided, violation of
+this section or any order issued by the Board or the Director as authorized by
+this section is a misdemeanor punishable by a fine not to exceed $1,000.00 per
+violation per day or by imprisonment in the County jail for a period of not more
+than six (6) months, or by both such fine and imprisonment.	(b)	Injunctive
+Relief.  Whenever a discharger of wastewater is in violation of this section or
+otherwise causes or threatens to cause a condition of contamination, pollution
+or nuisance, the Board or the Director may cause the City to seek a petition to
+the Superior Court for the issuance of a preliminary or permanent injunction,
+restraining order, or other order, as may be appropriate in restraining the
+continuance of such discharge.	(c)	Civil Liability.  Any person who violates
+any provision of this section or any term or condition of any permit issued
+pursuant to this section or plan approval which prohibits or limits the
+discharge of any waste imposes any pretreatment requirement shall be civilly
+liable to the City in the maximum sum provided by law for each day in which such
+violation occurs.	F.	Conflict.  Provisions of this section shall prevail over
+any other inconsistent or conflicting provisions of this chapter.

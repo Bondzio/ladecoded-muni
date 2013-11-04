@@ -1,0 +1,42 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GRINDING, BUFFING AND WIRE BRUSHING. (§ 57.52.08)
+
+  GRINDING, BUFFING AND WIRE BRUSHING.	A.	Hoods: At each grinding, buffing or
+wire brushing operation on magnesium, not including rough finishing of castings,
+dust shall be collected by means of approved hoods or enclosures connected to a
+liquid precipitation type of separator, such that the dust will be converted to
+sludge without contact in a dry state with any high speed moving
+parts.	B.	Ducts: Connecting ducts or suction tubes shall be grounded and as
+short as possible with no unnecessary bends. Ducts shall be carefully fabricated
+and assembled, with a smooth interior and with internal lap joints pointing in
+the direction of air flow, and without unused capped side outlets, pockets or
+other deadend spaces which might allow an accumulation of dust.	C.	Separators:
+Each machine shall be equipped with an individual dust separator unit, except
+that with multi-unit machines, not more than two dust producing units may be
+served by one separator.  Not more than four portable dust producing units in a
+single enclosure or stand may be served by one separator unit.	D.	Power
+Interlock: Power supply to machines shall be interlocked with (l) exhaust air
+flow and (2) liquid pressure level or flow in such a way that improper
+functioning of the dust removal and separator system will shut down the machine
+it serves.	E.	Electrical Equipment: Electric motors, lighting fixtures, control
+equipment and wiring in immediate vicinity of, and attached to dust producing
+machines, including that used in connection with separator equipment, shall be
+of a type approved for use in a dust-hazardous location, and installed in
+accordance with the provisions of Chapter 9 of the L.A.M.C. (Electrical
+Code).	F.	Grounding: All equipment shall be securely and permanently grounded in
+an approved manner to prevent the accumulation of static electricity.	G.	Dust
+Disposal: Sludge from dust separators should be removed at least daily or more
+frequently, as conditions warrant. Vented steel containers with tight fitting
+steel lids of not over 50 pounds capacity each, shall be used to transport the
+collected sludge to a place for safe disposal by approved methods. All
+containers used for magnesium sludge or waste shall have conspicuous sign
+painted thereon to indicate their contents.	H.	Other Metals: Machinery and
+equipment described in this subsection shall not be used for processing ferrous
+metals.	I.	Filters: Dust collection equipment shall not have obstructions that
+will allow accumulation of dust in any part of the system other than the
+designed accumulator.	J.	Sludge Pits: Sludge pits shall be arranged so as to be
+well ventilated to the outside atmosphere at all times.	K.	Chrome-pickled
+Magnesium: In the grinding of chrome-pickled magnesium surfaces, special
+precautions shall be taken to guard against accumulations of dust in air within
+range of the sparks which may be produced.

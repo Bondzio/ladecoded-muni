@@ -1,0 +1,78 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SPECIAL INSPECTIONS FOR SEISMIC RESISTANCE. (§ 91.1707)
+
+  SPECIAL INSPECTIONS FOR SEISMIC RESISTANCE.
+(Amended by Ord. 181,758, Eff. 8/8/11.)	Section 1707 of the CBC is adopted by
+reference, except Sections 1707.1, 1707.2 and 1707.8 of the CBC are not adopted
+and in lieu Sections 91.1707.1, 91.1707.2, 91.1707.2.1, 91.1707.8 and 91.1707.10
+are added.91.1707.1. Special Inspections for Seismic Resistance.  Special
+inspections itemized in CBC Sections 1707.3 through 1707.7, and Sections
+91.1707.2, 91.1707.8 and 91.1707.10 are required for the following, unless
+exempted by the exceptions of Section 91.1704.1, 91.1705.3, or CBC Section
+1705.3.1:	1.	The seismic-force-resisting systems in structures assigned to
+Seismic Design Category C, D, E or F as determined in CBC Section
+1613.	2.	Designated seismic systems in structures assigned to Seismic Design
+Category D, E or F.	3.	Architectural, mechanical and electrical components in
+structures assigned to Seismic Design Category C, D, E or F that are required in
+CBC Sections 1707.7 and 1707.8.91.1707.2. Structural Steel.  Continuous special
+inspection is required for structural welding in accordance with AISC 341 and
+during the fabrication and erection of buildings over 160 feet (48,768 mm) in
+height with structural steel moment-resisting frames.  A Registered Deputy
+Inspector under the supervision of the engineer responsible for the structural
+design shall be present during the performance of all structural welding or the
+installation of all high-strength bolts whether in a fabricator’s shop or at
+the job site.
+ 
+	EXCEPTIONS:	1.	Single-pass fillet welds not exceeding 5/16-inch (7.9 mm) in
+size.	2.	Floor and roof deck welding.91.1707.2.1. Certification.  For buildings
+exceeding 160 feet (48,768 mm) in height, the engineer responsible for the
+structural design and the general contractor responsible for the construction,
+or their competent authorized representatives, shall make periodic inspections
+of the work at the site to verify general compliance with the approved plans,
+specifications and change orders.  The engineer and general contractor shall
+submit a statement in writing to the Department stating that they know from
+personal knowledge that the materials installed and the structural work
+performed is in compliance with the approved plans, specifications and change
+orders.	The phrase “personal knowledge” as used above in reference to the
+engineer and general contractor means the knowledge resulting from the general
+observation by the engineer and the general supervision by the contractor of the
+work, as required by both in the superintendence of the building’s
+construction, and as distinguished from the continuous personal superintendence
+of the special inspector and/or deputy inspector who are continuously at the
+site during the progress of the work.  The exercise of reasonable diligence to
+obtain the facts is required and anyone who intentionally remains unaware may be
+charged with knowledge.  The interpretation of personal knowledge as it applies
+to the special inspector and/or deputy inspector is that the inspector(s) must
+have actual personal knowledge that the requirements of the plans and
+specifications are being carried out, which is obtained by the inspector’s
+continuous observation of the work of construction at the site in all stages of
+its progress.91.1707.8. Designated Seismic System Verifications.  The
+Registered Deputy Inspector shall examine designated seismic systems requiring
+seismic qualification in accordance with CBC Section 1708.4 and verify that the
+label, anchorage, and mounting conforms to the certificate of compliance and any
+applicable research report.91.1707.10. Structural Inspection – Concrete. 
+During the construction of all buildings over 160 feet (48,768 mm) in height
+with concrete special moment-resisting space frames, a structural inspector
+under the supervision of the engineer responsible for the structural design
+shall be present to inspect the materials and workmanship for conformance with
+approved plans, specifications and change orders involved in construction of the
+ductile frames and shear walls.  This inspection may be made by one or more
+structural inspectors, provided that at least one structural inspector is
+present during the placement of all concrete and reinforcement in the structural
+frame and shear walls.	The number of structural inspectors to be provided for
+each structure shall be determined by the engineer responsible for the
+structural design, provided that more than one structural inspector shall be
+provided where the magnitude of a structure prevents a single inspector from
+adequately performing the inspection.	The owner shall provide for each
+structural inspector.  Each structural inspector shall be paid by the owner
+directly or through the person responsible for the structural design.  Each
+structural inspector shall be responsible to the person who prepared the
+structural design.	The inspection by the structural inspector or inspectors
+shall be in addition to inspections made by Department employees as specified in
+Section 91.108 of this Code and by Registered Deputy Inspectors as specified for
+other parts of the work in Section 91.1704.1 this Code.	Prior to the issuance of
+the Certificate of Occupancy, each structural inspector shall submit a report in
+writing to the engineer and the Department certifying that the portions of the
+structural frame inspected by the inspector were constructed in accordance with
+the approved plans, specifications, change orders and Division 19 of this Code.

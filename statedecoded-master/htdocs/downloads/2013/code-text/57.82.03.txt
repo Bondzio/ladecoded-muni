@@ -1,0 +1,97 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+TANKS. (§ 57.82.03)
+
+  TANKS.	A.	Material – Material tanks shall be constructed of iron or steel
+and all seams shall be made liquid tight without the use of solder.  Each
+material tank shall be equipped with a permanently installed or self-closing
+metal cover.  Minimum metal thicknesses shall be as set forth in Table
+82-A.TABLE 82-A
+MATERIAL TANKS—GAUGE OF METAL  
+    
+      
+        Capacity
+      
+      
+        Thickness
+      
+    
+    
+      
+        5
+      
+      
+        -
+      
+      
+        60
+      
+      
+        gallons
+      
+      
+        18 gauge
+      
+    
+    
+      
+        61
+      
+      
+        -
+      
+      
+        275
+      
+      
+        gallons
+      
+      
+        14 gauge
+      
+    
+    
+      
+        276
+      
+      
+        -
+      
+      
+        550
+      
+      
+        gallons
+      
+      
+        12 gauge
+      
+    
+    
+      
+        551
+      
+      
+        -
+      
+      
+        1100
+      
+      
+        gallons
+      
+      
+        10 gauge
+      
+    
+  
+	B.	Sump or Catch Basin – The sump shall have a capacity at least equal to the
+entire quantity of paint and thinner used in the machine at any one time.  The
+sump shall be in the floor of the flow coat tunnel and the floor shall be
+designed to return all surplus paint to the sump.	C.	Salvage Tanks – Every
+flow coat system having a capacity in excess of 500 gallons shall be equipped
+with a drain pipe and salvage tank installed beneath the tunnel according to the
+requirements of Section 57.81.14.  The capacity of this tank shall be 25
+percent in excess of the capacity of the flow coat system.  Each salvage tank
+shall be equipped with an adequate vent to the outside atmosphere.  Minimum
+metal thickness shall be as set forth in Table 82-A.

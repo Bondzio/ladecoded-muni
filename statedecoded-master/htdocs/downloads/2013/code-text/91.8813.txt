@@ -1,0 +1,1195 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SPECIAL REQUIREMENTS FOR VACANT BUILDINGS. (§ 91.8813)
+
+  SPECIAL REQUIREMENTS FOR VACANT BUILDINGS.
+	(Amended by Ord. No. 171,175, Eff. 7/25/96.)91.8813.1.  General.  This
+section shall apply to every vacant unreinforced masonry bearing wall building
+within the scope of this division which has not complied with the requirements
+contained in this division.91.8813.2.  Enforcement.  When the Department
+determines that a building is within the scope of this section, it shall notify
+the owner and order the owner to bring the building into compliance with the
+provisions of this section  Compliance with such an order shall be accomplished
+within the time limits set forth herein and any extensions of time granted by
+the Department.  If the owner does not comply within such time limits, then the
+Department may order the demolition of the building or structure in accordance
+with the provisions of Section 91.8903.91.8813.3  Time for Compliance. 
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)	1.	For a one-story building with
+wall anchors installed pursuant to Section 91.8808.3, either before or within 60
+days after notice is given by the Department:	Within 180 days after notice is
+given pursuant to this section, the owner shall submit to the Department either
+plans and a structural analysis for the proposed structural alterations of the
+building necessary to comply with the minimum requirements of this division, or
+an application for demolition of the building or structure.	If the owner elects
+to perform the proposed structural alterations, then within 270 days after
+notice is given pursuant to this section, the owner shall obtain the necessary
+permits for strengthening the building or structure; within 90 days of obtaining
+a permit to strengthen the building, the owner shall commence strengthening
+work; and within 18 months after notice is given pursuant to this section, the
+owner shall complete all strengthening work.	If the owner elects to demolish the
+building, then within 210 days after notice is given pursuant to this section,
+the owner shall obtain permits for the demolition of the building or structure;
+within 21 days of obtaining a demolition permit, the owner shall commence
+demolition; and within 300 days after notice is given pursuant to this section
+the owner shall complete the demolition of the building or structure.	2.	Time
+for compliance for all other buildings:	Within 60 days after notice is given
+pursuant to this section, the owner shall submit to the Department either plans
+and a structural analysis for the proposed structural alterations of the
+building necessary to comply with the minimum requirements of this division, or
+an application for demolition of the building or structure.	If the owner elects
+to perform the necessary alterations, then within 120 days after notice is given
+pursuant to this section, the owner shall obtain the necessary permits for
+strengthening the building or structure; within 21 days of obtaining a permit,
+the owner shall begin work; and within 365 days after notice is given pursuant
+to this section, the owner shall complete all strengthening work.	If the owner
+elects to perform the necessary alterations, then within 120 days after notice
+is given pursuant to this section, the owner shall obtain the necessary permits
+for strengthening the building or structure; and within 120 days after obtaining
+the demolition permit, the owner shall complete the demolition of the building
+or structure.91.8813.4.  Special Provisions for Damaged Buildings.  An
+unreinforced masonry bearing wall building which is damaged or partially
+destroyed by fire, flood, wind, earthquake or other calamity or act of God or
+the public enemy shall be repaired or demolished within six months of such
+damage or destruction.	DEMAND-CAPACITY RATIO, 0.33 WD/(2vuD)  OR  0.33
+WD/(2vuD +  ΣVc)ACCEPTABLE SPAN FOR DIAPHRAGMS
+(BASED ON DISPLACEMENT CONTROL CONCEPTS)FIGURE NO. 88-A	
+(Added by Ord. No. 165,310, Eff. 12/31/89.)
+TABLE NO. 88-A
+RATING CLASSIFICATIONS
+  
+    
+      
+        TYPE OF BUILDING
+      
+      
+        CLASSIFICATION
+      
+    
+    
+      
+        Essential Building
+      
+      
+        I
+      
+    
+    
+      
+        High Risk Building
+      
+      
+        II
+      
+    
+    
+      
+        Medium Risk Building
+      
+      
+        III
+      
+    
+    
+      
+        Low Risk Building
+      
+      
+        IV
+      
+    
+  TABLE NO. 88-B
+TIME LIMITS FOR COMPLIANCE
+  
+    
+      
+        REQUIRED ACTION BY OWNER
+      
+      
+        OBTAIN BUILDING PERMIT WITHIN
+      
+      
+        COMMENCE CONSTRUCTION WITHIN
+      
+      
+        COMPLETE CONSTRUCTION WITHIN
+      
+    
+    
+      
+        Complete Structural Alterations or Building Demolition
+      
+      
+        1 year
+      
+      
+        180 days*
+      
+      
+        3 years
+      
+    
+    
+      
+        Wall Anchor Installation
+      
+      
+        180 days
+      
+      
+        270 days
+      
+      
+        1 year
+      
+    
+  
+	*Measured from date of building permit issuance.
+TABLE NO 88-C
+SERVICE PROVISIONS AND EXTENDED TIME PROVISIONS**
+(Amended by Ord. No. 160,451, Eff. 11/25/85.)
+  
+    
+      
+        Rating Occupant Classification
+      
+      
+        Extension of Time if Wall Anchors Load
+      
+      
+        Minimum Time Periods are Installed
+      
+      
+        Service of Order
+      
+    
+    
+      
+        I (Highest Priority)
+      
+      
+        Any
+      
+      
+        One Year
+      
+      
+        0
+      
+    
+    
+      
+        II
+      
+      
+        100 or more
+      
+      
+        One Year
+      
+      
+        90 Days
+      
+    
+    
+      
+        III
+      
+      
+        100 or more
+      
+      
+        One Year
+      
+      
+        One Year
+      
+    
+    
+      
+        
+      
+      
+        More than 50, but less than 100
+      
+      
+        One Year
+      
+      
+        Two Years
+      
+    
+    
+      
+        
+      
+      
+        More than 19, but less than 51
+      
+      
+        One Year
+      
+      
+        Three Years
+      
+    
+    
+      
+        IV (Lowest Priority)
+      
+      
+        less than 20
+      
+      
+        One Year
+      
+      
+        Four Years
+      
+    
+  
+	**Buildings that have obtained a building permit for wall anchors and met the
+time schedule in Table 88-B for wall anchor installation may utilize the time
+extensions, which are permitted in Table 88-C prior to the adoption of this
+ordinance.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)
+TABLE NO. 88-D
+HORIZONTAL FORCE FACTORS BASED ON RATING CLASSIFICATION
+  
+    
+      
+        RATING CLASSIFICATION
+      
+      
+        IKCS
+      
+    
+    
+      
+        I
+      
+      
+        0.186
+      
+    
+    
+      
+        II
+      
+      
+        0.133
+      
+    
+    
+      
+        III &#038; IV
+      
+      
+        0.100
+      
+    
+  TABLE NO. 88-E
+HORIZONTAL FORCE FACTORS “IS” FOR PARTS OR PORTIONS OF STRUCTURES
+  
+    
+      
+        RATING CLASSIFICATION
+      
+      
+        IS
+      
+    
+    
+      
+        I
+      
+      
+        1.50
+      
+    
+    
+      
+        II
+      
+      
+        1.00
+      
+    
+    
+      
+        III &#038; IV
+      
+      
+        0.75
+      
+    
+  TABLE NO. 88-F
+HORIZONTAL FORCE FACTOR “CP” FOR PARTS OR PORTIONS OF BUILDINGS OR OTHER
+STRUCTURES 1
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)
+  
+    
+      
+        PART OR PORTION OF BUILDINGS
+      
+      
+        DIRECTION OF FORCE
+      
+      
+        VALUE OF Cp
+      
+    
+    
+      
+        Exterior bearing and nonbearing walls; interior bearing walls and
+partitions; interior nonbearing walls and partitions over 10 feet in height;
+masonry fences over 6 feet in height
+      
+      
+        Normal to flat surface
+      
+      
+        0.20
+      
+    
+    
+      
+        Cantilever parapet and other cantilever walls, except retaining walls.
+      
+      
+        Normal to flat surface
+      
+      
+        1.00
+      
+    
+    
+      
+        Exterior and interior ornamentations and appendages.
+      
+      
+        Any direction
+      
+      
+        1.00
+      
+    
+    
+      
+        When connected to or a part of a building: towers, tanks, towers and
+tanks plus contents, racks over 8 feet 3 inches in height plus contents,
+chimneys, smokestacks and penthouses.
+      
+      
+        Any direction
+      
+      
+        0.20 2,4
+      
+    
+    
+      
+        When connected to or a part of a building: rigid and rigidly mounted
+equipment and machinery not required for continued operation of essential
+occupancies. 5
+      
+      
+        Any horizontal direction
+      
+      
+        0.20 3
+      
+    
+    
+      
+        Tanks plus effective contents resting on the ground. 
+      
+      
+        Any direction
+      
+      
+        0.12
+      
+    
+    
+      
+        Floors and roofs acting as diaphragms.
+      
+      
+        In the plane of the diaphragm
+      
+      
+        0.12 6
+      
+    
+    
+      
+        Prefabricated structural elements, other than walls, with force applied
+at center of gravity of assembly. 
+      
+      
+        Any horizontal direction
+      
+      
+        0.30
+      
+    
+    
+      
+        Connections for exterior panels or elements.
+      
+      
+        Any direction
+      
+      
+        2.00
+      
+    
+  
+	For SI: 1 inch = 25.4 mm, 1 foot = 305 mm.	Notes:	1.	See Section 91.8808.2 for
+use of Cp.	2.	When located in the upper portion of any building with a height to
+depth ratio of 5 to 1 or greater, the value shall be increased by 50
+percent.	3.	For flexible and flexible mounted equipment and machinery, the
+appropriate values for Cp shall be determined with consideration given to both
+the dynamic properties of the equipment and machinery and to the building and
+building or structure in which it is placed.	4.	The Wp for storage racks shall
+be the weight of the racks plus contents.  The value of Cp for racks over two
+storage support levels in height shall be 0.16 for the levels below the top two
+levels.	5.	The design of the equipment and machinery and their anchorage is an
+integral part of the design and specification of that equipment and machinery. 
+The structure to which the equipment or machinery is mounted shall be capable of
+resisting the anchorage forces (see also Section 13.6.5 of ASCE-7).  (Amended
+by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)	6.	Floor and roofs acting as
+diaphragms shall be designed for a minimum force resulting from a Cp of 0.12
+applied to Wp unless a greater force results from the distribution of lateral
+forces in accordance with Section 12.8.3 of ASCE-7.  (Amended by Ord. No.
+179,324, Eff. 12/10/07, Oper. 1/1/08.)
+TABLE NO. 88-G
+ALLOWABLE VALUE OF HEIGHT-TO-THICKNESS RATIO OF UNREINFORCED MASONRY WALLS WITH
+MINIMUM QUALITY MORTAR 1, 2
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)
+  
+    
+      
+        
+      
+      
+        BUILDINGS W/ CROSS WALLS AS DEFINED BY SECTION 91.8803
+      
+      
+        ALL OTHER BUILDINGS
+      
+    
+    
+      
+        Walls of One-story Buildings
+      
+      
+        13 – 16 3, 4, 5
+      
+      
+        13
+      
+    
+    
+      
+        First-Story Wall of Multi-story Buildings
+      
+      
+        16
+      
+      
+        15
+      
+    
+    
+      
+        Walls in Top Story of Multi-story Buildings
+      
+      
+        9 – 14 3, 4, 5
+      
+      
+        9
+      
+    
+    
+      
+        All Other Walls
+      
+      
+        16
+      
+      
+        13
+      
+    
+  
+	1.	Minimum quality mortar shall be determined by laboratory testing in
+accordance with Section 91.8809.5 of this Code.	2.	This table is not applicable
+to buildings of Rating Classification I. Walls of buildings within Rating
+Classification I shall be analyzed in accordance with Section 91.8808.6 of this
+Code.	3.	The minimum mortar shear strengths required in Footnotes 4 and 5 shall
+be that shear strength without the effect of axial stress in the wall at the
+point of the test.	4.	The larger height-to-thickness ratio may be used where
+mortar shear tests in accordance with Section 91.8809.5.3 of this Code establish
+a minimum mortar shear strength of not less than 100 psi (690 kPa) or where the
+tested mortar shear strength is not less than 60 psi (414 kPa) and a visual
+examination of the vertical wythe-to-wythe wall joint (collar joint) indicates
+not less than 50 percent mortar coverage.	5.	Where a visual examination of the
+collar joint indicates not less than 50 percent mortar coverage and the minimum
+mortar shear strength when established in accordance with Section 91.8809.5.3 of
+this Code is greater than 30 psi (207 kPa) but less than 60 psi (414 kPa), the
+allowable height-to-thickness ratio may be determined by linear interpolation
+between the larger and smaller ratios in direct proportion to the mortar shear
+strength.
+TABLE  NO. 88-H
+VALUES FOR EXISTING MATERIALS
+(Amended by Ord. No. 181,758, Eff. 8/8/11.)
+  
+    
+      
+        EXISTING MATERIALS OR CONFIGURATION OF MATERIALS 1
+      
+      
+        ALLOWABLE VALUES
+      
+    
+    
+      
+        1.	HORIZONTAL DIAPHRAGMS
+      
+      
+        
+      
+    
+    
+      
+        	(a)	Roofs with straight sheathing and roofing applied directly to the
+sheathing.
+      
+      
+        100 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	(b)	Roofs with diagonal sheathing and roofing applied directly to the
+sheathing.
+      
+      
+        400 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	(c)	Floors with straight tongue-and-groove sheathing.
+      
+      
+        150 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	(d)	Floors with straight sheathing and finished wood flooring.
+      
+      
+        300 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	(e)	Floors with diagonal sheathing and finished wood flooring.
+      
+      
+        450 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	(f)	Floors or roofs with straight sheathing  and plaster applied to
+the joist or values for items 1(a) and 1(c) rafters.2 
+      
+      
+        Add 50 lbs. per foot to the allowable values for items 1(a) and 1(c).
+      
+    
+    
+      
+        2.	SHEAR WALL
+        	Wood stud walls with lath and plaster
+      
+      
+        100 lbs. per foot each side for seismic shear.
+      
+    
+    
+      
+        3.	PLAIN CONCRETE FOOTINGS
+      
+      
+        fc’ = 1500 psi unless otherwise shown by tests
+      
+    
+    
+      
+        4.	DOUGLAS FIR WOOD
+      
+      
+        Allowable stress same as No. 1 D.F. 3
+      
+    
+    
+      
+        5.	REINFORCING STEEL
+      
+      
+        fy = 18,000 lbs. per square inch maximum
+      
+    
+    
+      
+        6.	STRUCTURAL STEEL
+      
+      
+        fy = 20,000 lbs. per square inch maximum
+      
+    
+  
+	For SI: 1 pound per foot = 0.0146 N/m, 1 pound per square inch (psi) = 6.895
+kPa.	Notes:	1.	Material must be sound and in good condition.	2.	The wood lath
+and plaster must be reattached to existing joists or rafters in a manner
+approved by the Department.	3.	Stresses given may be increased for combinations
+of loads as specified in Section 91.8808.7.2 of this Code.
+TABLE NO. 88-I
+ALLOWABLE VALUES OF NEW MATERIALS USED IN CONJUNCTION WITH EXISTING CONSTRUCTION
+(Amended by Ord. No. 181,758, Eff. 8/8/11.)
+  
+    
+      
+        NEW MATERIALS OR CONFIGURATION OF MATERIALS 1
+      
+      
+        ALLOWABLE VALUES
+      
+    
+    
+      
+        1.	HORIZONTAL DIAPHRAGMS
+      
+      
+        
+      
+    
+    
+      
+        	Plywood sheathing applied directly over existing straight sheathing
+with ends of plywood sheets bearing on joists or rafters and edges of plywood
+located on center of individual sheathing boards.
+      
+      
+        Same as specified in CBC Table 2306.2.1.(1) and 2306.2.1.(2) for blocked
+diaphragms.
+      
+    
+    
+      
+        2.	SHEAR WALLS
+      
+      
+        
+      
+    
+    
+      
+        	a.	Plywood sheathing applied directly over existing wood studs. No
+value shall be given to plywood applied over existing plaster or wood sheathing.
+     
+      
+        Same as values specified in CBC Table 2306.3 for shear walls.
+      
+    
+    
+      
+        	b.	Dry wall or plaster applied directly over existing wood studs.
+      
+      
+        75 percent of the values specified in CBC Table 2306.7.
+      
+    
+    
+      
+        	c.	Dry wall or plaster applied to plywood sheathing over existing wood
+studs.
+      
+      
+        33 1/3 percent of the values specified in CBC Table 2306.7.
+      
+    
+    
+      
+        3.	SHEAR BOLTS
+      
+      
+        
+      
+    
+    
+      
+        	Shear bolts and shear dowels embedded a minimum of eight inches into
+unreinforced masonry walls.   Bolt centered in a 2-1/2 inch-diameter hole with
+drypack or an approved non-shrink grout around circumference of bolt or dowel.
+1, 3
+      
+      
+        133 percent of the values for plain solid masonry specified in Table No.
+88-M.  No values larger than those given for 3/4 inch bolts shall be used.
+      
+    
+    
+      
+        4.	TENSION BOLTS
+      
+      
+        
+      
+    
+    
+      
+        	Tension bolts and tension dowels extending entirely through
+unreinforced masonry secured with bearing plates on far side of wall with at
+least 30 square inches of area. 2, 3, 4
+      
+      
+        1200 lbs. per bolt or dowel.
+      
+    
+    
+      
+        5.	COMBINATION SHEAR AND TENSION WALL ANCHORS
+      
+      
+        
+      
+    
+    
+      
+        	a.	Bolts extending to the exterior face of the wall with a 2-1/2 inch
+round plate under the head.  Install as specified for shear bolts. Spaced not
+closer than 12 inches on centers. 1, 2, 3
+        
+      
+      
+        600 lbs. per bolt for tension.4  See Item 3 (SHEAR BOLTS) for shear
+values.
+      
+    
+    
+      
+        	b.	Bolts or dowels extending to the exterior face of the wall with a
+2-1/2 inch round plate under the head and drill at an angle of 22-1/2 degrees to
+the horizontal. Installed as specified for shear bolts. 1, 2, 3
+        
+      
+      
+        1200 lbs per bolt or dowel for tension.4  See Item 3 (SHEAR BOLTS) for
+shear values.
+      
+    
+    
+      
+        	c.	Through bolt with bearing plate for tension per Item 4.  Combined
+with minimum eight-inch grouted section for shear per Item 3.
+      
+      
+        See Item 4 (TENSION BOLTS) for tension values.4  See Item 3 (SHEAR
+BOLTS) for shear values.
+      
+    
+    
+      
+        6.	INFILLED WALLS
+      
+      
+        
+      
+    
+    
+      
+        	Reinforced masonry infilled openings in existing unreinforced masonry
+walls with keys or dowels to match reinforcing.
+      
+      
+        Same as values specified for unreinforced masonry walls.
+      
+    
+    
+      
+        7.	REINFORCED MASONRY
+      
+      
+        
+      
+    
+    
+      
+        	Masonry piers and walls reinforced per CBC Section 2106 and Section
+91.2107 of this Code.
+      
+      
+        Same as values determined per CBC Section 2106.
+      
+    
+    
+      
+        8.	REINFORCED CONCRETE
+      
+      
+        
+      
+    
+    
+      
+        	Concrete footings, walls and piers reinforced as specified in Division
+19 of this Code and designed for tributary loads.
+      
+      
+        Same as values specified in Division 19 of this Code.
+      
+    
+    
+      
+        9.	EXISTING FOUNDATION LOADS
+      
+      
+        
+      
+    
+    
+      
+        	Foundation loads for structures exhibiting no evidence of settlement.
+      
+      
+        Calculated existing foundation loads due to maximum dead load plus live
+load may be increased 25 percent for deadload, and may be increased 50 percent
+for dead load plus seismic load required by this division.
+      
+    
+  
+	For SI: 1 inch = 25.4 mm, 1 square inch = 645.16 mm2, 1 pound = 4.45
+N.	1.	Bolts and dowels to be tested as specified in Section 91.8809.6 of this
+Code.	2.	Bolts and dowels to be 1/2-inch minimum in diameter.	3.	Drilling for
+bolts and dowels shall be done with an electric rotary drill. Impact tools shall
+not be used for drilling holes or tightening anchor and shear bolt
+nuts.	4.	Allowable bolt and dowel values specified are for installations in
+minimum three wythe walls. For installations in two wythe walls, use 50 percent
+of the value specified, except that no value shall be given to tension bolts
+that do not extend entirely through the wall and are secured with bearing plates
+on the far side.
+TABLE NO. 88-J
+ALLOWABLE SHEAR STRESS FOR TESTED UNREINFORCED MASONRY WALLS
+  
+    
+      
+        Eighty percent of test results in psi not less than
+      
+      
+        Average test results of cores in psi
+      
+      
+        Seismic in-plane shear based on gross area
+      
+    
+    
+      
+        30 plus axial stress
+      
+      
+        20
+      
+      
+        3 psi*
+      
+    
+    
+      
+        40 plus axial stress
+      
+      
+        27
+      
+      
+        4 psi*
+      
+    
+    
+      
+        50 plus axial stress
+      
+      
+        33
+      
+      
+        5 psi*
+      
+    
+    
+      
+        100 plus axial stress or more
+      
+      
+        67 or more
+      
+      
+        10 psi max*
+      
+    
+  
+	* Allowable shear stress may be increased by addition of 10% of the axial
+stress due to the weight of the wall directly above.
+TABLE NO. 88-K
+VALUES FOR EXISTING MATERIALS
+(Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)
+  
+    
+      
+        EXISTING MATERIALS OR CONFIGURATION OF MATERIALS 1
+      
+      
+        ALLOWABLE VALUES
+      
+    
+    
+      
+        1.	HORIZONTAL DIAPHRAGMS
+      
+      
+        
+      
+    
+    
+      
+        	a.	Roofs with straight sheathing and roofing applied directly to the
+sheathing.
+      
+      
+        100 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	b.	Roofs with diagonal sheathing and roofing applied directly to the
+sheathing.
+      
+      
+        250 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        2.	CROSSWALLS 2, 3
+      
+      
+        
+      
+    
+    
+      
+        	a.	Plaster on wood or metal lath.
+      
+      
+        per side: 200 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	b.	Plaster on gypsum lath.
+      
+      
+        175 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	c.	Gypsum wall board, unlocked edges.
+      
+      
+        75 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        	d.	Gypsum wall board, blocked edges.
+      
+      
+        125 lbs. per foot for seismic shear.
+      
+    
+  
+	1.	Materials must be sound and in good condition.	2.	For crosswalls, values of
+all materials may be combined, except the total combined value shall not exceed
+300 lbs. per foot for seismic shear.	3.	The cross wall aspect ratio for plaster
+on wood, metal, or gypsum lath and gypsum wall board shall be a maximum height
+to width ratio of 1:1.TABLE NO. 88-L
+ALLOWABLE VALUES OF NEW MATERIALS USED IN CONJUNCTION WITH EXISTING CONSTRUCTION
+(Amended by Ord. No. 181,758, Eff. 8/8/11.)
+  
+    
+      
+        NEW MATERIALS OR CONFIGURATION OF ALLOWABLE VALUES
+      
+      
+        NEW AND EXISTING MATERIALS 1
+      
+    
+    
+      
+        1.	HORIZONTAL DIAPHRAGMS
+      
+      
+        
+      
+    
+    
+      
+        	Plywood sheathing applied directly over existing straight sheathing
+with ends of plywood sheets bearing on joists or rafters and edges of plywood
+located on center of individual sheathing boards.
+      
+      
+        225 lbs. per foot for seismic shear.
+      
+    
+    
+      
+        2.	CROSS WALLS 2, 3
+      
+      
+        
+      
+    
+    
+      
+        	a.	Plywood sheathing applied directly over existing wood studs.  No
+value shall be given to plywood applied over existing plaster or wood sheathing.
+      
+      
+        1.33 times the values specified in CBC Table 2306.3 for shear walls.
+      
+    
+    
+      
+        	b.	Drywall or plaster applied directly over existing wood studs.
+      
+      
+        100 percent of the values specified in CBC Table 2306.7.
+      
+    
+  
+	1.	Materials must be sound and in good condition.	2.	For cross walls, values of
+all materials may be combined, except the total combined value shall not exceed
+300 lbs. per foot for seismic shear.	3.	The cross wall aspect ratio for drywall,
+plaster and gypsum wall board shall be a maximum height to width ratio of 1:1,
+and for plywood shall be a maximum height to width ratio of 2:1.
+TABLE NO. 88-M
+ALLOWABLE SHEAR ON BOLTS
+(Added by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)
+  
+    
+      
+        DIAMETER BOLT
+(inches)
+      
+      
+        EMBEDMENT
+(inches)
+      
+      
+        SOLID MASONRY
+(shear in pounds)
+      
+      
+        GROUTED MASONRY
+(shear in pounds)
+      
+    
+    
+      
+        1/2
+      
+      
+        4
+      
+      
+        350
+      
+      
+        750
+      
+    
+    
+      
+        5/8
+      
+      
+        4
+      
+      
+        500
+      
+      
+        750
+      
+    
+    
+      
+        3/4
+      
+      
+        5
+      
+      
+        750
+      
+      
+        1100
+      
+    
+    
+      
+        7/8
+      
+      
+        6
+      
+      
+        750
+      
+      
+        1100
+      
+    
+    
+      
+        1
+      
+      
+        7
+      
+      
+        750
+      
+      
+        1100
+      
+    
+    
+      
+        1-1/8
+      
+      
+        8
+      
+      
+        750
+      
+      
+        1100

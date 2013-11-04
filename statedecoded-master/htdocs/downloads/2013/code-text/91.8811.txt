@@ -1,0 +1,54 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DESIGN CHECK – COMPATIBILITY OF ROOF DIAPHRAGM STIFFNESS TO UNREINFORCED
+MASONRY WALL OUT-OF-PLANE STABILITY. (§ 91.8811)
+
+  DESIGN CHECK – COMPATIBILITY OF ROOF DIAPHRAGM STIFFNESS TO UNREINFORCED
+MASONRY WALL OUT-OF-PLANE STABILITY.
+	(Amended by Ord. No. 171,175, Eff. 7/25/96.)91.8811.1.  General.  (Amended by
+Ord. No. 171,939, Eff. 4/15/98.)  The requirements of this section are in
+addition to the requirements of Sections 91.8808 and 91.8809.  The relative
+stiffness and strength of a diaphragm governs the amount of amplification of the
+seismic ground motion by the diaphragm and, therefore, a diaphragm stiffness and
+strength-related check of the out-of-plane stability of unreinforced masonry
+walls anchored to wood diaphragms shall be made.  This section contains a
+procedure for the evaluation of the out-of-plane stability of unreinforced
+masonry walls anchored to wood diaphragms that are coupled to shear-resisting
+elements.91.8811.2.  Requirements for Terms.  (Amended by Ord. No. 179,324,
+Eff. 12/10/07, Oper. 1/1/08.)  The requirements for the terms used in this
+Division shall be defined as follows:	CROSS WALL is a wood-framed wall having a
+height-to-length ratio of:	1.	Two to one for wood structural panels.	2.	One to
+one for gypsum board, gypsum lath, cement plaster or diagonal sheathing.	The
+total strength of all cross walls located within any 40-foot (12 192 mm) length
+of diaphragm measured in the direction of the diaphragm span shall not be less
+than 30 percent of the strength of the diaphragm in the direction of
+consideration.	DEMAND-CAPACITY RATIO (DCR) is a ratio of the
+following:	1.	Demand = lateral forces due to 33 percent of the weight of the
+diaphragm and the tributary weight of the walls and other elements anchored to
+the diaphragm.	2.	Capacity = diaphragm total shear strength in the direction
+under consideration as determined using the values in Table No. 88-K or Table
+No. 88-L.91.8811.3.  Notations.  (Amended by Ord. No. 171,939, Eff.
+4/15/98.)	D	=	depth of diaphragm, in feet (mm), measured perpendicular to the
+diaphragm span.	h/t	=	height-to-thickness ratio of an unreinforced masonry wall.
+The height shall be measured between wall anchorage levels and the thickness
+shall be measured through the wall cross section.	L	=	span of diaphragm between
+masonry shear walls or steel frames.	Vc	=	total shear capacity of cross walls in
+the direction of analysis immediately below the diaphragm level being
+investigated as determined by using Tables Nos. 88-K and 88-L.	vu	=	maximum
+shear strength in pounds per foot for a diaphragm sheathed with any of the
+materials given in Tables Nos. 88-K and 88-L.	Wd	=	total dead load of the
+diaphragm plus the tributary weight of the walls anchored to the diaphragm, the
+tributary ceiling and partitions and the weight of any other permanent building
+elements at the diaphragm level under investigation.91.8811.4.  Design Check
+Procedure.  (Added by Ord. No. 171,939, Eff. 4/15/98.)91.8811.4.1.  General. 
+The demand-capacity ratio (DCR) for the building under investigation shall be
+calculated using the following equations:DCR = 0.33Wd /2vuD	(11-3)	orDCR =
+0.33Wd /(2vuD + Vc)	(11-4)91.8811.4.2.  Diaphragm Deflection.  The calculated
+DCR shall be to the left of the curve in Figure No. 88-A.  Where the calculated
+DCR is outside (to the right of) the curve, the diaphragm deflection limits are
+exceeded, and cross walls may be used to reduce the deflection.91.8811.4.3. 
+Unreinforced Masonry Wall Out-of-Plane Stability.  The DCR shall be calculated
+discounting any cross walls.  If the DCR corresponding to the diaphragm span is
+to the right of the curve in Figure No. 88-A, the region within the curve at and
+below the intersection of the diaphragm span with the curve may be used to
+determine the allowable h/t values per Table No. 88-G.

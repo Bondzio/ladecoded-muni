@@ -1,0 +1,614 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+COASTAL DEVELOPMENT PERMIT PROCEDURES AFTER CERTIFICATION OF THE LOCAL COASTAL
+PROGRAM. (§ 12.20.2.1)
+
+  COASTAL DEVELOPMENT PERMIT PROCEDURES AFTER CERTIFICATION OF THE LOCAL
+COASTAL PROGRAM.
+	(Amended by Ord. No. 175,691, Eff. 1/19/04.)	A.	Requirement of a Coastal
+Development Permit.  A Coastal Development Permit issued by the City in
+conformance with the provisions of this section is required for all Coastal
+Development located within an area of the City covered by a certified local
+coastal program, unless the Coastal Development is exempted under Section
+12.20.1 C., or the proposed project site lies completely within the Coastal
+Commission Permit jurisdiction, or the Coastal Commission previously issued a
+Coastal Development Permit for the Coastal Development.  Coastal Development
+undertaken pursuant to a Coastal Development Permit shall conform to the plans,
+specifications, terms and conditions approved in the Permit.  Amendments to
+these procedures are not effective until certified by the Coastal
+Commission.	B.	Definitions.  The following definitions shall apply to the
+Coastal Zone of the City within areas subject to certified Local Coastal
+Programs.  Words and phrases not defined here shall be construed as defined in
+Section 12.03 or the California Coastal Commission regulations, if defined
+there.	Appealable Area shall mean the area identified in Public Resources Code
+Section 30603.  The area that meets this criteria includes, but is not limited
+to, the area shown on the “Post-LCP Certification Permit and Appeals
+Jurisdiction Map” certified by the Coastal Commission in accordance with the
+provisions of California Code of Regulations Title 14 Section 13576 and attached
+as an exhibit in each certified coastal specific plan.	Appealable Development
+shall mean, in accordance with Public Resources Code Section 30603(a), any
+development that constitutes a major public works project or a major energy
+facility, or any development located in the Appealable Area. 	Applicant shall
+mean the person, partnership, corporation, or other entity or State or local
+government agency applying for the Coastal Development Permit.	Approving
+Authority shall mean the initial decision-maker and appeal body, including the
+Director of Planning, City Engineer, Zoning Administrator, City Planning
+Commission, Area Planning Commission, Board of Public Works, City Council or
+other applicable decision-making person or body within the City of Los Angeles,
+which has the authority to approve a Coastal Development Permit pursuant to this
+section or by reason of jurisdiction over other permits and approvals sought in
+conjunction with an application for a Coastal Development
+Permit. 	Categorically Excluded Development shall mean a development, which is
+excluded from the Coastal Development Permit requirements pursuant to a
+categorical exclusion order adopted by the Coastal Commission that sets forth
+the specific categories of development that qualify for the exclusion within a
+specific geographic area, and which establishes that those categories of
+development in the specified geographic areas will have no potential for
+significant adverse effects, either individually or cumulatively on coastal
+resources or on public access to or along the coastline.	Coastal Bluff shall
+mean the upper termination of a bluff, cliff, or seacliff.  In cases where the
+top edge of the cliff is rounded away from the face of the cliff as a result of
+erosional processes related to the presence of the steep cliff face, the bluff
+line or edge shall be defined as that point nearest the cliff beyond which the
+downward gradient of the surface increases more or less continuously until it
+reaches the general gradient of the cliff.  In a case where there is a steplike
+feature at the top of the cliff face, the landward edge of the topmost riser
+shall be taken to be the cliff edge.  The termini of the bluff line, or edge
+along the seaward face of the bluff, shall be defined as a point reached by
+bisecting the angle formed by a line coinciding with the general trend of the
+bluff line along the inland facing portion of the bluff.  Five hundred feet
+shall be the minimum length of bluff line or edge to be used in making these
+determinations.	Coastal Development shall mean any of the following on land, in
+or under water:  the placement or erection of any solid material or structure;
+the discharge or disposal of any dredged material or of any gaseous, liquid,
+solid or thermal waste; the grading, removing, dredging, mining or extraction of
+any materials; any change in the density or intensity of use of land, including,
+but not limited to, subdivisions pursuant to the Subdivision Map Act (commencing
+with Government Code Section 66410), and any other division of land, including
+lot splits, except where the land division is brought about in connection with
+the purchase of the land by a public agency for public recreational use; any
+change in the intensity of use of water or of access to the water; construction,
+reconstruction, demolition or alteration of the size of any structure, including
+any facility of any private, public or municipal utility; and the removal or
+harvesting of major vegetation other than for agricultural purposes, kelp
+harvesting, and timber operations, which are in accordance with a timber
+harvesting plan submitted pursuant to the provisions of the Z’berg-Nejedly
+Forest Practice Act of 1973 (commencing with Public Resources Code Section
+4511).	Coastal Zone shall mean that land and water area specified on the maps
+cited in Section 30103 of the Public Resources Code, extending seaward to the
+State’s outer limit of jurisdiction, including all offshore islands, but with
+some additional criteria for special areas as specified in Public Resources Code
+Sections 30103.5 and 30166.	Disaster shall mean fire, flood, wind, earthquake,
+or other natural or man-made disaster.	Emergency shall mean a sudden, unexpected
+occurrence demanding immediate action to prevent or mitigate loss or damage to
+life, health, property or essential public services.	Environmentally Sensitive
+Habitat Area shall mean any officially mapped area in which plant or animal life
+or their habitats are either rare or especially valuable because of their
+special nature or role in an ecosystem and which could easily be disturbed or
+degraded by human activities and developments, and any area identified as a
+wetland, an environmentally sensitive habitat or as a Sensitive Coastal Resource
+Area, in a certified Local Coastal Program, a certified land use plan or a
+certified specific plan.	First Public Road Paralleling the Sea shall mean that
+road nearest to the sea, as defined in Public Resources Code Section 30115,
+which:	(a)	is lawfully open to uninterrupted public use and is suitable for that
+use;	(b)	is publicly maintained;	(c)	is an improved, all-weather road open to
+motor vehicle traffic in at least one direction;	(d)	is not subject to any
+restrictions on use by the public except when closed due to an Emergency or when
+closed temporarily for military purposes; and	(e)	does, in fact, connect with
+other public roads, providing a continuous access system, and generally
+parallels and follows the shoreline of the sea so as to include all portions of
+the sea where the physical features, such as bays, lagoons, estuaries and
+wetlands cause the waters of the sea to extend landward from the generally
+continuous coastline.	Public Project shall mean any development initiated by the
+Department of Public Works or any of its bureaus, any development initiated by
+any other department or agency of the City of Los Angeles, and any development
+initiated or to be carried out by any other governmental agency that is required
+to obtain a local government permit.  Public Project shall not include any
+development by any department or agency of the City of Los Angeles or any other
+governmental entity that otherwise requires action by or approval of the City
+Planning Commission, Area Planning Commission or the Office of Zoning
+Administration, or any development by any department or agency of the City of
+Los Angeles or any other government entity for which a permit from the
+Department of Building and Safety is required.  Public Project shall also not
+include any development on tidelands, submerged lands, or on public trust lands,
+whether filled or unfilled.	Wetland shall mean lands within the Coastal Zone
+which may be covered periodically or permanently with shallow water and include
+saltwater marshes, freshwater marshes, open or closed brackish water marshes,
+swamps, mudflats and fens. 	C.	Exemptions.  The following types of Coastal
+Development are exempt from the requirement to obtain a Coastal Development
+Permit in accordance with the provisions of this section:	1.	Improvements to
+Existing Structures. 	(a)	Improvements to any existing structure are exempt. 
+For purposes of this section, in order to qualify as an improvement, the Coastal
+Development shall retain 50% or more of the existing exterior walls of the
+building or structure.  In addition, the following shall be considered a part
+of an existing structure:	(1)	all fixtures and other structures directly
+attached to the existing structure and landscaping on the lot;	(2)	for
+single-family residences, in addition to (1) above, structures on the property
+normally associated with a single-family residence, such as garages, swimming
+pools, fences and storage sheds, but not including guest houses or
+self-contained dwelling units, shall also be considered part of that
+structure.	(b)	Notwithstanding the exemption provided in Section C.1. above, the
+following improvements require a Coastal Development Permit:	(1)	improvements to
+any structure on a beach, Wetland, stream or lake, seaward of the mean high tide
+line, where the structure or proposed improvement would encroach within 50 feet
+of the edge of a Coastal Bluff, stream or in areas of natural vegetation
+designated by resolution of the Coastal Commission as a significant natural
+habitat, or identified in a certified local coastal plan or specific plan as a
+significant natural habitat; or within 100 feet of the edge of a Coastal Bluff
+if the structure is a single family dwelling;	(2)	any significant alteration of
+land forms, including the removal or placement of vegetation, on a beach,
+Wetland or sand dune, or within 100 feet of the edge of a Coastal Bluff or
+stream or in areas of natural vegetation designated by resolution of the Coastal
+Commission or in a certified specific plan as a significant natural habitat; or
+within 50 feet of the edge of a Coastal Bluff if the structure is a single
+family dwelling;	(3)	the expansion or construction of water wells or septic
+systems;	(4)	improvements to any structure on property located in the Appealable
+Area that would result in (i) an increase of ten percent or more of internal
+floor area of the existing structure, or (ii) an additional improvement of ten
+percent or less where an improvement to the structure has previously been
+undertaken pursuant to Public Resources Code Section 30610(b), and/or (iii) an
+increase in height by more than ten percent of an existing
+structure;	(5)	improvements to any structure on property in the non-appealable
+area that would result in an increase of ten percent or more of internal floor
+area of the existing structure;	(6)	improvements to any structure in significant
+scenic resource areas as designated by the Coastal Commission or in a certified
+specific plan that would result in (i) an increase of ten percent or more of
+internal floor area of the existing structure, or (ii) an additional improvement
+of ten percent or less where an improvement to the structure has previously been
+undertaken pursuant to Public Resources Code Section 30610(b), and/or (iii) an
+increase in height by more than ten percent of an existing structure;	(7)	in
+areas the Coastal Commission has previously declared, by resolution after public
+hearing, to have a critically short water supply that must be maintained for the
+protection of coastal resources or public recreational use, the construction of
+any specific major water-using Coastal Development including, but not limited
+to, swimming pools, or the construction or extension of any landscaping
+irrigation system;	(8)	any improvement to a structure where the development
+permit issued for the original structure by the Coastal Commission indicated
+that any future improvements would require a Coastal Development Permit;	(9)	any
+improvement to a structure that results in a Change in the Intensity of Use of
+the structure; and	(10)	any improvement made pursuant to a conversion of an
+existing structure from a multiple unit rental use or visitor-serving commercial
+use to a use involving a fee ownership or long-term leasehold, including, but
+not limited to, a condominium conversion, stock cooperative conversion or
+hotel/motel timesharing conversion.	2.	Repair and Maintenance Activities of
+Public Utilities.  Repair and maintenance activities of public utilities as
+specified in the repair, maintenance and utility hook-up exclusion adopted by
+the Coastal Commission on September 5, 1978.	3.	Other Repair and Maintenance. 
+Repair and maintenance activities that do not result in a material addition to
+or an enlargement or expansion of the object of those activities, except as
+otherwise specified by the Coastal Commission in California Code of Regulations,
+Title 14, Section 13252, and any amendments subsequently adopted, except if the
+repairs or maintenance involve any of the following:	(a)	Any method of repair or
+maintenance of a seawall revetment, bluff retaining wall, breakwater, groin,
+culvert, outfall or similar shoreline work that involves:	(1)	repair or
+maintenance involving substantial alteration of the foundation of the protective
+work including pilings and other surface or subsurface structures;	(2)	the
+placement, whether temporary or permanent, of rip-rap, artificial berms of sand
+or other beach materials, or any other forms of solid materials, on a beach or
+in coastal waters, streams, Wetlands, estuaries and lakes or on a shoreline
+protective work except for agricultural dikes within enclosed bays or
+estuaries;	(3)	the replacement of 20 percent or more of the materials in an
+existing structure with materials of a different kind; or	(4)	the presence,
+whether temporary or permanent, of mechanized construction equipment or
+construction materials on any sand area or bluff or within 20 feet of coastal
+waters or streams.	(b)	Any method of maintenance dredging that involves:	(1)	the
+dredging of 100,000 cubic yards or more within a 12 month period;	(2)	the
+placement of dredge spoils of any quantity within an Environmentally Sensitive
+Habitat Area, on any sand area, within 50 feet of the edge of a Coastal Bluff or
+Environmentally Sensitive Habitat Area or within 20 feet of coastal waters or
+streams; or	(3)	the removal, sale or disposal of dredge spoils of any quantity
+that would be suitable for beach nourishment in an area that the Coastal
+Commission has declared by resolution, or has been identified in a certified
+Local Coastal Program, to have a critically short sand supply that must be
+maintained for protection of structures, coastal access or public recreational
+use.	(c)	Any repair or maintenance to facilities or structures or work located
+in an Environmentally Sensitive Habitat Area, any sand area, within 50 feet of
+the edge of a Coastal Bluff or Environmentally Sensitive Habitat Area or within
+20 feet of coastal waters or streams that includes:	(1)	the placement or
+removal, whether temporary or permanent, of rip-rap, rocks, sand or other beach
+materials or any other forms of solid materials; or	(2)	the presence, whether
+temporary or permanent, of mechanized equipment or construction
+materials.	(d)	Unless destroyed by Disaster, the replacement of 50 percent or
+more of a seawall, revetment, bluff retaining wall, breakwater, groin or similar
+protective work under one ownership is not repair and maintenance under  Public
+Resources Code Section 30610(d), but instead constitutes a replacement structure
+requiring a Coastal Development Permit.	4.	Replacement Structures.  The
+replacement of any structure destroyed by a Disaster if the replacement
+structure conforms to applicable existing zoning requirements, is for the same
+use as the destroyed structure, does not exceed either the floor area, height,
+or bulk of the destroyed structure by more than ten percent and is sited in the
+same location on the affected property as the destroyed structure.	As used in
+this subdivision, “bulk” means total interior cubic volume as measured from
+the exterior surface of the structure.	As used in this subdivision,
+“structure” includes landscaping and any erosion control structure or device
+which is similar to that which existed prior to the occurrence of the
+Disaster. 	5.	Categorically Excluded Development.  Any Coastal Development
+that has been categorically excluded pursuant to a categorical exclusion
+approved by the Coastal Commission.	6.	Geologic Testing.  Geologic testing that
+does not require other City permits, does not involve cutting access roads and
+does not remove significant vegetation.	7.	Temporary Events.  	(a)	A temporary
+event that meets all of the following criteria:	(1)	does not involve a charge
+for general public admission or seating; and	(2)	will not restrict public access
+or use of roadways, parking areas, or recreational areas; and	(3)	will not
+either directly or indirectly impact Environmentally Sensitive Habitat Areas,
+rare or endangered species, significant scenic resources, or other coastal
+resources, such as water-oriented activities, visitor facilities, marine
+resources, biological resources, agricultural lands, and archaeological or
+paleontological resources.	(b)	Any temporary event which has previously received
+a Coastal Development Permit, will be in the same location, during the same time
+period, will be operated in the same manner, and was not the subject of previous
+complaints.	D.	General Procedures for Appealable and Non-Appealable Coastal
+Development Permits.	1.	Application for a Coastal Development Permit.  An
+application for a Coastal Development Permit shall be filed with either the
+Department of City Planning or the City Engineer on a form provided by the
+Department and include all information required by the instructions on the
+application and any applicable adopted guidelines.	2.	Jurisdiction.	(a)	An
+application for a Coastal Development Permit for a Public Project, or for a
+private project where the approval of the underlying permit is within the
+jurisdiction of the City Engineer, shall be filed in the office of the City
+Engineer. 	(b)	All other applications for Coastal Development Permits shall be
+filed in a public office of the Department of City Planning.	3.	Preliminary
+Notice of Jurisdiction.	(a)	At the time an application for Coastal Development
+is submitted, the Director of Planning (Director) or City Engineer, whichever
+has jurisdiction, shall determine whether:	(1)	the development is within the
+Coastal Commission’s jurisdiction or the City’s jurisdiction; and	(2)	the
+development is located within the appealable or non-appealable jurisdiction of
+the Coastal Zone; and		(3)	the development is within an area designated by a
+certified Local Coastal Program or within the area subject to the provisions of
+Section 12.20.1 of this Code; and 	(4)	the development is exempt or
+categorically excluded according to the criteria of Subsection C. of this
+section.	 (b)	The Director or City Engineer shall use the following criteria: 
+the certified Local Coastal Program, including any maps, the Post LCP
+Certification Permit and Appeals Jurisdiction Map certified by the California
+Coastal Commission, land use designations, special programs and zoning
+ordinances that are certified as part of the Local Coastal Program and
+categorical exclusion orders granted by the Coastal Commission.	(c)	If the
+preliminary notice of jurisdiction of the Director or City Engineer is
+challenged by the Applicant or an interested person within 15 days after the
+determination is made, the Director or City Engineer may request an opinion of
+the Coastal Commission Executive Director.  The decision of the Executive
+Director or the Coastal Commission pursuant to California Code of Regulations,
+Title 14, Section 13569 shall apply. 	4.	Notice of Exemption.	(a)	After
+jurisdiction has been established and the Director or City Engineer has
+determined that the Coastal Development is exempt pursuant to Subsection C. of
+this section, the Director or the City Engineer, whichever has jurisdiction,
+shall issue a notice of exemption for a Coastal Development which is exempt from
+the Coastal Development Permit requirements.  The Director or City Engineer
+shall mail a copy of the notice of exemption to the Applicant and the Coastal
+Commission.	(b)	The City shall maintain a record of all notices issued for
+exempt Coastal Developments, including Categorically Excluded Developments,
+which shall be made available to the Coastal Commission or any interested person
+upon request.  This record may be in the form of a list of issued permits or
+approvals currently maintained by the City, provided that the record includes
+the Applicant’s name, the location of the Coastal Development, and a brief
+description of the Coastal Development.	5.	Deeming an Application
+Complete.	(a)	Within 30 days of the submittal of the application and the payment
+of fees, the Director or City Engineer, whichever has jurisdiction, shall
+determine whether the application is complete.	(b)	Prior to deeming an
+application complete, the Director or City Engineer shall determine, and if
+necessary, advise the Applicant, of the processes to be followed, any additional
+information required, and the fees to be paid.  The Director or City Engineer
+shall adopt guidelines and use them to determine when an application is deemed
+complete.  	6.	Concurrent Processing With Other Permits or Approvals.
+ 	(a)	When a proposed Coastal Development is required to obtain a Coastal
+Development Permit and is also required to obtain other quasi-judicial or
+legislative approvals, the application for a Coastal Development Permit shall be
+filed and processed concurrently with the other permits or approvals.  The
+action of the Approving Authority shall be considered one consolidated
+action.	(b)	An appeal of the initial decision on a Coastal Development Permit
+application shall automatically constitute an appeal of the decision on the
+application for the other discretionary permits and approvals.  Any appeal of
+the other permits and approvals shall also constitute an appeal of the Coastal
+Development Permit unless the appeal of the Coastal Development Permit would
+violate Charter Section 563.  The time for appeal of the Coastal Development
+Permit to the Coastal Commission shall commence after action on the other 
+permits and approvals becomes final. 	(c)	If a condition of the Coastal
+Development Permit varies from a condition contained in the other permits and
+approvals, the more restrictive condition shall control.	(d)	No additional fees
+shall be charged for appeal of a Coastal Development Permit that is combined
+with an appeal for the other permits and approvals. 	7.	Time Limit for Initial
+Decision.	(a)	The initial Approving Authority shall make a written decision
+approving, disapproving or approving with conditions a Coastal Development
+Permit within 75 days after:	(1)	the date the application is deemed complete;
+or	(2)	when an environmental impact report (EIR) is required, the date the EIR
+is certified as complete consistent with State law.	(b)	The time limit may be
+extended by mutual consent of the Director and the
+Applicant. 	E.	Notice.	1.	Notice of Coastal Development Permit Application. 
+The City, at the Applicant’s expense, shall provide a Notice of Coastal
+Development Permit Application by first class mail at least ten calendar days
+prior to the initial decision.  This notice shall be provided to each
+Applicant, to the Certified Neighborhood Council, to all persons who have
+requested to be on the mailing list for the particular Coastal Development or
+for all coastal decisions within the Coastal Zone, to all property owners and
+residents within 100 feet of the perimeter of the parcel on which the Coastal
+Development is proposed, exclusive of streets, and to the Coastal Commission. 
+The notice shall contain the following information:	(a)	a statement that the
+Coastal Development is within the Coastal Zone;	(b)	the date of filing of the
+application and the name of the Applicant;	(c)	the case number assigned to the
+application;	(d)	a description of the Coastal Development and its proposed
+location;	2.	Notice of Waiver of Public Hearing.  	(a)	For Coastal Development
+in the Appealable Area where the requirement for a public hearing is proposed to
+be waived, the City shall provide the following statement in the manner provided
+in Subdivision 1. above:  “the public hearing will be waived unless a hearing
+is requested by any person within ten working days of the date of this notice. 
+The failure to request a public hearing may result in the loss of that
+person’s ability to appeal to the Coastal Commission the City’s action on
+the Coastal Development Permit.”	(b)	For a Coastal Development that does not
+require a public hearing pursuant to this section, the notice shall contain the
+date the application will be acted upon by the Approving Authority and the
+general procedure for submitting public comments in writing to the Approving
+Authority prior to the decision date.	3.	Notice of Public Hearing.  For a
+Coastal Development that requires a public hearing pursuant to this section, the
+City, at the Applicant’s expense, shall provide a Notice of Public Hearing by
+first class mail at least ten calendar days prior to the first public hearing. 
+This Notice may be combined with the Notice of Coastal Development Permit
+Application for applications that require a Public Hearing. 	This notice shall
+be provided to each Applicant, to all persons who have requested to be on the
+mailing list for the particular Coastal Development or for all coastal decisions
+within the Coastal Zone, to all property owners and residents within 100 feet of
+the perimeter of the parcel on which the Coastal Development is proposed,
+exclusive of streets, and to the Coastal Commission.  The notice shall contain
+the following information:	(a)	a statement that the Coastal Development is
+within the Coastal Zone;	(b)	the date of filing of the application and the name
+of the Applicant;	(c)	the case number assigned to the application;	(d)	a
+description of the Coastal Development and its proposed location;	(e)	the date,
+time, and place at which the public hearing on the application will be
+heard;	(f)	a brief description of the general procedure concerning the conduct
+of the public hearing and City actions;	(g)	the procedure for City and Coastal
+Commission appeals, if any, including any required fees;	(h)	If applicable, the
+criteria for eligibility to appeal to the Coastal Commission; and	(i)	a
+statement that an interested person must request to be on the mailing list for
+the particular Coastal Development in order to receive notice of the written
+determination and in order to appeal to the City.	4.	Continuation of Public
+Hearing – Notice.  If a decision on a Coastal Development Permit is continued
+to a time which is neither (a) previously stated in the notice of public hearing
+provided pursuant to this subsection, nor (b) announced at the hearing as being
+continued to a time certain, notice of the further hearings or action on the
+proposed Coastal Development shall be provided in the same manner, and within
+the same time limits, as established in this subsection.	5.	Posted Notice.  At
+the time the application is submitted for filing, the Applicant must post, in a
+conspicuous place, and as close as possible to the proposed Coastal Development,
+the City’s notice that an application has been filed for a Coastal Development
+Permit.  The notice shall contain specific information as to the nature of the
+proposed Coastal Development and be in a form as required by the approving
+department for that purpose.	F.	Decision Process for Coastal Development
+Permits.	1.	Public Hearing.  The Approving Authority shall hold a public
+hearing on any application for a Coastal Development Permit for an Appealable
+Development except as waived in Subdivision 2.  It shall hold the hearing at
+least ten calendar days following the mailing of the notice required in Section
+E.2. and shall consolidate the hearing with any other public hearing required
+for any other approvals required by the Los Angeles Municipal Code or other City
+ordinance.	2.	Waiver of Public Hearing.  The Approving Authority may waive the
+public hearing for Coastal Development in the non-appealable area and may
+propose to waive the requirement for a public hearing for Coastal Development in
+the Appealable Area if it determines that the Coastal Development meets the
+following criteria:	(a)	The Coastal Development is consistent with the Certified
+Local Coastal Program;	(b)	The Coastal Development requires no discretionary
+approvals other than a Coastal Development Permit; and	(c)	The Coastal
+Development has no adverse effect either individually or cumulatively on coastal
+resources or public access to the shoreline or along the coast.	3.	Initial
+Decision.  If an application for a Coastal Development Permit is submitted to
+the City and there is no application for another quasi-judicial or legislative
+approval, the initial decision shall be made by the Director or City Engineer,
+whichever has jurisdiction.  The Director or City Engineer may approve,
+conditionally approve or deny a Coastal Development Permit.	4.	Findings.	(a)	An
+application for a Coastal Development Permit shall be approved if the Approving
+Authority, based on information obtained during an investigation and/or public
+hearing, if applicable, makes specific written findings justifying the City’s
+action, including any conditions imposed in order to bring the Coastal
+Development into conformity with the certified Local Coastal Program.  These
+findings shall include the following:	(1)	that the proposed Coastal Development
+is in conformity with the certified Local Coastal Program;	(2)	that the Coastal
+Development is in conformity with all applicable provisions of any adopted
+community plan and specific plan for the area; and	(3)	where applicable, that
+any Coastal Development located between the First Public Road Paralleling the
+Sea and the sea or shoreline of any body of water located within the Coastal
+Zone is in conformity with the public access and public recreation policies of
+Chapter 3 of Division 20 of the California Public Resources Code. 	(b)	The
+Approving Authority, in approving an application for a Coastal Development
+Permit, shall impose any conditions considered necessary to insure that the
+proposed use will be consistent with the above findings.
+	
+	(c)	An application for a Coastal Development Permit shall be denied when the
+evidence submitted by the Applicant and/or presented at a public hearing fails
+to support the findings above to the satisfaction of the Approving Authority.
+	
+	5.	Transmittal of Written Decision.  Upon making a written decision, the
+Approving Authority shall transmit a copy by first class mail to each Applicant,
+to all persons who have requested to be on the mailing list for the particular
+Coastal Development or for all coastal decisions within the Coastal Zone, to all
+property owners and residents within 100 feet of the perimeter of the parcel on
+which the Coastal Development is proposed, exclusive of streets, and to the
+Coastal Commission.   	G.	Effective Date of City Action.  The City shall
+issue a Coastal Development Permit only:	1.	For a non-appealable development,
+fifteen days after the final City action, provided no appeal has been filed, or
+provided the Coastal Commission has not asserted jurisdiction.
+		
+	2.	For an Appealable Development, only after receiving the final City action
+and notification that the ten working day appeal period to the Coastal
+Commission established by California Code of Regulations has ended and no appeal
+was filed; or an appeal was filed and the Coastal Commission made a
+determination of no substantial issue with the City’s decision.	3.	If a
+decision on a Coastal Development Permit is appealed to the Coastal Commission
+and the Coastal Commission determines that a substantial issue exists, the
+issuance of the permit will be regulated by the Coastal
+Commission.	H.	Procedures for Appeals of a Coastal Development Permit.	1.	Filing
+of an Appeal.  	(a)	An Applicant or any other person aggrieved by the initial
+decision on a Coastal Development Permit may appeal the decision to the Area
+Planning Commission or to the Board of Public Works for a Public Project or for
+a private project where the approval of the underlying permit is within the
+jurisdiction of the City Engineer.  The appeal on an Appealable Development and
+non-appealable development shall be filed within 15 days of the date of mailing
+of the decision.	(b)	The appeal shall set forth specifically the points at
+issue, the reasons for the appeal, and the basis upon which the appellant claims
+there was an error or abuse of discretion by the decision-maker.  Any appeal
+not filed within the 15-day filing period shall not be considered by the Area
+Planning Commission or Board of Public Works.  The filing of an appeal stays
+proceedings in the matter until the Commission or Board has made a decision. 
+Once an appeal is filed, the initial decision-maker shall transmit the appeal
+and the file to the Commission or Board,  together with any reports responding
+to the allegations made in the appeal.	2.	Notice of Appellate Decision.  Before
+acting on any appeal of a Coastal Development Permit, the Area Planning
+Commission or Board of Public Works shall set the matter for hearing, with
+written notice of the hearing sent at least 15 days prior to the meeting to each
+Applicant, the appellant(s), all persons who have requested to be on the mailing
+list for the particular Coastal Development or for all coastal decisions within
+the Coastal Zone, to all property owners and residents within 100 feet of the
+parcel on which the Coastal Development is proposed, exclusive of streets, and
+the Coastal Commission. 	3.	Time for Appellate Decision.  The Area Planning
+Commission or Board of Public Works shall act within 75 days after the
+expiration of the appeal period or within any additional period mutually agreed
+upon by the Applicant and the Commission or Board.	4.	Appellate Decision.  The
+Area Planning Commission or Board of Public Works may reverse or modify the
+initial decision, in whole or in part.  In reversing or modifying the initial
+decision, the Commission or Board shall make the same findings required to be
+made by the initial decision-maker and shall indicate why the initial
+decision-maker erred or abused its discretion.	I.	Recordation of the Coastal
+Development Permit.  Within 14 days of the issuance of the Coastal Development
+Permit for a Coastal Development subject to the jurisdiction of the Director,
+the Applicant shall record the Permit with the Los Angeles County Recorder’s
+Office and provide a certified copy to the City Planning Department.	J.	Notice
+of Final City Action.  Within seven calendar days of a final decision on an
+application for any Coastal Development, the Approving Authority shall provide
+notice of its action, at the expense of the Applicant, by first class mail to
+the Coastal Commission and to any persons who specifically requested notice of
+the final action by submitting a self-addressed, stamped envelope to the
+Approving Authority.  The notice shall include conditions of approval, written
+findings, and, if applicable, the procedures for appeal to the Coastal
+Commission.	K.	Notification of Failure to Act and Approval by Operation of
+Law.	1.	Notification by Applicant.  If the Approving Authority has failed to
+act on an application within the time limits set forth in Government Code
+Sections 65950-65957.1, the person claiming a right to proceed pursuant to those
+Code sections shall notify, in writing, the Approving Authority and the Coastal
+Commission and all persons entitled to receive notice pursuant to Subdivision 2.
+of Subsection H. of this section that the Coastal Development has been approved
+by operation of law.  The notice shall specify the application which is claimed
+to have been approved.	2.	Notification by Approving Authority.  When the
+Approving Authority determines that the time limits established pursuant to
+Government Code Sections 65950- 65957.1 have expired, and that the notice
+required pursuant to Subdivision 2. of Subsection H. of this section has
+occurred, the Approving Authority shall, within seven calendar days of its
+determination, notify any person entitled to receive notice pursuant to
+Subdivision 2. of Subsection H. of this section that it has taken final action
+by operation of law pursuant to Government Code Sections 65950-65957.1, and that
+the application, if it is for an Appealable Development, may be appealed to the
+Coastal Commission pursuant to California Code of Regulations, Title 14, Section
+13110, et seq.	L.	Appeal Procedures for Multiple Applications Including a
+Coastal Development Permit.  The Approving Authority for multiple applications
+for a Coastal Development Permit and other quasi-judicial or legislative
+approvals shall be as established in Section 12.36 A. through E.  However, the
+appeal procedures for the consolidated action shall follow the procedural
+requirements for notice, public hearing and final action of an initial decision
+on a Coastal Development Permit in accordance with Subsections D., E. and F. of
+this section. 	M.	Duration of Permits. 	1.	Validity.  A Coastal Development
+Permit that was granted pursuant to the provisions of this section shall run
+with the land and continue to be valid upon any changes of ownership of the land
+or any changes to the existing building or structure on the
+land.	2.	Termination.  A permit which has not been used within the time
+specified in  the permit, or, if no time is specified, within two years after
+the granting of the permit, shall become void.  The Director or City Engineer,
+whichever has jurisdiction, may grant extensions of time for the utilization of
+the permit, provided the extension is requested prior to the expiration date,
+under the provisions of Subsection O. of this section.  In cases where other
+approvals are granted concurrently with the Coastal Development Permit, the time
+limits and extensions shall be the same as those for the other approvals. 
+However, the Coastal Development Permit shall become void after six
+years.	3.	Utilization of Permit.  A Coastal Development Permit shall be
+considered used when construction or other development authorized by that
+permit, which would be prohibited in that location if no Coastal Development
+Permit had been issued, has commenced.  A Coastal Development Permit shall
+automatically cease to be in effect if the use for which the permit was granted
+has ceased or has been suspended for a consecutive period of two or more
+years. 	N.	Revocation.	1.	Failure to Comply with Conditions.  If the Director
+or City Engineer, whichever has jurisdiction, determines that the conditions of
+any Coastal Development Permit granted pursuant to this section have not been
+complied with, the Director or City Engineer may give notice to the record owner
+or lessee of the real property to appear at a time and place fixed by the
+Director or City Engineer and show cause why the determination of the Approving
+Authority granting the Coastal Development Permit should not be rescinded.  An
+appeal from a revocation action may be taken in the same manner prescribed in
+Subsection H. of this section. 	2.	Request by Aggrieved Person.  Any aggrieved
+person may request revocation of a permit by application to the Director or City
+Engineer, whichever has jurisdiction, specifying with particularity the grounds
+for revocation.  The Director or City Engineer shall review the stated grounds
+for revocation and shall determine whether to initiate revocation proceedings. 
+An appeal from a revocation action may be taken in the same manner prescribed in
+Subsection H of this section.	O.	Extensions of Time.	1.	Application.  Prior to
+the expiration of a Coastal Development Permit, an Applicant may apply for a one
+year extension of the permit.  Prior to the expiration of any extension, the
+Applicant may apply for another one year extension of the permit.  An
+application for an extension of time shall automatically keep the permit in
+effect until the Approving Authority has acted upon the request.  However, if
+construction has not commenced at the time the application is made, construction
+may not commence after the initial expiration date until the Approving Authority
+has acted upon the request.  The application shall state the reasons for the
+request and shall be accompanied by evidence of a valid, unexpired permit and of
+the Applicant’s continued property interest.	2.	Procedures.  The procedures
+for applying for an extension of time shall be in accordance with Subsections
+D.,  E., and F. of this section.  	3.	Findings.  The Approving Authority
+shall only grant an extension if the Approving Authority can make the same
+findings as were required for the original permit, with no new conditions, and
+must make an additional finding that there are no changed circumstances which
+would affect the Coastal Development’s consistency with the Local Coastal
+Program.  	4.	Appeal.  An extension of time for a Coastal Development Permit
+may be appealed in accordance with Subsection H. of this section.  However, in
+addition to the notice provisions required in that subsection, the Approving
+Authority shall also notify any persons who objected to the Approving
+Authority’s approval of an extension. 	P.	Immaterial Changes to a Coastal
+Development Permit.  	1.	Application.  An application for an immaterial change
+to a Coastal Development Permit shall be filed with the Approving Authority that
+approved the existing permit.	2.	Approval.  If the Approving Authority finds
+that the proposed change conforms to the original findings and conditions
+required for the Coastal Development Permit and is in substantial conformance
+with that Permit, then the Approving Authority may approve the proposed
+change. 	Q.	Permit Amendments.	1.	Application.  If the Approving Authority
+that originally granted the Coastal Development Permit finds that a proposed
+change is not in substantial conformance with the original Coastal Development
+Permit, the holder of the Permit may apply for an amendment to the Permit in the
+same manner as an application for a new Coastal Development Permit.  This
+application shall contain a description of the proposed amendment, the reason
+for the amendment, together with maps, plans or other material appropriate to
+the request, and shall be accompanied by evidence of a valid, unexpired permit
+and of the Applicant’s continued legal ownership or interest in the
+property. 	2.	Procedures.  The procedures for an amendment shall be the same
+as would be required of a new application at the same location in accordance
+with Sections D., E. and F. of this section.	3.	Appeals.  Appeals of decisions
+on amendment applications may be made in the same manner as appeals of decisions
+on the original Coastal Development Permit in Subsection H. above.	R.	Emergency
+Permits.  An Emergency permit shall only be issued in cases where an Emergency
+necessitates immediate action that would normally require a Coastal Development
+Permit, and where the worth of any permanent structures erected does not exceed
+$25,000. 	1.	Applications.  An application for an Emergency Coastal
+Development Permit shall be made to the Director or the City Engineer, whichever
+has jurisdiction, within three days of the Emergency or discovery of the
+danger.  The following information shall be included in the request:	(a)	nature
+of the Emergency;	(b)	cause of the Emergency, if this can be
+determined;	(c)	location of the Emergency; 	(d)	the remedial, protective or
+preventive work required to deal with the Emergency; and	(e)	the circumstances
+during the Emergency that justify the proposed course of action, including the
+probable consequences of failing to take action.	2.	Verification of Emergency. 
+The Director or City Engineer shall verify the facts, including the existence
+and the nature of the Emergency, insofar as time  permits.	3.	Procedure.  The
+Director or City Engineer shall provide public notice of the Emergency work,
+with the extent and type of notice determined on the basis of the nature of the
+Emergency.  The Director or City Engineer shall not issue an Emergency permit
+for any work that falls within the provisions of Public Resources Code Sections
+30519(b) and 30601.  The Director or City Engineer may grant an Emergency
+permit upon reasonable terms and conditions, if the Director or City Engineer
+finds that:	(a)	an Emergency exists that requires action more quickly than the
+regular permit process would allow, and the work can or will be completed within
+30 days, unless otherwise specified by the terms of the permit;	(b)	public
+comment on the proposed Emergency action has been reviewed, if time allows;
+and	(c)	the work proposed would be consistent with the certified Local Coastal
+Program and any adopted, relevant community or specific plans.	4.	Compliance. 
+An Emergency permit shall be valid for not more than 60 days from the date of
+issuance.  Prior to expiration of the Emergency permit, the permittee must
+submit a Coastal Development Permit application for the Coastal Development or
+else remove the Coastal Development undertaken pursuant to the Emergency permit
+in its entirety and restore the site to its previous condition. Failure to
+comply with the provisions of this subsection or failure by the permittee to
+properly notice and report any Emergency actions may result in the revocation of
+the Emergency permit.	5.	Reporting.  The Director or City Engineer shall notify
+the Coastal Commission of the issuance of an Emergency permit by phone or letter
+as soon as possible, but in any event within three days of the issuance of the
+Emergency permit.

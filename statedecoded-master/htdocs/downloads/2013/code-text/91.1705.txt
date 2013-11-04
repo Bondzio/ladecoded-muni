@@ -1,0 +1,36 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+STATEMENT OF SPECIAL INSPECTIONS. (§ 91.1705)
+
+  STATEMENT OF SPECIAL INSPECTIONS.
+	(Amended by Ord. 181,758, Eff. 8/8/11.)	Section 1705 of the CBC is adopted by
+reference, except Sections 1705.2 and 1705.3 of the CBC are not adopted and in
+lieu Sections 91.1705.2 and 91.1705.3 are added.91.1705.2. Content of Statement
+of Special Inspections.  The statement of special inspections shall identify
+the following:    	1.	The materials, systems, components, research reports and
+work required to have special inspection or testing by the Superintendent of
+Building or by the registered design professional responsible for each portion
+of the work.	2.	The type and extent of each special inspection.	3.	The type and
+extent of each test.	4.	Additional requirements for special inspection or
+testing for seismic or wind resistance as specified in CBC Sections 1705.3,
+1705.4 or Sections 91.1707 or 91.1708 of this Code.	5.	For each type of special
+inspection, identification as to whether it will be continuous special
+inspection or periodic special inspection.91.1705.3  Seismic Resistance.  The
+statement of special inspections shall include seismic requirements for cases
+covered in CBC Sections 1705.3.1 through 1705.3.5.	EXCEPTION:  Seismic
+requirements can be excluded from the statement of special inspections for
+structures designed and constructed in accordance with the following:	1. 	The
+structure consists of light-frame construction; the design spectral response
+acceleration at short periods, SDS, as determined in Section 1613.5.4, does not
+exceed 0.5g; and the height of the structure does not exceed 35 feet (10 668 mm)
+above grade plane; or	2. 	The structure is constructed using a reinforced
+masonry structural system or reinforced concrete structural system; the design
+spectral response acceleration at short periods, SDS, as determined in Section
+1613.5.4, does not exceed 0.5g, and the height of the structure does not exceed
+25 feet (7620 mm) above grade plane; or	3. 	Detached one- or two-family
+dwellings not exceeding two stories above grade plane, provided the structure is
+not assigned to Seismic Design Category D, E, or F and does not have any of the
+following plan or vertical irregularities in accordance with Section 12.3.2 of
+ASCE 7:	3.1. 	Torsional irregularity.	3.2. 	Nonparallel systems.	3.3. 	Stiffness
+irregularity – extreme soft story and soft story. 	3.4. 	Discontinuity in
+capacity – weak story.

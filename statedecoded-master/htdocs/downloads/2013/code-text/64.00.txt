@@ -1,0 +1,456 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS AND ABBREVIATIONS. (§ 64.00)
+
+  DEFINITIONS AND ABBREVIATIONS.
+	(Amended In Entirety by Ord. No. 173,980, Eff. 7/1/01.)
+
+	A.	Definitions.  For the purpose of this article, the following words and
+phrases are defined and shall be construed as hereinafter set out, unless it
+shall be apparent from the context that they have a different meaning:
+
+	1.	Act shall mean the Federal Water Pollution Control Act of 1972, also known
+as the Clean Water Act, as amended, 33 U.S.C. 1251, et seq.
+
+	2.	Approval Authority shall mean the California State Water Resources Control
+Board upon an approval of the State Pretreatment Program, or the Administrator
+of the Environmental Protection Agency without an Approved State Pretreatment
+Program.
+
+	3.	Authorized Representative shall mean the following:
+
+	(a)	a president, secretary, treasurer, or vice-president in charge of a
+principal business function, or any other person who performs similar policy or
+decision-making functions, if the discharger is a corporation;
+
+	(b)	the manager of one or more manufacturing, production, or operation
+facilities employing more than 250 persons or having gross annual sales or
+expenditures exceeding $25 million (in second-quarter 1980 dollars), if the
+discharger is a corporation, and authority to sign documents has been assigned
+or delegated to the manager in accordance with corporate procedures;
+
+	(c)	a general partner or proprietor if the discharger is a partnership or
+proprietorship, respectively;
+
+	(d)	a principal executive officer or director having responsibility for the
+overall operation of the discharging facility or a ranking elected official if
+the discharger is a governmental entity, charitable organization or other such
+unincorporated entity; or
+
+	(e)	a representative authorized in writing by any individual designated above,
+if the authorization is submitted to the Director and specifies an individual or
+a position having responsibility for the overall operation of the facility. 
+This includes the position of plant manager, a position of equivalent
+responsibility, or an individual having overall responsibility for environmental
+matters for the company.  If an authorization under Paragraph (e) is no longer
+accurate because a different individual or position has the responsibility for
+the overall operation of the facility, or overall responsibility for
+environmental matters of the company, a new authorization satisfying the
+requirements of Paragraph (e) of this section must be submitted to the Director
+prior to, or together with, any reports to be signed by such person.
+
+	4.	Average Daily Flow shall mean the number of gallons of wastewater discharged
+into the POTW, storm drain system or Waters of the State during a 24-hour
+period.
+
+	5.	Best Management Practices (BMP) shall mean activities, prohibitions of
+practices, maintenance procedures, and other management practices to prevent or
+reduce pollutants in discharges.
+
+	6.	Biochemical Oxygen Demand (BOD) shall mean the quantity of oxygen utilized
+in the biochemical oxidation of organic matter in five (5) days at 20 degrees
+celsius expressed in terms of milligrams per liter (mg/l) and analyzed in
+accordance with the most recent publication of  “Standard Methods for the
+Examination of Water and Wastewater” prepared and published by the American
+Public Health Association, American Water Works Association and Water
+Environment Federation.
+
+	7.	Board shall mean the Board of Public Works of the City of Los Angeles or its
+duly authorized representative.
+
+	8.	Bonded Sewer shall mean any public sewer within the territorial limits of
+the City of Los Angeles as they now exist for which the cost of construction
+thereof was not directly assessed against the property in accordance with
+benefits, or paid for by the present or prior owners of the connecting property.
+
+	9.	Bonded Sewer House Connection Sewer shall mean any house connection sewer or
+portion thereof from a lot, or part of a lot, to a bonded sewer located directly
+in front, rear, or at the side of such lot, or part of such lot.
+
+	10.	Categorical Standards shall mean National Categorical Pretreatment
+Standards or Pretreatment Standards as promulgated by the Federal Environmental
+Protection Agency.
+
+	11.	City shall mean the City of Los Angeles or its duly authorized
+representatives.
+
+	12.	Commercial Establishment shall mean a private establishment such as a
+restaurant, hotel, laundry, store, filling station, or recreational facility. 
+A nonprofit private or government entity such as a church, school, hospital,
+military facility, correctional institution, recreational facility or a facility
+owned or operated by a charitable organization is considered a commercial
+establishment.
+
+	13.	Commingled Load shall mean a load of septage which includes septage
+generated both within and outside the City’s boundaries.
+
+	14.	Composite Sample shall mean a sample formed by mixing discrete samples
+taken at periodic points in time or a continuous proportion of the flow.  The
+number of discrete samples which make up the composite sample depends upon the
+variability of pollutant concentration and flow.
+
+	15.	Construction shall be deemed to include the acquisition of any and all
+rights of way or real property necessary for the performance and completion of
+the work referred to wherever authority is given to the City for any
+construction under the provisions of this article.
+
+	16.	Contract Agency shall mean a governmental agency or private entity which
+has contracted with the City to discharge into the City’s Publicly Owned
+Treatment Works.
+
+	17.	Cooling Water shall mean the water discharged from any use including, but
+not limited to, air conditioning, cooling or refrigeration, during which the
+only pollutant added is heat.
+
+	18.	Direct Discharge shall mean the discharge of wastewater to the storm drain
+system or Waters of the State.
+
+	19.	Director shall mean the Director of the Bureau of Sanitation of the
+Department of Public Works of the City of Los Angeles or the duly authorized
+representative thereof.
+
+	20.	Discharge shall mean the introduction of water, wastewater or any pollutant
+into the POTW, the storm drain system, or Waters of the State.
+
+	21.	Discharger shall mean any person who causes or contributes a discharge into
+the POTW, the storm drain system, or the Waters of the State.
+
+	22.	Domestic Septage shall mean the liquid or solid material removed from a
+private sewage disposal system (PSDS), portable toilet or other holding device
+that receives only domestic sewage.
+
+	23.	Domestic Wastewater (Domestic Sewage) shall mean sanitary wastewater and
+wastewater generated from household type operations.
+
+	24.	Environmental Protection Agency (EPA) shall mean the Federal Environmental
+Protection Agency, its Administrator, or its duly authorized representative.
+
+	25.	Etiologic Agent shall mean a type of microorganism, helminth or virus which
+may be expected to produce disease in healthy persons.
+
+	26.	Fomites shall mean inanimate objects contaminated with etiologic agents
+which may serve to transmit those etiologic agents to humans.
+
+	27.	Food Service Establishment shall mean a facility engaged in preparing food
+for consumption by the public such as a restaurant, commercial kitchen, caterer,
+hotel, school, hospital, prison, correctional facility, or care institution.
+
+	28.	Grab Sample shall mean a sample which is taken from a wastewater discharge
+on a onetime basis without regard to the volume of flow in the discharge.
+
+	29.	Grease Interceptor shall mean an interceptor of at least 750 gallons (2839
+L) capacity to serve one (1) or more fixtures and which shall be remotely
+located.
+
+	30.	Grease Trap shall mean a device designed to retain grease from one (1) to a
+maximum of four fixtures.
+
+	31.	Gross Floor Area shall mean the area included within the exterior of the
+surrounding walls of a building or portions thereof, exclusive of courts.
+
+	32.	House Connection Sewer shall mean any sewer pipe line, or portion thereof,
+constructed in a street, alley, walk or other public place or in a sewer
+easement granted to the City and connecting, or proposed to connect, any lot or
+part of a lot with any public sewer.
+
+	33.	Indirect Discharge shall mean the discharge of wastewater into the POTW.
+
+	34.	Industrial Wastewater Sewer Connection shall mean any house connection
+sewer, or portion thereof, used in the disposal of any and all liquid or
+waterborne waste from industrial or commercial processes except domestic sewage.
+
+	35.	Industrial Wastewater Storm Drain Connection shall mean any storm drain
+connection carrying or intended to carry industrial waste from any industrial,
+manufacturing, processing, or servicing establishment.
+
+	36.	Industrial Wastewater shall mean any water bearing waste other than
+domestic wastewater.  Wastewater generated from household type operations
+performed at commercial establishments for or to support commercial purposes is
+industrial wastewater.
+
+	37.	Industrial Wastewater Permit shall mean a permit issued by the Board as
+provided in and subject to provisions of Subdivision 1 of Subsection C and
+payment of fee requirements of Subsection D of Section 64.30.
+
+	38.	Infectious Waste shall mean any waste material or article which harbors or
+may reasonably be considered to harbor viable etiologic agents and shall include
+the following:
+
+	(a)	Significant laboratory wastes including, but not limited to, cultures of
+etiologic agents.
+
+	(b)	Pathologic specimens including, but not limited to, human or animal
+tissues, blood elements, excreta and secretions which contain etiologic agents
+and also include  attendant disposable formites.
+
+	(c)	Human dialysis waste materials including arterial lines and dialysate
+membranes.
+
+	(d)	Surgical specimens including, but not limited to, human or animal parts and
+tissues removed surgically or at autopsy which contain etiologic agents and
+attendant disposable fomites.
+
+	(e)	Equipments, instruments, utensils and other materials of a disposable
+nature which may transmit etiologic agents from the rooms of humans or the
+enclosures of animals which have been isolated with suspected or diagnosed
+communicable disease.
+
+	(f)	Any other materials defined by a duly authorized public health officer as
+potentially infectious and required to be managed as an infectious waste.
+
+	39.	Interceptor Sewer shall mean a collecting sewer that intercepts and
+collects the sewage from a number of lateral or local public sewers.
+
+	40.	Interference shall mean the inhibition or disruption of the POTW process or
+operations or any actions or omission which alone or in conjunction with a
+discharge or discharges from other sources is a cause of violation of any
+requirement of the City’s NPDES Permits (including an increase in the
+magnitude or duration of a violation).  The term interference also includes
+prevention of biosolids use or disposal by the POTW in accordance with Section
+405 of the Act or any violation of criteria, guidelines, or regulations
+developed pursuant to the Solid Waste Disposal Act (SWDA), the Clean Air Act,
+the Toxic Substance Control Act, the Marine Protection Research and Sanctuaries
+Act or violation of more stringent State criteria (including those contained in
+any State sludge management plan prepared pursuant to Title II of SWDA)
+applicable to the method of disposal or use employed by the POTW.
+
+	41.	Local Industrial User (LIU) shall mean a discharger of industrial
+wastewater which 
+
+	(a)	is not subject to Categorical Pretreatment Standards under 40 CFR 403.6 and
+40 CFR Chapter I, Subchapter N, 
+
+	(b)	discharges an average of less than 25,000 gallons per day of process
+wastewater to the POTW; and 
+
+	(c)	as determined by the Director, does not have a reasonable potential for
+adversely affecting the POTW’s operation or for violating any pretreatment
+standard or requirements in accordance with 40 CFR 403.8(f)(6).
+
+	42.	Lot shall mean any piece or parcel of land, as bounded, defined or shown
+upon the latest map, plat or deed recorded in the office of the County Recorder
+of Los Angeles County provided however that in the event any building or
+improvements appurtenant to said building covers more area than a “lot,” as
+herein defined, the term “lot” shall be deemed to be and include all such
+pieces or parcels of land upon which said buildings or improvements are wholly
+or partly located.
+
+	43.	National Categorical Pretreatment Standard (National Standard) shall mean
+any regulation containing pollutant discharge limits promulgated by the EPA in
+accordance with Section 307(b) and (c) of the Act.
+
+	44.	National Pollutant Discharge Elimination System Permit (NPDES Permit) shall
+mean a permit issued pursuant to Section 402 of the Act.
+
+	45.	Non-Domestic Septage shall mean the liquid or solid material removed from a
+private sewage disposal system (PSDS) or other sanitation holding device that
+receives industrial wastewater or a combination of domestic and industrial
+wastewater.
+
+	46.	Pass Through shall mean a discharge which exits the POTW into waters of the
+State in quantities or concentrations which, alone or in conjunction with a
+discharge or discharges from other sources, is the cause of a violation of any
+requirement of the POTW’s NPDES Permit (including an increase in the magnitude
+and duration of a violation).
+
+	47.	Peak Flow shall mean the maximum five minute rate of wastewater flow to be
+generated from the premises as estimated by the City Engineer.
+
+	48.	Person shall mean any individual, partnership, co-partnership, firm,
+company, corporation, association, joint stock company, trust, estate,
+governmental entity or any other legal entity, or their legal representatives,
+agents or assigns. The masculine gender shall include the feminine, the singular
+shall include the plural where indicated by the context.
+
+	49.	pH shall mean the logarithm (base 10) of the reciprocal of the
+concentration of hydrogen ions expressed in gram equivalents per liter of
+solution.
+
+	50.	Pigment shall mean a substance that imparts black or white or a color to
+other materials.
+
+	51.	Point of Discharge shall mean any physical location at which a discharger,
+directly or indirectly, disposes wastewater. The term point of discharge also
+includes, but is not limited to, disposal to ponds, injection wells, leach
+fields, or surface spreading.
+
+	52.	Pollutant shall mean any dredged spoil, solid waste, incinerator residue,
+sewage, garbage, sewage sludge, munitions, chemical wastes, biological
+materials, radioactive materials, heat, pigment, wrecked or discharged
+equipment, rock, sand, cellar dirt or other waste.
+
+	53.	Portable Toilet shall mean any portable or permanently installed sanitation
+apparatus or system which includes a tank for toilet waste retention.  Portable
+Toilet includes sanitation holding devices from airplanes, trains, boats with
+type III marine sanitation devices, buses, movie dressing room trailers,
+recreational vehicles, or other similar transport vehicles.
+
+	54.	Pretreatment shall mean the reduction of the amount of pollutants, the
+elimination of pollutants, or the alteration of the nature of pollutant
+properties in wastewater to a less polluted state prior to or in lieu of
+discharging such pollutants into the POTW, storm drain system or the Waters of
+the State. Pretreatment can be obtained by physical, chemical or biological
+processes, or process changes by other means, except as prohibited by 40 Code of
+Federal Regulation (CFR) at Section 403.6(d).
+
+	55.	Pretreatment Requirements shall mean any substantive or procedural
+requirement related to pretreatment, other than a National Categorical
+Pretreatment Standard.
+
+	56.	Private Septage Disposal Facility (PSDF) shall mean a disposal site, other
+than a City designated discharge location, with a direct connection to the City
+sewer, which accommodates the discharge of hauled septage.
+
+	57.	Private Sewage Disposal System (PSDS) shall mean any septic tank, cesspool,
+seepage pit, leach field, or any other receptacle, or any combination thereof,
+which receives any wastewater not discharged into a public sewer.
+
+	58.	Public Sewer shall mean any sewer, other than a house connection sewer,
+which has been constructed in a public street, alley, walk, or other public
+place, or in a sewer easement, and is a part of the POTW.
+
+	59.	Publicly Owned Treatment Works (POTW)  (Sanitary Sewer System) shall mean
+treatment works defined by Section 212 of the Act, which are wholly or partially
+owned by the City.  This includes any public sewers, treatment plants, land,
+appurtenances, pumping stations, or equipment.  For the purpose of this
+ordinance, POTW shall also include any sewers within the City of Los Angeles
+that convey wastewater to the POTW from persons outside the City who are, by
+contract or agreement with the City, dischargers to the City’s POTW.
+
+	60.	Rules and Regulations shall mean Rules and Regulations adopted by the Board
+Governing the Disposal of Industrial Wastewater into the Publicly Owned
+Treatment Works of the City of Los Angeles.
+
+	61.	Sanitary Wastewater shall mean wastewater of human origin derived from
+toilets, urinals, showers, baths and restroom sinks.
+
+	62.	Septage shall mean the liquid or solid material removed from a private
+sewage disposal system (PSDS), portable toilet or other sanitation holding
+device that receives wastewater.
+
+	63.	Septage Hauler shall mean a person or an owner/operator of a business that
+holds Septage Disposal Permit(s) issued by the Director to discharge septage to
+the City’s POTW.
+
+	64.	Sewage Generation Factor shall mean as a number which, when multiplied by a
+parameter which indicates the level of activity in an occupancy such as floor
+area or number of seats, produces an estimate of the average sewage discharge
+from the occupancy.
+
+	65.	Shall is mandatory. May is permissive.
+
+	66.	Sharps shall mean hypodermic needles, hypodermic syringes, blades and
+broken glass. Sharps also include any devices, instruments or other objects
+which have acute rigid corners, edges or protuberances.
+
+	67.	Significant Industrial User (SIU), subject to the provisions established in
+40 CFR 403.3(t), shall mean the following:
+
+	(a)	any discharger of wastewater who is subject to National Categorical
+Pretreatment Standards;
+
+	(b)	any other industrial user that discharges an average of 25,000 gallons or
+more per day of process wastewater (“process wastewater” excludes sanitary,
+non contact cooling water and boiler blowdown wastewaters) or contributes
+process wastewater which makes up five percent (5%) or more of the average dry
+weather hydraulic or organic (BOD, TSS, etc.) capacity of the treatment plant;
+
+	(c)	any industrial user that is designated by the Director to have a reasonable
+potential to adversely affect the POTW’s operation or for violating any
+pretreatment standard or requirement.
+
+	68.	Special Drainage Connection shall mean any house connection sewer or storm
+drain connection from any swimming pool, wading pool, fountain, pond, tank, vat
+or receptacle which receives or disposes of rain water or surface water.
+
+	69.	Special House Connection Sewer shall mean any house connection sewer from a
+lot, or part of a lot, which does not have a public sewer directly in front,
+rear, or at the side of such lot or part of such lot, and which has not been
+directly assessed for a public sewer.
+
+	70.	Split Sampling shall mean dividing of wastewater samples for analysis at
+two (or more) analytical laboratories for comparison of results.
+
+	71.	Standard Industrial Classification (SIC) shall mean classification pursuant
+to the Standard Industrial Classification Manual issued by the Executive Office
+of the President, Office of Management and Budget, 1972, or subsequent
+revisions.
+
+	72.	State shall mean the State of California.
+
+	73.	Storm Drain Connection shall mean any pipeline, or portion thereof,
+constructed in a street, alley, walk, or other public place, or in an easement
+granted to the City, and connecting or proposed to connect any lot or part of a
+lot with any storm drain.
+
+	74.	Storm Drain System shall mean all of the property involved in the operation
+of the storm drainage collection and disposal system of the City of Los Angeles,
+including conduits, natural or artificial drains, channels and watercourses,
+together with appurtenances, pumping stations and equipment.
+
+	75.	Suspended Solids (SS) shall mean the total nonfilterable residue in water,
+wastewater or other liquids, which is removable in accordance with the most
+recent publication of Standard Methods for the Examination of Water and
+Wastewater, prepared and published by the American Public Health Association,
+American Water Works Association, and the Water Pollution Control Federation.
+
+	76.	Temporary Permit shall mean an interim status permit issued to a discharger
+until a final decision is made by the Director to issue an Industrial Wastewater
+Permit.
+
+	77.	Toxic Pollutant shall mean any pollutant or combination of pollutants
+listed as toxic in regulations promulgated by the Administrator of EPA under the
+provisions of Section 307 of the Act, or other Federal or State statutes, rules
+or regulations.
+
+	78.	Type III Marine Sanitation Device shall mean a device that is designed to
+prevent the overboard discharge of treated or untreated domestic sewage.
+
+	79.	Wastewater shall mean the liquid and waterborne industrial or domestic
+wastes from facilities including, but not limited to, dwellings, commercial
+buildings, industrial facilities, agricultural activities, hospitals, medical
+facilities and other institutions, together with other wastes which may be
+present, whether treated or untreated, which enter the POTW, the storm drain
+system, of the Waters of the State.
+
+	80.	Waters of the State shall mean all saline waters, streams, lakes, ponds,
+marshes, watercourses, waterways, wells, springs, reservoirs, aquifers,
+irrigation systems, drainage systems and all other bodies or accumulations of
+water, surface or underground, natural or artificial, public or private, which
+are contained within, flow through, or border upon the State of California or
+any portion thereof.
+
+	B.	Abbreviations.  The acronyms or sets of letters set forth in this
+subsection, when used in this chapter, shall stand for and be understood and may
+be accepted or used as abbreviations for those terms or phrases set forth
+opposite each:
+
+	BOD		-	Biochemical Oxygen Demand
+	BMP		-	Best Management Practice
+	CFR		-	Code of Federal Regulations
+	COD		-	Chemical Oxygen Demand
+	FOG		-	Fats, Oil and Grease
+	FSE		-	Food Service Establishment
+	EPA		-	Environmental Protection Agency
+	mg 		-	Milligrams
+	mg/l 		-	Milligrams per liter
+	O&#038;M 		- 	Operation and Maintenance
+	NCPS 		- 	National Categorical Pretreatment Standards
+	NPDES	- 	National Pollutant Discharge Elimination System
+	POTW		- 	Publicly Owned Treatment Works
+	PSDF		- 	Private Septage Disposal Facility
+	PSDS		- 	Private Sewage Disposal System
+	SIC		- 	Standard Industrial Classification
+	SS		- 	Suspended Solids
+	SWDA		- 	Solid Waste Disposal Act, 42 U.S.C. 6901, et seq.
+	USC		- 	United States Code

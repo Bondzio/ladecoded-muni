@@ -1,0 +1,85 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+BASIC PROVISIONS. (§ 91.5.400)
+
+  
+
+	Chapter 4 of the CRC is hereby adopted by reference with the following
+exceptions, modifications and additions. 
+
+91.5.401.1. Application.  The provisions of this division shall control the
+design and construction of the foundation and foundation spaces for all
+buildings.  In addition to the provisions of this division, the design and
+construction of foundations in areas prone to flooding as established by Table
+R301.2(1) shall meet the provisions of CRC Section R322.  Wood foundations
+shall be designed and installed in accordance with AF&#038;PA PWF.
+
+	Exception:  The provisions of this Chapter shall be permitted to be used for
+wood foundations only in the following situations:
+
+	1.	In buildings that have no more than two floors and a roof;
+
+	2.	When interior basement and foundation walls are constructed at intervals not
+exceeding 50 feet (15 240 mm). 
+
+	Wood foundations in Seismic Design Category D0, D1, or D2 shall not be
+permitted.
+
+	Exception:  In non-occupied, single-story, detached storage sheds and similar
+uses other than carport or garage, provided the gross floor area does not exceed
+200 square feet, the plate height does not exceed 12 feet in height above the
+grade at any point, and the maximum roof projection does not exceed 24 inches.
+
+91.5.403.1.2. Continuous Footing in Seismic Design Categories D0, D1, and D2. 
+The braced wall panels at exterior walls of buildings located in Seismic Design
+Categories D0, D1, and D2 shall be supported by continuous footings.  All
+required interior braced wall panels in buildings shall also be supported by
+continuous footings.
+
+91.5.403.1.3. Seismic Reinforcing.  Concrete footings located in Seismic Design
+Categories D0, D1, and D2, as established in Table R301.2(1), shall have minimum
+reinforcement.  Bottom reinforcement shall be located a minimum of 3 inches (76
+mm) clear from the bottom of the footing.
+
+	In Seismic Design Categories D0, D1, and D2 where a construction joint is
+created between a concrete footing and a stem wall, a minimum of one No. 4 bar
+shall be installed at not more than 4 feet (1219 mm) on center.  The vertical
+bar shall extend to 3 inches (76 mm) clear of the bottom of the footing, have a
+standard hook and extend a minimum of 14 inches (357 mm) into the stem wall. 
+
+	In Seismic Design Categories D0, D1, and D2 where a grouted masonry stem wall
+is supported on a concrete footing and stem wall, a minimum of one No. 4 bar
+shall be installed at not more than 4 feet (1219 mm) on center.  The vertical
+bar shall extend to 3 inches (76 mm) clear of the bottom of the footing and have
+a standard hook.
+
+	In Seismic Design Categories D0, D1, and D2 masonry stem walls without solid
+grout and vertical reinforcing are not permitted.
+
+	Exception:  In detached one- and two-family dwellings located in Seismic
+Design Category A, B, or C which are three stories or less in height and
+constructed with stud bearing walls, plain concrete footings without
+longitudinal reinforcement supporting walls and isolated plain concrete footings
+supporting columns or pedestals are permitted.
+
+91.5.403.1.5. Slope.  The top surface of footings shall be level.  The bottom
+surface of footings shall not have a slope exceeding one unit vertical in 10
+units horizontal (10-percent slope).  Footings shall be stepped where it is
+necessary to change the elevation of the top surface of the footings or where
+the slope of the bottom surface of the footings will exceed one unit vertical in
+ten units horizontal (10-percent slope).  
+
+	For structures located in Seismic Design Categories D0, D1, and D2, or E,
+stepped footings shall be reinforced with four 1/2-inch diameter (12.7 mm)
+deformed reinforcing bars.  Two bars shall be placed at the top and bottom of
+the footing as shown in figure 91.5.403.1.5.
+
+
+Figure 91.5.403.1.5
+Stepped Footing
+
+91.5.404.2. Wood Foundation Walls.  Wood foundation walls shall be constructed
+in accordance with the provisions of CRC Sections R404.2.1 through R404.2.6 and
+with the details shown in CRC Figures R403.1(2) and R403.2(3).  Wood foundation
+walls shall not be used for structures located in Seismic Design Category D0,
+D1, or D2.

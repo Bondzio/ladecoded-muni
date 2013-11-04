@@ -1,0 +1,96 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SHALLOW FOUNDATIONS. (§ 91.1809)
+
+  SHALLOW FOUNDATIONS.
+	(Title and Section Amended by Ord. 181,758, Eff. 8/8/11.)	Section 1809 of the
+CBC is adopted by reference, except Section 1809.3 and 1809.4 are not adopted
+and in lieu Sections 91.1809.3, 91.1809.4, 91.1809.7 and 91.1809.12 are
+added.91.1809.3. Stepped Footing.  The top surface of footings shall be level.
+The bottom surface of footings shall be permitted to have a slope not exceeding
+one unit vertical in 10 units horizontal (10-percent slope). Footings shall be
+stepped where it is necessary to change the elevation of the top surface of the
+footing or where the surface of the ground slopes more than one unit vertical in
+10 units horizontal (10-percent slope). This stepping requirement shall also
+apply to the top surface of grade beams supporting walls. Footings shall be
+reinforced with four ½ inch diameter (12.7 mm) deformed reinforcing bars. Two
+bars shall be placed at the top and bottom of the footings as shown in Figure
+1809.3 of this Code.
+STEPPED FOUNDATIONS
+FIGURE 1809.391.1809.4. Depth and Width of Footings.  The minimum depth of
+footings below the surface of undisturbed soil, compacted fill material or CLSM
+shall be 12 inches (305 mm).  Where applicable, the requirements of CBC Section
+1809.5 shall also be satisfied.  The minimum width of footings shall be 12
+inches (305 mm).91.1809.7. Prescriptive Footings for Light-Frame Construction. 
+Where a specific design is not provided concrete or masonry-unit footings,
+supporting walls of light-frame construction shall be permitted to be designed
+in accordance with Table 1809.7.   Prescriptive footings in Table 1809.7 shall
+not exceed one story above grade for structures assigned to Seismic Design
+Category D, E, or F.TABLE 1809.7
+PRESCRIPTIVE FOOTINGS SUPPORTING WALLS OF LIGHT-FRAMED CONSTRUCTION a, b, c, d,
+e
+(Amended by Ord. No. 180,619, Eff. 5/12/09.)
+  
+    
+      
+        NUMBER OF FLOORS SUPPORTED BY THE FOOTING f
+      
+      
+        WIDTH OF FOOTING (inches)
+      
+      
+        THICKNESS OF FOOTING (inches)
+      
+    
+    
+      
+        1
+      
+      
+        12
+      
+      
+        6
+      
+    
+    
+      
+        2
+      
+      
+        15
+      
+      
+        6
+      
+    
+    
+      
+        3
+      
+      
+        18
+      
+      
+        8g
+      
+    
+  
+	For SI: one inch = 25.4 mm, one foot = 304.8 mm	a.	Depth of footings shall be
+in accordance with Section 1809.4.	b.	The ground under the floor is permitted to
+be excavated to the elevation of the top of the footing.	c. 	Not Adopted.	d.	See
+CBC Section 1908 for additional requirements for footings of structures assigned
+to Seismic Design Category C, D, E or F.	e.	For thickness of foundation walls,
+see Section 91.1807.1.6 of this Code.	f.	Footings are permitted to support a
+roof in addition to the stipulated number of floors.  Footings supporting roof
+only shall be as required for supporting one floor.91.1809.12. Timber
+Footings.  Timber footings shall be permitted for buildings of Type V
+construction and as otherwise approved by the Department.  Such footings shall
+be treated in accordance with AWPA U1 (Commodity Specification A, Use Category
+4B). Treated timbers are not required where placed entirely below permanent
+water level, or where used as capping for wood piles that project above the
+water level over submerged or marsh lands. The compressive stresses
+perpendicular to grain in untreated timber footings supported upon treated piles
+shall not exceed 70 percent of the allowable stresses for the species and grade
+of timber as specified in the AF&#038;PA NDS.  Timber footings shall not be
+used in structures assigned to Seismic Design Category D, E, or F.

@@ -1,0 +1,18 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+STATIC PROTECTION. (§ 57.92.11)
+
+  STATIC PROTECTION.	A.	Every loading rack shall be protected by a metallic
+bond wire permanently connected to the fill stem or fill stem piping.  This
+conductor shall be stranded wire not smaller than No. 8 A.W.G. (American Wire
+Gage).  The free end shall be equipped with a clamp or equivalent device for
+attachment to some metallic part of the tank car, tank truck or cargo tank. 
+Bond wire connection shall be made prior to opening dome covers, and shall be
+maintained in place during the entire filing process.  Dome covers shall be
+closed before bond wire is disconnected.  Tank car loading facilities shall be
+protected by bonding the pipe riser to at least one rail and to the rack
+structure.  Multiple lines entering the rack shall be electrically bonded
+together.	B.	Filling through open domes into the tanks of vehicles or tank cars
+that contain vapor-air mixtures within the flammable range, or where the liquid
+being filled can form such a mixture, shall be by means of a downspout which
+extends near the bottom of the tank.

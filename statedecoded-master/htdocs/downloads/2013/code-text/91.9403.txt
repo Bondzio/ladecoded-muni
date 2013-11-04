@@ -1,0 +1,32 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 91.9403)
+
+  DEFINITIONS.
+	(Amended by Ord. No. 172,592, Eff. 6/28/99, Oper. 7/1/99.)	For the purpose of
+this division, in addition to the applicable definitions, symbols and notations
+in this Code, certain additional terms are defined as follows:	BASE (BASE LEVEL)
+is the level at which the earthquake motions are considered to be imparted to
+the structure or the level at which the structure as a dynamic vibrator is
+supported.	BASE-LEVEL-DIAPHRAGM is the floor at, or closest to, the top of the
+highest level of the foundation.	DIAPHRAGM ANCHORS are assemblies that connect a
+diaphragm to the adjacent foundation at the uphill diaphragm edge.	DIAPHRAGM
+BACKSPAN is the horizontal cantilevered distance parallel to the direction of
+the lateral force, between the outermost vertical lateral force resisting
+elements and the edge of the diaphragm.	DOWNHILL-DIRECTION is the descending
+direction of the slope approximately perpendicular to the slope
+contours.	FOUNDATION is the concrete or masonry which supports a building,
+including footings, stem walls, retaining walls, and grade beams.	FOUNDATION
+EXTENDING IN THE DOWNHILL-DIRECTION is a descending foundation and approximately
+perpendicular to the uphill foundation.	FOUNDATION, UPHILL is a foundation
+parallel and closest to the uphill diaphragm edge, as defined herein.	HILLSIDE
+BUILDING is any wood frame building or portion thereof constructed on or into a
+slope steeper than one unit vertical in three units horizontal (33.3%
+slope).	PRIMARY ANCHORS are diaphragm anchors designed for and providing direct
+connection as described in Sections 91.9406.2 and 91.9406.3 between the
+diaphragm and the uphill foundation.	RETROFIT is an improvement of the lateral
+force resisting system of the structure by an alteration of existing or addition
+of new structural elements.	SECONDARY ANCHORS are diaphragm anchors designed for
+and providing a redundant diaphragm to foundation connection, as described in
+Section 91.9406.4.	UPHILL DIAPHRAGM EDGE is the edge of the diaphragm adjacent
+to or closest to the highest ground level at the perimeter of the diaphragm.

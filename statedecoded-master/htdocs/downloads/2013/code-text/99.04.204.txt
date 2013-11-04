@@ -1,0 +1,26 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ENERGY REDUCTION. (§ 99.04.204)
+
+  ENERGY REDUCTION.99.04.204.1.  Prescriptive Approach.  Equipment and
+fixtures shall comply with the following where applicable:	1.	Installed
+gas-fired space heating equipment shall have an Annual Fuel Utilization Ratio
+(AFUE) of .90 or higher.	2.	Installed electric heat pumps shall have a Heating
+Seasonal Performance Factor (HSFP) of 8.0 or higher.	3.	Installed cooling
+equipment shall have a Seasonal Energy Efficiency Ratio (SEER) higher than 13.0
+and an Energy Efficiency Ratio (EER) of at least 11.5.	4.	Installed tank type
+water heaters shall have an Energy Factor (EF) higher than .6.	5.	Installed
+tankless water heater shall have an Energy Factor (EF) higher than
+.80.	6.	Perform duct leakage testing to verify a total leakage rate of less than
+6 percent of the total fan flow.	7.	Building lighting in the kitchen and
+bathrooms within the dwelling units shall consist of at least 90 percent ENERGY
+STAR qualified hard-wired fixtures (luminaires).	8.	Installed swimming pool
+circulating pump motors shall be multi-speed or variable-speed.  The pump motor
+controls shall have the capability of operating the pump at a minimum of three
+speeds; low speed, medium speed, and high speed.  The daily low speed shall not
+exceed 300 watts.  The daily medium speed shall be
+adjustable.	EXCEPTION:	1.	Projects exceeding the California Energy Code
+requirements by 15 percent using an Alternative Calculation Method (ACM)
+approved by the California Energy Commission.	2.	Buildings for which building
+plans were submitted to the Department for plan check and the plan check fee was
+paid prior to July 1, 2011.

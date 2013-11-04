@@ -1,0 +1,14 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ALLOWABLE LOAD-BEARING VALUES OF SOILS. (§ 91.1804)
+
+  ALLOWABLE LOAD-BEARING VALUES OF SOILS.	Section 1804 of the CBC is adopted by
+reference, except Section 1804.2 of the CBC is not adopted and in lieu, Section
+91.1804.2 is added.91.1804.2.  Presumptive Load-bearing Values.  The maximum
+allowable foundation pressure, lateral pressure or lateral sliding-resistance
+values for supporting soils near the surface shall not exceed the values
+specified in CBC Table 1804.2 unless data to substantiate the use of a higher
+value are submitted and approved.	Presumptive load-bearing values shall apply to
+materials with similar physical characteristics and dispositions.	Mud, organic
+silt, organic clays, peat or uncertified fill shall not be assumed to have a
+presumptive load-bearing capacity.

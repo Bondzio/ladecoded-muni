@@ -1,0 +1,319 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ALTERNATIVE STANDARDS. (§ 91.8502)
+
+  ALTERNATIVE STANDARDS.
+	(Amended by Ord. No. 176,673, Eff. 7/6/05.)91.8502.1.  Use or Occupancy. 
+When applying this division, Joint Living and Work Quarters shall be classified
+as Group R-2 occupancy and comply with all Group R-2 occupancy requirements of
+the Code, except as provided in this chapter.  (Amended by Ord. No. 181,133,
+Eff. 5/11/10.)91.8502.1.1.  Ceiling Height.  Existing ceiling height within a
+Joint Living and Work Quarters may be maintained, provided the ceiling height is
+not less than seven feet, except that the ceiling height above a mezzanine may
+be six feet six inches to any structural projections from the ceiling. 
+(Amended by Ord. No. 181,133, Eff. 5/11/10.)91.8502.1.2.  Emergency Escape. 
+(Amended by Ord. No. 181,758, Eff. 8/8/11.)  Every room below the fourth story
+where occupants sleep in Joint Living and Work Quarters shall be provided with
+an emergency escape or rescue window or door, which complies with the
+requirements of CBC Section 1026.  	EXCEPTION:  The emergency escape or rescue
+window or door may open directly into an existing court, provided:	A.	The court
+is accessible to the Fire Department.	B.	The court is provided with a minimum of
+one direct exit to a corridor, exit stairway, exit passageway, exterior exit
+stairway, exterior exit balcony, or exterior exit ramp, or existing fire
+escape.  The existing fire escape shall be structurally sound and shall not
+serve as an exit for an assembly use.	C.	All openings in walls surrounding the
+court shall be protected as required by CBC Section 705.3 or be provided with an
+approved water curtain.91.8502.2.  Exterior Wall and Exterior Opening
+Protection.  (Amended by Ord. No. 181,758, Eff. 8/8/11.)  Existing
+construction of the exterior walls may be maintained without complying with
+current exterior fire resistive wall construction.	Existing unprotected exterior
+openings, which are not allowed or are required to be protected due to their
+proximity to a property line, may be maintained without complying with the
+requirements of CBC Section 705.8 provided the openings are protected with an
+approved water curtain.  Openings in the exterior walls that are not allowed by
+CBC Section 705.8 due to their proximity to a property line, may not be used to
+satisfy other code requirements, such as light and ventilation, smoke control or
+emergency escape.91.8502.3.  Smoke Control System.  (Amended by Ord. No.
+179,324, Eff. 12/10/07, Oper. 1/1/08.)  Existing high-rise buildings shall
+provide a smoke control system in all portions of the building including
+basements.  The smoke control system shall meet the requirements of CBC Section
+909 or all the requirements of this section.	EXCEPTION:  The following areas
+are exempt:	A.	New or existing rooms less than 50 square feet in area.	B.	New or
+existing rooms located at or above grade level provided the room has a direct
+exit to the exterior of the building.	C.	Floor levels with openable windows or
+breakable tempered glass panels in the exterior walls.  The area of the
+openable windows or breakable tempered glass panels shall be a minimum of 20
+square feet in area.  The openable windows or breakable tempered glass panels
+shall be located in the exterior walls around the perimeter of the floor no more
+than 50 linear feet.91.8502.3.1.  Capacity.  Smoke-control systems shall
+provide at least six air changes per hour for all areas within the building
+including basements, provide exhaust to the exterior of the building, and
+provide an adequate makeup air supply that is uniformly
+distributed.91.8502.3.2.  Smoke Dampers.  (Amended by Ord. No. 181,758, Eff.
+8/8/11.)  If a smoke-control system serves more than one floor, then smoke
+dampers shall be installed in the main exhaust air ducts and the main supply air
+ducts serving each floor and shall comply with the activation requirements of
+C.B.C. Section 716.3.3. The smoke dampers shall be installed in a manner that
+will prevent the movement of smoke from one floor to another floor when the
+dampers are closed.  The vertical risers of the main exhaust air duct shall be
+installed in metal ducts complying with the requirements for product-conveying
+ducts in Chapters 5 and 6 of the Mechanical Code.	In the firefighter’s control
+panel, all smoke dampers within the same smoke-control zone shall be actuated by
+one On-Auto-Off switch in accordance with CBC Section 909.16.3, except that an
+alternate actuation method may be allowed when approved by both the Fire
+Department and the Department.	Combination fire and smoke dampers, and smoke
+dampers shall be listed to conform to UL 555 and they shall be accessible for
+inspection, service and repair.  Pneumatic tubing to operate these dampers
+shall be of noncombustible materials.91.8502.3.3.  Firefighter’s Control
+Panel.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The
+firefighter’s control panel shall comply with all the requirements of CBC
+Section, 909.16, except that graphically depicted representation of the building
+may be omitted when accepted by the Fire Department.  The firefighter’s
+control panel shall monitor and be capable of overriding the Mechanical Test
+Panel.  The Mechanical Test Panel is a separate control panel that provides
+controls and displays the status of the ventilation fans, dampers, and other
+smoke control devices as required by CBC Section  909 and shall be located in
+the same room as the Firefighter’s Control Panel.91.8502.3.4.  Performance
+Test.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  Upon
+completion and before final approval of the installation of a smoke- control
+system required by this Code, a smoke control performance test, complying with
+the testing procedures of CBC Section 909.18, shall be used to verify the rate
+of air- flow and proper operation as specified in this division.  Tests shall
+be conducted in the presence of both the Fire Department and the
+Department.	Prior to conducting the required smoke control performance test, a
+preliminary performance report shall be submitted to the Department by a person,
+holding a Certificate of Qualification as required by CBC Section 909.18,
+verifying that the performance criteria of the Department have been
+met.91.8502.3.5.  Additional Smoke Control Requirements.  Existing air
+conditioning and ventilation systems may be used as part of the smoke-control
+system.  Existing return air plenum and approved fiberglass air ducts may be
+used as part of the smoke-control system.  A smoke exhaust system shall be
+designed in a manner that will prevent smoke from going from one room to
+another, except when two or more rooms are connected together by means of a
+permanent unobstructed opening at least 20 square feet with a minimum three feet
+dimension, then the rooms shall be considered as one room for the purpose of
+designing the smoke-control system.91.8502.4.  Fire-extinguishing System. 
+Fire sprinkler system, standpipe system, and water storage tank shall be
+provided as required for a new building of the same height, type of construction
+and occupancy, except that a high-rise building for which a building permit was
+issued prior to July 1, 1974 may comply with the fire safety standards of
+Section 91.8604 of this article. 	The fire sprinkler system, if required, shall
+be installed in accordance with NFPA 13 as adopted by the Plumbing
+Code.91.8502.5.  Fire Alarm System.  (Amended by Ord. No. 181,758, Eff.
+8/8/11.)  If a fire alarm system is required by CBC Section 907.2.8 or
+907.2.12.2 for a new building of the same type of construction and occupancy, or
+installed at the option of the owner, then the entire building shall have fire
+alarm systems that are in full compliance with CBC Section 907.2.8.  In a
+high-rise building, the fire alarm systems shall be supplied by a generator used
+as an emergency system in accordance with CBC Section 403.11.  For all other
+buildings, an alternate source of power may be used provided it is approved by
+both the Fire Department and the Department.	High-rise buildings shall be
+provided with a central control station (fire control room) that complies with
+all the requirements of CBC Section 403.4.5 and Section 57.118.02 of the Fire
+Code including the minimum room dimensions of ten feet. 91.8502.6.  Fire Pumps
+and Generator (Combustion Engines and Gas Turbines) Rooms.  In high-rise
+buildings, diesel or/and electric fire pumps shall be provided as required for a
+new building, except that a high-rise building for which a building permit was
+issued prior to July 1, 1974 may comply with Section 91.8604.6.5 of this
+article.	Fire pump and generator (combustion engines and gas turbines) rooms
+shall be separated with a minimum one-hour occupancy separation from adjoining
+rooms and from each other.	Combustion air and room ventilation air shall be
+required by the Building and Mechanical Codes, except that the room ventilation
+exhaust may be considered as environmental air.	In rooms containing diesel fire
+pumps and generators, a flue venting system shall be provided which complies
+with the requirements of Chapter 8 of the Mechanical Code, except
+that:	A.	Clearance from the flue venting system to any combustible material may
+be reduced to 6 inches if the vent is wrapped with an approved insulation
+equivalent to two-hour fire-rated assembly for high-rise buildings and one-hour
+fire-rated assembly for all other types of buildings, and	B.	The flue venting
+system may terminate at the exterior wall of the building provided the exhaust
+outlet is located at least:  10 feet above adjacent grade, 10 feet from the
+property line or center line of a public way, 10 feet from any opening into the
+building, and extending out at least 3 feet from the exterior wall of the
+building, or	C.	The flue venting system may terminate under the roof overhang,
+provided the exhaust outlet is located lower than the overhang by a distance
+equal to the projection of the overhang.91.8502.7.  Means of Egress.  The
+portion of the building converted to a Joint Living and Work Quarters shall be
+provided with means of egress as required by Division 10 of this article for a
+new building, except that the alternative requirements of Sections 91.8502.7.1
+through 91.8502.7.5 may be used in lieu of the requirements in Division 10 of
+this article.  An existing fire escape which is in good operating condition,
+may be used as a second means of egress, provided the fire escape does not serve
+as an exit for an assembly occupancy.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)91.8502.7.1.  Corridors.  (Amended by Ord. No. 181,758, Eff.
+8/8/11.)  All public corridors serving the occupants of the Joint Living and
+Work Quarters shall comply with all the requirements of CBC Section 1018, except
+as follows:	1.	Existing nonconforming fire-resistive walls and ceiling of a
+corridor constructed of wood lath and plaster, which are in good condition, may
+be acceptable as equivalent to the required one-hour fire-resistive
+construction.	2.	Existing doors between the corridor and the Joint Living and
+Work Quarters that are part of the historic fabric of a Qualified Historical
+Building may be allowed to remain provided approved smoke gaskets and
+self-closing and latching devices to prevent smoke penetration are installed on
+the door, or the existing door shall be replaced with a door conforming to the
+requirements of CBC Section 1018.1.91.8502.7.2.  Dead-end Corridors.  An
+existing dead-end corridor which exceeds 20 feet in length and serves the
+occupants of a Joint Living and Work Quarters may remain, provided the dead-end
+corridor complies with all of the following:  (Amended by Ord. No. 181,133,
+Eff. 5/11/10.)	A.	The dead-end corridor shall be constructed as described above
+in Section 91.8502.7.1 for the full length of the dead-end corridor.	B.	The
+dead-end corridor shall not exceed 40 feet in length.	C.	A door with a magnetic
+hold-open device shall be placed across the corridor to create a vestibule
+located furthest from the open end of the dead-end corridor.  The placement of
+the door shall be located not more than 20 feet from the open end of the
+dead-end corridor and the occupant load of the vestibule shall be less than 10
+occupants.91.8502.7.3.  Means of Egress Illumination and Exit Signs.  Means of
+egress illumination, exit signs, floor-level exit signs and exit path markings
+serving a Joint Living and Work Quarters shall comply with CBC Sections 1011,
+and 1006.  (Amended by Ord. No. 181,133, Eff. 5/11/10.)91.8502.7.4.  Exit
+Stairway.  (Amended by Ord. No. 181,758, Eff. 8/8/11.)  All exit stairways
+shall be enclosed and shall comply with all the requirements of CBC Section
+1022.  Existing exit stairway enclosures may be allowed to pass through the
+first-floor elevator lobby, provided an approved fire-rated smoke-sealed door is
+placed in front of the elevator door on the first floor or there is another exit
+stairway enclosure leading directly to the public way.91.8502.7.5. 
+Pressurization of Exit Stairway Enclosure.  If pressurization of exit stairway
+enclosure is required, then a mechanical ventilation system shall be provided. 
+The mechanical ventilation system shall provide a uniform air velocity of not
+less than 50 feet per minute while maintaining a positive pressure (not
+exceeding 25 pounds force on an interior door) relative to the adjacent areas
+and discharging this air to the outside of the building.	The mechanical
+ventilation system shall be activated simultaneously with the fire sprinkler
+system or the smoke detector system.  The mechanical ventilation system shall
+be supplied with primary and secondary sources of power.  The primary power
+shall be provided by the power system supplied by the public utilities.  The
+secondary power shall be from an approved standby source complying with the
+Electrical Code.91.8502.8.  Accessibility (Disabled Access).  The conversion
+of an Existing Building or portion thereof to a Joint Living and Work Quarters
+shall be considered residential occupancy for the purpose of applying
+accessibility (Disabled Access) requirements.  Inasmuch as there are no public
+sales and no access to the public, any portion of a building that is converted
+to a Joint Living and Work Quarters and any area of the building that serves the
+the Joint Living and Work Quarters is not required to comply with disabled
+access requirements of C.B.C. Chapter 11A.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)91.8502.9.  Interior Environment.  All habitable rooms in the Joint
+Living and Work Quarters shall be provided with natural light and ventilation by
+means of exterior glazed openings.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)91.8502.9.1.  Light.  Windows or skylights with a total area not less
+than one fifteenth of the floor area of the room may be used to satisfy the
+natural light requirements.  Kitchens may be provided with artificial light. 
+In lieu of required exterior glazed openings, artificial light may be provided
+in accordance with CBC Section 1205.3.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)91.8502.9.2.  Ventilation.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)  Habitable rooms shall be provided with natural ventilation by means
+of openable exterior openings with an area of not less than one thirtieth of the
+floor area of the room.  In lieu of required openable exterior openings, a
+mechanical ventilation system in accordance with the California Mechanical Code
+may be provided.	Public corridors or hallways shall be provided with an adequate
+ventilation system when all the habitable rooms in the Joint Living and Work
+Quarters on the floor do not have openable exterior openings that comply with
+the requirements of CBC Section 1203.1.	An adequate ventilation system for the
+public corridors shall mean either an openable exterior window or a permanent
+exterior opening having a minimum area of five square feet, or a mechanical
+ventilation system that complies with the requirements of LAMC Section
+91.8502.14 and CBC Section 1203.1.91.8502.9.3.  Light and Ventilation Court. 
+A window may open into an existing court for light and ventilation, provided,
+the court is has adequate access at the bottom of the court for cleaning
+purposes.  Every court more than two stories in height shall be provided with a
+horizontal air intake at the bottom of the court from the court to the exterior
+of the building, unless the court opens to a yard or public way.	The horizontal
+air intake shall not be less than 10 square feet in cross-sectional area and
+shall lead to the exterior of the building.  The construction of the horizontal
+air intake shall be as required for the court walls of the building, but in no
+case shall be less than one-hour fire-resistive construction.  A mechanical
+ventilation system complying with the Mechanical Code may vent the court in lieu
+of the horizontal air intake.	EXCEPTION:  When approved by the Superintendent
+of Building, an existing court may be deemed adequate for the purpose of
+providing light and ventilation based upon the area and height of the
+court.91.8502.10.  Sound Transmission Insulation.  (Amended by Ord. No.
+179,324, Eff. 12/10/07, Oper. 1/1/08.)  Existing construction may remain
+without complying with the sound transmission insulation requirements for any
+newly created Joint Living and Work Quarters.  All new construction shall
+comply with sound transmission requirements of CBC Section 1207.  (Amended by
+Ord. No. 181,133, Eff. 5/11/10.)91.8502.11.  Energy Conservation.  All new
+HVAC and new lighting systems shall comply with the current energy conservation
+requirements contained in Part 6 of Title 24 of the California Code of
+Regulations (California Energy Code).  An Existing Building with a Joint Living
+and Work Quarters need not comply with the Building Envelope requirements of the
+California Energy Code, if the Building Envelope is not altered in anyway due to
+compliance with other code requirements.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)91.8502.12.  Structural Design Requirements (Seismic Provision).  The
+conversion of any portion of an Existing Building to a Joint Living and Work
+Quarters shall be considered a “substantial alteration” when applying
+Exception 1 of Section 91.8203 of this Code.  (Amended by Ord. No. 181,133,
+Eff. 5/11/10.)	All Existing Buildings (including those specifically stated in
+LAMC Sections 91.8502.12.1 through 91.8502.12.4) shall be analyzed for 75
+percent of the Design Earthquake Ground motion, as defined in CBC Section 1613.2
+and as specified in CBC Section 1613.5, but in no event shall there be a
+reduction in the capacity of the seismic force resisting system where that
+system provides a greater level of protection than the minimum requirements
+established by this division.	Performance-based engineering analysis and design
+procedures may be used to evaluate the existing structure and the design of
+strengthening elements when approved by the Superintendent of Building.  All
+structural elements of the building shall be strengthened to meet the minimum
+design analysis as specified in Sections 91.8502.12.1 through 91.8502.12.4 of
+this Code or new structural elements shall be added when required.  All new
+structural elements shall meet current detailing requirements of CBC Section
+1604.	For other types of buildings not mentioned in this section, such as Steel
+Frame Buildings with Semi-Rigid Beam-Column Connections, Dual Systems with Steel
+Moment Frames and Concrete Shear Walls, or Steel Frame Buildings with Steel
+Bracing, shall comply with the standards developed by the
+Department.91.8502.12.1.  Unreinforced Masonry Bearing Wall Buildings (URM). 
+Unreinforced masonry brick buildings shall comply with the requirements of
+Division 88 of this article, except that a moment-resisting frame shall not be
+used with an unreinforced masonry wall in a single line of resistance unless the
+moment-resisting frame is designed to carry 100 percent of the lateral forces
+designated in Division 88 of this article and the story drift ratio is limited
+to 0.0025.	The use of Appendix Chapter 1 of Part 10 of the California Code of
+Regulations Title 24 (California Code for Building Conservation) is permitted
+when approved by the Superintendent of Building.91.8502.12.2.  Reinforced
+Concrete Buildings and Concrete Frame Buildings With and Without Masonry Infill
+Walls.  Reinforced concrete buildings or concrete frame buildings with or
+without masonry infill walls and that are within the scope of Section 91.9502 of
+this article, shall comply with all the provisions of Division 95 of this
+article.	EXCEPTION:  When approved by the Superintendent of Building, the
+Guidelines for Seismic Retrofit of Existing Buildings may be permitted as an
+alternate standard to strengthen reinforced concrete buildings and concrete
+frame buildings with and without masonry infill walls.91.8502.12.3.  Steel
+Frame Buildings with Masonry Infill Walls.  Steel frame buildings with masonry
+infill walls shall be made to comply with the standards as developed by the
+Department and all the provisions of Division 95 of this article except for the
+following:  Item A of Section 91.9509.6 of this article, Items 1 and 2 of
+Section 91.9509.7.2 of this article, and Sections 91.9509.9 and 91.9511.5.1 of
+this article.91.8502.12.4.  Welded Steel Moment-Frame (WSMF) Buildings.  All
+buildings constructed prior to March 7, 1995 utilizing WSMF as their primary
+lateral force resisting system shall be evaluated by the standards developed by
+the Department.	All existing WSMF buildings, which have experienced greater than
+0.25g-peak ground acceleration and which were constructed prior to March 7,
+1995, shall be evaluated using procedures and repair criteria of FEMA 352,
+“Recommended Post-earthquake Evaluation and Repair Criteria for Welded Steel
+Moment-Frame Buildings.”  An engineering report shall be submitted to the
+Department.  The engineering report shall either substantiate that the existing
+steel moment framed connections are in good condition, or recommend repair
+procedures for the welded steel moment-frame connections that are cracked or
+otherwise compromised.91.8502.13.  Electrical Systems.  All electrical systems
+and installations for a Joint Living and Work Quarters and other alterations in
+adjoining areas shall be designed in accordance with the Electrical Code except
+that the general lighting in the Joint Living and Work Quarters shall be
+installed based on the unit load of 6.5 volt-amperes per square foot.  The load
+calculation and wiring installation in a Joint Living and Work Quarters shall be
+as required for the residential occupancy.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)91.8502.14.  Mechanical Systems.  All mechanical systems shall comply
+with the requirements of the Mechanical Code.  The ventilation system for the
+corridor shall be designed independently of the ventilation system for the Joint
+Living and Work Quarter or any other adjoining rooms.  When a corridor is
+divided by the placement of self-closing door(s), the ventilation system shall
+be designed for each portion of the corridor, except when the doors have
+magnetic hold-open devices, the adjoining corridors may be considered as one
+space for the purpose of designing the ventilation system.  An existing heating
+and/or cooling system may be used in lieu of the ventilation system for the
+corridor, provided the heating and/or cooling system is independent from the
+heating and/or cooling system for the Joint Living and Work Quarters or from any
+other adjoining rooms.  (Amended by Ord. No. 181,133, Eff.
+5/11/10.)91.8502.15.  Elevators.  Existing elevators need not comply with the
+requirements of Division 30 of this article, except when required to comply with
+the State Elevator Safety Order of Sub-chapter 6, of Chapter 4, Division 1 of
+Title 8 of the California Code of Regulations.  Existing freight elevators
+shall not be used as passenger elevators.91.8502.16.  Historical Building
+Provisions.  Qualified Historical Buildings may use the State Historical
+Building Code.

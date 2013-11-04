@@ -1,0 +1,12 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+H. (§ 95.210.0)
+
+  	Section 210.0 of the C.M.C. is adopted by reference with the following
+additions:	HAZARDOUS PROCESS PIPING (HPP) is a process material piping or tubing
+conveying a liquid or gas that has a degree-of hazard rating in health,
+flammability or reactivity of Class 3 or 4 as ranked by the Fire
+Code.	HORSEPOWER is the horsepower of the power unit driving the refrigerant
+compressor. If the compressor is electrically driven, the horsepower rating
+shall be determined as set forth in Article 430 of the National Electrical Code
+incorporated by reference in the Electrical Code. (1 HP = 1 Ton = 12,000 Btu/h)

@@ -1,0 +1,95 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INFORMATION REQUIRED ON PLANS. (§ 91.9409)
+
+  INFORMATION REQUIRED ON PLANS.
+	(Added by Ord. No. 171,258, Eff. 8/30/96.)91.9409.1.  General.  The licensed
+engineer or architect responsible for the seismic analysis of the building shall
+record the information required by this section on the approved plans. The plans
+shall accurately reflect the results of the engineering investigation and design
+and show all pertinent dimensions and sizes for plan review and construction.
+The plans shall show existing framing construction, diaphragm construction,
+proposed primary, alternate and secondary anchors, proposed shear walls and
+collectors for the base  and below.  All structural elements that are part of
+the design including existing nailing, anchors, ties, and collectors, shall be
+shown on the plans.  The plans shall indicate existing construction that has
+not been exposed and needs verification at the time of construction.91.9409.2. 
+Building Elevations.  Elevations showing the existing conditions shall be drawn
+to scale.  Elevations shall show roof and floor heights, dimensions of
+openings, location and extent of existing damage, and proposed repair and
+strengthening.91.9409.3.  Shear Walls.  Plans shall include all information
+pertinent to shear walls, including typical wall panel thickness, length, and
+the location and size of all anchors.91.9409.4.  Details.  Details shall
+include the existing lateral bracing systems to be utilized including work
+required for the lateral and vertical load systems and new anchors and the
+method of development of anchor forces into the diaphragm framing.91.9409.5. 
+Engineer’s or Architect’s Statement.  (Amended by Ord. No. 179,324, Eff.
+12/10/07, Oper. 1/1/08.)  The responsible engineer or architect shall state on
+the approved plans the following:	1.	“I am responsible for designing the
+strengthening for this building’s base level and below in compliance with the
+minimum regulations of Division 94 of the Los Angeles Building Code; and either
+I or someone under my responsible charge has performed the pre-design
+investigation.”	or when applicable:	2.	“The Registered Deputy Inspector,
+required as a condition of the use of structural design stresses requiring
+continuous inspection, will be responsible to me as required by Section 91.1704
+of the Los Angeles Building Code.”TABLE 94-A
+VALUES FOR EXISTING MATERIALS
+  
+    
+      
+        Existing Materials or Configuration of Materials 1
+      
+      
+        Allowable Values
+      
+    
+    
+      
+        1.	Plain or reinforced concrete footings
+      
+      
+        f ‘c = 2000 psi (13.8 MPa) unless otherwise shown by tests.
+      
+    
+    
+      
+        2.	Douglas fir wood
+      
+      
+        Allowable stress same as No. 2 D.F.
+      
+    
+    
+      
+        3.	Reinforcing steel
+      
+      
+        fs =  0.4 Fy, maximum 16 ksi (110 MPa).
+      
+    
+    
+      
+        4.	Structural steel
+      
+      
+        fb = 0.6 Fy, maximum 22 ksi (152 MPa).
+      
+    
+    
+      
+        5.	Anchor bolts
+      
+      
+        Current code values.
+      
+    
+    
+      
+        6.	Wood structural panels/diagonal sheathing
+      
+      
+        Current code values.
+      
+    
+  
+	1  Material must be sound and in good condition.

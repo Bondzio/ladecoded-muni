@@ -1,0 +1,57 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MONITORING SYSTEMS. (§ 57.31.39)
+
+  MONITORING SYSTEMS.
+	(Amended by Ord. No. 172,043, Eff. 7/13/98.)	A.	Requirements – Every
+underground tank shall be provided with an automatic, continuous, electronic
+monitoring system designed and constructed to be capable of detecting the
+release of the stored hazardous substance.	NOTE:	All systems shall be certified
+annually to ensure operation meets manufacturer’s
+specifications.	EXCEPTION:	Existing underground tanks which are in a concrete
+vault and the exterior surface of the tanks are accessible to visual
+inspection.  Visual inspections shall be conducted at intervals specified by
+the Chief.	1.	All methods of monitoring, detection, and leak interception shall
+be certified by a California Registered Engineer and be approved by the
+Chief.	2.	Monitoring systems shall:	a.	Be connected to alarm panels which shall
+have both visual and audible alarms incorporated.  Audibility shall be 10
+decibels above ambient sound levels, but not less than 85 decibels.	b.	Be
+electrically approved by Underwriters Laboratory for intrinsic safety.	c.	Have
+all sensing components and wiring supervised.	d.	Be tamper proof.	e.	Have
+L.A.F.D. Equipment Approval.	f.	Have a button to test continuity located on the
+face of the panel.	3.	Monitoring system annunciator panels shall be installed in
+locations where responsible personnel are normally in attendance during
+operation of the facility.  These panels shall not be installed in closets or
+storage rooms nor in other isolated areas.	4.	Written operating instructions and
+procedures shall be permanently affixed to the face of the monitoring system
+annunciator panel giving a step-by-step explanation of the procedures to be used
+when an unauthorized release occurs and when testing the monitoring system for
+continuity.  If space on panel face does not permit this, a durable permanently
+affixed placard located immediately adjacent to the panel, and clearly visible
+will be accepted.	5.	All monitoring systems must be field performance tested for
+the product being monitored.  Appropriate tracer substances may be used in
+testing vadose systems.	B.	Approved Methods of Monitoring:	Any or all of the
+following methods of monitoring may be incorporated into a monitoring
+system:	1.	Secondary Containment Monitoring.	a.	When a Secondary Containment
+Monitoring System is used, the monitoring device(s) shall be capable of
+detecting a leak of the product stored and water.	b.	All Secondary Containment
+shall be installed in a manner that allows servicing and liquid removal.	2.	Tank
+Level Monitoring.	a.	Must go into leak detect mode a minimum of once every
+24-hour period.  If the test is aborted for any reason, the system must
+automatically re-test until test is complete.  Confirmed leaks shall be
+reported immediately.  Tank Level Monitoring, as a stand-alone monitoring
+system, can only be used in Underground Tanks that can be shut down for a
+six-hour time period to allow for completion of the test.  Turbines must be
+disabled by the system during the test.  A two-hour quiescent period is
+required prior to testing and after product delivery.  If product is introduced
+or extracted due to delivery, dispensing, or theft, the test shall automatically
+abort.  The retest shall not begin until  two hours after product introduction
+and 1 one-hour after product extraction,	or;	b.	Must be an approved system
+capable of detecting a leak rate of .2 gallons per hour (gph) with a minimum
+probability of detection of 95% and a maximum probability of false alarm of
+5%.	c.	Must have capability and accuracy substantiated by a nationally
+recognized independent testing laboratory.	3.	Electronic Product Line Leak
+Detection.	a.	Shall cause complete turbine shut down based on a leak rate of not
+greater than .05 gph.	b.	Shall compensate for vapor and entrapped
+air.	4.	Alternate methods of monitoring will be reviewed and evaluated by the
+Fire Department.

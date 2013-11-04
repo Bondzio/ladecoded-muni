@@ -1,0 +1,21 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DESIGN PRESSURE. (§ 57.42.05)
+
+  DESIGN PRESSURE.	A.	The minimum design pressure for containers used for the
+storage of liquid or liquefied materials shall be dependent upon the vapor
+pressure of the stored material and upon the volume/surface ratio of the vessel
+as set forth in this section.	1.	When the volume/surface ratio is equal to or
+less than 1.0, the design pressure shall not be less than the vapor pressure (in
+psig) of the stored material at 115° F.	2.	When the volume surface/ratio is two
+or more, the design pressure shall be not less than the vapor pressure (in psig)
+of the stored material at 100° F.	3.	When the volume/surface ratio is greater
+than one but less than two, the design pressure shall not be less than the
+straight line interpolation between that required by paragraphs one and two of
+this subsection.	B.	The design pressure for containers used for the storage of
+nonliquefied gaseous materials hall be such as to allow for the heating of the
+contents to a gas temperature of 130° F.	C.	The minimum design pressure for
+containers used for processing shall be not less than 100 percent of the
+operating pressure (in psig at the operating temperature.)	D.	When a pressure
+vessel is used for both storage and processing, the minimum design pressure
+shall be not less than the maximum design pressure required under this section.

@@ -1,0 +1,62 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GENERAL. (§ 91.9201)
+
+  GENERAL.
+	(Added by Ord. No. 171,259, Eff. 8/30/96.)91.9201.1.  Purpose. The provisions
+of this division are intended to promote public safety and welfare by reducing
+the risk of earthquake-induced damage to existing wood-framed residential
+buildings.  The voluntary minimum standards contained in this division shall
+substantially improve the seismic performance of these residential buildings but
+will not necessarily prevent all earthquake damage. When fully followed, these
+standards will strengthen the portion of the structure that is most vulnerable
+to earthquake damage.	Prior to 1960, most wood frame residential buildings were
+built with raised wood floors supported by short wood stud walls known as
+cripple walls.  These cripple walls are typically braced with weak seismic
+materials such as portland cement plaster or horizontal wood siding.  In
+addition, wood frame buildings built under building codes in effect prior to 
+July 1938 were not required to be bolted to their foundations. Recent
+earthquakes have shown that if a building has weak cripple walls or is unbolted,
+it may fall off its foundation even in moderate earthquakes.  Fallen buildings
+have collapsed, caught fire or needed extensive repairs to restore their
+occupancy.	This division sets prescriptive standards for strengthening of
+underfloor enclosures that shall be permitted by the Superintendent of Building
+without requiring plans or calculations prepared by an architect or an
+engineer.  This division also provides a design standard for the use of
+alternate materials or an alternate method of construction in lieu of the
+prescriptive standards.  Construction documents for strengthening using
+alternate materials or methods shall be prepared by an architect or
+engineer.91.9201.2.  Scope.  (Amended by Ord. No. 179,324, Eff. 12/10/07,
+Oper. 1/1/08.)  The provisions of this division may be applied to light wood
+frame Group R Occupancies with no more than four dwelling units when they
+contain one or more of the structural weaknesses specified in Section
+91.9203.1.	The provisions of this division do not apply to the buildings or
+elements of the buildings, listed below.  These buildings or elements require
+analysis by an engineer or architect in accordance with Division 16 or other
+approved standards to determine appropriate strengthening.	1.	Buildings with a
+lateral force resisting system using poles or columns embedded in the
+ground.	2.	Cripple walls that exceed four feet (1234 mm) in height.	3.	Buildings
+exceeding three stories in height and any three-story building with cripple wall
+studs exceeding 14 inches (360 mm) in height.	4.	Buildings, or portions of
+buildings, constructed on a concrete slab on grade or constructed on or into a
+slope steeper than three horizontal to one vertical.	5.	Buildings where the
+Superintendent of Building determines that conditions exist that are beyond the
+scope of the requirements of this division.	The standard details approved by the
+Superintendent of Building and these prescriptive provisions are not intended to
+be the only acceptable strengthening methods permitted.  Alternate details and
+methods shall be permitted when approved by the Superintendent of Building. 
+Qualified Historical Buildings shall be permitted to use alternate building
+regulations of Section 91.8119 of this Code in order to preserve their original
+or restored architectural elements and features.91.9201.3.  Alternative Design
+Procedures.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  When
+analysis by an engineer or architect is required or provided for a building
+within the scope of this division, that analysis shall be in accordance with all
+requirements of this Code except as provided in this division.  The design
+shall provide strengthening for any structural weakness listed in LAMC Section
+91.9203 that is at least equivalent to that provided by the prescriptive
+requirements of this division with respect to strength, deflection, and
+capacity.  The Superintendent of Building may require that sufficient evidence
+be submitted to substantiate that equivalence.  The base shear may be
+determined in accordance with the following:	V = 0.1375 W	(92-1)	Where:		V	=	The
+total design lateral force or shear at the base.		W	=	The total seismic dead
+load defined in Section 12.7.2 of ASCE 7.

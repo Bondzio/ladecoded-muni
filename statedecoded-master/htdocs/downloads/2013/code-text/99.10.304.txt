@@ -1,0 +1,23 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+OUTDOOR WATER USE. (§ 99.10.304)
+
+  OUTDOOR WATER USE.99.10.304.1.  Water Budget.  (Reserved)99.10.304.2. 
+Outdoor Potable Water Use.  Building additions or alterations resulting in a
+water service upgrade and are located on sites with 1,000 square feet or more of
+cumulative landscaped areas served by potable water service, shall have separate
+meters or submeters for indoor and outdoor potable water use.99.10.304.3. 
+Irrigation Design.  Building addition and alteration projects, on sites with
+1,000 square feet or more of cumulative landscaped areas being served by a
+potable water service, shall have irrigation controllers and sensors that meet
+99.10.304.3.1 and the manufacturer’s recommendations.	EXCEPTION:	1.	Additions
+with a permit valuation of less than $50,000.99.10.304.3.1.  Irrigation
+Controllers.  When new automatic irrigation system controllers are installed in
+conjunction with the addition or alteration, the controllers shall comply with
+the following:	1.	Controllers shall be weather- or soil moisture-based
+controllers that automatically adjust irrigation in response to changes in
+plants’ needs as weather conditions change.	2.	Weather-based controllers
+without integral rain sensors or communication systems that account for local
+rainfall shall have a separate wired or wireless rain sensor which connects or
+communicates with the controller(s).  Soil moisture-based controllers are not
+required to have rain sensor input.

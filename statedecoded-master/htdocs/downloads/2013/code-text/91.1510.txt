@@ -1,0 +1,207 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+REROOFING. (§ 91.1510)
+
+  REROOFING.	Section 1510 of the CBC is adopted by reference, except Sections
+1510.1, 1510.3 and 1510.4 of the CBC are not adopted and in lieu, Sections
+91.1510.1, 91.1510.3 and 91.1510.4 are added.91.1510.1.  General.  Materials
+and methods of application used for recovering or replacing an existing roof
+covering shall comply with the requirements of Division 15.  	EXCEPTION: 
+shall not be required to meet the minimum design slope requirement of
+one-quarter unit vertical in 12 units horizontal (two-percent slope) in Section
+91.1507 for roofs that provide positive roof drainage.91.1510.3.  Recovering
+Versus Replacement.  New roof coverings shall not be installed without first
+removing all existing layers of roof coverings where any of the following
+conditions occur:		1.	Where the existing roof or roof covering is water soaked
+or has deteriorated to the point that the existing roof or roof covering is not
+adequate as a base for additional roofing.
+		2.	Where the existing roof covering is wood shake, slate, clay, cement or
+asbestos-cement tile.		3.	Where the existing roof has two or more applications
+of any type of roof covering.	EXCEPTIONS:		1.	Complete and separate roofing
+systems, such as standing-seam metal roof systems, that are designed to transmit
+the roof loads directly to the building’s structural system and that do not
+rely on existing roofs and roof coverings for support shall not require the
+removal of existing roof coverings.		2.	The application of a new protective
+coating over an existing spray polyurethane foam roofing system shall be
+permitted without tear-off of existing roof coverings.91.1510.4.  Roof
+Recovering.  Roof covering may be applied over existing roofing in accordance
+to Table 1510.1 of this Code.
+TABLE 1510.1
+	ALLOWABLE REROOFS OVER EXISTING ROOFING
+  
+    
+      
+        EXISTING ROOFING
+      
+      
+        NEW OVERLAY ROOFING
+      
+    
+    
+      
+        BUILT UP
+      
+      
+        ASPHALT SHINGLE
+      
+      
+        TILE ROOF
+      
+      
+        METAL ROOF
+      
+      
+        MODIFIED BITUMEN
+      
+      
+        SPRAY POLY- URETHANE FORM
+      
+    
+    
+      
+        Built Up
+      
+      
+        Yes
+      
+      
+        Yes
+        (2:12)
+      
+      
+        Yes
+        (2.5:12)
+      
+      
+        Yes
+      
+      
+        Yes
+      
+      
+        Yes
+      
+    
+    
+      
+        Asphalt
+        Shingle
+      
+      
+        NP
+      
+      
+        Yes
+      
+      
+        Yes
+        (2.5:12)
+      
+      
+        Yes
+      
+      
+        Yes
+      
+      
+        NP
+      
+    
+    
+      
+        Asphalt over Asphalt
+      
+      
+        NP
+      
+      
+        Yes
+      
+      
+        Yes
+      
+      
+        Yes
+      
+      
+        Yes
+      
+      
+        NP
+      
+    
+    
+      
+        Tile
+        Roof
+      
+      
+        NP
+      
+      
+        NP
+      
+      
+        NP
+      
+      
+        NP
+      
+      
+        NP
+      
+      
+        NP
+      
+    
+    
+      
+        Metal
+        Roof
+      
+      
+        NP
+      
+      
+        NP
+      
+      
+        NP
+      
+      
+        Yes
+      
+      
+        NP
+      
+      
+        NP
+      
+    
+    
+      
+        Modified Bitumen
+      
+      
+        Yes
+      
+      
+        Yes
+      
+      
+        Yes
+        (2.5:12)
+      
+      
+        Yes
+      
+      
+        Yes
+      
+      
+        NP
+      
+    
+  
+	NP = Not Permitted.
+	Note: (Minimum Roof Slope)

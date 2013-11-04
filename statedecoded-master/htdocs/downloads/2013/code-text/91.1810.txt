@@ -1,0 +1,34 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEEP FOUNDATIONS.. (§ 91.1810)
+
+  DEEP FOUNDATIONS..
+	(Added by Ord. 181,758, Eff. 8/8/11.)	Section 1810 of the CBC is adopted by
+reference, except Sections 1810.3.1.5, 1810.3.2.4, 1810.3.3.1.4, and 1810.3.10.4
+of the CBC are not adopted and in lieu Sections 91.1810.3.1.5, 91.1810.3.2.4,
+91.1810.3.3.1.4 and 91.1810.3.10.4 are added.91.1810.3.1.5. Helical Piles. 
+Helical piles shall be designed and manufactured in accordance with accepted
+engineering practice to resist all stresses induced by installation into the
+ground and service loads.  Helical piles shall not be used for support of new
+structures.  Helical piles may be used to underpin foundations of existing
+structures or retrofit or remediate deficient foundations of existing
+structures.  Helical piles shall not be used to resist any horizontal loads.
+ 91.1810.3.2.4. Timber.  Timber deep foundation elements shall be designed as
+piles or poles in accordance with AF&#038;PA NDS. Round timber elements shall
+conform to ASTM D 25. Sawn timber elements shall conform to DOC PS-20.  Timber
+deep foundation shall not be used in structures assigned to Seismic Design
+Category D, E, or F.91.1810.3.3.1.4. Allowable Frictional Resistance.  The
+assumed frictional resistance developed by any uncased cast-in-place deep
+foundation element shall not exceed one-sixth of the bearing value of the soil
+material at minimum depth as set forth in CBC Table 1806.2, up to a maximum of
+500 psf (24 kPa), unless a greater value is allowed by the Department on the
+basis of a geotechnical investigation as specified in Section 1803 or a greater
+value is substantiated by a load test in accordance with CBC Section
+1810.3.3.1.2.  Frictional resistance and bearing resistance shall not be
+assumed to act simultaneously.91.1810.3.10.4. Seismic Reinforcement.  For
+structures assigned to Seismic Design Category C, a permanent steel casing shall
+be provided from the top of the micropile down to the point of zero curvature.
+For structures assigned to Seismic Design Category D, E or F, the micropile
+shall be considered as an alternative system in accordance with Section
+91.104.2.6 of this Code. The alternative system design, supporting documentation
+and test data shall be submitted to the Department for review and approval.

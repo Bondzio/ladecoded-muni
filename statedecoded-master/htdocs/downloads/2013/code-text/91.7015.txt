@@ -1,0 +1,78 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+BUTTRESS FILLS. (§ 91.7015)
+
+  BUTTRESS FILLS.
+	(Added by Ord. No. 171,175, Eff. 7/25/96.)91.7015.1.  General.  A buttress
+fill is a designed compacted earth fill used for providing lateral support to an
+unstabilized rock mass.  All buttress fills shall comply with the more
+restrictive of the requirements of this section or Section 91.7006.91.7015.2. 
+Foundation.  The ability of the foundation material to support the buttress
+shall be investigated and the soils engineer shall provide specifications for
+keying of the base of the buttress and for bonding the buttress to the natural
+ground.91.7015.3.  Base Width.  (Amended by Ord. No. 171,939, Eff. 4/15/98.) 
+The minimum base width of a buttress fill shall not be less than 12 feet (3658
+mm) or less than one half its height, whichever is the greater.  The width of a
+buttress fill may vary uniformly to a top width of not less than 12 feet (3658
+mm).91.7015.4.  Slope.  (Amended by Ord. No. 171,939, Eff. 4/15/98.)  The
+exposed surface of a buttress fill shall not exceed a slope of one unit vertical
+in two units horizontal (50% slope).	EXCEPTION:  The Department or the board,
+in case an appeal is made to it under Section 91.105, may permit a buttress fill
+to be made which creates an exposed surface steeper in slope than one unit
+vertical in two units horizontal (50% slope), provided:	1.	The use of the
+steeper slope is determined to be necessary due to special design limitations on
+the site;	2.	The gradient does not exceed one unit vertical in one and one-half
+units horizontal (66.7% slope); and	3.	The applicant shows through
+investigation, subsurface exploration, analysis and report by both a soils
+engineer and an engineering geologist to the Department’s satisfaction, that
+the buttress fill to be used and the underlying earth material supporting the
+fill will have strength characteristics sufficient to produce a stable slope
+with a minimum factor of safety of not less than 1.5 for static
+loads.91.7015.5.  Subdrains.  Subdrains which blanket the entire back face of
+the buttress or which occur at intervals shall be provided to prevent buildup of
+hydrostatic pressure.  Details of subdrains shall be provided by the soils
+engineer and approved by the Department.91.7015.6.  Blanket Seals.  (Amended
+by Ord. No. 171,939, Eff. 4/15/98.)  Blanket seals of relatively impervious
+material shall be required on cut pads above buttress fills where grading
+exposes the strata to infiltration of water.  The blanket shall be of 2-foot
+(610 mm) minimum thickness or of such greater dimension as specified by the
+soils engineer.91.7015.7.  Design.  (Amended by Ord. No. 179,324, Eff.
+12/10/07, Oper. 1/1/08.)  For design purposes, a maximum value of 75 pound per
+square feet (3.6 kN/m2) cohesion and an angle of internal friction of six
+degrees may be used to determine the resistance of the bedding plane.  Use of
+greater value shall be substantiated by tests taken along the probable slip
+plane under conditions simulating the worst possible field conditions.  The
+method of performing these tests shall be included in the soils engineer’s
+report.	The type, percentage of compaction, cohesion and angle of internal
+friction of the materials to be placed in the buttress shall be specified.	The
+buttress fill shall be designed for a minimum safety factor of 1.50 based on the
+residual strength of the bedrock and the lowest shear strength of the fill
+material.
+INTECEPTOR TERRACEFIGURE A
+(Amended by Ord. No. 171,175, Eff. 7/25/96.)DIVERTER TERRACE
+For top of cut slopesFIGURE B
+(Amended by Ord. No. 171,175, Eff. 7/25/96.)BERM DETAILFIGURE C
+(Amended by Ord. No. 171,175, Eff. 7/25/96.)20 FOOT HORIZONTAL BENCHFIGURE D
+(Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)NOTES:1.	Concrete
+drainage benches shall be formed before pouring concrete.  Forms shall be set
+to grade and alignment at all breaks in the cross sections.  The concrete shall
+be screeded to cross sections.2.	Gunite drainage benches shall be shot to wire
+guides.  Guides shall be set to grade and alignment at all breaks in the cross
+section.  The Gunite shall be screeded to cross section.3.	When concrete is to
+be places against earth, the area to be covered shall be trimmed and finished to
+the dimensions shown on the plans.  The area shall be moistened and thoroughly
+compacted to form a firm foundation.  Grade stakes shall be installed to
+clearly establish flow lines.FIGURE E
+(Amended by Ord. No. 171,175, Eff. 7/25/96.)DRAINAGE DISPERSAL WALL
+FIGURE F
+(Amended by Ord. No. 171,175, Eff. 7/25/96.)NOTES:1.	Grout all cells and omit
+all head joints first course.2.	Wall to be located along contour line to
+establish uniform overflow or seepage.3.	Length of wall to equal length of
+contour line affected by grading.4.	When concrete is to be placed against earth,
+the area to be covered shall be trimmed and finished to the dimensions shown on
+the plans.  The area shall be moistened and thoroughly compacted to form a firm
+foundation.  Grade stakes shall be installed to clearly establish flow
+lines.FIGURE G
+(Amended by Ord. No. 171,175, Eff. 7/25/96.)(Amended by Ord. No. 171,175, Eff.
+7/25/96.)
+(Amended by Ord. No. 171,175, Eff. 7/25/96.)

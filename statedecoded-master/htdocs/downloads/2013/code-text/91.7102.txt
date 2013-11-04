@@ -1,0 +1,59 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 91.7102)
+
+  DEFINITIONS.	For the purpose of this division, certain words and phrases are
+defined as follows:	Alarm System shall mean a group of interacting elements
+consisting of components and circuits arranged to monitor and annunciate the
+status of gas concentration levels or supervisory signal-initiating devices and
+to initiate the appropriate response to those signals.	Buildings with Raised
+Floor Construction shall mean a building with the bottom of the floor system
+raised above grade where the clearance for each of the following items shall be
+at least:  12 inches for the girder, 18 inches for the floor joist and 24
+inches for the structural floors.	Cable or Conduit Seal Fitting shall mean an
+approved fitting provided in a cable or conduit system to prevent the passage of
+gases, vapors, or flames through electrical cable or conduit.	Design Methane
+Concentration shall mean the highest concentration of methane gas found during
+site testing.	Design Methane Pressure shall mean the highest pressure of methane
+gas found during site testing.	De-watering System shall mean a permanent water
+removal system, consisting of perforated pipes, gravel, sump pumps and pits,
+designed to permanently maintain the ground water level one foot below the
+sub-slab vent system.	Gas Detection System shall mean one or more electrical
+devices that measure the methane gas concentration and communicate the
+information to the occupants, building management, central station or alarm
+company with audible or visual signals.	Gravel Blanket shall mean a layer of
+gravel, sand, or approved material designed to transmit gas to the vent riser
+without obstructing the venting system.	Impervious Membrane shall mean a
+continuous gas barrier made of material approved by the Department and installed
+beneath a building for the purpose of impeding methane migration to the interior
+of the building.
+	Mechanical Extraction System shall mean a system operated by a machine which is
+designed to remove methane gas from below the impervious membrane through the
+use of fans, blowers, or other powered devices.	Mechanical Ventilation shall
+mean a fan, blower or other similar group of interacting elements operated by a
+machine within the building, which introduce and/or remove air from an enclosed
+space.	Narrow Building shall mean a building that has a width less than 50 feet,
+a footprint of less than 50,000 square feet and having a minimum 2-foot wide
+landscaped area immediately adjacent to the exterior wall for at least 50
+percent of the perimeter of the building.	Oil Well shall mean a deep hole or
+shaft sunk into the earth for the exploration of oil or gas; or which is on
+lands producing or reasonably presumed to contain oil or gas; or which is
+drilled for the purpose of injecting fluids or gas for stimulating oil recovery,
+re-pressurizing or pressure maintenance of oil or gas, or disposing of waste
+fluids from an oil or gas field.	Perforated Horizontal Pipe shall mean an
+approved pipe which contains a series of small holes or narrow openings placed
+equidistant along the length of the approved pipe, which is placed horizontally
+beneath the foundation of a building, for the purpose of venting accumulated
+methane gas and preventing the development of elevated gas pressures, or for
+drainage of ground water to an approved location.	PPMV shall mean Parts per
+Million by Volume.	Pressure Sensor (Deleted by Ord. No. 180,619, Eff.
+5/12/09.)	Single Station Gas Detector shall mean a device consisting of
+electrical components capable of measuring methane gas concentration and
+initiating an alarm.	Trench Dam shall mean an approved subsurface barrier
+installed within a furrow or ditch adjacent to the foundation of a building, for
+the purpose of preventing the migration of methane gas beneath that
+foundation.	Unobstructed Opening shall mean a permanent clearing or gap in the
+walls, floors or roof-ceiling assemblies without windows, doors, skylights or
+other solid barriers that may restrict the flow of air.	Vent Riser shall mean an
+approved pipe which is placed vertically  with joints and fittings connected to
+Perforated Horizontal Pipes to convey and discharge the gas to the atmosphere.

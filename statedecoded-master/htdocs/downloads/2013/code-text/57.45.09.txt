@@ -1,0 +1,47 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+TESTING OF PIPING SYSTEMS. (§ 57.45.09)
+
+  TESTING OF PIPING SYSTEMS.	A.	General:	After installation of the piping, but
+before installation of the outlet valves and other system components, the lines
+shall be blown clear by means of oil-free dry air or nitrogen.	B.	Pressure
+Testing:
+	1.	Before attachment of system components, but after installation of station
+outlets with test caps in place, each section of the piping system shall be
+subjected to a test pressure of not less than 150 psig with oil-free dry air or
+nitrogen. This test pressure shall be maintained until each joint has been
+examined for leakage.  All leaks shall be repaired and the pipe section
+retested.	2.	After completing the testing of each section of the piping system,
+all of the medical gas system shall be subjected to a 24-hour standing pressure
+test at 20 percent above the normal operating line pressure. The test gas shall
+be oil-free dry air or nitrogen. The main line shutoff valve shall be
+closed.	3.	After the piping system is filled with test gas, the supply valve and
+all outlets shall be closed and the source of test gas disconnected. The system
+shall remain leak-free under such test conditions for 24 hours.  When making
+the standing pressure test, the only allowable pressure changes during the
+24-hour test period shall be those caused by variations in the ambient
+temperature around the piping system.	C.	Test System For Cross Connection:	1.	To
+determine that no cross connection to other piping systems exists, all systems
+shall be reduced to atmospheric pressure.	2.	All sources of test gas shall be
+disconnected from all of the systems with the exception of the one system to be
+tested.	3.	The system to be tested shall be pressurized with oil-free dry air or
+nitrogen to a pressure of 50 psig.	4.	Each individual station outlet of all
+systems installed shall be checked to determine that test gas is being dispensed
+only from the system being tested. This shall be done using appropriate adapters
+matching outlet labels.	5.	The source of test gas shall be disconnected from the
+system tested and the pressure of that system reduced to atmospheric.	6.	Each
+additional piping system shall be tested using the same procedure.	7.	Where a
+medical vacuum piping system is installed, the cross-connection testing shall
+include that system with all other medical gas piping
+systems.	D.	Purging:	1.	After all medical gas piping systems have been tested,
+the source of test gas shall be disconnected and the proper gas source of supply
+connected to each respective system. Following this connection and
+pressurization, all outlets shall be opened in a progressive order, starting
+nearest the source and completing the process of purge flushing at the outlet
+farthest from the source.	2.	Purge gas shall be allowed to impinge upon a white
+cloth material until no evidence of discoloration is evident and the test gas
+used during the previous tests has been removed from the piping
+systems.	E.	Warning System Tests:	Warning systems for each medical gas piping
+system shall be tested to insure that all components function properly prior to
+placing the piping system in service.  Permanent records of these tests shall
+be maintained.

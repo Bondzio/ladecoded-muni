@@ -1,0 +1,21 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CLASSIFICATION OF OVENS AND FURNACES. (§ 57.61.03)
+
+  CLASSIFICATION OF OVENS AND FURNACES.	The standard for the location, design,
+and construction of ovens and furnaces is set forth under the following
+classifications:	Class A:  Ovens and furnaces are heat utilization equipment
+operating at approximately atmospheric pressure wherein there is a potential
+explosion and/or fire hazard when flammable vapors or combustible materials are
+processed or heated in the oven.  Such materials which produce flammable
+residues and/or volatiles in sufficient quantities to present a hazard shall be
+installed and ventilated according to Division 84 of this article.	Class B: 
+Ovens and furnaces are heat utilization equipment operating at approximately
+atmospheric pressure wherein there are no flammable vapors or combustible
+materials being heated.	Class C:  Furnaces are those in which there is an
+explosion hazard due to a flammable or special atmosphere being used for
+treatment of material in process.  This type of furnace may use any type of
+heating system and includes the special atmosphere supply system.	Class D:
+Furnaces are heat utilization equipment which operate at a vacuum, at
+temperatures above ambient, and at pressures below atmospheric, using any type
+of heating system.  These furnaces may include the use of special atmospheres.

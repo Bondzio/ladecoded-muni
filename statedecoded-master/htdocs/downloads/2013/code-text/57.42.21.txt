@@ -1,0 +1,45 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SPECIAL REQUIREMENTS FOR LIQUEFIED MATERIALS. (§ 57.42.21)
+
+  SPECIAL REQUIREMENTS FOR LIQUEFIED MATERIALS.	Whenever storage containers,
+other than at places which fall under the provisions of Section 57.01.28-B of
+this article, are used for flammable or toxic liquefied materials, they shall be
+equipped as provided in this section.	A.	All liquid connections which require a
+shut-off valve as set forth in Section 57.42.20 shall, in addition to such
+shut-off valve, be fitted with a manually operated internal valve.	B.	All vapor
+connections which require a shut-off valve as set forth in Section 57.42.20
+shall, in addition to such shut-off valve, be fitted with a manually operated
+internal valve, or excess-flow check valve, or a back-flow check
+valve.	C.	Internal valves, excess-flow check valves, and back-flow check valves
+which are installed in accordance with Subsections A or B of this section shall
+comply with the following requirements of this subsection:	1.	Every internal
+valve shall be provided with a fusible section which will cause the valve to
+close automatically in case of fire. The fusible section shall melt at a
+temperature not in excess of 220° F.	2.	Every excess-flow check valve shall
+close automatically at the rated flow of vapor specified by the manufacturer.
+The selection of excess-flow check valve capacity shall be in conformance with
+the design requirements of the system. Every excess flow valve shall be designed
+with a bypass, not to exceed a No. 60 drill size opening to allow equalization
+of pressures when closed.	3.	Every excess-flow and back-flow check valve shall
+either be installed inside the container to prevent mechanical injury; or, if
+installed so as to be accessible from outside the container, they shall be
+designed so that an external blow cannot shear off vital parts so as to permit
+escape of the container contents.	D.	Storage containers shall be equipped with a
+liquid level gauging device of approved design. Tubular glass gauges shall not
+be used on containers having a design pressure in excess of 15 psig.	1.	Every
+gauging device that requires bleeding of the product to the atmosphere, such as
+the rotary tube, fixed tube, and slip tube, shall be so designed that the bleed
+valve maximum opening is no larger than a No. 54 drill size, unless provided
+with an excess-flow check valve.	2.	Every gauging device shall be clearly marked
+to indicate the maximum level to which the vessel may be filled for the material
+contained. This level shall be based on the volume requirements of L.A.F.D.
+Standard No. 25, assuming a product temperature of 40° F. for aboveground
+storage containers and 50° F. for underground storage containers.	3.	Column
+type gauges shall be equipped with positive shut-off valves at the top and
+bottom, and in addition, shall be equipped with means for automatically
+preventing continuous flow in case of breakage.	E.	Every storage container shall
+have every inlet and outlet connection clearly labeled to designate whether it
+is connected to the vapor space or the liquid space. Labels may be on valves,
+except that labels shall not be required on connections to safety valves,
+pressure gauges, or liquid level gauging devices.

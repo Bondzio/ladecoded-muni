@@ -1,0 +1,49 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FIRE PUMPS AND DRIVERS. (§ 94.2030.0)
+
+  FIRE PUMPS AND DRIVERS.
+	(Amended by Ord. No. 181,757, Eff. 7/6/11.)	FIRE PUMPS AND DRIVERS.  Fire
+pumps, their drivers and associated piping and equipment shall conform to the
+requirements set forth in NFPA 20-2007 with the following exceptions and
+modifications:94.2030.1. NFPA 20-2007 Sections 1.4 through 1.4.3 are not
+adopted.94.2030.2. NFPA 20-2007 Sections 5.7.1 is added and modified to read as
+follows:	5.7.1. Fire pumps, equipment used with fire pumping systems, devices
+and attachments shall be listed.  A copy of the manufacturer’s certified pump
+test characteristic curve shall be available for comparison of results of field
+acceptance tests.  The fire pump as installed shall equal the performance as
+indicated on the manufacturer’s certified shop test characteristic curve
+within the accuracy limits of the test equipment.94.2030.3. NFPA 20-2007
+Sections 5.11.1.4 is added and modified to read as follows:	5.11.1.4. The relief
+valve shall discharge to an approved location.94.2030.4. NFPA 20-2007 Sections
+5.14.2.1 is added and modified to read as follows:	5.14.2.1. General. 
+Installation of above-ground suction piping shall conform to the requirements
+for fire sprinkler piping.94.2030.5. NFPA 20-2007 Sections 5.14.4.1 is added and
+modified to read as follows:	5.14.4.1. Pump Bypass.  A full-way pump bypass
+with check valve shall be connected downstream of the fire pump shutoff valve
+when available pressure will supply useful protection with the pump off.  There
+shall be two control valves to isolate check valves in each bypass.94.2030.6.
+NFPA 20-2007 Sections 5.14.11 is added and modified to read as follows:	5.14.11.
+Fire Department Connections. Fire Department connections shall not be connected
+on the suction side of the fire pump.94.2030.7. NFPA 20-2007 Section 5.17 is
+added and modified to read as follows:	5.17. Protection of Piping Against Damage
+Due to Movement. Clearance for the piping shall conform to the requirements of
+Section 9.3.4 of NFPA 13-2010.94.2030.8. NFPA 20-2007 Sections 5.19.2 through
+5.19.2.3.3 are not adopted.94.2030.9. NFPA 20-2007 Section 5.19.3.1.4 is added
+and modified to read as follows:	5.19.3.1.4. The discharge from the test header
+shall terminate to the fire water storage tank where available.94.2030.10. NFPA
+20-2007 Sections 5.19.3.5 is added and modified to read as follows:	5.19.3.5.
+Label. Test headers hose valves shall be labeled “TEST
+CONNECTIONS.”	EXCEPTION:  Temporary Fire Pumps and Outlets.94.2030.11. NFPA
+20-2007 Sections 5.24.8 is added and modified to read as follows:	5.24.8.
+Pressure Maintenance (Jockey or Makeup) Pumps.  A pressure maintenance pump
+shall be installed with each fire pump system.	EXCEPTION:  Fire pump serving
+class II standpipes, temporary standpipes and fire pumps serving fire systems in
+one and two-dwelling family dwellings.94.2030.12. NFPA 20-2007 Section 5.30.1
+(1) is not adopted.94.2030.13. Chapter 9 of NFPA 20-2007 is not
+adopted.94.2030.14. NFPA 20-2007 Sections 10.1 through 10.4.8 are not
+adopted.94.2030.15. NFPA 20-2007 Sections 10.6 through 10.10.11 are not
+adopted.94.2030.16. NFPA 20-2007 Section 11.4 is added and modified to read as
+follows:	11.4. Fuel Supply and Arrangement.  Fuel supply and arrangement shall
+be installed as required by the Los Angeles Fire Code.94.2030.17. NFPA 20-2007
+Sections 11.4.1 through 11.4.8 are not adopted.

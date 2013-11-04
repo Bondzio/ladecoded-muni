@@ -1,0 +1,342 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INDOOR WATER USE. (§ 99.09.303)
+
+  INDOOR WATER USE.99.09.303.1.  Water Use Reduction.  New plumbing fixtures
+and fittings shall not exceed maximum allowable flow rate specified in Table
+9.303.2.99.09.303.2.  Multiple Showerheads Serving One Shower.  When single
+shower fixtures are served by more than one showerhead, the combined flow rate
+of all the showerheads shall not exceed the maximum flow rates specified in the
+maximum allowable flow rate column contained in Table 9.303.2 or the shower
+shall be designed to only allow one showerhead to be in operation at a
+time.	EXCEPTION:  When a calculation demonstrating a 20 percent reduction in
+the building “water use” baseline as established in Table 9.303.1 is
+provided, the maximum flow rate may be increased to 2.5 gpm @ 80 psi.  The
+calculation shall be limited to the following plumbing fixture and fitting
+types: water closets, urinals, lavatory faucets, and showerheads.TABLE 9.303.1
+INDOOR WATER USE BASELINE 1
+  
+    
+      
+        Fixture Type
+      
+      
+        Flow-rate 2
+      
+      
+        Duration
+      
+      
+        Daily uses
+      
+      
+        Occupants 3
+      
+    
+    
+      
+        Showerheads, Residential
+      
+      
+        2.5 gpm @ 80 psi
+      
+      
+        8 min.
+      
+      
+        1
+      
+      
+        
+      
+    
+    
+      
+        Lavatory Faucets, Residential
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        .25 min.
+      
+      
+        3
+      
+      
+        
+      
+    
+    
+      
+        Replacement Aerators
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Gravity Tank Type Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 4
+        3 female
+      
+      
+        
+      
+    
+    
+      
+        Flushometer Tank Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 4
+        3 female
+      
+      
+        
+      
+    
+    
+      
+        Flushometer Valve Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 4
+        3 female
+      
+      
+        
+      
+    
+    
+      
+        Urinals
+      
+      
+        1.0 gallons/flush
+      
+      
+        1 flush
+      
+      
+        2 male
+      
+      
+        
+      
+    
+  Fixture “Water Use” = Flow rate x Duration x Occupants x Daily uses 
+1	Use Worksheet WS-1 to calculate baseline water use.
+  2	The flow-rate is from the CEC Appliance Efficiency Standards, Title 20,
+California Code of Regulations; where a conflict occurs, the CEC standards shall
+apply.
+  3	For low-rise residential occupancies, the number of occupants shall be
+based on two people for the first bedroom, plus one additional person for each
+additional bedroom
+  4	The daily use shall be increased to three if urinals are not installed in
+the room.TABLE 9.303.2
+FIXTURE FLOW RATES
+  
+    
+      
+        Fixture Type
+      
+      
+        Flow Rate
+      
+      
+        Maximum Allowable Flow Rate
+      
+    
+    
+      
+        Showerheads
+      
+      
+        2.5 gpm @ 80 psi
+      
+      
+        2 gpm @ 80 psi
+      
+    
+    
+      
+        Lavatory Faucets Residential
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        1.5 gpm @ 60 psi
+      
+    
+    
+      
+        Gravity Tank Type Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Flushometer Tank Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Flushometer Valve Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Urinals
+      
+      
+        1.0 gallons/flush
+      
+      
+        0.125 gallons/flush
+      
+    
+  
+  1	Includes single and dual flush water closets with an effective flush of
+1.28 gallons or less.Single Flush Toilets – The effective flush volume shall
+not exceed 1.28 gallons (4.8 liters). The effective flush volume is the average
+flush volume when tested in accordance with ASME A112.19.233.2.Dual Flush
+Toilets – The effective flush volume shall not exceed 1.28 gallons (4.8
+liters). The effective flush volume is defined as the composite, average flush
+volume of two reduced flushes and one full flush. Flush volumes will be tested
+in accordance with ASME A112.19.2 and ASME A112.19.14.  2	Lavatory faucets
+shall not have a flow rate less than 0.8 gpm at 20 psi99.09.303.3.  Plumbing
+Fixtures and Fittings.  New plumbing fixtures (water closets and urinals) and
+fittings (faucets and showerheads) shall meet the standards referenced in Table
+9.303.3.TABLE 9.303.3
+STANDARDS FOR PLUMBING FIXTURES AND FIXTURE FITTINGS
+  
+    
+      
+        REQUIRED STANDARDS
+      
+    
+    
+      
+        Water closets (toilets) – flushometer valve type single flush, maximum
+flush volume
+      
+      
+        ASME A112.19.2/
+        CSA B45.1 – 1.28 gal
+        (4.8 L)
+      
+    
+    
+      
+        Water closets (toilets) – flushometer valve type dual flush, maximum
+flush volume
+      
+      
+        ASME A112.19.14 and USEPA WaterSense Tank-Type High Efficiency Toilet
+Specification – 1.28 gal
+        (4.8 L)
+      
+    
+    
+      
+        Water closets (toilets) – tank-type
+      
+      
+        U.S. EPA WaterSense Tank-Type High- Efficiency Toilet Specification
+      
+    
+    
+      
+        Urinals, maximum flush volume
+      
+      
+        ASME A112.19.2/
+        CSA B45.1 – 0.5 gal
+        (1.9 L)
+      
+    
+    
+      
+        Urinals, non-water urinals
+      
+      
+        ASME A112.19.19 (vitreous china)
+        ANSI Z124.9-2004 or IAPMO Z124.9 (plastic)
+      
+    
+    
+      
+        Public lavatory faucets: Maximum flow rate – 0.5 gpm (1.9 L/min)
+      
+      
+        ASME A112.18.1/
+        CSA B125.1
+      
+    
+    
+      
+        Public metering self- closing faucets: Maximum water use – 0.25 gal
+(1.0 L) per metering cycle
+      
+      
+        ASME A112.18.1/
+        CSA B125.1
+      
+    
+    
+      
+        Residential bathroom lavatory sink faucets: Maximum flow rate – 1.5
+gpm (5.7 L/min)
+      
+      
+        ASME A112.18.1/
+        CSA B125.1

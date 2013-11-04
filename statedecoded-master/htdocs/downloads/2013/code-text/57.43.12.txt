@@ -1,0 +1,21 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+PRESSURE RELIEF DEVICE. (§ 57.43.12)
+
+  PRESSURE RELIEF DEVICE.	A.	Every special vessel operating at a pressure above
+the atmospheric pressure of the vessel shall be equipped with at least one
+approved pressure-relief device. If only one pressure-relief device is used, it
+shall be set to operate at a pressure not to exceed the maximum allowable
+working pressure of the vessel.  Additional relief devices may be set to
+operate at a higher pressure but shall not exceed 120 percent of the maximum
+allowable working pressure of the vessel.	B.	In determining the capacity of the
+pressure-relief device, the heat transfer to the special vessel shall be based
+on heat transfer through the insulation with the temperature outside of the
+insulation assumed to be not less than 1600° F.	C.	The discharge from
+pressure-relief devices or systems shall be at a safe location.  The following
+shall be considered minimum requirements:	1.	Open discharges shall be so placed
+and directioned that the outflow is directed away from the special vessel and
+will not create a hazard over walkways, stairways. or operating platforms. 
+Discharge shall be vertically upwards whenever possible.	2.	The point of
+discharge shall be not less than 10 feet above the surrounding ground level, nor
+less than two feet above the surface of the special vessel.

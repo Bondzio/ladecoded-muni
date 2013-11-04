@@ -1,0 +1,57 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MANIFOLD ACCESSORIES. (§ 57.41.21)
+
+  MANIFOLD ACCESSORIES.	A.	Except for atmospheric gases and inert gases each
+container lead shall be attached to the manifold header through a back-flow
+check valve, and a manually operated shut-off valve.	B.	Pressure regulators
+shall be provided at the point where service piping is connected to the
+manifold, and at station outlets where required for further reduction of
+pressure.	C.	Every manifold containing liquefied gases shall be provided with a
+pressure relief valve. Every manifold containing nonliquefied gases shall have a
+pressure relief valve on the reduced pressure side.	D.	Relief valves on
+manifolds containing flammable or toxic materials shall be equipped with vent
+lines of cross-sectional area at least equal to that of the relief valve and
+such vent lines shall extend out-of-doors to a safe location at least two feet
+above any roof within ten feet and at least ten feet above the adjacent grade
+level.	E.	Every manifold used for gases which are flammable or nonstable shall
+be equipped with an approved flashback arrestor.TABLE 41-A
+EXEMPT QUANTITIES  
+    
+      
+        Type of Material
+      
+      
+        Quantity
+      
+    
+    
+      
+        Flammable Gases	
+      
+      
+        3,000 cubic feet
+      
+    
+    
+      
+        Toxic Gases	
+      
+      
+        400 cubic feet
+      
+    
+    
+      
+        Oxidizing Gases	
+      
+      
+        6,000 cubic feet
+      
+    
+    
+      
+        Liquefied Gases	
+      
+      
+        60 gallons

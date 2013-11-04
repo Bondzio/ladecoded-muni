@@ -1,0 +1,43 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INFORMATION REQUIRED ON PLANS OR SPECIFICATIONS. (§ 93.0207)
+
+  INFORMATION REQUIRED ON PLANS OR SPECIFICATIONS.	The following information is
+required to be shown on plans, specifications and diagrams submitted for review
+by the Department:  (Amended by Ord. No. 176,775, Eff. 8/1/05, Oper.
+8/1/05.)	(a)	A complete plan showing the layout of the proposed electric systems
+for each floor or area, including dimensions of all working spaces, a full scope
+of the project and a legend of all symbols used.  (Amended by Ord. No. 172,593,
+Eff. 6/28/99, Oper. 7/1/99.)	(b)	The type, location and capacity of all service
+equipment.	(c)	The size and the length of all service raceways to the manhole,
+vault or pole of the serving agency or to the service head.	(d)	The size of all
+raceways and the length of all feeder raceways.	(e)	The dimensions of all pull
+or junction boxes larger than four inches trade size.	(f)	The number, size, and
+type of all conductors to be installed in wiring enclosures.	(g)	The location of
+every proposed outlet and switch in all parts of the building or structure
+including all fixed showcases, wall cases, and similar wiring.	(h)	The wattage
+or ampere ratings of each outlet for noninductive loads and the volt-ampere
+rating of each unit or transformer for electric discharge lighting.	(i)	The
+location, voltage, and H.P. rating of every motor and the K.W. rating of every
+generator. The type and code letter of every A.C. motor shall be given unless
+otherwise satisfactory to the Department.	(j)	The location and K.V.A., or
+equivalent rating of each transformer, capacitor, ballast, converter, frequency
+changer, and similar equipment and the location and ampere or wattage rating of
+other appliances of the noninductive type.	(k)	Details of panelboard,
+switchboard, and distribution centers, showing type and arrangement of switches,
+overcurrent devices, and general control equipment.	(l)	Panelboard and
+switchboard schedules showing wattage and amperage, the number of active branch
+circuits to be installed, and the number of spare branch circuits for future
+use. This shall include identifying the circuits to which the outlets are
+connected.	(m)	The existing load, as calculated in accordance with Articles 210
+and 220 of the C.E.C. or by other methods satisfactory to the Department, shall
+be indicated for existing installations having alterations or additions made to
+them.  (Amended by Ord. No. 172,593, Eff. 6/28/99, Oper. 7/1/99.)	(n)	Other
+additional information as the Department may consider necessary for proper
+enforcement of this Code.	(o)	On all occupancies indicating location, rating and
+method being served for all new and existing power distribution equipment. 
+(Added by Ord. No. 172,593, Eff. 6/28/99, Oper. 7/1/99.)	(p)	Any or all
+engineering calculations as applicable for the installation.  (Added by Ord.
+No. 176,775, Eff. 8/1/05, Oper. 8/1/05.)	(q)	Interconnected wiring between all
+devices in each branch circuit from any panelboard or switch-board to the last
+device or load.  (Added by Ord. No. 176,775, Eff. 8/1/05, Oper. 8/1/05.)

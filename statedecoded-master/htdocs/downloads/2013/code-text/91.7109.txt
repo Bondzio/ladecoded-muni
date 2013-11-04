@@ -1,0 +1,602 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ADDITIONAL REMEDIAL MEASURES. (§ 91.7109)
+
+  ADDITIONAL REMEDIAL MEASURES.91.7109.1.  General Remedial Measures.  In the
+event the concentration of methane gas in any building located in a Methane Zone
+or Methane Buffer Zone reaches or exceeds 25 percent of the minimum
+concentration of gas that will form an ignitable mixture with air at ambient
+temperature and pressure, the owner shall hire an engineer to investigate,
+recommend and implement mitigating measures.  These measures shall be subject
+to approval of this Department and the Fire Department.91.7109.2.  Abandoned
+Oil Well.  Any abandoned oil well encountered during construction shall be
+evaluated by the Fire Department and may be required to be re-abandoned in
+accordance with applicable rules and regulations of the Division of Oil, Gas and
+Geothermal Resources of the State of California.  Buildings shall comply with
+these provisions and the requirements of Section 91.6105 of this Code, whichever
+is more restrictive.TABLE 71.  MINIMUM METHANE MITIGATION REQUIREMENTS
+(Amended by Ord. No. 180,619, Eff. 5/12/09.)
+  
+    
+      
+        Site Design Level
+      
+      
+        LEVEL I
+      
+      
+        LEVEL II
+      
+      
+        LEVEL III
+      
+      
+        LEVEL IV
+      
+      
+        LEVEL V
+      
+    
+    
+      
+        Design Methane Concentration (ppmv)
+      
+      
+        0-100
+      
+      
+        101-1,000
+      
+      
+        1,001-5,000
+      
+      
+        5,001-12,500
+      
+      
+        >12,500
+      
+    
+    
+      
+        Design Methane Pressure
+        (inches of water pressure)
+      
+      
+        2
+      
+      
+        >2
+      
+      
+        2
+      
+      
+        >2
+      
+      
+        2
+      
+      
+        >2
+      
+      
+        2
+      
+      
+        >2
+      
+      
+        All
+        Pressures
+      
+    
+    
+      
+        P
+A
+S
+S
+I
+V
+ES
+Y
+S
+T
+E
+M
+      
+      
+        De-watering System 1
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Sub-Slab Vent System
+      
+      
+        Perforated Horizontal Pipes
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Gravel Blanket Thickness Under Impervious Membrane
+      
+      
+        2&#038;″
+      
+      
+        2&#038;″
+      
+      
+        2&#038;″
+      
+      
+        3&#038;″
+      
+      
+        2&#038;″
+      
+      
+        3&#038;″
+      
+      
+        2&#038;″
+      
+      
+        4&#038;″
+      
+      
+        4&#038;″
+      
+    
+    
+      
+        Gravel Thickness Surrounding Perforated Horizontal Pipes
+      
+      
+        2&#038;″
+      
+      
+        2&#038;″
+      
+      
+        2&#038;″
+      
+      
+        3&#038;″
+      
+      
+        2&#038;″
+      
+      
+        3&#038;″
+      
+      
+        2&#038;″
+      
+      
+        4&#038;″
+      
+      
+        4&#038;″
+      
+    
+    
+      
+        Vent Risers
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Impervious Membrane
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        A
+C
+T
+I
+V
+ES
+Y
+S
+T
+E
+M
+      
+      
+        Sub-Slab System
+      
+      
+        Mechanical Extraction System 2
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Lowest Occupied Space System
+      
+      
+        Gas Detection System 3
+      
+      
+        
+      
+      
+        X
+      
+      
+        
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Mechanical Ventilation 3, 4, 5
+      
+      
+        
+      
+      
+        X
+      
+      
+        
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Alarm System
+      
+      
+        
+      
+      
+        X
+      
+      
+        
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Control Panel
+      
+      
+        
+      
+      
+        X
+      
+      
+        
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        M
+I
+S
+C.S
+Y
+S
+T
+E
+M
+      
+      
+        Trench Dam
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Conduit or Cable Seal Fitting
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+      
+        X
+      
+    
+    
+      
+        Additional Vent Risers 5
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+      
+        X
+      
+    
+  
+For SI: 1 inch = 25.4 mm.
+X = Indicates a Required Mitigation Component1.	See Section 91.7104.3.7 for
+exception.
+2.	The Mechanical Extraction System shall be capable of providing an equivalent
+of a complete change of air every 20 minutes of the total volume of the Gravel
+Blanket.  
+3.	The mechanical ventilation systems shall be capable of providing an
+equivalent of one complete change of the lowest occupied space air every 15
+minutes.
+4.	Vent opening complying with Section 7104.3.4 may be used in lieu of
+mechanical ventilation.
+5.	The total quantity of installed vent risers shall be increased to double the
+rate for passive system.

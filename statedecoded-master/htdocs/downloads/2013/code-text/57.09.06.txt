@@ -1,0 +1,256 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FIRE-FLOW. (§ 57.09.06)
+
+  FIRE-FLOW.	A.	Fire-flows shall comply with Table 9A for an structures, group
+of structures or facilities by the type of land development, or as otherwise
+determined by the Chief.TABLE 9-A
+FIRE-FLOW BY TYPE OF LAND DEVELOPMENT  
+    
+      
+        Type of Land Development
+      
+      
+        in Gallons Per Minute
+      
+    
+    
+      
+        Low Density Residential
+      
+      
+        2,000 G.P.M. from three adjacent fire hydrants flowing simultaneously
+      
+    
+    
+      
+        High Density Residential and Neighborhood Commercial
+      
+      
+        4,000 G.P.M. from four adjacent fire hydrants flowing simultaneously
+      
+    
+    
+      
+        Industrial and Commercial
+      
+      
+        6,000 to 9,000 G.P.M. from four to six fire hydrants flowing
+simultaneously
+      
+    
+    
+      
+        High Density Industrial and Commercial (Principal Business Districts or
+Centers)
+      
+      
+        12,000 G.P.M. available to any block (where local conditions indicate
+that consideration must be given to simultaneous fires, and additional 2,000 to
+8,000 G.P.M. will be required).
+      
+    
+  
+	1.	Where street alignments mandate the installation of dead-end mains, the
+fire-flow in gallons per minute may be adjusted downward, depending on the type
+of land development.	2.	A minimum residual water pressure of 20 pounds per
+square inch is to remain in the system with the required gallons per minute
+flowing.	3.	(Repealed by Ord. No. 167,326, Eff. 11/16/91.)	B.	Fire hydrant
+spacing and type of hydrant by type of land development.TABLE 9-B  
+    
+      
+        Type of Land Development
+      
+      
+        Net Land Area Served Per Hydrant
+      
+      
+        Distance Between Hydrants on Roads and Fire Lanes
+      
+      
+        Type of Hydrant
+      
+    
+    
+      
+        Low Density Residential
+      
+      
+        *150,000 Sq. Ft.
+      
+      
+        600 Ft.
+      
+      
+        2 1/2&#038;″ x 4&#038;″ Double Fire Hydrant
+      
+    
+    
+      
+        High Density Residential &#038; Neighborhood Commercial
+      
+      
+        *100,000 Sq. Ft.
+      
+      
+        300-450 Ft.
+      
+      
+        2 1/2&#038;″ x 4&#038;″ Double Fire Hydrant (Amended by Ord. No.
+169,944 Eff. 8/20/94).
+      
+    
+    
+      
+        Industrial &#038; Commercial
+      
+      
+        *80,000 Sq. Ft.
+      
+      
+        300 Ft.
+      
+      
+        2 ½” x 4&#038;″ Double Fire Hydrant or 4&#038;″ x 4&#038;″
+Double Fire Hydrant
+      
+    
+    
+      
+        High Density Industrial &#038; Commercial
+      
+      
+        *40,000 Sq. Ft.
+      
+      
+        300 Ft.
+      
+      
+        4&#038;″ x 4&#038;″ Double Fire Hydrant
+      
+    
+  
+	*	This figure will be systematically reduced where greater fire- flow is
+required due to restricted access, depth of lots, length of blocks, or
+additional hazards.	1.	Every first story dwelling unit, first story guest room,
+and all first story portions of any commercial or industrial building must be
+within 300 feet of an approved fire hydrant.	2.	All fire hydrants shall have
+21/2&#038;″ x 4&#038;″ outlets or 4&#038;″ x 4&#038;″ outlets and
+conform to the minimum standards of the American Water Works Association for wet
+barrel hydrants. A minimum of one fire hydrant is to be provided at each
+intersection. “Built-up” type single 2-1/2&#038;″ outlet hydrants
+(6&#038;″ pipe surmounted by an angle valve) shall be used in areas having a
+static water pressure of 210 P.S.I. or more.	3.	Streets with raised median
+center dividers, excessive traffic loads, or more than 80 feet in dedicated
+width require the installation of hydrants on both sides of the street.
+Additional intermediate hydrants are required in areas where restricted access,
+depth of lots, or blocks exceeding the maximum hydrant spacing intervals
+exist.	C.	Land use and required fire flow.  (Added by Ord. No. 169,944, Eff.
+8/20/94.)PROPOSED TABLE 9-C
+RESPONSE DISTANCES THAT IF EXCEEDED REQUIRE THE 
+INSTALLATION OF AN AUTOMATIC FIRE SPRINKLERS SYSTEM
+(Amended by Ord. No. 172,414, Eff. 2/21/99.)  
+    
+      
+        * Land Use
+      
+      
+        Required
+        Fire Flow
+      
+      
+        ** Maximum Response Distance to
+        LAFD Fire Station:
+      
+    
+    
+      
+        Residential
+      
+      
+        Housing an Engine or Truck Company
+      
+    
+    
+      
+        Low Density Residential
+      
+      
+        2,000 g.p.m. from three adjacent hydrants flowing simultaneously
+      
+      
+        1-1/2 miles
+      
+    
+    
+      
+        High Density Residential and Commercial Neighborhood
+      
+      
+        4,000 g.p.m. from four adjacent hydrants flowing simultaneously
+      
+      
+        1-1/2 miles
+      
+    
+  
+PROPOSED TABLE 9-C
+(CONT.)  
+    
+      
+        Commercial
+      
+      
+        ***	Housing an Engine Company and Truck Company
+      
+    
+    
+      
+        Engine Company
+      
+      
+        Truck Company
+      
+    
+    
+      
+        Industrial and Commercial
+      
+      
+        6,000 to 9,000 g.p.m. from four hydrants flowing simultaneously
+      
+      
+        1 mile
+      
+      
+        1-1/2 miles
+      
+    
+    
+      
+        High Density Industrial and Commercial or Industrial (Principal Business
+Districts or Centers)
+      
+      
+        12,000 g.p.m. available to any block (where local conditions indicate
+that consideration must be given to simultaneous fires, an additional 2,000 to
+8,000 g.p.m. will be required)
+      
+      
+        3/4 mile
+      
+      
+        1 mile
+      
+    
+  
+	*	Land use designations are contained in the community  plan elements of the
+General Plan for the City of Los Angeles.	**	The maximum response distance to
+LAFD fire stations pertains to areas outside the boundaries covered by the
+Hillside Ordinance (Ordinance Number 168,159). When a portion of any
+subdivision, as that term is defined in Section 17.02 of the Los Angeles
+Municipal Code, falls outside of the one and one-half mile distance requirement,
+automatic fire sprinklers will not be required in that portion whenever a review
+by the Chief has determined that no unacceptable increase in hazard to the
+public will result.	*** 	The maximum response distances for both LAFD fire
+suppression companies (engine and truck) must be satisfied.

@@ -1,0 +1,194 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+BASIC PROVISIONS. (§ 93.0600)
+
+  	Chapter 1 of the C.E.C. is hereby adopted by reference for the purpose of
+providing definitions and requirements for electrical installations with the
+following additions and amendments and as specifically provided herein.	ACCESS
+FLOOR.  An assembly consisting of panels mounted on pedestals to provide an
+underfloor space for the installation of electrical, communications, or
+mechanical systems.	AMBIENT TEMPERATURE.  (Added by Ord. No. 181,561, Eff.
+3/22/11.)  The air temperature of locations in the City of Los Angeles as
+described in the Table below:
+  
+    
+      
+        LOCATION
+      
+      
+        TEMPERATURE
+      
+    
+    
+      
+        In normally heated building
+      
+      
+        30°C (86°F)
+      
+    
+    
+      
+        Poorly or unventilated rooms or spaces such as attics, transformer,
+machinery (refrigeration) or elevator rooms*, etc.
+      
+      
+        45°C (113°F)
+      
+    
+    
+      
+        Ventilated transformer rooms, machinery (refrigeration) rooms, elevator
+rooms* or spaces, etc
+      
+      
+        37°C (99°F)
+      
+    
+    
+      
+        In buildings with major heat sources such as power stations or
+industrial processes
+      
+      
+        45°C (113°F)
+      
+    
+    
+      
+        Furnace and boiler rooms
+      
+      
+        60°C (140°F) within 2 ft. of a furnace or boiler 40°C (104°F)
+      
+    
+    
+      
+        In thermal insulation
+      
+      
+        45°C (113°F)
+      
+    
+    
+      
+        Outdoors un-shaded areas
+      
+      
+        39°C (102°F)
+      
+    
+    
+      
+        Outdoors in shaded areas
+      
+      
+        34°C (93°F)
+      
+    
+    
+      
+        Outdoors lowest expected temperature
+      
+      
+        -7°C (20°F)
+      
+    
+    
+      
+        Behind stand-off (i.e., parallel to the roof) or integral flat
+photovoltaic crystalline-silicon cell module, panel or array (up to 6 inches,
+add 4°C to the ambient temperature, where channels (rails) are installed under
+the modules as part of the mounting system)
+      
+      
+        Within 1  inch = 60°C (140°F)
+Over 1 to 3 inches = 56°C (133°F)
+Over 3 to 6 inches = 55°C (131°F)
+Over 6  inches = 39°C (102°F)
+      
+    
+    
+      
+        Behind rack mounted (i.e., at an angle to the roof) flat photovoltaic
+crystalline-silicon cell module, panel or array
+      
+      
+        Within 1 inch = 54°C (129 °F)
+Over 1 inch = 39°C (102°F)
+      
+    
+    
+      
+        Behind direct mounted flat photovoltaic crystalline-silicon cell module,
+panel or array
+      
+      
+        63°C (145°F)
+      
+    
+  
+* Lower ambient temperature in elevator room is permitted when it is required to
+be maintained at a specified maximum ambient temperature per equipment
+manufacturer as permitted in the Los Angeles Elevator Code.	C.E.C.  California
+Electrical Code	CORD WIRING.  The use of cord as substitute for the wiring
+methods permitted by this Code.	DEPARTMENT.  The Department of Building and
+Safety.	ELECTRIC WIRING.  Any device or equipment constituting a part of, or
+connected to, any electrical installation attached or fastened to any building,
+structure or premise and which installation, or some portion thereof, is
+designed, intended or used to generate, transmit, transform, utilize or control
+electrical energy.	EXISTING.  (As applied to electric wiring, buildings or
+portions of buildings)  Having a final approval by the Department of Building
+and Safety.	FIRE WARNING SYSTEM.  A system or portion of a system that consists
+of components and circuits arranged to monitor and annunciate the status of the
+system locally by sounding an alarm as a result of the operation of any signal
+initiation device such as manual pull station, water flow switch, smoke
+detector, heat detector, etc. These systems may incorporate an approved means
+(such as a dialer) to inform the status of the system to a remote location. 
+(Added by Ord. No. 174,828, Eff. 10/27/02, Oper. 11/1/02.)	GROUND RESISTANCE. 
+The resistance of the ground soil, as determined by field measurement by a
+qualified engineer, and the associated grounding electrode system as determined
+by calculation.  (Added by Ord. No. 174,828, Eff. 10/27/02, Oper.
+11/1/02.)	HAZARDOUS WIRING.  Any wiring which did not conform with all
+applicable laws in effect at the time of installation, or wiring which is not in
+good condition or is being used in an unsafe manner.	INSTALL.  The act of
+attaching or fastening electric systems, temporarily or permanently, in any
+manner, including the attaching or connecting of portable equipment even though
+designed to be moved, removed or disconnected at will.	INSTALLATION.  That
+which is installed, regardless of whether or not it is energized.	N.E.C. 
+National Electrical Code.  (Amended by Ord. No. 179,325, Eff. 12/10/07, Oper.
+1/1/08.)	NFPA 72.  The National Fire Alarm Code published by the National Fire
+Protection Association.  (Added by Ord. No. 179,325, Eff. 12/10/07, Oper.
+1/1/08.)	NON-RESIDENTIAL.  Where used in this Code, the term
+“non-residential” shall apply to any building or premises other than hotels,
+motels, lodging houses, apartment houses, dwellings, or portions thereof, or
+buildings and structures accessory thereto.	PREMISES.  Any parcel of land,
+regardless of the number of contiguous lots, occupied by or under the control of
+the same person or firm and including all buildings, structures or improvements
+thereon.	RESIDENTIAL.  Where used in this Code, the term “residential”
+shall apply to any hotel, motel, lodging house, apartment house, dwelling, or
+portion thereof, or building and structure accessory thereto.	SALE OR SELLING. 
+Any act of selling, offering for sale, advertising or displaying for sale,
+disposing of by way of lease or premium any equipment as defined
+therein.	SATISFACTORY.  Acceptable to the Department.	SERVING AGENCY.  A
+public or privately owned electric utility authorized by the City of Los Angeles
+to distribute electric energy to 100 or more separate premises.	SIGNALING
+EQUIPMENT.  Any contrivance which produces an audible or visual signal,
+including doorbells, buzzers, code calling systems and signal lights.  This
+equipment shall not include those audible or visual signals which are part of
+motor control circuits, data processing systems, fire-warning systems and nurse
+call systems.	SPECIAL PERMISSION.  The express permission in writing from the
+Superintendent of Building, obtained prior to the commencement of any work for
+which special permission is required.	STATION.  (Industrial or Commercial.)  A
+building, room or outside enclosure on a customer’s premises designed,
+intended or used to house or enclose the electric distribution and control
+equipment of the serving agency.	USED MATERIAL.  Previously used equipment as
+defined in Article 100 of the California Electrical Code.  (Added by Ord. No.
+174,828, Eff. 10/27/02, Oper. 11/1/02.)	VAULT.  A chamber (over 80 cubic feet
+in volume) in an underground conduit distribution system containing sufficient
+working space and an entrance for personnel.  (Added by Ord. No. 174,828, Eff.
+10/27/02, Oper. 11/1/02.)	VOLTAGE, NOMINAL.  A nominal value assigned to a
+circuit or system for the purpose of conveniently designating its voltage class
+(e.g., 120/240, 480Y/277, 600).  The actual voltage at which a circuit operates
+can vary from the nominal within a range that permits satisfactory operation of
+equipment.  (Amended by Ord. No. 179,325, Eff. 12/10/07, Oper. 1/1/08.)

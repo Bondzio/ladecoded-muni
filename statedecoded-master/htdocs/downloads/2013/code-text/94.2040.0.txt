@@ -1,0 +1,101 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+UNDERGROUND FIRE PROTECTION PIPING. (§ 94.2040.0)
+
+  UNDERGROUND FIRE PROTECTION PIPING.
+	(Amended by Ord. No. 181,757, Eff. 7/6/11.)	This section regulates underground
+fire protection piping between the City main or other sources of supply and fire
+hydrants, fire sprinkler risers, and monitor nozzles. Above ground standpipe
+piping and water spray systems shall conform to applicable code requirements for
+fire sprinkler piping and to the requirements set forth in NFPA 24-2010 with
+following exceptions, modifications and additions:94.2040.1. NFPA 24-2010
+Chapter 2 is not adopted.94.2040.2. NFPA 24-2010 Section 4.2.1 is added and
+modified to read as follows:	4.2.1. Installation work shall be done by fully
+experienced and responsible contractors.  Contractors shall be appropriately
+licensed in the State of California to install private fire service mains and
+their appurtenances.94.2040.3. NFPA 24-2010 Section 4.2.2 is added and modified
+to read as follows:	4.2.2. Installation or modification of private fire service
+mains shall not begin until plans are approved and appropriate permits secured
+from the authority having jurisdiction.94.2040.4. NFPA 24-2010 Section 4.2.2.1
+is added and modified to read as follows:	4.2.2.1. As approved by the authority
+having jurisdiction, emergency repair of existing system may start immediately,
+with plans being submitted to the authority having jurisdiction within 96 hours
+from the start of the repair work.94.2040.5. NFPA 24-2010 Section 5.6. is added
+and modified to read as follows:	5.6. Pumps.  A single automatically controlled
+fire pump installed in accordance with Section 94.2030 of this Chapter shall be
+an acceptable water supply source.94.2040.6. NFPA 24-2010 Section 5.7 is added
+and modified to read as follows:	5.7. Tanks shall be installed in accordance
+with “Section 94.2050 of this division.” 94.2040.7. NFPA 24-2010 Section
+5.9.1 is added and modified to read as follows:	5.9.1. General.  Fire
+Department connections shall comply with the applicable requirements for fire
+sprinkler systems.94.2040.8. NFPA 24-2010 Section 5.9.1.2. is added and modified
+to read as follows:	5.9.1.2. Fire Department connections shall be properly
+supported and protected from mechanical damage.94.2040.9. NFPA 24-2010 Section
+5.9.1.5 is added and modified to read as follows:	5.9.1.5. Control Valve. A
+control valve shall be installed between the City check valve and the point of
+connection to the fire department connection to the underground
+piping.94.2040.10. NFPA 24-2010 Section 5.9.5.1 is added and modified to read as
+follows:	5.9.5.1. Fire Department connections shall be on the street side of
+buildings and as approved by the authority having jurisdiction.94.2040.11. NFPA
+24-2010 Section 6.1.5 is added and modified to read as follows:	6.1.5. A non
+indicating valve such as an underground gate valve with approved roadway,
+complete with T wrench, and accepted by the authority having jurisdiction shall
+be permitted to be used as sectional isolation valves in private service mains
+that do not supply fire sprinklers.94.2040.12. NFPA 24-2010 Section 6.2.11 (5)
+is not adopted.94.2040.13. NFPA 24-2010 Section 6.3.3.1 is not
+adopted.94.2040.14. NFPA 24-2010 Section 6.4.1 is modified by changing the
+reference “NFPA 13&#038;″ to “Section 94.2050 of this
+Division.”94.2040.15. NFPA 24-2010 Section 6.6.2.is added and modified to read
+as follows:	6.6.2. A sectional valve shall be provided at the following
+locations:	1.	On each bank where a main crosses a body of water.	2.	Outside the
+building foundation(s) where a main or a section of a main runs under a
+building.94.2040.16. NFPA 24-2010 Section 6.6.2.1 through 6.6.2.4 are added and
+modified to read as follows:	6.6.2.1. Sectional control valves are not required
+when the fire service main system serves less than six fire
+appurtenances.	6.6.2.2. Sectional control valves shall be indicating valves in
+accordance with Section 94.2010 of this chapter.	6.6.2.3. Sectional control
+valves on looped systems shall be located so that no more than five fire
+appurtenances are affected by shut-down of any single portion of the fire
+service main.  Each fire hydrant, fire sprinkler system riser, and standpipe
+riser shall be considered a separate fire appurtenance.  In-rack sprinkler
+systems shall not be considered as a separate appurtenance.	6.6.2.4. The number
+of fire appurtenances between sectional control valves is allowed to be modified
+by the authority having jurisdiction.94.2040.17. NFPA 24-2010 Section 6.6.2.5 is
+added and modified to read as follows:	6.6.2.5. Looped underground systems shall
+be provided with sectional valves regardless of the number of
+appurtenances.94.2040.18. NFPA 24-2010 Section 7.1.1.1 is added and modified to
+read as follows:	7.1.1.1. Hydrant Valves.  Each fire hydrant shall be isolated
+by a listed key-type gate valve located at least four feet and not more than ten
+feet from the fire hydrant.  The valve shall not be located in a parking space.
+No fire sprinkler riser valve shall control any fire hydrant.94.2040.19. NFPA
+24-2010 Section 7.1.5 is added and modified to read as follows:	7.1.5. Water
+Supplies.  Water supplies for fire hydrant, monitoring nozzle and water spray
+systems shall be approved by the Fire Department.94.2040.20. NFPA 24-2010
+Section 10.6.5 is added and modified to read as follows:	10.6.5. Pipe joints
+shall not be located under foundation footings.  The pipe under the building or
+building foundation shall not contain mechanical joints.	EXCEPTIONS:	I.	Where
+allowed in accordance with 10.6.2.	II.	Alternate designs may be utilized where
+designed by a registered professional engineer and approved by the enforcing
+agency.94.2040.21. NFPA 24-2010 Section 10.9.1 is added and modified to read as
+follows:	10.9.1. Backfill shall be well tamped in layers or puddled under and
+around pipes to prevent settlement or lateral movement.  Backfill shall consist
+of clean fill sand or pea gravel to a minimum of 6&#038;″  below and to a
+minimum of 12&#038;″ above the pipe and shall contain no ashes cinders,
+refuse, organic matter, or other corrosive materials.  Other backfill materials
+and methods are permitted where designed by a registered professional engineer
+and approved by the enforcing agency.94.2040.22. NFPA 24-2010  Section
+10.10.2.2.5 is added and modified to read as follows:	10.10.2.2.5. When
+permitted by the authority having jurisdiction and required for safety measures
+presented by the hazards of open trenches, the pipe and joints shall be
+permitted to be backfilled, provided the owner takes the responsibility for
+locating and correcting leakage.94.2040.23. NFPA 24-2010 Section 12.1 is added
+and modified to read as follows:	12.1. General above ground pipe and fittings
+shall comply with the applicable Section 94.2010 of this chapter that address
+pipe, fittings, joining methods, hangers and installation.94.2040.24. NFPA
+24-2010 Section 12.2.5 is added and modified to read as follows:	12.2.5. To
+minimize or prevent breakage where subject to earthquakes, above ground pipe
+shall be protected in accordance with the seismic requirements of Section
+94.2010 of this Division.94.2040.25. NFPA 24-2010 Section 12.2.6 is added and
+modified to read as follows:	12.2.6. Mains that pass through walls, floors, and
+ceilings shall be provided with clearances in accordance with Section 94.2010 of
+this Division.

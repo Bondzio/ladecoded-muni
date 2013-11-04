@@ -1,0 +1,227 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GENERAL. (§ 99.06.601)
+
+  GENERAL.99.06.601.1.    This division lists the standards that are
+referenced in various sections of this article.  The standards are listed
+herein by the promulgating agency of the standard.
+  
+    
+      
+        Organization
+      
+      
+        Standard
+      
+      
+        Referenced Section
+      
+    
+    
+      
+        AABC Associated Air Balance Council
+        1518 K St. NW
+        Washington, DC 20005
+        www.aabc.org
+      
+      
+        National Standards, 1989
+      
+      
+        5.410.4.3.1
+        10.410.4.3.1
+        A5.410.5.3.1
+      
+    
+    
+      
+        ACCA Air Conditioning Contractors of America
+        2800 Shirlington Road, Suite 300
+        Arlington, VA 22206
+        www.acca.org
+      
+      
+        ACCA Manual J
+        ACCA 29-D Manual D
+        ACCA 36-S Manual S
+      
+      
+        4.507.2, 9.507.2
+        4.507.2, 9.507.2
+        4.507.2, 9.507.2
+      
+    
+    
+      
+        ANSI American National Standards Institute
+        Operations Office
+        25 West 43rd Street
+        Fourth Floor
+        New York, NY 10036
+        www.ansi.org
+      
+      
+        ANSI A190.1-2002
+        ANSI ZI24.9-2004
+        NSF/ANSI 140-2007
+      
+      
+        4.502
+        Table 4.303.3, 9.303.3
+        4.504.3, 5.504.4.4,
+        9.504.3, 10.504.4.4
+      
+    
+    
+      
+        ASHRAE American Society of Heating, Refrigerating and Air-Conditioning
+Engineers, Inc.
+        1791 Tullie Circle, NE
+        Atlanta, GA 30329
+        www.ashrae.org
+      
+      
+        52.1-92
+        52.2-99
+        62.2
+        90.1
+      
+      
+        A5.504.1
+        A4.502
+        A5.504.1
+        5.108.8, 10.108.8
+      
+    
+    
+      
+        ASME American Society of Mechanical Engineers
+        Three Park Avenue
+        New York, NY 10016-5990
+        www.asme.org
+      
+      
+        ASME A112.18.1
+        
+        ASME A112.19
+        ASME A112.19.2
+        
+        ASME A112.19.14
+        
+        ASME A112.19.19
+      
+      
+        Table 4.303.3, 5.303.6,
+        Table 9.303.3, 10.303.6
+        5.303.6, 10.303.6
+        Table 4.303.3, 5.303.2,
+        Table  9.303.3, 10.303.2
+        Table 4.303.3, 5.303.6,
+        Table 9.303.3, 10.303.6
+        Table 4.303.3, 9.303.3
+      
+    
+    
+      
+        ASTM ASTM International
+        100 Barr Harbor Drive
+        West Conshohocken, PA 19428-2859
+        www.astm.org
+      
+      
+        ASTM C 33
+        ASTM C 1371-98
+        ASTM E 90
+        ASTM E 408-71(2002)
+        ASTM E 413
+        ASTM  E1333-96 (2002)
+        ASTM E 1903-97
+        ASTM E 1980-01
+      
+      
+        A5.405.5.3.2
+        A4.205.1
+        5.507.5, 10.507.5
+        A4.205.1
+        5.507.5, 10.507.5
+        Table 4.504.5, 9.504.5
+        A5.103.4
+        A4.106.5.3
+      
+    
+    
+      
+        CSA Canadian Standards Association
+        5060 Spectrum Way, Suite 100
+        Mississauga, Ontario, Canada L4W 5N6
+        www.csa.ca
+      
+      
+        CSA B45.1
+        CSA B125.1
+      
+      
+        Table 4.303.1, Table 4.303.3
+        Table 9.303.1, 9.403.3
+        Table 4.303.3, 5.303.6
+        Table 9.303.3, 10.303.6
+      
+    
+    
+      
+        IAPMO International Association of Plumbing and Mechanical Officials
+        5001 E. Philadelphia St.
+        Ontario, CA 91761
+        iapmo@iapmo.org
+      
+      
+        IAPMO Z124.9
+      
+      
+        Table 4.303.3, 5.303.6
+        Table 9.303.3, 10.303.6
+      
+    
+    
+      
+        NEBB National Environmental Balancing Bureau
+        8575 Grovemont Cir
+        Gaithersburg, MD 20877
+        http://nebb.org/index.php
+      
+      
+        Procedural Standards, 1983
+      
+      
+        5.410.4.3.1, 10.410.4.3.1
+        A5.410.5.3.1
+      
+    
+    
+      
+        NSF International
+        789 Dixboro Rd.
+        Ann Arbor, MI 48113-0140
+        http://www.nsf.org/
+      
+      
+        NSF/ANSI 140-2007
+      
+      
+        4.504.3, 5.504.4.4,
+        9.504.3, 10.504.4.4
+      
+    
+    
+      
+        TABB Testing, Adjusting and Balancing Bureau
+        601 N Fairfax St, Ste 250
+        Alexandria, VA 22314
+         http://www.tabbcertified.org/contact.html
+      
+      
+        National Standards, 2003
+      
+      
+        5.410.3.3.1, 10.410.3.3.1
+        A5.410.5.3.1

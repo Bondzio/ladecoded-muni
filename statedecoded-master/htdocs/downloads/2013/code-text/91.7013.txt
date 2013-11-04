@@ -1,0 +1,90 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+EROSION CONTROL AND DRAINAGE DEVICES. (§ 91.7013)
+
+  EROSION CONTROL AND DRAINAGE DEVICES.
+	(Added by Ord. No. 171,175, Eff. 7/25/96.)91.7013.1.  Interceptor Terraces. 
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)  Paved interceptor terraces shall
+have a minimum width of eight feet (2438 mm) and shall be installed on the face
+of all cut and fill slopes at intervals not to exceed 25 feet (7620 mm) measured
+along a vertical plane.  Where only one terrace is required, it shall be at
+mid-height.	The cross section of interceptor terraces shall meet the
+specification shown in Figure A.	The longitudinal slope of interceptor terraces
+shall not be less than five percent or more than 12 percent and any change in
+rate of grade within these allowable slopes shall increase the grade in the
+direction of flow.	A single run of an interceptor terrace shall not exceed 150
+feet (45 720 mm) to a down drain. Down drain shall be embedded round pipes
+enclosed in concrete shaped as shown in Section C-C of Figure G, or an alternate
+design which is prepared by a civil engineer and acceptable to the
+Department.91.7013.2.  Diverter Terraces.  Paved diverter terraces,
+constructed as shown in Figure B, shall be installed at the top of all graded
+slopes where the tributary drainage area above has a slope exceeding one unit
+vertical in 10 units horizontal (10% slope) and a horizontal projection of
+greater than 40 feet (12 192 mm).  (Amended by Ord. No. 180,619, Eff.
+5/12/09.)91.7013.3.  Berms.  Berms conforming to the provisions of Figure C
+shall be constructed at the top of all slopes.91.7013.4.  Vee Channels. 
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)  Where a slough wall is required
+at the toe of the slope by other provisions of this Code, or a retaining wall is
+built to support any cut or fill slope, a vee channel shall be constructed
+behind the wall to carry off the slope waters to interceptors, down drains or
+other approved drainage devices.91.7013.5  Inlet Structures, Down Drains and
+Outlet Structures.  (Amended by Ord. No. 171,939, Eff. 4/15/98.)91.7013.5.1. 
+Inlet Structures.  (Amended by Ord. No. 171,939, Eff. 4/15/98.)  Inlet
+structures shall be of concrete, galvanized iron hot dipped in asphalt or
+equivalent.  The inlet structure shall be grated or grilled, or of such entry
+shape as to prevent entry of objects of greater than four inches (102 mm) in
+dimension.  The inlet structure shall be placed on the bench as shown in
+Section Y-Y of Figure G and shall be so shaped as to provide small entry
+losses.  An overflow structure into the vee down drains shall be
+provided.91.7013.5.2.  Down Drains.  (Amended by Ord. No. 171,939, Eff.
+4/15/98.)  Down drains shall have paved inverts and shall be of concrete,
+minimum 18 gauge corrugated galvanized iron hot dipped in asphalt, or corrugated
+alloy 3004-H-34 aluminum of minimum 16 gauge and hot dipped in asphalt or
+equivalent.  Pipe down drains shall conform with Section C-C of Figure G and
+shall have a diameter of a size required by runoff calculations, but no less
+than 12 inches (305 mm).	Open channel down drains shall be designed by a civil
+engineer and shall have a minimum capacity equal to four times the required pipe
+size.  The alignment of down drains shall be such as to conserve velocity
+head.91.7013.5.3.  Outlet Structures.  Outlet structures shall be of concrete,
+galvanized iron hot dipped in asphalt or equivalent.	Where outletting into
+street or other approved termination areas, the structure shall be of a design
+approved by the Department of Public Works.  Where outletting into natural
+watercourses or other approved locations, the structure shall be provided with
+adequate velocity reducers, diversion walls, rip-rap, concrete aprons or any
+similar energy dissipator.  All slope drainage shall be collected and disposed
+of in the drainage device.91.7013.6.  Runoff Computations.  Runoff shall be
+based on the proper 50-year isohyetal, and the runoff calculation shall be based
+on the latest methods adopted by the Bureau of Engineering.91.7013.7.  Drainage
+Dispersal Wall.  (Amended by Ord. No. 171,939, Eff. 4/15/98.)  A drainage
+dispersal wall shall be constructed as set forth in Figure F whenever it is
+necessary to convert channel flow to sheet flow.91.7013.8.  Subdrains. 
+Subdrains shall be laid under all fills placed in natural watercourses. 
+Subdrains shall be placed along the watercourse flow line and along the flow
+line of any branches tributary thereto.  Additional subdrains shall be
+installed to collect any active or potential springs or seeps which will be
+covered by the fill.  Subdrains shall be installed after the watercourse has
+been excavated to firm material in preparation for receiving the fill. 
+Individual design shall be shown on each plan for city approval, based on
+recommendations of the soils engineer and geologist to the satisfaction of the
+Department.91.7013.9.  Gutters.  (Amended by Ord. No. 179,324, Eff. 12/10/07,
+Oper. 1/1/08.)  Eave or ground gutters shall be provided to receive all roof
+water and deliver it through a non erosive device via gravity to a street or
+watercourse, or approved drainage facility, if the slope of the underlying
+natural ground exceeds three percent or if more than three feet (914 mm) of
+compacted fill or more than one foot (305 mm) of uncompacted fill is placed on
+the ground.91.7013.10.  Site Drainage.  (Amended by Ord. No. 179,324, Eff.
+12/10/07, Oper. 1/1/08.)  All pads with cut or fill shall slope a minimum of
+two percent to an approved drainage device or facility, or to a public street. 
+Where used, the drainage device shall be an adequately designed system of catch
+basins and drain lines, which conducts the water to a street.	EXCEPTION:  Where
+the slope of the underlying natural ground does not exceed three percent and the
+compacted fill is less than three feet (914 mm) in depth, the slope of the pad
+may be reduced to one percent.91.7013.11.  Drainage Around Buildings. 
+(Amended by Ord. No. 171,939, Eff. 4/15/98.)  On all building sites, acceptable
+drainage devices shall be installed to conduct storm water around buildings
+whenever the distance from the building to the top of any slope is less than
+five feet (1524 mm).  Where used, the drainage device shall be an adequately
+designed system of catch basins and drain lines which conducts the water to a
+street.91.7013.12.  Maintenance of Drainage.  Drainage in conformance with the
+provisions of this Code shall be maintained during and subsequent to
+construction.

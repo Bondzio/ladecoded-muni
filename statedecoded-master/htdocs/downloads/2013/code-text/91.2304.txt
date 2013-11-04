@@ -1,0 +1,23 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GENERAL CONSTRUCTION REQUIREMENTS. (§ 91.2304)
+
+  GENERAL CONSTRUCTION REQUIREMENTS.
+	(Amended by Ord. 181,758, Eff. 8/8/11.)	Section 2304 of the CBC is adopted by
+reference, except Section 2304.9.1, Table 2304.9.1, and 2304.11.7 of the CBC are
+not adopted and in lieu Sections 91.2304.9.1, Table 2304.9.1 and 91.2304.11.7
+are added.91.2304.9.1. Fastener Requirements.  Connections for wood members
+shall be designed in accordance with the appropriate methodology in CBC Section
+2301.2. The number and size of fasteners connecting wood members shall not be
+less than that set forth in CBC Table 2304.9.1. Staple fasteners in CBC Table
+2304.9.1 shall not be used to resist or transfer seismic forces in structures
+assigned to Seismic Design Category D, E or F.	EXCEPTION:  Staples may be used
+to resist or transfer seismic forces when the allowable shear values are
+substantiated by cyclic testing and approved by the building official.Table
+2304.9.1  Add new footnote q to CBC Table 2304.9.1 as follows:	q.	Staples shall
+not be used to resist or transfer seismic forces in structures assigned to
+Seismic Design Category D, E or F.91.2304.11.7. Wood Used In Retaining Walls and
+Cribs. Wood installed in retaining or crib walls shall be preservative treated
+in accordance with AWPA U1 (Commodity Specifications A or F) for soil and fresh
+water use. Wood shall not be used in retaining walls or cribs for structures
+assigned to Seismic Design Category D, E or F.

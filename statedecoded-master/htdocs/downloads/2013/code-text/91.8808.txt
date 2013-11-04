@@ -1,0 +1,86 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ANALYSIS AND DESIGN. (§ 91.8808)
+
+  ANALYSIS AND DESIGN.
+	(Amended by Ord. No. 171,175, Eff. 7/25/96.)91.8808.1.  General.  (Amended by
+Ord. No. 171,939, Eff. 4/15/98.)  Every structure within the scope of this
+division shall be analyzed and constructed to resist minimum total lateral
+seismic forces assumed to act non concurrently in the direction of each of the
+main axes of the structure in accordance with the following formula:V  = 
+IKCSW	(8-1)	The value of IKCS need not exceed the values set forth in Table No.
+88-D based on the applicable rating classification of the building.91.8808.2. 
+Lateral Forces on Elements of Structures.  (Amended by Ord. No. 181,758, Eff.
+8/8/11.)  Parts or portions of structures shall be analyzed and designed for
+lateral loads in accordance with Sections 91.8808.1 of this Code and ASCE 7, but
+not less than the value from the following formula:Fp	=	ICpSWp	(8-2)	For the
+provisions of this Section, the product of IS need not exceed the values as set
+forth in Table No. 88-E.	EXCEPTION:  Unreinforced masonry walls in buildings
+not having a Rating Classification I may be analyzed in accordance with Section
+91.8809.	The value of Cp need not exceed the values set forth in Table No.
+88-F.91.8808.3.  Anchorage and Interconnection.  (Amended by Ord. No. 171,939,
+Eff. 4/15/98.)  Anchorage and interconnection of all parts, portions and
+elements of the structure shall be analyzed and designed for lateral forces in
+accordance with Table No. 88-F of this Code and Formula (8-2) as modified by
+Table No. 88-E. Minimum anchorage of masonry walls to each floor or roof shall
+resist a minimum force of 200 pounds per linear foot (2.92 kN/m) acting normal
+to the wall at the level of the floor or roof.91.8808.4.  Level of Required
+Repair.  Alterations and repairs required to meet the provisions of this
+division shall comply with all other applicable requirements of this Code unless
+specifically provided for in this division.91.8808.5.  Required
+Analysis.91.8808.5.1.  General.  Except as modified herein, the analysis and
+design relating to the structural alteration of existing structures within the
+scope of this division shall be in accordance with the analysis specified in
+Division 16 of this Code.	In addition, the compatibility of the roof diaphragm
+stiffness with the out-of-plane stability of the unreinforced masonry bearing
+walls of the story immediately below the roof system shall be verified in
+accordance with the provisions of Section 91.8811.	EXCEPTION:  Buildings with
+rigid concrete or steel and concrete roof diaphragms shall use the h/t values
+for “all other buildings” in Table No. 88-G.91.8808.5.2.  Continuous Stress
+Path.  A complete, continuous stress path from every part or portion of the
+structure to the ground shall be provided for the required horizontal
+forces.91.8808.5.3.  Positive Connections.  All parts, portions or elements of
+the structure shall be interconnected by positive means.91.8808.6.  Analysis
+Procedure.91.8808.6.1.  General.  Stresses in materials and existing
+construction utilized to transfer seismic forces from the ground to parts or
+portions of the structure shall conform to those permitted by the Code and those
+materials and types of construction specified in Section 91.8809.91.8808.6.2. 
+Connections.  Materials and connectors used for interconnection of parts and
+portions of the structure shall conform to the Code. Nails may be used as part
+of an approved connector.91.8808.6.3.  Unreinforced Masonry Walls.  (Amended
+by Ord. No. 181,758, Eff. 8/8/11.)  Except as modified here, unreinforced
+masonry walls shall be analyzed as specified in the applicable parts of CBC
+Sections 2106 and 2107 to withstand all vertical loads as specified in Division
+16 of this Code in addition to the seismic forces required by this
+Division.	Substantial changes in wall thickness or stiffness shall be considered
+in the analysis for out-of-plane and in-plane wall stability, and the wall shall
+be restrained against out-of- plane instability by anchorage and bracing to the
+roof or floor diaphragm in accordance with Section 91.8808.3 of this
+Code.	EXCEPTION: Variations in wall stiffness caused by nominal openings such as
+windows and exit doors need not be considered.  	No allowable tension stress
+will be permitted in unreinforced masonry walls.  Walls not capable of
+resisting the required design forces specified in this division shall be
+strengthened or shall be removed and replaced.	EXCEPTIONS:	1.	Unreinforced
+masonry walls in buildings not classified as a Rating Classification I pursuant
+to Table No. 88-A may be analyzed in accordance with Section 91.8809 of this
+Code.	2.	Unreinforced masonry walls which carry no design loads other than their
+own weight may be considered as veneer if they are adequately anchored to new
+supporting elements.91.8808.7.  Combination of Vertical and Seismic
+Forces.91.8808.7.1.  New Materials.  (Amended by Ord. No. 179,324, Eff.
+12/10/07, Oper. 1/1/08.)  All new materials introduced into the structure to
+meet the requirements of this section, which are subjected to combined vertical
+and horizontal forces, shall comply with CBC Section 1605.91.8808.7.2. 
+Existing Materials.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  When stresses in existing lateral force-resisting elements are due to
+a combination of dead and live loads plus seismic loads, the allowable working
+stress specified in the Code may be increased 100 percent.  However, no
+increase will be permitted in the stresses allowed in LAMC Section 91.8809, and
+the stresses in members due only to seismic and dead loads shall not exceed the
+values permitted by CBC Section 1605.91.8808.7.3.  Allowable Reduction of
+Bending Stress by Vertical Load.   In calculating tensile fiber stress due to
+seismic forces required by this division, the maximum tensile fiber stress may
+be reduced by the full direct stress due to vertical dead loads.91.8808.8. 
+Irregular Features.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  All structures having any of the irregular features described in 
+Table 12.3-1 or Table 12.3-2 of ASCE-7 shall be designated to meet the
+additional requirements of those sections referenced in the tables.

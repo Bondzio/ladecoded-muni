@@ -1,0 +1,99 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SEISMIC GAS AND EXCESS FLOW SHUT OFF VALVES. (§ 94.1219.0)
+
+  SEISMIC GAS AND EXCESS FLOW SHUT OFF VALVES.
+	(Title and Section Amended by Ord. No. 180,670, Eff. 6/15/09.)94.1219.1.
+Definitions.  For purposes of this section, certain terms shall be defined as
+follows:	Downstream of the Gas Utility Meter shall refer to all customer-owned
+gas piping, downstream of the by-pass valve, as specified by the public gas
+utility company.	Excess Flow Shut Off Valve shall mean a shut off system
+activated by significant gas leaks or overpressure surges downstream of the
+valve.	Residential Building shall mean any single family dwelling, duplex,
+apartment building, condominium, townhouse, lodging house, congregate residence,
+or hotel or motel.	Seismic Gas Shut Off Valve shall mean a system consisting of
+a seismic sensing means and actuating means designed to automatically actuate a
+companion gas shut off means installed in a gas piping system in order to shut
+off the gas downstream of the location of the gas shut off means in the event of
+a severe seismic disturbance.  The system may consist of separable components
+or may incorporate all functions in a single unit.	Upstream of the Gas Utility
+Meter shall refer to all gas piping installed by the utility up to and including
+the meter and the utility’s bypass tee at the connection to the customer owned
+piping.94.1219.2. Scope.  An approved seismic gas shut off valve or excess flow
+shut off valve shall be installed downstream of the gas utility meter on each
+fuel gas line where the gas line serves the following buildings or
+structures:94.1219.2.1. A building or structure containing fuel gas piping for
+which a building permit was first issued on or after September 1,
+1995.94.1219.2.2. An existing building or structure which is altered or added
+to; and94.1219.2.2.1. That building or structure has fuel gas piping supplying
+the existing building or structure or the addition to the building or structure;
+and94.1219.2.2.2. The alteration or addition is valued at more than $10,000 and
+a building permit for the work in commercial buildings was first issued on or
+after September 1, 1995.  Alterations or additions to individual units or
+tenant spaces shall require a seismic gas shut off valve or excess flow shut off
+valve to be installed for all gas piping serving that individual unit or tenant
+space; or94.1219.2.2.3. The alteration or addition is valued at more than
+$10,000 and a building permit for the work in residential buildings, including
+condominium units, is first issued on or after January 10, 1998.  Alterations
+or additions to an individual condominium unit shall require a seismic gas shut
+off valve or excess flow shut off valve to be installed for all gas piping
+serving that individual condominium unit; or94.1219.2.2.4. The alteration or
+addition is to the fuel gas piping system and involves the alteration or
+replacement of the gas meter.94.1219.2.3. Prior to entering into an agreement of
+sale, or prior to the close of escrow when an escrow agreement has been executed
+in connection with the sale:	(1)	Buildings or structures which contain fuel gas
+piping shall have a seismic gas shut off valve or excess flow shut off valve
+installed.	(2)	The sale of an individual condominium unit in a building shall
+require the installation of a seismic gas shut off valve or excess flow shut off
+valve for all gas piping serving that individual unit.	EXCEPTIONS:	(1)	Seismic
+gas shut off valves or excess flow shut off valves may be installed upstream of
+a gas utility meter provided they meet the requirements of this
+section.	(2)	Seismic gas shut off valves or excess flow shut off valves
+installed on a building or structure prior to September 1, 1995, are exempt from
+the requirements of this section provided they remain installed on the building
+or structure and are maintained for the life of the building or
+structure.	(3)	Notwithstanding Subsections 94.1219.2.1, 94.1219.2.2 and
+94.1219.2.3 above, these provisions shall not apply to a building or structure
+if the Department determines that a building or structure satisfies all three of
+the following criteria:	(A)	That the building or structure is owned, operated,
+and maintained by a governmental entity or public utility; or that the building
+or structure is owned by a private concern and provides a public benefit, such
+as a co-generation facility which shares its excess power with a public utility
+or with a large industrial facility which has governmental contracts;	(B)	That
+the building or structure has available 24-hour, year-round, maintenance
+staffing; and	(C)	That the gas piping system contained in the building or
+structure is designed to withstand seismic effects of earthquakes.	(4)	A single
+seismic gas shut off valve or excess flow shut off valve may be installed
+upstream of the gas utility meter at the discretion of the gas
+utility.94.1219.3. General Requirements.  Seismic gas shut off valves or excess
+flow shut off valves installed either in compliance with Section 94.1219.2, et
+seq., or voluntarily with a permit issued on or after September 1, 1995, shall
+comply with the following requirements:94.1219.3.1. Seismic gas shut off valves
+or excess flow shut off valves shall be installed by a contractor licensed in
+the appropriate classification by the State of California.	EXCEPTION:  A person
+who has been determined by the Department to meet the qualification of a
+Qualified Installer pursuant to the definition of a Qualified Installer set
+forth in Division 2 of this Code may install a seismic gas shut off valve or
+excess flow shut off valve to a single family dwelling which is or is intended
+to be occupied by the Qualified Installer.94.1219.3.2. Seismic gas shut off
+valves or excess flow shut off valves shall be mounted rigidly to the exterior,
+or other approved location, of the building or structure containing the fuel gas
+piping.	EXCEPTION:  If the Department determines that the seismic gas shut off
+valve or excess flow shut off valve has been tested and listed for an alternate
+method of installation, then the seismic gas shut off valve or excess flow shut
+off valve need not be mounted rigidly to the exterior of the building or
+structure containing the fuel gas piping.94.1219.3.3. Seismic gas shut off
+valves or excess flow shut off valves shall be certified by the Office of the
+State Architect.94.1219.3.4. Seismic gas shut off valves or excess flow shut off
+valves shall be approved by the Department of Building and Safety, Mechanical
+Testing Laboratory.94.1219.3.5. Seismic gas shut off valves or excess flow shut
+off valves shall have a thirty year warranty which warrants that the valve is
+free from defects and will continue to properly operate for thirty years from
+the date of installation.94.1219.3.6. Where seismic gas shut off valves or
+excess flow shut off valves are installed as required by this section, they
+shall be maintained for the life of the building or structure or be replaced
+with a valve complying with the requirements of this section.94.1219.3.7.
+Seismic gas shut off valves must be in compliance with all requirements of
+California Referenced Standard 12-16-1.94.1219.3.8. Excess flow shut off valves
+must be in compliance with all requirements of California Referenced Standard
+12-16-2.

@@ -1,0 +1,11 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+REFRIGERATION LOAD. (§ 57.43.30)
+
+  REFRIGERATION LOAD.	The total refrigeration load shall be computed as the sum
+of the following:	A.	Heat transfer through the insulation and special vessel
+wall.	B.	Heat input resulting from:	1.	Cooling the stored material from the
+maximum incoming temperature to storage temperature.
+	2.	Condensing of vapor returned during discharge operations of the refrigerated
+special vessel.	3.	Cooling recycle vapor from the special vessel when stored
+material is used as the refrigerant.

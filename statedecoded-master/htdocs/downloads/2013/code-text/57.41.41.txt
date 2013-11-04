@@ -1,0 +1,16 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FILLING LIMITS. (§ 57.41.41)
+
+  FILLING LIMITS.	A.	Portable containers constructed in accordance with
+specifications of the D.O.T. shall be filled in accordance with D.O.T.
+regulations or other approved methods.	B.	Portable containers constructed in
+compliance with L.A.F.D. Standard No. 19 shall be filled in accordance with the
+following:	1.	No liquid or liquefied material shall be charged into a portable
+container unless the design pressure of the container equals or exceeds the
+vapor pressure (in psig) of the material at 115° F.	2.	No gaseous material
+shall be charged into a portable container at a pressure in excess of the design
+pressure. When the gas temperature is less than 130° F., the charging pressure
+must be such that the design pressure will not be exceeded at a gas temperature
+of 130° F.	3.	The liquid volume of any stored material shall be such that the
+vessel will not be liquid full at a temperature at or below 130° F.

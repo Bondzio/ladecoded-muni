@@ -1,0 +1,40 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+AUXILIARY ENGINES FOR TANK VEHICLES. (§ 57.38.16)
+
+  AUXILIARY ENGINES FOR TANK VEHICLES.	Engines, other than those providing
+propulsion power, installed or carried upon a tank vehicle transporting Class I
+liquids for the purpose of providing power for the operation of pumps or other
+devices shall be approved, and shall meet the following requirements:	A.	The
+engine air intake shall be equipped with an effective flame arrestor or an air
+cleaner having effective flame arrestor characteristics. The flame arrestor or
+air cleaner shall be securely installed and capable of preventing emission of
+flame from the intake side of the engine in event of backfiring.	B.	The fuel
+system shall be so located or constructed as to minimize the fire hazard. If the
+fuel tank is located above or immediately adjacent to the engine, suitable
+shielding shall be provided to prevent spillage or leakage from the tank or fuel
+system from coming in contact with the engine or any parts of the ignition and
+exhaust systems. All parts of the fuel system shall be constructed and installed
+in a workmanlike manner.	C.	Pumps and other appurtenances carrying or containing
+flammable liquids shall be so located in relation to the engine that spillage or
+leakage from such parts shall be prevented from coming in contact with the
+engine or any parts of the ignition and exhaust system, or adequate shielding
+shall be provided to attain the same purpose. The engine cooling fan shall be so
+positioned, rotated, or shielded as to minimize the possibility of drawing
+flammable vapors toward the engine.	D.	When the engine is located in a position
+where spillage from the cargo tank, its appurtenances, or from side racks might
+constitute a hazard, suitable shielding shall be provided to prevent such
+spillage from contacting the engine or engine exhaust system. Shielding shall be
+constructed in a manner that will cause spillage to drain away from the vicinity
+of the engine.	E.	Where the engine is carried within an enclosed space, adequate
+provision shall be made for air circulation at all times in order to prevent the
+accumulation of explosive vapors and to avoid overheating.	F.	The exhaust system
+shall be securely constructed, installed, and free from leaks. The exhaust line
+and muffler shall have adequate clearance from combustible materials, and the
+exhaust gases shall be discharged at a location which will not constitute a
+hazard. When engines are carried in enclosed spaces, the exhaust gases shall be
+discharged outside of each such enclosed space.
+	G.	The ignition wiring shall be securely installed with firm connections. Spark
+plug and all other terminals shall be suitably insulated to prevent sparking in
+event of contact with conductive materials. The ignition switch shall be of the
+enclosed type.

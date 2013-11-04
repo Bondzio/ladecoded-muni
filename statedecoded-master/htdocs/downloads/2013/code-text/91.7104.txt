@@ -1,0 +1,135 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GENERAL METHANE REQUIREMENTS. (§ 91.7104)
+
+  GENERAL METHANE REQUIREMENTS.91.7104.1.  Site Testing.  Site testing of
+subsurface geological formations shall be conducted in accordance with the
+Methane Mitigation Standards.  The site testing shall be conducted under the
+supervision of a licensed Architect or registered Engineer or Geologist and
+shall be performed by a testing agency approved by the Department.	The licensed
+Architect, registered Engineer or Geologist shall indicate in a report to the
+Department, the testing procedure, the testing instruments used to measure the
+concentration and pressure of the methane gas.  The measurements of the
+concentration and pressure of the methane gas shall be used to determine the
+Design Methane Concentration and the Design Methane Pressure.  The Design
+Methane Concentration and the Design Methane Pressure shall determine the Site
+Design Level of Table 71.	EXCEPTION:  Site testing is not required for
+buildings designed to the requirements of Site Design Level V as described in
+Table 71, or for buildings designed using the exceptions set forth in Sections
+91.7104.3.2 or 91.7104.3.3.91.7104.2.  Methane Mitigation Systems.  All
+buildings located in the Methane Zone and Methane Buffer Zone shall provide a
+methane mitigation system as required by Table 71 based on the appropriate Site
+Design Level.  The Superintendent of Building may approve an equivalent methane
+mitigation system designed by an Architect, Engineer or Geologist.	Table 71
+prescribes the minimum methane mitigation systems, such as, the passive, active
+and miscellaneous systems, depending on the concentration and pressure of the
+methane present at the site.  Each component of the passive, active and
+miscellaneous systems shall be constructed of an approved material and shall be
+installed in accordance with the Methane Mitigation Standards.91.7104.2.1. 
+Passive System.  The passive system is a methane mitigation system installed
+beneath or near the building.  The components of the passive system may consist
+of a de-watering system, the sub-slab vent system, and impervious membrane. 
+The sub-slab vent system shall consist of Perforated Horizontal Pipes, Vent
+Risers, and Gravel Blankets for the purpose of collecting and conveying methane
+from the soil underneath the building to the atmosphere.91.7104.2.1.1. 
+De-watering System.  The de-watering system is used to lower the ground water
+table to a level more than 12 inches below the bottom of the Perforated
+Horizontal Pipes.  The de-watering system shall conduct ground water to an
+approved location.91.7104.2.2.  Active System.  The components of the active
+system shall consist of one or more of the following, sub-slab system, gas
+detection system, mechanical ventilation, alarm system and control panel.  All
+components shall be constructed of an approved material, installed in accordance
+with the Methane Mitigation Standards.91.7104.2.3.  Miscellaneous System.  The
+components of the miscellaneous system may consist of Trench Dam, Cable or
+Conduit Seal Fitting, or Additional Vent Risers.  The component of the
+miscellaneous system shall be a material approved by the Department and shall be
+installed in accordance with the Methane Mitigation Standards. 91.7104.3. 
+Exceptions to Table 71.  The provisions of this section are exceptions to the
+construction requirements of Table 71.91.7104.3.1.  (Repealed by Ord. No.
+180,619, Eff. 5/12/09.)91.7104.3.2.  Buildings with Raised Floor
+Construction.  If a Building with Raised Floor Construction has underfloor
+ventilation construction in accordance with the standards below, then the
+utilities shall be installed with Trench Dams and Cable or Conduit Seal Fittings
+and a four inch thick gravel blanket shall be installed under and around the
+elevator pits.	Underfloor ventilation shall be provided by an approved
+mechanical ventilation system capable of exhausting underfloor air an equivalent
+of every 20 minutes, or by openings in the underfloor area complying with the
+following:	A.	The top of the openings shall be located not more than 12 inches
+below the bottom of the floor joists.	B.	The openings shall be distributed
+approximately equally and located to provide cross ventilation, for example, by
+locating the opening along the length of at least two opposite sides of the
+building.	C.	The openings shall be the larger of:	1.	Openings of not less than
+1.5 square feet for each 25 linear feet or fraction of exterior wall;
+or	2.	Openings shall be equal to 1 percent of underfloor area.	D.	The openings
+may be covered with corrosion-resistant wire mesh with mesh openings of greater
+than ¼ inch and less than ½ inch in dimension.91.7104.3.3.  Buildings with
+Natural Ventilation.  A building with natural ventilation is a building
+constructed with the following:	A.	The Unobstructed Openings shall exchange
+outside air.	B.	The size of the Unobstructed Opening shall be the larger
+of:	1.	Opening equal to at least 25 percent of the total perimeter wall area of
+the lowest level of the building, or	2.	Opening equal to at least 25 percent of
+the floor area of the lowest level of the building.	C.	The Unobstructed Openings
+shall be evenly distributed and located within the upper portion of at least two
+opposite exterior walls of the lowest level of the building.  	Buildings with
+natural ventilation that are constructed as described above, shall have the
+utilities constructed with Trench Dams and Cable or Conduit Seal Fittings.  If
+there is an enclosed room or space less than 150 square feet within the
+building, then the enclosed room or space shall be constructed with vent
+openings that comply with the requirements of Section 91.7104.3.4.91.7104.3.4. 
+Enclosed Room or Space within Building.  Individual enclosed rooms or enclosed
+spaces with floor area less than 2,000 square feet may be exempt from providing
+the Active System as required by Table 71, provided the vent openings comply
+with all of the following:	1.	Vent openings are Unobstructed Openings, except
+screens made with at least ¼ inch mesh or wind driven turbines on the roof
+shall be permitted.	2.	The aggregate size of vent openings shall be the larger
+of either five percent of the total floor area of the room or the area of
+enclosed space, or ten percent of the area of walls on the perimeter of the room
+or enclosed space.	3.	The vent openings shall be located to prevent the
+accumulation of methane gases within the room or enclosed space.	4.	The top of
+the vent opening shall be located not more than 12 inches below roof joists or
+ceiling joists if located in a wall of a building. 	5.	The vent openings shall
+be located on either two opposite walls or two adjacent walls of the room or
+enclosed space if located in a wall of a building.	6.	The vent openings shall be
+located no more than 50 feet from any point within the room or enclosed
+space.	7.	When using wind driven turbine, the area of the vent opening shall be
+calculated by the area of the opening at the attachment of the wind driven
+turbine at the roof.	8.	When the vent opening is located in a wall of an
+adjoining room, then the adjoining room shall be constructed of either an Active
+System, or have Natural Ventilation as described in Section
+91.7104.3.3.91.7104.3.5.  Single Family Dwelling.  (Amended by Ord. No.
+180,619, Eff. 5/12/09.)  Single Family Dwellings and buildings accessory to
+single family dwellings shall comply with all the Methane Mitigation
+requirements of Table 71, except that the following mitigation system may be
+substituted:	A.	Single Station Gas Detectors with battery back-up may be
+installed in lieu of Alarm System and Gas Detection System; or	B.	6 mil thick
+Visquene may be used in lieu of Impervious Membrane, when the Site Design Levels
+are I or II; or	C.	Additional Vent Risers or Mechanical Ventilation may be
+omitted for buildings with width less than 50 feet and footprint less than 6,000
+square feet in area; or	D.	Vent Risers may be substituted in lieu of Mechanical
+Extraction System, provided the Vent Risers are designed at a rate twice that
+established by the Methane Mitigation Standards.91.7104.3.6.  Buildings Located
+in the Methane Buffer Zone.  A building, located entirely or partially in the
+Methane Buffer Zone, shall be designed to the requirements of the Methane Buffer
+Zone.  Buildings located in the Methane Buffer Zone shall not be required to
+provide any methane mitigation system, if the Design Methane Pressure is less
+than or equal to two inches of water pressure and is either of the
+following:	A.	Areas which qualify as Site Design Level I or II; or	B.	Areas
+which qualify as Site Design Level III and the utilities are installed with
+Trench Dams and Cable or Conduit Seal Fitting.91.7104.3.7.  De-watering
+System.  A De-watering system is not required for either of the following:  
+		
+	A.	If during the site testing, the groundwater level is deeper than 10 feet
+below the Perforated Horizontal Pipes, or	B.	If the soil investigation or
+analysis, as approved by the Department, reveals the  groundwater level is more
+than 12 inches below the bottom of the Perforated Horizontal
+Pipes.91.7104.3.8.  Buildings Located in the First Phase Playa Vista Project. 
+The First Phase Playa Vista project, as approved by the City on September 21,
+1993 and December 8, 1995, shall comply with the methane mitigation program as
+required by the Department pursuant to the Methane Prevention, Detection and
+Monitoring Program approved by the Department on January 31, 2001, in lieu of
+the requirements of this division.91.7104.4.  Paved Areas.  Paved areas that
+are over 5,000 square feet in area and within 15 feet of the exterior wall of a
+commercial, industrial, institutional or residential building, shall be vented
+in accordance with the Methane Mitigation Standards.	EXCEPTION:  Paved areas
+located in the Methane Buffer Zone and which qualify for Site Design Levels I,
+II or III.

@@ -1,0 +1,19 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GENERAL. (§ 91.3001)
+
+  GENERAL.	Section 3001 of the CBC is adopted by reference, except that
+Sections 3001.1, 3001.2 and 3001.4 of the CBC are not adopted and in lieu,
+Sections 91.3001.1, 91.3001.2 and 91.3001.4 are added.91.3001.1.  Scope.  This
+division governs the design, construction, installation, alteration and repair
+of elevators and conveying systems and their components.  All elevators shall
+comply with the additional requirements of the Elevator Code.  Whenever a
+conflict exists between this Division and the Elevator Code, the more
+restrictive of the two codes shall apply. 91.3001.2.  Referenced Standards. 
+Except as otherwise provided for in this Code, the design, construction,
+installation, alteration, repair and maintenance of elevators and conveying
+systems and their components shall conform to the Elevator Code, ASME A90.1,
+ASME B20.1, ALI ALCTV, and ASCE 24 for construction in flood hazard areas
+established in CBC Section 1612.3.91.3001.4.  Change in Use.  A change in use
+of an elevator from freight to passenger, passenger to freight, or from one
+freight class to another freight class shall comply with the Elevator Code.

@@ -1,0 +1,63 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MATERIALS OF CONSTRUCTION. (§ 91.9306)
+
+  MATERIALS OF CONSTRUCTION.
+	(Added by Ord. No. 172,018, Eff. 5/21/98.)91.9306.1.  New Materials.  All
+materials approved by this Code, including their appropriate allowable stresses
+and minimum aspect ratios, shall be permitted to meet the requirements of this
+division.91.9306.2.  Allowable Foundation and Lateral Pressures.  (Amended by
+Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  Allowable foundation and
+lateral pressures shall be permitted to use the values from CBC Table 1804.2. 
+The coefficient of variation of subgrade reaction shall be established by an
+approved geotechnical engineering report or other approved methods when used in
+the deflection calculations of embedded vertical elements as required in LAMC
+Section 91.9305.6.91.9306.3.  Existing Materials.  All existing materials
+shall be in sound condition and constructed in conformance to this Code before
+they can be used to resist the lateral loads prescribed in this division.  The
+verification of existing material conditions and their conformance to these
+requirements, shall be made by physical observation reports, material testing or
+record drawings as determined by the structural designer and approved by the
+Department.91.9306.3.1.  Horizontal Wood Diaphragms.  Existing horizontal wood
+diaphragms that require analysis under Section  91.9305.10 shall be permitted
+to use Table 88-H of this code for their allowable values.91.9306.3.2.  Wood
+Structural Panel Shear Walls.91.9306.3.2.1.  Allowable Nail Slip Values. 
+(Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  When the required
+drift calculations of LAMC Section 91.9305.11.2.1 rely on the lower slip values
+for common nails or surfaced dry lumber, their use in construction shall be
+verified by exposure.  The use of box nails and unseasoned lumber may be
+assumed without exposure.  The verification of surfaced dry lumber shall be by
+identification conforming to Division 23 of this Code.91.9306.3.2.2.  Reduction
+for Clipped Nail Heads.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  When exposed nails do not meet the nominal head sizes required for
+hand driven nails in Division 23 of this Code, the allowable shear capacity for
+wood structural panel shear walls shall be proportionately reduced.  The
+reduction shall be a percentage of the reduction in the nail head area below the
+required nail head area including tolerances.91.9306.3.2.3.  Plywood Panel
+Construction.  When verification of the existing plywood materials is by use of
+record drawings alone, the panel construction for plywood shall be assumed to be
+of three plies.91.9306.3.2.4.  Framing Members of Other Species.  (Amended by
+Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  When verification of the
+existing wood material is by use of record drawings, the allowable shear
+capacity shall be multiplied by the reduction factor of 0.82 for buildings built
+on or after 1960.  Buildings built before this period shall use the reduction
+factor 0.65.  When verification of the existing wood material is by
+identification in conformance to Division 23 of this Code, the allowable shear
+capacity shall be determined in accordance with LAMC Section
+91.9305.11.2.3.91.9306.3.3.  Lumber.  (Amended by Ord. No. 179,324, Eff.
+12/10/07, Oper. 1/1/08.)  When the existing dimensioned lumber is not
+identified in conformance to Division 23 of this Code, the allowable stresses
+shall be permitted for the structural elements specified below.
+	Posts and Beams	Douglas Fir-larch No. 1
+	Joists and Rafters	Douglas Fir-larch No. 2
+	Studs, Blocking	Hem Fir Stud.91.9306.3.4.  Structural Steel.  All existing
+structural steel shall be permitted to use the allowable stresses for Grade
+A36.  Existing pipe or tube columns shall be assumed to be of minimum wall
+thickness unless verified by testing or exposure.91.9306.3.5.  Strength of
+Concrete.  All existing concrete footings shall be permitted to use the
+allowable stresses for plain concrete with a compressive strength of 2,000 psi.
+The strength of existing concrete with a record compressive strength greater
+than 2,000 psi shall be verified by testing, record drawings or Department
+records.91.9306.3.6.  Existing Sill Plate Anchorage.  Existing cast-in-place
+anchor bolts shall be permitted to use the allowable service loads for bolts
+with proper embedment when used for shear resistance to lateral loads.

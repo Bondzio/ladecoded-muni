@@ -1,0 +1,58 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 21.1.1)
+
+  DEFINITIONS.
+	(Amended by Ord. No. 179,686*, Eff. 3/15/08.)
+
+	The following words and phrases whenever used in this article shall be
+construed as defined in this section:
+
+	(a)	“Ancillary Telecommunications Services” shall mean services that are
+associated with or incidental to the provision, use or enjoyment of
+Communications Services.
+
+	(b)	“Communications Services” shall mean the transmission, conveyance, or
+routing of voice, audio, video communications, data or any other communications
+information or signals to a point, or between or among points, whatever the
+technology used, and whether or not that information is transmitted through
+interconnected service with the public switched network, or through fiber optic,
+coaxial cable, power line transmission, broadband, digital subscriber line or
+other wireless transmission.  The term “Communications Services” includes
+transmission, conveyance, or routing in which computer processing applications
+are used to act on the form, code or protocol of the content for purposes of
+transmission, conveyance or routing without regard to whether those services are
+referred to as voice over internet protocol (VoIP) services or are classified by
+the Federal Communications Commission as enhanced or value added, and includes
+video and/or data services that are functionally integrated with
+“Communications Services”.  “Communications Services” include, but are
+not limited to the following services, regardless of the manner or basis on
+which those services are calculated or billed: central office and custom calling
+features (including but not limited to call waiting, call forwarding, caller
+identification and three-way calling); local number portability; text messaging;
+instant messaging; Ancillary Telecommunications Services; prepaid and post-paid
+telecommunications services (including but not limited to prepaid calling
+cards); mobile telecommunications services; Private Communications Services;
+paging services; and 800 services (or any other toll-free numbers designated by
+the Federal Communications Commission).  “Communications Services” does not
+include either digital downloads, such as downloads of books, music, ringtones,
+games and similar digital products, or that portion of cable or video television
+services subject to a cable or video television franchise fee.
+
+	(c)	“Month” shall mean a calendar month.
+
+	(d)	“Person” shall mean all individuals, domestic and foreign corporations,
+associations, syndicates, joint stock companies, partnerships of every kind,
+joint ventures, clubs, Massachusetts businesses or common law trusts, societies,
+and, shall include municipal corporations.
+
+	(e)	“Private Communications Services” shall mean any dedicated
+Communications Services that entitle the user to the exclusive or priority use
+of communications channels.
+
+	(f)	“Service User” shall mean a Person required to pay a tax imposed under
+the provisions of this article.
+
+* Note: Pursuant to the passage of Proposition S in a Special Election held on
+February 5, 2008, Ordinance No. 179,686 was adopted by the Council of the City
+of Los Angeles at its meeting of March 5, 2008.

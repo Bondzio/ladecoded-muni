@@ -1,0 +1,23 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+EMERGENCY SMOKE CONTROL SYSTEM. (§ 57.118.07)
+
+  EMERGENCY SMOKE CONTROL SYSTEM.	A system for removing products of combustion
+by natural or mechanical ventilation shall be provided for every floor or level
+of a high-rise building as follows:	A.	Natural Ventilation: Smoke evacuation
+shall consist of openable or tempered glass windows in the exterior wall on each
+floor of the building.  Such venting facilities shall be provided at the rate
+of 20 square feet per 50 lineal feet of exterior wall in each story and
+distributed around the perimeter at not more than 50 foot intervals.  Windows
+shall be clearly identified with a two-inch minimum diameter disc of luminour
+and/or reflective material with the word “TEMPERED” permanently applied to
+one of the lower inside corners either directly on the glass or on the
+frame.	B.	Mechanical Ventilation: Building air-handling equipment (H.V.A.C.)
+designed for this purpose may be used, provided the system, under fire
+conditions, exhausts at a rate of not less than six changes of air per hour from
+the floor involved and the system exhausts directly to the exterior of the
+building without recirculating to other sections of the building.  Mechanical
+ventilation equipment controls shall be located in the building control station
+and have the capability of controlling one or all floors for smoke
+evacuation.	C.	Below Grade Levels: All areas below grade level shall be provided
+with mechanical ventilation.

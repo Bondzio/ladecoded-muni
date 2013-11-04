@@ -1,0 +1,23 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FIRE PROTECTION AND SAFETY DEVICES. (§ 57.82.05)
+
+  FIRE PROTECTION AND SAFETY DEVICES.	A.	Fire Protection Equipment – If
+installed outside of a Hazardous Materials Room, every flow coat tunnel together
+with the material tanks and the dripping or drying area shall be protected by an
+approved automatic fire extinguishing system in accordance with Division 141 of
+this article.  When the flow coater is provided with an extinguishing system
+using a liquid extinguishing agent, provisions shall be made to prevent the
+salvage tank from being overflowed by the extinguishing agent.	B.	Safety Devices
+– Additional safety features shall be required as follows:	1.	An interlock
+device between the pump motor and the exhaust system, to prevent the pump from
+being in operation when the exhaust system is not.	2.	Interlock devices and
+fusible links as necessary to assure that in case of fire the following will
+occur:	a.	Automatic fire extinguishing system will operate.	b.	Conveyor will
+stop.	c.	Pump will stop.	d.	Exhaust system will stop.	e.	Sump will be drained to
+salvage tank.	3.	An interlock device to assure that if the conveyor is halted,
+any drying lights or ovens will not continue to heat the stopped
+articles.	C.	Sources of Ignition:	1.	Open-flame and other sources of ignition
+shall be at least 25 feet from flow coat booths or tunnels.	2.	Electrical
+equipment and wiring shall comply with the requirements of Chapter 9 of the
+L.A.M.C. (Electrical Code).

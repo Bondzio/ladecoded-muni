@@ -1,0 +1,70 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MODIFICATIONS TO ASCE 7. (§ 91.1616)
+
+  MODIFICATIONS TO ASCE 7.
+	(Renumbered and Amended by Ord. No. 181,758, Eff. 8/8/11.)91.1616.1. General. 
+The text of ASCE 7 shall be modified as indicated in this Section.  Modify ASCE
+7, Section 12.2.3.1 Exception 3 to read as follows:	3.	Detached one and two
+family dwellings up to two stories in height of light frame
+construction.91.1616.2. The text of ASCE 7 shall be modified as indicated in
+this Section.  Modify ASCE 7, Table 12.8-2 by adding the following:
+  
+    
+      
+        Structure Type 
+      
+      
+        Ct
+      
+      
+        x
+      
+    
+    
+      
+        Eccentrically braced steel frames and buckling-restrained braced frames
+      
+      
+        0.03
+        (0.0731 )a
+      
+      
+        0.75
+      
+    
+  
+91.1616.3. General.  The text of ASCE 7 shall be modified as indicated in this
+Section. Modify ASCE 7, Section 12.8.7 by amending Equation 12.8-16 as
+follows:	θ = Px Δ I / Vx hsx Cd	(12.8-16)91.1616.4. General.  The text of
+ASCE 7, Section 12.11.2.2.3 is modified to read as follows:	12.11.2.2.3. Wood
+Diaphragms.  In wood diaphragms, the continuous ties shall be in addition to
+the diaphragm sheathing.  Anchorage shall not be accomplished by use of toe
+nails or nails subject to withdrawal nor shall wood ledgers or framing be used
+in cross-grain bending or cross-grain tension.  The diaphragm sheathing shall
+not be considered effective as providing ties or struts required by this
+Section.	For wood diaphragms supporting concrete or masonry walls, wood
+diaphragms shall comply with the following when structures assigned to seismic
+Design Category D, E, or F:	1.	The spacing of continuous ties shall not exceed
+40 feet.  Added chords of diaphragms may be used to form subdiaphragms to
+transmit the anchorage forces to the main continuous crossties.	2.	The maximum
+diaphragm shear used to determine the depth of the subdiaphragm shall not exceed
+75% of the maximum diaphragm shear.91.1616.5. General.  The text of ASCE 7,
+Section 12.12.4 is modified to read as follows:	12.12.4. Deformation
+Compatibility for Seismic Design Category D through F.  For structures assigned
+to Seismic Design Category D, E, or F, every structural component not included
+in the seismic force-resisting system in the direction under consideration shall
+be designed to be adequate for the gravity load effects and the seismic forces
+resulting from displacement to the design story drift (D) as determined in
+accordance with Section 12.8.6 (see also Section 12.12.1).	EXCEPTION: 
+Reinforced concrete frame members not designed as part of the seismic
+force-resisting system shall comply with Section 21.9 of ACI 318.  	Where
+determining the moments and shears induced in components that are not included
+in the seismic force-resisting system in the direction under consideration, the
+stiffening effects of adjoining rigid structural and nonstructural elements
+shall be considered and a rational value of member and restraint stiffness shall
+be used.	When designing the diaphragm to comply with the requirements stated
+above, the return walls and fins/canopies at entrances shall be considered. 
+Seismic compatibility with the diaphragm shall be provided by either seismically
+isolating the element or by attaching the element and integrating its load into
+the diaphragm.

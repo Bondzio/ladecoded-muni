@@ -1,0 +1,69 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 111.01)
+
+  DEFINITIONS.	Unless the context otherwise clearly indicates, the words and
+phrases used in this chapter are defined as follows:	(a)	“Ambient Noise” is
+the composite of noise from all sources near and far in a given environment,
+exclusive of occasional and transient intrusive noise sources and of the
+particular noise source or sources to be measured. Ambient noise shall be
+averaged over a period of at least 15 minutes at a location and time of day
+comparable to that during which the measurement is taken of the particular noise
+source being measured. (Amended by Ord. No. 156,363, Eff.
+3/29/82.)	(b)	“Commercial Purpose” is the use, operation, or maintenance of
+any sound amplifying equipment for the purpose of advertising any business,
+goods, or services, or for the purpose of attracting the attention of the public
+to, advertising for, or soliciting patronage or customers to or for any
+performance, show, entertainment, exhibition, or event, or for the purpose of
+demonstrating such sound equipment. (Amended by Ord. No. 156,363, Eff.
+3/29/82.)	(c)	“Decibel” (dB) is a unit of level which denotes the ratio
+between two (2) quantities which are proportional to power; the number of
+decibels corresponding to the ratio of two (2) amounts of power is ten (10)
+times the logarithm to the base (10) of this ratio. (Amended by Ord. No.
+156,363, Eff. 3/29/82.)	(d)	“Emergency Work” is work made necessary to
+restore property to a safe condition following a public calamity or work
+required to protect persons or property from an imminent exposure to danger, or
+work by private or public utilities when restoring utility service. (Amended by
+Ord. No. 156,363, Eff. 3/29/82.)	(e)	“Impulsive Sound” is sound of short
+duration, usually less than one second, with an abrupt onset and rapid decay. By
+way of example “impulsive sound” shall include, but shall not be limited to,
+explosions, musical base drum beats, or the discharge of firearms. (Amended by
+Ord. No. 156,363, Eff. 3/29/82.)	(f)	“Motor Vehicle” includes, but shall not
+be limited to, automobiles, trucks, motorcycles, minibikes and go-carts.
+(Amended by Ord. No. 156,363, Eff. 3/29/82.)	(g)	“Noncommercial Purpose” is
+the use, operation, or maintenance of any sound equipment for other than a
+“commercial purpose”. “Noncommercial purpose” shall mean and include,
+but shall not be limited to, philanthropic, political, patriotic, and charitable
+purposes. (Amended by Ord. No. 156,363, Eff. 3/29/82.)	(h)	“Octave Band Noise
+Analyzer” is an instrument for measurement of sound levels in octave frequency
+bands which satisfies the pertinent requirements for Class II octave band
+analyzers of the American National Standard Specifications for Octave,
+Half-Octave, and Third-Octave Band Filters, S1.11-1966 or the most recent
+revision thereof. (Amended by Ord. No. 156,363, Eff. 3/29/82.)	(i)	“Person”
+is a person, firm, association, co-partnership, joint venture, corporation, or
+any entity, private or public in nature. (Amended by Ord. No. 156,363, Eff.
+3/29/82.)	(j)	“Sound Amplifying Equipment” (Amended by Ord. No. 156,363,
+Eff. 3/29/82.) is any machine or device for the amplification of the human
+voice, music or any other sound, but shall not include:	1.	Automobile radios,
+stereo players or television receivers when used and heard only by the occupants
+of the vehicle in which the same is installed.	2.	Radio, stereo players,
+phonographs or television receivers used in any house or apartment within any
+residential zone or within 500 feet thereof.
+	3.	Warning devices on emergency vehicles.	4.	Horns or other warning devices
+authorized by law on any vehicle when used for traffic purposes.	(k)	“Sound
+Level” (Noise level) in decibels (dB) is the sound measured with the “A”
+weighting and slow responses by a sound level meter; except for impulsive or
+rapidly varying sounds, the fast response shall be used. (Amended by Ord. No.
+156,363, Eff. 3/29/82.)	(l)	“Sound Level Meter” is an instrument including a
+microphone, an amplifier, an output meter, and “A” frequency weighting
+network for the measurement of sound levels which satisfies the pertinent
+requirements for Type S2A meters in American Standard Specifications for sound
+level meters in S1.4-1971 or the most recent revision thereof. (Amended by Ord.
+No. 156,363, Eff. 3/29/82.)	(m)	“Sound Truck” is any motor vehicle, or any
+other vehicle regardless of motive power, whether in motion or stationary, which
+carries, is equipped with, or which has mounted thereon, or attached thereto,
+any sound amplifying equipment. (Amended by Ord. No. 156,363, Eff.
+3/29/82.)	(n)	Supplementary of Technical Terms.  Definitions of technical terms
+not defined herein shall be obtained from American Standard Acoustical
+Terminology S1-1-1971 or the most recent revision thereof. (Amended by Ord. No.
+156,363, Eff. 3/29/82.)

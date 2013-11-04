@@ -1,0 +1,40 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+STANDBY AND EMERGENCY POWER SYSTEM. (§ 57.118.08)
+
+  STANDBY AND EMERGENCY POWER SYSTEM.	A.	Standby Power:	1.	Generation System: A
+permanently installed on-site standby power generation system consisting of one
+or more generators including the prime mover shall be provided.  In the event
+of failure of the normal source of electrical service, the standby power
+generation system shall provide an alternate source of electrical energy to
+serve at least the designated power loads set forth in Subdivision 2 of this
+subsection.	2.	Power Loads: The power load requirements for sizing the standby
+power generation system shall include, but not necessarily be limited to, the
+following:	a.	Exit signs and exit illumination.	b.	Elevator car
+lighting.	c.	Fire alarm systems.	d.	Fire detection systems.	e.	Sprinkler alarm
+systems.	f.	Electrically driven fire pumps.	g.	Building communication
+systems.	h.	Smoke control systems.	i.	Elevators designated for Fire Department
+and emergency use.	j.	Lighting circuits supplying elevator lobbies, the building
+control station, the generator room, and the fire pump room.	k.	Exterior window
+washing equipment.  (Amended by Ord. No. 167,326, Eff. 11/16/91.)	3.	Transfer
+Time: The standby power generation system shall be equipped with suitable means
+for automatically starting the generator set upon failure of the normal
+electrical service and shall provide for the automatic transfer and operation of
+electrical systems and equipment specified in Section 57.118.08, A-2, at full
+power within 60 seconds of such normal service failure.	4.	Fuel Supplies:
+On-site fuel supplies for prime movers of standby power generator sets shall be
+sufficient for at least eight hours at full demand operation.	B.	Emergency
+Power:	1.	Electrical systems and equipment specified herein are classed as
+emergency systems and shall be installed in every new high-rise
+building.	a.	Exit signs and exit illumination.	b.	Elevator car lighting.	c.	Fire
+alarm systems.	d.	Fire detection systems.	e.	Sprinkler alarm
+systems.	2.	Transfer Time: The emergency power supply system shall be so
+designed that upon failure of the normal electrical service the emergency power
+shall be automatically transferred and operated within 10 seconds of such
+service failure.  Such emergency power supply system may be separate from the
+standby power system specified in Subsection A of this section.	When the standby
+power generation system reaches full operating capacity, the emergency
+electrical systems and equipment shall be transferred thereto.	C.	Installation,
+alteration, and major repair of the items listed in Subsections A and B of this
+section shall be performed under Permit of Chapter 9 of the L.A.M.C. (Electrical
+Code) when required.

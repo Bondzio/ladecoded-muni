@@ -1,0 +1,108 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CLASS V COIN-OPERATED, SELF-SERVICE DRY CLEANING PLANTS. (§ 57.79.20)
+
+  CLASS V COIN-OPERATED, SELF-SERVICE DRY CLEANING PLANTS.	The provisions of
+this section shall regulate Class V dry cleaning plants in which the dry
+cleaning is conducted by the public.	A.	General Requirements:	1.	Class V plants
+shall be so designed, installed and operated to reduce to a reasonable and
+acceptable degree the toxicity or health hazards incident to the nature of the
+solvents.	2.	Only solvents approved for Class V installations shall be used in
+the dry cleaning machines.	3.	All solvent handling equipment and components
+shall be constructed to prevent leakage.	4.	Solvent storage and treatment tanks
+and all interior steel surfaces which tend to corrode when exposed during
+ordinary operation to solvent and to air alternately shall be protected against
+corrosion.  Pumps, filters, or any closed containers ordinarily completely
+filled with solvent, or steam coils or chests immersed in solvent or which
+ordinarily do not tend to corrode, may be constructed of carbon steel without
+corrosion protection.	5.	Exhaust ventilation ducts from equipment shall extend
+above the roof line unless leading directly into a solvent recovery
+system.	B.	Ventilation, Light Power and Heat:	1.	Class V plants shall be
+provided with adequate ventilation.  There shall be a minimum of air flow rate
+away from the customer areas as follows:
+  
+    
+      
+        NUMBER OF DRY CLEANING UNITS
+      
+      
+        AIR FLOW PER UNIT-CFM
+      
+    
+    
+      
+        1-3
+      
+      
+        250
+      
+    
+    
+      
+        4-8
+      
+      
+        200
+      
+    
+    
+      
+        9-16
+      
+      
+        150
+      
+    
+    
+      
+        17 or More
+      
+      
+        100
+      
+    
+  
+	This exhaust ventilation shall be provided continuously while the plant is open
+for business.  The exhaust fan shall be interlocked so that the dry cleaning
+units cannot be operated unless the fan is in operation.  A supply of make-up
+air equal to or greater than the total volume of air exhausted shall be provided
+for the customer area.	2.	A ventilation fan shall be installed in the service
+area to be used in case of a serious solvent leak.  The combination capacity of
+the ventilation required in Subdivision 1 above and this fan shall be not less
+than 500 CFM per dry cleaning machine.  The switch for this ventilation
+equipment shall be readily accessible and clearly identified.	3.	All electrical
+devices and wiring shall be installed in accordance with the requirements of
+Chapter 9 of the L.A.M.C. (Electrical Code).	4.	Air for combustion for gas and
+oil-fired devices shall come through ducts from a clean source of air outside
+the building when such devices are located in the dry cleaning room.	5.	All
+exhaust ventilation systems shall be installed in accordance with the
+requirements of Chapter 9 of the L.A.M.C. (Mechanical Code), and shall be
+located no closer than 25 feet from any openings in other occupancy or
+business.	C.	Pumps and Piping:	Section 57.79.10c of this division shall be
+applicable for Class V plants.	D.	Dry Cleaning Units, Filters, and
+Stills:	1.	The applicable provisions of Subsections D, F, and G of Section
+57.79.10 of this Division shall apply to dry cleaning units, filters, and stills
+used in Class V plants.	2.	Only the front (customer) side of the dry cleaning
+unit shall be exposed in the customer area.  The working or maintenance portion
+of the units shall be separated in a service area by an approved partition. 
+Access doors to the service area shall be kept locked.	3.	Dry cleaning units
+shall be provided with an automatically activated exhaust ventilation system to
+maintain a minimum of 100 FPM air velocity through the loading door whenever the
+door is open.	4.	A satisfactory means of preventing solvent leaks from escaping
+the dry cleaning units area shall be provided.  A curb on the floor near the
+base of the unit or a metal pan around the unit shall be provided which will
+hold the volume of liquid equal to the maximum quantity of solvent in the
+unit.	5.	Filter residue and other residues containing solvent shall be handled
+and disposed of in approved covered metal containers with tight-fitting metal
+lids.	6.	Stills shall be constructed so as to prevent hot solvent vapor from
+escaping into the room.	E.	Operation:	1.	Operating instructions for customer use
+shall be posted in a conspicuous location near the unit.  A telephone number
+shall be listed for emergency assistance.	2.	An interlock system shall be
+provided to prevent the loading door of the unit from being opened during the
+entire dry cleaning cycle.	3.	The unit shall be designed so that no significant
+amount of solvent is left in the cleaned garments at the end of the drying
+cycle.	4.	Proper maintenance of the dry cleaning units shall be provided daily
+to prevent solvent leakage and lint accumulation.	5.	Spotting operations using
+flammable or combustible liquids shall not be permitted.	6.	Customer areas shall
+be kept clean.	F.	Fire Protection:	Portable fire extinguishers shall be provided
+in accordance with the provisions of Division 140 of this article.

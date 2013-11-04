@@ -1,0 +1,22 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 57.122.02)
+
+  DEFINITIONS.	The following words and phrases, used in this division, shall be
+defined as follows:	Alarm Signal – A signal indicating an emergency requiring
+immediate action, such as an alarm for fire from a manual pull station, a water
+flow alarm, an alarm from an automatic fire protective signaling system, or
+other emergency signal.	Annunciation – A visual or visual and audible alarm at
+the main fire alarm control panel which indicates the location of any alarm or
+trouble signal reported by a fire protective signaling device.	Heat-Activated
+Detectors – Detectors capable of reacting to rapidly rising or elevated
+temperatures.	HVAC – An abbreviation for the words “heating, ventilation,
+air conditioning.”	Local Alarm System – A local system sounding an alarm as
+the result of the operation of a manual pull station or the operation of fire
+protection systems, such as water flowing in a sprinkler system, the discharge
+of an automatic fire extinguishing system, the detection of smoke, or the
+detection of heat.	Trouble Signal – An audible and visual signal indicating an
+abnormal condition, such as a circuit break or a ground occurring in the devices
+or wiring associated with a fire protective signaling system.	Zone – A
+building or a defined area of a building which is approved by the Chief for
+purposes of identifying locations of devices.

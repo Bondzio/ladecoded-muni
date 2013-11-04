@@ -1,0 +1,203 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INFORMATION REQUIRED ON THE PLANS. (§ 91.9516)
+
+  INFORMATION REQUIRED ON THE PLANS.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)91.9516.1.  General.  In addition
+to the seismic analysis required elsewhere in this division, the licensed
+engineer responsible for the seismic analysis of the building shall record the
+information required by this section on the approved plans.91.9516.2. 
+Information Required.  The plans shall accurately reflect the results of the
+engineering investigation and design, and show all pertinent dimensions and
+sizes for plan review and construction.  The following shall be
+provided:	1.	The plans of the existing construction shall be adequately
+dimensioned and furnish adequate details in schedules, notes and sections to
+fully describe the existing building.  Foundation plan, floor and roof plans
+which indicate new work on framing plans of the existing
+construction.	2.	Elevations of the structural system showing sizes and
+dimensions.	3.	Schedules, sections and details showing reinforcement of walls,
+slabs, beams, joists, girders, columns and foundations.	EXCEPTION:  If copies
+of the original construction documents are submitted for information during the
+plan check, the information required by Items 1, 2 and 3 may be limited to areas
+of and adjacent to new construction on a complete outline at that level of the
+building.	4.	Sections and details showing attachments and joining of new and
+existing structures.  All reinforcement in the existing structure shall be
+shown in these sections and details.	5.	Specifications and/or general notes
+fully describing demolition, materials and methods, testing and inspection
+requirements.91.9516.3.  Engineer’s Statement.  (Amended by Ord. No.
+179,324, Eff. 12/10/07, Oper. 1/1/08.)  The responsible engineer shall state on
+the approved plans, the following:	1.	“I am responsible for this building’s
+seismic strengthening design in compliance with the minimum seismic resistance
+standards of Division 95 of the Los Angeles Building Code.”	or when
+applicable:	2.	“The Registered Deputy Inspector, required as a condition of
+the use of structural design stresses requiring continuous inspection, will be
+responsible to me as required by Section 91.1704 of the Los Angeles Building
+Code.”TABLE 95-A
+RATING CLASSIFICATIONS
+  
+    
+      
+        CLASSIFICATION
+      
+      
+        TYPE OF BUILDING
+      
+    
+    
+      
+        Group  I
+      
+      
+        Essential Buildings
+      
+    
+    
+      
+        Group II
+      
+      
+        Buildings with occupant load of 5,000 or more, or assembly rooms of
+1,000 occupants or more, and malls as defined elsewhere in the Code.
+      
+    
+    
+      
+        Group III
+      
+      
+        1,000 to 4,999 occupants
+      
+    
+    
+      
+        Group IV
+      
+      
+        300 to 999 occupants
+      
+    
+    
+      
+        Group V
+      
+      
+        All others
+      
+    
+  TABLES 95-B-C.
+Reserved.
+TABLE 95-D
+INITIAL EFFECTIVE MOMENT OF INERTIA OF CONCRETE MEMBERS
+  
+    
+      
+        MEMBER
+      
+      
+        RANGE
+      
+    
+    
+      
+        Rectangular beams
+      
+      
+        0.30 – 0.5 Ig
+      
+    
+    
+      
+        T &#038; L shaped beams
+      
+      
+        0.25 – 0.45 Ig
+      
+    
+    
+      
+        Columns P >  0.5 fc’ Ag
+      
+      
+        0.7 – 0.9 Ig
+      
+    
+    
+      
+        Columns P =  0.2 fc’ Ag
+      
+      
+        0.5 – 0.7 Ig
+      
+    
+    
+      
+        Columns P = -0.05 fc’ Ag
+      
+      
+        0.3 – 0.5 Ig
+      
+    
+  
+	WHERE:	Ag 	= 	gross area of the section,
+	Ig 	= 	moment of inertia of gross concrete section about the centroidal axis,
+neglecting the reinforcement.TABLE 95-E
+ASSUMED YIELD STRESS OF EXISTING REINFORCEMENT
+  
+    
+      
+        Type of reinforcement and era
+      
+      
+        Assumed yield stress, ksi
+      
+    
+    
+      
+        Pre 1940 – Structural and intermediate grade, plain and deformed
+      
+      
+        45
+      
+    
+    
+      
+        Pre 1940 – Twisted and hard grade
+      
+      
+        55
+      
+    
+    
+      
+        Post-1940 Structural and intermediate grade
+      
+      
+        45
+      
+    
+    
+      
+        Post-1940 Hard grade
+      
+      
+        60
+      
+    
+    
+      
+        ASTM A615 Grade 40
+      
+      
+        50
+      
+    
+    
+      
+        ASTM A615 Grade 60
+      
+      
+        70
+      
+    
+  
+FIGURE 95-1

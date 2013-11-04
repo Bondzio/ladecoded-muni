@@ -1,0 +1,28 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FUEL-FIRED UNITS. (§ 57.61.07)
+
+  FUEL-FIRED UNITS.	Construction and maintenance of every fuel-fired unit shall
+conform to the following:	A.	Emergency Shut-off Valves: Valves shall be provided
+to permit shutting off the fuel in an emergency and shall be located so that
+fire or explosions at ovens or furnaces will not prevent access to these
+valves.	B.	Manual Shutoff Valves: Manual shutoff valves shall be provided for
+shutoff of the fuel to the pilot and/or burner for extended periods of
+shutdown.  A main shutoff valve shall be located on the supply side of all
+other components to shut off all flow of fuel for servicing and for other
+shutdowns.	C.	Pressure Regulator: A pressure regulator shall be furnished
+whenever the plant supply pressure exceeds that required for proper burner
+operation or whenever the plant supply is subject to excessive fluctuations.
+Regulators shall be vented to outdoors, or other safe location, with the
+terminating end protected against water entry and bug screened.  Vent pipes
+shall be of adequate size to assure proper regulator operation.	D.	Burner
+Ignition: Burners shall ignite completely, smoothly, and reliably from the
+ignition source provided.  If a burner cannot be safely ignited at all firing
+rates encountered, positive provision shall be made to assure a firing rate
+suitable for safe light-off at the time of ignition (low fire
+start).	E.	Flow-control Valves: Flow-control valves of appropriate design shall
+be used to change the rate of flow of pressurized combustible air and/or fuel
+where applicable. Where the minimum and/or maximum flow of combustion air and/or
+fuel is critical to the safe operation of the burner, flow valves shall be
+equipped with an appropriate limiting means and with a locking device to prevent
+an unintentional change in the setting.

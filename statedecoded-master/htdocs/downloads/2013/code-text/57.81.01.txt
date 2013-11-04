@@ -1,0 +1,59 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CONSTRUCTION. (§ 57.81.01)
+
+  CONSTRUCTION.	A.	Dip Tank: Tanks shall be constructed of iron or steel, and
+all seams shall be made liquid tight by welding or crimping without the use of
+solder.  Minimum metal thickness shall be as set forth in Table 81-A.TABLE 81-A
+GAUGE OF METAL FOR DIP TANKS  
+    
+      
+        Capacity of Dip Tank in Gallons
+      
+      
+        Gauge of Metal
+      
+    
+    
+      
+        5 to 60
+      
+      
+        18
+      
+    
+    
+      
+        Over 60 to 275
+      
+      
+        14
+      
+    
+    
+      
+        Over 275 to 550
+      
+      
+        12
+      
+    
+    
+      
+        Over 550 to 1100
+      
+      
+        10
+      
+    
+  
+	B.	Supports:	1.	Tanks of 55 gallons capacity or less shall have noncombustible
+supports.	2.	Tanks over 55 gallons capacity shall have noncombustible supports
+of at least one-hour fire-resistive construction.	3.	Tanks over 120 gallons
+capacity shall have noncombustible supports of at least two-hour fire-resistive
+construction.	4.	Tanks exceeding 500 gallons capacity shall be supported in a
+manner approved by the Building Department.	5.	In no case shall the weight of
+the tank and contents exceed the designed floor load, unless independent
+structural supports are provided which are designed and constructed in
+conformance with the provisions of Chapter 9, Article 1, of the L.A.M.C.
+(Building Code).  (Amended by Ord. No. 169,944, Eff. 8/20/94.)

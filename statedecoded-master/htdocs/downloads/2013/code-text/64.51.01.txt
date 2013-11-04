@@ -1,0 +1,65 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 64.51.01)
+
+  DEFINITIONS.
+
+	For purposes of this article, the following definitions shall apply:
+
+	(a)	“Storm Drainage” – The excess water of the community received by the
+storm drain system. From the standpoint of source, it may be a combination of
+the runoff from residences, commercial buildings, industrial plants and
+institutions, together with any groundwater and surface water that may be
+present.
+
+	(b)	“Storm Drain System” – All of the property involved in the operation
+of the storm drainage collection and disposal system for the City of Los
+Angeles, including conduits, natural or artificial drains, channels and
+watercourses, together with appurtenances, pumping stations and equipment.
+
+	(c)	“Average Storm Drainage” – The average amount of storm drainage which
+enters the storm drain system from a premises, based on run-off factors
+established by the Los Angeles County Flood Control District as defined in
+Section 64.51.05 of this article.
+
+	(d)	“Adjustment” – A determination that the volumetric amount of storm
+drainage which enters the storm drain system from a premises is deemed to be a
+defined amount substantially different from the average storm drainage.
+
+	(e)	“User” – An owner whether private, governmental, or otherwise of a
+unit, building, premises or lot in the City of Los Angeles.
+
+	(f)	“Governmental” – A municipal corporation, city and county, county,
+state, federal, governmental, political or quasi-public unit, body, agency or
+entity.
+
+	(g)	“Parcel” – Means a parcel of real property in the City of Los Angeles
+as shown on the local secured tax rolls of the County of Los Angeles.
+
+	(h)	“Board” – The Board of Public Works of the City of Los Angeles.
+
+	(i)	“Owner” – The legal owner of the parcel of real property, except when
+the legal owner of said real property is such due to the holding of a mortgage,
+note or other such security, in which case the “owner” shall be deemed to be
+the beneficial owner of said parcel of real property.
+
+	(j)	“Run-Off Factor” – A number that represents the amount of average
+storm drainage from a parcel for a particular land use. Section 64.51.05 of this
+article contains a table of run-off factors for each land use type as
+established by the Los Angeles County Flood Control District and used in the
+calculation of Equivalent Dwelling Units for a parcel.
+
+	(k)	“Basic Assessment Unit (BAU)” – The proportionate run-off from the
+average single-family residential parcel. The average single-family residential
+parcel has an area of 0.1526 acres (6,650 square feet) and a run-off factor of
+0.4176. The product of these (0.0637) is defined as the Basic Assessment Unit.
+
+	(l)	“Equivalent Dwelling Unit (EDU)” – The number of Basic Assessment
+Units a particular parcel represents and is determined using the following
+formula:
+
+
+
+	(m)	“Base Charge” – The fee/charge paid by the average single-family
+residential parcel owner. The average single-family residential parcel consists
+of one (1.0) Equivalent Dwelling Unit.

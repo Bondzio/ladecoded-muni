@@ -1,0 +1,171 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 64.41.01)
+
+  DEFINITIONS.
+	(Renumbered by Ord. No. 162,637, Eff. 8/23/87.)
+
+	For purposes of this article, the following definitions shall apply:
+
+	(a)	“Adjustment” – A determination that the volumetric amount of sewage
+which enters the sewer system from a premises is based on sewage volume other
+than that prescribed by Section 64.41.03(g) of this article.  (Renumbered and
+Amended by Ord. No. 171,531, Eff. 4/5/97, Oper. 7/1/97.)
+
+	(b)	“Billing Period” – A period used by Water and Power to accumulate
+water consumption data for invoicing purposes.  Such periods are “monthly”
+or “bi-monthly.”  (Added by Ord. No. 171,531, Eff. 4/5/97, Oper. 7/1/97.)
+
+	(c)	“Board”  – The Board of Public Works of the City of Los Angeles. 
+(Renumbered by Ord. No. 171,531, Eff. 4/5/97, Oper. 7/1/97.)
+
+	(d)	“Commercial” – The use of the sewer system which is in any manner
+related to the operation of any premises for the purposes of business, trade,
+commerce, or as a church or public meeting place, and not otherwise included in
+the definitions of “Industrial,” “Multiple Dwelling,” or
+“Residential” in this Section.  (Renumbered and Amended by Ord. No.
+171,531, Eff. 4/5/97, Oper. 7/1/97.)
+
+	(e)	“Default Percentage Discharge” – The factor by which a commercial,
+governmental, multiple dwelling or industrial user’s water use is multiplied
+to estimate the discharge into the City sewer system.  (Added by Ord. No.
+182,076, Eff. 4/6/12.)
+
+	(f)	“Director” – The Director of the Bureau of Sanitation of the
+Department of Public Works of the City of Los Angeles or the duly authorized
+representative thereof.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(g)	“Dry Winter Compensation Factor” – A factor of 1.0 or less,
+determined annually by the Board, which is multiplied by the Winter Water Use of
+a premises to compensate for a Rainy Season with insufficient rainfall to
+obviate irrigation of outdoor planting.  (Renumbered by Ord. No. 182,076, Eff.
+4/6/12.)
+
+	(h)	“Exemption” – A determination that a premise does not discharge into
+the City’s sewer system.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(i)	“Fiscal Year” – The twelve month period beginning the 1st day of July
+of a calendar year and ending the 30th day of June of the subsequent calendar
+year.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(j)	“Governmental” – A municipal corporation, city and county, county,
+state, federal, governmental, political or quasi-public unit, body, agency or
+entity.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(k)	“hcf” – A measurement unit of volume equal to 100 cubic feet. 
+(Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(l)	“Industrial” – The use of the sewer system which is in any manner
+related to manufacturing or processing activities.  (Renumbered by Ord. No.
+182,076, Eff. 4/6/12.)
+
+	(m)	“Low-Strength Industrial User” – An industrial user discharging low-
+strength industrial wastewater.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(n)	“Low-Strength Industrial Wastewater” – Industrial wastewater
+determined to contain concentrations of less than the designated Biochemical
+Oxygen Demand (BOD) and Suspended Solids (SS) values in the Board Rules and
+Regulations Governing Disposal of Industrial Wastewater into the Publicly Owned
+Treatment Works of the City of Los Angeles.  (Renumbered by Ord. No. 182,076,
+Eff. 4/6/12.)
+
+	(o)	“Low-Strength Sewer Service Charge Rate” – A sewer service charge
+rate which only includes the flow cost component in the calculation of the sewer
+service charge rate for those industrial users discharging low-strength
+industrial wastewater. The low-strength sewer service charge rate does not
+include a cost component for the strength of the wastewater.  (Renumbered by
+Ord. No. 182,076, Eff. 4/6/12.)
+
+	(p)	“Multiple Dwelling” – The use of the sewer system which is in any
+manner related to the ownership, operation, or maintenance of an apartment
+house, condominium, stock cooperative, or community apartment project; provided
+however, the application of this term is limited to a structure or structures
+consisting of five (5) or more dwelling units served by a single water meter,
+but shall not apply to the ownership, operation, or maintenance of mobile home
+parks as defined in Section 12.03 of this Code.  (Renumbered by Ord. No.
+182,076, Eff. 4/6/12.)
+
+	(q)	“Owner” – The legal owner of the real property, except when the legal
+owner of said real property is such due to the holding of a mortgage, note or
+other such security, in which case the “owner” shall be deemed to be the
+beneficial owner of said real property.  (Renumbered by Ord. No. 182,076, Eff.
+4/6/12.)
+
+	(r)	“Premises” –  One or more contiguous parcels of real property under
+one ownership.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	EXCEPTIONS:
+
+	(1)	If the foregoing area consists of subareas which are:
+
+	(i)	leased or rented for other than residential purposes; and
+
+	(ii)	devoted to unrelated uses; and
+
+	(iii)	served by separate City water meters;
+
+	the premises may be determined based on the individual sub-areas.
+
+	(2)	If the foregoing area is divided into sub-areas which are:
+
+	(i)	separate legal lots or parcels; and
+
+	(ii)	devoted to residential use or vacant; and
+
+	(iii)	served by separate City water meters; and
+
+	(iv)	not developed as part of a unified whole;
+
+	the premises may be determined based on the individual sub-areas.
+
+	(3)	Notwithstanding any other provisions, for a common interest development, as
+defined in Section 1351 of the Civil Code of the State of California, the
+premises shall be all the volume of space within the development.
+
+	(s)	“Rainy Season” – A period of consecutive days, determined annually by
+the Board to be most representative of a period within each fiscal year, during
+which the need for irrigation of outdoor planting is minimized.  (Renumbered by
+Ord. No. 182,076, Eff. 4/6/12.)
+
+	(t)	“Rainy Season Billing Period” – Determined annually by the Board
+individually for each premises,  that bimonthly billing period or those two
+consecutive monthly billing periods, occurring wholly within the Rainy Season
+Review Period of a fiscal year, having the lowest average daily amount of water
+supplied to the premises.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(u)	“Rainy Season Review Period” – A period of consecutive days
+completely containing the Rainy Season of a fiscal year, determined annually by
+the Board to be sufficiently long to determine a Rainy Season Billing Period for
+each premises.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(v)	“Residential” – The use of the sewer system which is primarily
+related to domestic sewage production from a premises consisting of a
+residential dwelling or dwellings  and not included in the definition of
+“Multiple Dwelling” in this section.  (Renumbered by Ord. No. 182,076, Eff.
+4/6/12.)
+
+	(w)	“Sewage” – The spent water of the community received by the sewer
+system. From the standpoint of source, it may be a combination of the liquid and
+water-carried wastes from residences, commercial buildings, industrial plants
+and institutions, together with any ground water, surface water, and storm water
+that may he present.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(x)	“Sewer System” – Collectively. all of the property involved in the
+operation of the sewage collection, treatment, and disposal system of the City
+of Los Angeles, including land, sewers and appurtenances, pumping stations,
+treatment works and equipment.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(y)	“User” – An owner or occupant of a premises in the City of Los
+Angeles from which sewage is discharged into the sewer system.  (Renumbered by
+Ord. No. 182,076, Eff. 4/6/12.)
+
+	(z)	“Water and Power” – The Department of Water and Power of the City of
+Los Angeles.  (Renumbered by Ord. No. 182,076, Eff. 4/6/12.)
+
+	(aa)	“Winter Water Use” – The average daily amount of water supplied to a
+premises during the Rainy Season Billing Period.  (Renumbered by Ord. No.
+182,076, Eff. 4/6/12.)
+
+	(bb)	Ultra-Low-Flush Toilet.  A toilet designed to evacuate the content of the
+bowl using a maximum of 1.6 gallons of water per flush.  (Renumbered by Ord.
+No. 182,076, Eff. 4/6/12.)

@@ -1,0 +1,72 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+EXEMPTED FROM CODE. (§ 93.0108)
+
+  EXEMPTED FROM CODE.
+	(Amended by Ord. No. 154,234, Eff. 9/8/80.)	(a)	Railways.  The provisions of
+this Code shall not apply to the following electric wiring installed, owned,
+maintained or controlled by an interstate, interurban or street
+railway;	1.	Electric wiring in any generating plant, central station or
+substation used for generating, transforming or transmitting electrical power
+used exclusively for operating trains, engines, car or trolley coaches;
+or	2.	Overhead and underground distribution systems used exclusively for the
+operation of equipment listed in Paragraph 1; or	3.	Electric wiring used
+exclusively for signaling and communication purposes.	(b)	Serving Agency.  The
+provisions of this Code shall not apply to the following electric wiring
+installed, owned, and controlled by an electrical utility or serving agency
+which supplies electricity to 100 or more separate premises:	1.	Any generating
+plant, receiving station, switching station, distributing station, or industrial
+or commercial station under the control of such utility or serving agency. 
+However, nothing contained in this subdivision shall be construed to exempt any
+electric wiring which is used for general lighting or general power purposes
+such as heating, cooling, ventilating, elevators, or pumping equipment; nor to
+exempt any feeder, service, switchboard, branch circuit panelboard or standby
+power generator used in whole or in part for general building operation
+purposes; and  (Amended by Ord. No. 176,775, Eff. 8/1/05, Oper. 8/1/05.)	2.	Any
+electrical wiring for its supply lines or mains; and	3.	Service drops to the
+service point which are attached to a structure or the outermost exterior wall
+of a building, or a roof immediately adjacent to an exterior wall of a building;
+and  (Amended by Ord. No. 176,775, Eff. 8/1/05, Oper. 8/1/05.)	4.	Service
+laterals and their raceways where installed under not less than two inches of
+concrete beneath a building or other structure and not located in a hazardous
+location; and  (Amended by Ord. No. 176,775, Eff. 8/1/05, Oper. 8/1/05.)	5.	All
+service wiring located within a customer owned station and the high voltage
+conductors to such station which have all enclosing conduit encased in three
+inches of concrete; and	6.	Service conductors and raceways encased in not less
+than two inches of concrete, or raceways that are not concealed, which extend
+from an interior station to service equipment located adjacent to the station;
+and	7.	Meters of metering equipment.	(c)	Communication Public Utility Systems. 
+(Amended by Ord. No. 161,316, Eff. 7/7/86.)	1.	The provisions of this Code shall
+not apply to installation of communications equipment under the exclusive
+control of communications public utilities, located outdoors or in building
+spaces used exclusively for communications purposes in the exercise of its
+communications utility functions, except where such communications equipment is
+located in a hazardous location or penetrates any fire-resistive wall or floor
+system of cable systems that are located in a plenum area or access floor area.
+(Amended by Ord. No. 162,834, Eff. 10/26/87.)	2.	Nothing contained in
+Subdivision 1 of this subsection shall be construed to exempt any electric
+wiring which is used for external, internal, alternating or direct current power
+supplies and/or rectifiers exceeding 500va used to supply power to communication
+public utility equipment or used for general lighting or general power purposes
+such as heating, cooling, ventilating, elevators, or pumping equipment, nor to
+exempt any feeder, service, switchboard, branch circuit panelboard or standby
+power generator used in whole or in part for general building operation
+purposes, except as to communication public utility equipment for the
+transmission of audio, data, video and other services housed within a central
+office exclusively operated by a communications public utility where such
+equipment is not located in hazardous locations.  (Amended by Ord. No. 176,775,
+Eff. 8/1/05, Oper. 8/1/05.)	(d)	Vehicles.  The provisions of this Code shall
+not apply to any vehicle which complies with the California State Vehicle Act.
+This exemption does not include transportable generating, transforming and
+related control equipment which is mounted on vehicles and used for the supply
+of wiring regulated by this Code.	(e)	Municipal Systems.  The provisions of
+this Code shall not apply to a Municipal System for street lighting, traffic
+signal or police and fire alarm where installed outside of buildings on public
+property.	(f)	Mobile Homes, Travel Trailers, Camp Cars and Mobile Home Parks. 
+This Code shall not apply to mobile homes, travel trailers, camp cars and mobile
+home parks, including permanent buildings, accessory buildings and wiring
+outside of buildings within such parks.	(g)	Hazardous Locations Not Exempted.
+(Amended by Ord. No. 172,593, Eff. 6/28/99, Oper. 7/1/99.)  The foregoing
+exceptions from the requirements of this Code shall not apply to any electric
+wiring located in an area classified as a hazardous location by Article 500 of
+the C.E.C.

@@ -1,0 +1,26 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+VENTING OF ABOVEGROUND TANKS. (§ 57.31.13)
+
+  VENTING OF ABOVEGROUND TANKS.	A.	Atmospheric storage tanks shall be
+adequately vented to prevent the development of vacuum or pressure sufficient to
+distort any portion of the tank or to exceed the design pressure, which might
+result during filling or emptying, or changes in temperature or atmospheric
+pressure. Tanks storing Class I liquids shall be equipped with either venting
+devices which shall be normally closed when not under pressure or vacuum or with
+an approved flame arrester.	B.	Every aboveground storage tank shall have an
+emergency vent which shall consist of some form of construction or device that
+will relieve excessive internal pressure caused by exposure fires that might
+cause the rupture of the tank shell or bottom. In a vertical tank, this
+construction may take the form of a weak roof-to-shell seam. Where entire
+dependence for such additional relief is placed upon some device other than a
+weak roof-to-shell seam, the total venting capacity of both normal and emergency
+vents shall be sufficient to prevent rupture of the shell or bottom of the tank,
+if vertical, or of the shell or heads, if horizontal. Such device may be a
+self-closing manway cover or one using long bolts that permit the cover to lift
+under internal pressure, or an additional or larger relief valve or
+valves.	C.	The size of vents shall comply with the requirements of L.A.F.D.
+Standard No. 18 or shall be as large as the filling or withdrawal connection,
+whichever is larger, but in no case less than one and one-quarter inches nominal
+inside diameter.	D.	Tank vents shall be readily accessible for inspection and
+shall be properly maintained at all times.

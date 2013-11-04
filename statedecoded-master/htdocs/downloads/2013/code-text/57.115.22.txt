@@ -1,0 +1,30 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INFLATION SYSTEM. (§ 57.115.22)
+
+  INFLATION SYSTEM.	A.	General: Membrane structures shall be provided with
+primary and auxiliary inflation systems as required by this
+section.	B.	Equipment Requirements: The inflation system shall consist of one or
+more blowers and shall include provisions for automatic control to maintain the
+required inflation pressures.  The system shall be so designed as to prevent
+over pressurization of the system.	In addition to the primary inflation system
+in buildings exceeding 1,500 square feet in area, there shall be provided an
+auxiliary inflation system with sufficient capacity to maintain the inflation of
+the structure in case of primary system failure.	Blowers shall be centrifugal
+and shall:	1.	Be powered by continuous-rated motors (at the maximum power
+required for any flow condition) as required by the structural design.	2.	Have
+adequate personnel protection such as inlet screens and belt guards (if belt
+driven).	3.	Be housed within a weather-protection structure to assure continued
+service in all weather conditions.	4.	Be equipped with back-draft check dampers
+to minimize air loss when inoperative.	Any air-supported or air-inflated
+structure used as a place of assemblage shall be furnished with not less than
+two blowers, each of which has adequate capacity to maintain full inflation
+pressure with normal leakage.	Blower inlet location shall be approved by the
+Chief to provide protection from air contamination.	C.	Standby Power: Whenever
+an auxiliary inflation system is required, an approved standby power-generating
+system shall be provided.  The system shall be equipped with a suitable means
+for automatically starting the generator set upon failure of the normal
+electrical service and for automatic transfer and operation of all the required
+electrical functions at full power within 60 seconds of such normal service
+failure.  Standby power shall be capable of operating independently for a
+minimum of two hours.

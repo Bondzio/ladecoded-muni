@@ -1,0 +1,78 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MINIMUM AMBIENT NOISE LEVEL. (§ 111.03)
+
+  MINIMUM AMBIENT NOISE LEVEL.
+	(Amended by Ord. No. 156,363, Eff. 3/29/82.)	Where the ambient noise level is
+less than the presumed ambient noise level designated in this section, the
+presumed ambient noise level in this section shall be deemed to be the minimum
+ambient noise level for purposes of this chapter.TABLE II
+SOUND LEVEL “A” DECIBELS	(In this chart, daytime levels are to be used from
+7:00 a.m. to 10:00 p.m. and nighttime levels from 10:00 p.m. to 7:00 a.m.)
+  
+    
+      
+        
+      
+      
+        PRESUMED AMBIENT NOISE LEVEL (dB(A))
+      
+    
+    
+      
+        ZONE
+      
+      
+        DAY
+      
+      
+        NIGHT
+      
+    
+    
+      
+        A1, A2, RA, RE, RS, RD, RW1, RW2, R1, R2, R3, R4, and R5
+      
+      
+        50
+      
+      
+        40
+      
+    
+    
+      
+        P, PB, CR, C1, C1.5, C2, C4, C5, and CM
+      
+      
+        60
+      
+      
+        55
+      
+    
+    
+      
+        M1, MR1, and MR2
+      
+      
+        60
+      
+      
+        55
+      
+    
+    
+      
+        M2 and M3
+      
+      
+        65
+      
+      
+        65
+      
+    
+  
+	At the boundary line between two zones, the presumed ambient noise level of the
+quieter zone shall be used.

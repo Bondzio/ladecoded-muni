@@ -1,0 +1,13 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+RENEWABLE ENERGY. (§ 99.05.211)
+
+  RENEWABLE ENERGY.99.05.211.4.  Prewiring for Future Electrical Solar System.
+Install conduit from the building roof, eave, or other locations approved by the
+Department to the electrical service equipment.  The conduit shall be labeled
+as per the Los Angeles Fire Department requirements.	EXCEPTION:  Buildings
+designed and constructed with a solar photovoltaic system or an alternate system
+with renewable means of generating electricity at time of final
+inspection.99.05.211.4.1.  Off-Grid Prewiring for Future Solar.  If battery
+storage is anticipated, conduit shall run to a location within the building that
+is weather-proof and separated from occupied spaces.

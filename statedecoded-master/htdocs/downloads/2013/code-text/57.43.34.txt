@@ -1,0 +1,12 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+AUTOMATICCONTROL EQUIPMENT. (§ 57.43.34)
+
+  AUTOMATIC  CONTROL EQUIPMENT.	The following automatic control equipment
+shall be provided:	A.	Suitable controls to govern the compressor operation in
+accordance with the pressure in the special vessel.	B.	An alarm system to
+function before the pressure in the special vessel rises to the design
+pressure.	C.	An alarm and high pressure compressor cut-off shall be actuated by
+the condenser system pressure.	D.	Means shall be provided in each liquid line to
+stop liquid flow in the event the storage pressure rises above the operating
+pressure.

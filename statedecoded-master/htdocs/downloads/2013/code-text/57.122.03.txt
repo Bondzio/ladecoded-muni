@@ -1,0 +1,118 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GENERAL REQUIREMENTS. (§ 57.122.03)
+
+  GENERAL REQUIREMENTS.	A.	Approval of Equipment and Systems:  All devices,
+combination of devices, and other equipment used or installed in any fire
+protective signaling system shall be listed by the State Fire Marshal and the
+systems shall be approved by the Chief.  Equipment, devices, and materials
+shall also comply with Chapter 9 of the L.A.M.C. (Electrical
+Code).	B.	Prohibitions:  (Amended by Ord. No. 170,954, Eff. 4/16/96.)  The
+following shall not be approved as a part of a fire protective signaling
+system:	1.	Municipal fire protective signaling systems.	2.	Central station
+signaling systems.	3.	Auxiliary or accessory equipment including but not limited
+to security alarms, recording or other nonfire related
+equipment.	4.	Telephones.	5.	Devices which automatically retransmit signals or
+taped communications of any kind directly to the Fire Department and which are
+commonly referred to as “dialers.”	6.	Auxiliary fire protective signaling
+systems or auxiliary event recording equipment.	7.	Nonfire related circuits and
+equipment of computers used in fire protective signaling systems.	8.	Proprietary
+protective signaling systems receiving and transmitting equipment such as an
+installation which serves contiguous and noncontiguous properties under one
+ownership located at the protected property.	EXCEPTION:	Systems and/or equipment
+specified in item Nos. 2, 3, 6, 7, and 8 above may be connected to fire
+protective signaling systems if they are so designed and arranged that:	1.	The
+electrical design of the equipment or systems shall not be integral to the
+internal circuitry of the fire protective signaling systems, and;	2.	Equipment
+and systems shall be served by a power supply or circuit independent of the
+power supply or circuit necessary for the function of the fire protective
+signaling systems, and;	3.	Equipment and systems shall be interconnected to the
+fire protective signaling systems by relays or switching devices which will
+provide electrical isolation from the system or device to prevent interference
+or interruption of the normal or intended operation of the fire protective
+signaling systems.	4.	Water flow and tamper switches may be connected to a
+listed dual function fire alarm and security panel that is being monitored by an
+approved central station company (Division 5 Permit is required).  Water flow
+and tamper switches shall transmit an alarm signal that is distinguishable from
+the security alarm signal at the central station.	C.	Approval of Plans:  The
+Chief shall review and approve all plans for fire protective signaling
+systems.  Upon approval, one complete set shall be retained by the Department.
+Plans shall include, but not be limited to the following:	1.	Floor plans showing
+the location of all fire protective signaling systems and all other information
+necessary to determine proper initiating and signaling device
+coverage.	2.	Electrical schematics showing the fire protective signaling system
+and all other information necessary to determine the correct methods of
+installation.  Prior to the commencement of installation, the manufacturer and
+State Fire Marshal listing shall be included for all components of the
+system.	3.	Written sequence of operation describing, in detail, what is to occur
+upon activation of a system or device and how the system or device interfaces
+with other systems. Included in this written sequence of operation shall be all
+other information necessary to determine the operation which would be required
+for the type of occupancy.	4.	Written test procedures giving a step-by-step
+explanation of the methods to be used for testing the system or
+devices.	D.	Installation: Fire protective signaling systems shall be installed
+in accordance with the approved plans.	E.	Power Supply: Every fire protective
+signaling system shall be supplied with electrical power in accordance with
+Chapter 9 of the L.A.M.C. (Electrical Code).	F.	Wiring: The wiring used for fire
+protective signaling systems shall be in conformance with Chapter 9 of the
+L.A.M.C. (Electrical Code).	EXCEPTION:	Exposed conductors or cables shall not be
+permitted.	G.	Control Panel: Every fire protective signaling system shall be
+equipped with an approved control panel containing the necessary relays,
+connectors, switches, and other similar equipment, for the proper operation of
+the system.	H.	Detectors: Detectors shall comply with all the provisions of this
+subsection.	1.	All detecting devices for fire protective signaling systems shall
+be automatic devices actuated by heat, smoke, flame, or by sprinkler system
+waterflow.	2.	Smoke detectors shall be installed in occupancies containing
+sleeping areas.  The number and location of detectors shall be in accordance
+with Chapter 9 of the L.A.M.C. (Building Code).	3.	Fixed temperature elements of
+heat-activated detectors installed in dwelling units shall not have a
+temperature rating in excess of 140° F.	EXCEPTION:	Attic areas and high
+temperature rooms, heater rooms, and rooms of similar use.	4.	Detectors shall be
+installed in accordance with the spacing and area coverage for which they are
+designed. Smoke detectors shall be located on the ceiling not less than six
+inches from a sidewall to the near edge, or wall mounted between six inches and
+12 inches down from the ceiling to the top of the detector.  On smooth
+ceilings, a spacing of 30 feet between smoke detectors may be used as a guide
+where total coverage is required.	I.	Alarm: The alarm sounding devices shall be
+capable of sounding the alarm at a level of 10 decibels above ambient noise
+level measured four feet above the floor and shall be clearly heard at all
+required locations.  Every alarm signaling device within an occupancy shall be
+of the same basic type (bells, horns, or speakers) throughout the
+facility.	EXCEPTION:	Dwelling unit sounding devices may be of a different type
+with the approval of the Chief.	J.	Alarm Silence Switch: When an alarm silence
+switch is provided it shall be located inside of a locked control panel or be
+actuated by a key-locking type switch.  A metal sign having the following
+wording shall be attached to the panel:	“ALARM SILENCING SWITCH SHALL ONLY BE
+OPERATED WITH  PERMISSION OF THE FIRE DEPARTMENT.”	An alarm silence switch
+that is left in the “SILENCE” position shall operate a visual alarm silence
+indicator and cause a trouble signal to sound until the switch is restored to
+normal.	K.	Trouble Signal: Every electrical system shall be provided with an
+audio/visual, trouble-indicating device that will be activated when the system
+detects a supervised malfunction.	A trouble signal shall be activated upon the
+occurrence of a break or ground in the wiring circuit which would indicate a
+malfunction in the operation of the system and/or indicate that the system is
+being operated on other than primary power.	“TROUBLE” initiating contacts
+such as integral trouble relays of smoke detectors and sprinkler system valve
+supervisory switches shall not inhibit an alarm condition from any fire alarm
+initiating device.	L.	Supervision: Manual and automatic alarm initiation devices
+shall be installed on supervised circuits.  Circuit wiring shall be supervised
+to the principal point of annunciation.  The principal point of annunciation
+shall be an accessible location designated by the Chief.	M.	Annunciation: Fire
+protective signaling systems shall be divided into zones to assist in
+determination of the fire location.  The annunciation of all zones and device
+identification shall be on electrically supervised circuits to the principal
+point of annunciation.	Alarm and trouble signals shall be annunciated in the
+main control panel by means of an audible signal and a visual display.  Such
+annunciation shall indicate the building, floor, zone, or other designated area
+from which the alarm or trouble signal originated.  For purposes of
+annunciation, zoning shall be in accordance with the following:	1.	When the fire
+protective signaling system serves more than one building, each building shall
+be considered as a separate zone.	2.	Each floor of a building shall be
+considered as a separate zone.	3.	Each section of floor of a building that is
+separated by area separation walls or by horizontal exits shall be considered as
+a separate zone.	4.	Annunciation shall be further divided into zones wherever
+otherwise deemed necessary by the Chief.	When required by this division, zone
+identification of fire alarm initiating devices such as manual pull stations,
+corridor smoke detectors, elevator lobby smoke detectors, HVAC smoke detectors,
+waterflow switches, etc., shall be indicated on electrically supervised circuits
+at the principal point of annunciation.

@@ -1,0 +1,17 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+IRRIGATION CONTROLLERS. (§ 99.04.304)
+
+99.04.304.1.    When automatic irrigation system controllers for landscaping
+are provided and installed at the time of final inspection, the controllers
+shall comply with the following:	1.	Controllers shall be weather- or soil
+moisture-based controllers that automatically adjust irrigation in response to
+changes in plants’ needs as weather conditions change;	2.	Weather-based
+controllers without integral rain sensors or communication systems that account
+for local rainfall shall have a separate wired or wireless rain sensor which
+connects or communicates with the controller(s).  Soil moisture-based
+controllers are not required to have rain sensor input.	Note:  More information
+regarding irrigation controller function and specifications is available from
+the Irrigation Association.99.04.304.1.1.  Irrigation Design.  Buildings on
+sites with over 2,500 square feet of cumulative irrigated landscaped areas shall
+have irrigation controllers which meet the criteria in Section 99.04.304.1.

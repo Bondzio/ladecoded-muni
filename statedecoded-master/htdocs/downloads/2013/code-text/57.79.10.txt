@@ -1,0 +1,115 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CLASS IV DRY CLEANING PLANTS. (§ 57.79.10)
+
+  CLASS IV DRY CLEANING PLANTS.	The provisions of this section apply to Class
+IV dry cleaning plants and systems located in buildings with or without other
+occupancies, in which the dry cleaning is not conducted by the public nor in
+coin-operated type equipment.	A.	General Requirements:	1.	Class IV plants shall
+be so designed, installed, and operated to reduce to a reasonable and acceptable
+degree the toxicity or health hazards incident to the nature of the
+solvents.	2.	Only solvents approved for Class IV installations shall be used in
+any dry cleaning machine or system designed for such solvents.	3.	All
+solvent-handling equipment and components shall be constructed to prevent
+leakage.	4.	Solvent storage and treatment tanks and all interior steel surfaces
+which tend to corrode when exposed during ordinary operation to solvent and to
+air alternately shall be protected against corrosion.  Pumps, filters, or any
+closed containers which ordinarily are completely filled with solvent or which
+ordinarily do not tend to corrode, may be constructed of carbon steel without
+corrosion protection.	5.	Exhaust ventilation ducts from equipment shall extend
+above the roof line unless leading directly into a solvent recovery
+system.	B.	Ventilation, Light, Power, and Heat:	1.	Class IV plants shall be
+provided with ventilation adequate to maintain an average solvent concentration
+anywhere within the plant:  For plants using perchlorethylene, not more than
+100 PPM; for plants using fluorocarbon 113 (trichlorotrifluoroethane) not more
+than 1,000 PPM.  Manually operated emergency ventilation for spills or leaks
+shall be installed to provide an air change every five minutes within 15 feet of
+Class IV equipment. The switch for this ventilation equipment shall be readily
+accessible and clearly identified.	2.	All electrical equipment, devices, and
+wiring for light and power shall be installed in accordance with the
+requirements of Chapter 9 of the L.A.M.C. (Electrical Code).	3.	Air for
+combustion for gas and oil-fired devices shall come through ducts from a clean
+source of air outside the building when such devices are located in the dry
+cleaning room.	4.	Apparatus with open flames or with exposed electric heating
+elements shall not be placed within 20 feet of any Class IV equipment, unless
+such apparatus is located in a separate enclosed room or cabinet which is
+independently ventilated to prevent the air from the dry cleaning system from
+being drawn towards the apparatus.	5.	All exhaust ventilation systems shall be
+installed in accordance with the requirements of Chapter 9 of the L.A.M.C.
+(Mechanical Code),  and no closer than 25 feet from any openings in other
+occupancies.	C.	Pumps and Piping:	1.	The transfer or circulation of solvent
+shall be through closed circuit pipes.  Except for gravity flow through pipes,
+pumps shall be used for the transfer of solvent.	2.	Pipes, tubings, valves, and
+sightglasses shall be of materials suitable for use with the solvent and shall
+be tested for minimum pressure of 50 percent in excess of the maximum operating
+pressure.	3.	Flow and level sightglasses shall be reliably protected against
+physical damage.	4.	All pumps shall be designed for the solvent being used and
+be provided with seals proven to be leakproof in solvent operation.  Positive
+displacement pumps for solvent service shall be fitted with relief valves or
+bypasses set to prevent pressure in excess of the working pressure of the
+system.	D.	Dry Cleaning Units:	1.	Dry cleaning units shall be provided with an
+automatically activated exhaust ventilation system to maintain a minimum of 100
+FPM air velocity through the loading door whenever the door is open.  An
+external ventilation shroud immediately outside the loading door may be used,
+provided the airflow capacity in CFM is not less than 100 times the area in
+square feet of the door opening.	2.	Dry cleaning units shall be equipped with
+brakes or other suitable means to stop the machine within a reasonable time. 
+Brakes shall be designed to avoid the creation of sparks or excessive heat.  If
+dry cleaning units are equipped with automatic controls, a manual push button to
+stop the machine shall be provided in front of the unit.	3.	Dry cleaning units
+shall be provided with an overflow pipe one size larger than the size of the
+solvent supply line to the machine.  Such overflow pipe shall be connected to
+the shell of the washer so that the top of the overflow is below the bottom of
+the trunion shaft; it shall be without shutoff valves and be arranged to
+discharge to a suitable tank.  The supply pipe shall contain a shutoff valve,
+shall enter the washer above the discharge level, and shall discharge away from
+the door opening.	4.	Individual button and lint traps shall be provided for each
+dry cleaning unit.	5.	Dry cleaning units shall be constructed with sufficient
+clearance between the cylinder or basket and the outer casing to prevent the
+striking or rubbing of parts of the rotating cylinder against the outer
+casing.	E.	Dry Tumblers and Cabinets:	Drying tumblers and drying cabinets shall
+be ventilated to the outside air or to a solvent recovery system by means of
+properly constructed pipes or ducts connected to an exhaust fan of sufficient
+capacity to remove all dust, vapors, or lint generated by the process.  The fan
+shall be properly housed and interlocked so as to ensure operation while the
+drying tumbler is in use.	F.	Filters:	1.	Filters operating above atmospheric
+pressure shall be A.S.M.E. approved pressure vessels, or shall be constructed to
+withstand, without bursting, a pressure of five times the maximum allowable
+working pressure, or to withstand, without yielding, a pressure of two and
+one-half times the maximum allowable working pressure.	2.	Pressure type filters
+shall be equipped with a reliable pressure gauge which shall be regularly
+checked for accuracy.  Filters shall not be operated at pressures exceeding
+that recommended by the manufacturers.	3.	Pressure filters shall be provided
+with an air bleeding valve and line connected to discharge into the washer or
+into the storage tank vent line.  Such air bleeding lines shall not discharge
+into the room.	4.	Filters shall be equipped with pressure relief devices which
+will prevent the pressure within the filter from rising more than 10 percent
+above the working pressure of the filter.  The relief device shall not be
+smaller than three-fourths inch pipe size and shall discharge into an
+underground tank or aboveground base tank of a dry cleaning unit without a
+shutoff valve in the line.	G.	Stills:	1.	Atmospheric solvent stills shall be
+constructed to prevent hot solvent vapor from escaping into the room when
+operated under normal conditions and at rated capacity.	2.	Stills shall be
+equipped with solvent aftercoolers to lower the distilled solvent temperature to
+less than 100°F. before returning the solvent to the dry cleaning
+system.	3.	Water separators shall be provided on stills to reduce the amount of
+water entrapped with the distilled solvent.	4.	Stills shall be equipped with a
+thermostatically controlled valve on the inlet steam line.  Such valve shall be
+automatically closed when the temperature of the cooling water leaving the
+condensor exceeds:  For perchlorethylene, 160°F.; and for fluorocarbon 113
+(trichlorotrifluoroethylene), 95°F.	H.	Operation:	1.	Machines and equipment
+shall be operated in accordance with operating instructions furnished by the
+machinery manufacturer.  All employees shall be thoroughly instructed as to the
+hazards involved in their departments and in the work they perform.	2.	Flammable
+or combustible liquids used for spotting operations shall be in approved safety
+cans of not more than one-gallon capacity with an aggregate amount not exceeding
+10 gallons.	3.	The spotting, scouring, or brushing table or scrubbing tub shall
+be so located as to ensure thorough and effective disposal of solvent vapors
+through an approved ventilating system.	4.	Proper maintenance and operating
+practices for the entire dry cleaning plant shall be adhered to which will
+prevent leakage of solvent and the accumulation or lint.	5.	The lint and refuse
+shall be removed from all traps after the close of the working day and deposited
+in approved metal containers with tight-fitting metal lids.  At all other times
+the trap covers shall be kept securely in place.	I.	Fire Protection:	Portable
+fire extinguishers shall be provided in accordance with the provisions of
+Division 140 of this article.

@@ -1,0 +1,26 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FIRE PROTECTION TANKS. (§ 94.2050.0)
+
+  FIRE PROTECTION TANKS.
+	(Amended by Ord. No. 179,326, Eff. 12/10/07, Oper. 1/1/08.)	Tanks for water
+storage for fire protection systems and associated piping shall conform to the
+requirements of NFPA 22-2003 with the following exceptions, modifications and
+additions:	1.	Section 4.1.1 is modified to read:	4.1.1.  Size.  Tanks shall be
+designed to supply the required water flow for the required duration.	2.	Section
+7.2.6.4 is added to read:	7.2.6.4.  Air Pressure Gage.  The minimum required
+air pressure of the tank shall be clearly and permanently posted next to the air
+pressure gage.	3.	Section 13.2.3 is modified to read:	13.2.3.  Pipe Material. 
+Water fill and tank discharge, piping and valves shall conform to the material
+and installation requirements for fire sprinkler piping.	4.	Section 13.2.12.4 is
+added to read:	13.2.12.4.  Valve.  A readily accessible indicating-type
+control valve shall be installed in the water filling piping so as to isolate
+each tank.	5.	Section 13.4.1 is modified to read:	13.4.1 Tank Fill.  Each tank
+shall be equipped with an automatic tank fill line that shall be sized to fill
+the tank in eight hours but shall not be smaller than two inches in
+diameter.	For high-rise buildings see Section 94.2060 of this
+division.	6.	Sections 13.4.1.1 through 13.4.1.4 are not adopted.	7.	Section
+13.8.3 is added to read:	13.8.3.  Monitor.  High and low level alarms shall be
+closed circuit electric alarms that sound an alarm and turn on an indication
+light at a permanently staffed location when the water level is not within ten
+percent of the design volume.

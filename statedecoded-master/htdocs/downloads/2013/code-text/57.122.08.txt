@@ -1,0 +1,200 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SPECIAL REQUIREMENTS FOR FIRE ALARM SYSTEMS BY OCCUPANCY. (§ 57.122.08)
+
+  SPECIAL REQUIREMENTS FOR FIRE ALARM SYSTEMS BY OCCUPANCY.	The following
+occupancies shall be equipped with an approved fire alarm system.	A.	Group D
+Occupancies:	1.	Every building or structure housing more than 6 guests in a
+Group D, Division 3 Occupancy shall have installed an automatic fire alarm
+system.  A manual pull station fire alarm system shall also be provided in
+accordance with this division.	EXCEPTIONS:	1.	When an approved automatic
+sprinkler system is installed, a separate fire alarm system, as specified in
+Section 57.122.08, A-3, need not be installed; provided the sprinkler system has
+audible signaling devices for the alerting of staff or attendants which will
+actuate upon operation of the sprinkler system, and an approved manual pull
+station is installed.	2.	When an entire facility is used for the housing of
+persons, none of whom is classified as nonambulatory, the buildings or
+structures comprising such facility shall be exempt from the provisions of this
+subsection relating to the installation of an automatic fire alarm system, but
+shall not be exempt from the installation of a manual pull station fire alarm
+system.	2.	Manual Pull Station Fire Alarm System:	In Group D, Division 1
+Occupancies the manual pull station fire alarm system shall be of a type for the
+alerting of staff and attendants.	In Group D, Division 3 Occupancies such system
+shall be of a type for the alerting of all occupants.	3.	Automatic fire alarm
+systems required by this section shall be of a type which will respond to
+products of combustion other than heat.	EXCEPTION:	Heat detectors may be used in
+closets, unusable under-floor areas, storage rooms, bathrooms, attached garages,
+attics, return air plenums, laundry rooms, and rooms of similar use.	4.	Every
+new or existing Group D Occupancy or building which provides 24-hour care for
+six or fewer persons shall have approved and listed smoke detectors installed in
+every sleeping area, and in corridors or passageways serving sleeping areas. 
+An additional detector shall be mounted on the ceiling directly above any
+interior stairway.	Detectors shall be mounted on the ceiling or wall at a point
+centrally located in the corridor or area giving access to rooms used for
+sleeping purposes.  Detectors shall be located as specified in Section
+57.122.03, H.	Care shall be exercised to insure that installation will not
+interfere with the operating characteristics of the detectors when activated. 
+Detectors shall provide an alarm audible in the sleeping area.  In occupancies
+housing nonambulatory persons, staff and attendants shall be provided and housed
+or located in such a manner that such supervisory personnel will also be alerted
+upon activation of any detector required by this section.	EXCEPTION:	Occupancies
+or buildings which are protected by an approved automatic sprinkler system
+throughout.	B.	Group E Occupancies:	1.	General:  Every school building
+regardless of occupancy classification shall be provided with a dependable
+method of sounding an alarm of fire in accordance with the provisions for a
+local alarm.	EXCEPTION:	A one-room classroom building having an occupant load of
+less than 50 when it is the only building on the premises used as a Group E
+Occupancy.	Individual buildings separated by not less than 20 feet of open space
+may each have a separate local signaling system in lieu of interconnecting the
+alarm system between buildings.	NOTES:	a.	Fire alarm systems required by these
+regulations shall not be construed to include any equipment or devices not
+essential to the operation of the alarm system, but does not prohibit the use of
+such equipment or devices when approved as an integral part of the fire alarm
+system.	b.	When only one building is used and the occupant load does not exceed
+10, such building shall, for the purpose of this section, be considered as one
+classroom.	2.	Types of Alarm Methods: A dependable method of sounding an alarm
+of fire as required by this section shall be any one of the following:	a.	An
+approved and listed local fire alarm system consisting of either of the
+following:	(1)	When not more than one fire alarm pull station is required for
+the premises, the fire alarm system may consist of any device or devices
+approved by the Chief. Alarm sounding devices shall have a distinctive tone,
+shall not be used for any other purpose, and shall be audible throughout the
+premises; or	(2)	An electrically supervised two-way communication system
+providing communication between all rooms (except closets, utility rooms,
+equipment rooms, supply rooms and similar accessory or auxiliary rooms or
+areas), and the main administrative office or a centralized location on the
+premises.	EXCEPTIONS:	1.	When approved by the Chief, manual pull stations may be
+permitted in lieu of the two-way communication devices as otherwise required by
+this section.	2.	When approved by the Chief, an existing two-way voice
+communication system otherwise conforming to Section 57.122.08,  B.2.a.(2) need
+not be electrically supervised, provided each room or area used or occupied by
+students has at least one direct means of egress to the exterior.	The main
+administrative office or centralized location shall be constantly supervised by
+qualified adult personnel under conditions approved by the Chief.  Manual means
+for sounding a local alarm shall be provided in the main administrative office
+or centralized location.  The Chief may revoke the permissive use authorized by
+Section 57.120.08 B.2.a.(2) at any time that the supervisory requirements are
+not in accordance with the conditions of approval, or at any time that the
+communication system is found to be improperly maintained or inoperative.	b.	An
+approved and listed automatic fire detection system installed throughout the
+building.  Such system shall be of the local fire alarm type for alerting
+occupants.  Manual pull stations shall not be required except for one such
+station located in the main administrative office or at a centralized location
+on the premises.  Detection devices shall be of any approved type.	c.	An
+approved and listed pre-signal fire alarm system which shall transmit the alarm
+signal to a centralized location in the building or, when approved by the Chief,
+to a centralized location on the premises.  A manual pull station shall be
+provided in the centralized location for sounding a local alarm in any building
+or in all buildings.	The pre-signal alarm shall, after sounding in the
+centralized location, automatically be retransmitted as a local alarm after not
+more than 15 seconds, or, as approved by the Chief, not more than 30 seconds,
+after the original initiation unless manually cut off at the centralized
+location.	Upon receipt of the pre-signal alarm, an immediate investigation shall
+be commenced.  If the alarm is not verified as a false alarm and the system
+reset, a local alarm shall override the cutoff switch after not more than two
+minutes of original cutoff switch activation (see Section 57.122.08, B-4
+relating to annunciation).	When the pre-signal alarm is transmitted to a
+centralized location on the premises rather than to a centralized location in
+each building, the system shall be arranged to transmit a signal which indicates
+either in the signal, or by approved visual means, the building from which the
+signal was initiated See Section 57.122.08, B-4 relating to annunciation).	d.	An
+approved and listed fire alarm system installed for alerting occupants.  Such
+system shall sound a local alarm upon activation of an approved and listed
+automatic sprinkler system installed throughout the building.  Manual pull
+stations shall not be required except for one such station located in the main
+administrative office or at a centralized location on the premises.	3.	Uniform
+Fire Alarm Signal:	a.	Except when the sounding devices of a fire alarm system
+have a distinctive tone and are used for no other purpose, as permitted by
+Section 57.112.08 B 2 (a)(1), the system shall provide the California Uniform
+Fire Code Signal as follows:	(1)	An intermittent sound signal shall be given by
+repeated successive short intermittent signals for a full period of 10 seconds,
+to be immediately followed by an intermission period of silence of five full
+seconds before the signal is repeated.	(2)	In no case shall the signal be given
+for less than a one-minute period, and then only in the manner
+indicated.	b.	When electrical signal circuits are used for purposes other than
+for the sounding of fire alarms or for fire drills, a special unit shall be
+provided that when activated by the signal initiating circuit or by the
+operation of a special lever-operated transmitting device, will automatically
+sound the Uniform Fire code signal over all alarm signal
+circuits.	4.	Annunciation: When deemed necessary by the Chief, identification or
+annunciation of the location where the fire alarm signal has been initiated, or
+the location where interruption of the system has caused the sounding of a
+trouble signal, shall be provided in the main administrative office or at a
+centralized location.  The system shall be arranged to transmit a signal which
+indicates either in the signal or by approved visual means, the building, floor,
+area, or section from which the signal was initiated.	5.	Additions: All
+additions or alterations to any existing fire alarm system shall conform to the
+provisions of this Section.	C.	Group I Occupancies:	1.	Group I, Division 1
+Occupancies shall be provided with an approved fire alarm system containing
+manual pull stations for the alerting of staff and attendants only.  This
+system shall have approved audible sounding devices so located that all members
+of the staff and all attendants may readily hear the alarm.	The arrangement,
+location, and type of signaling and initiating devices shall conform to the
+provisions of this division for facilities housing nonambulatory
+persons.	2.	Group I, Division 2 Occupancies shall be provided with an approved
+local alarm system containing manual pull stations for the alerting of
+occupants.  The arrangement, location, and type of signaling and initiating
+devices shall conform to the provisions of this division.	EXCEPTIONS:	1.	A
+separate approved fire alarm system shall not be required for any occupancy
+housing 15 or less patients or guests when the occupancy is protected throughout
+by an approved automatic sprinkler system.  In such instances, signaling
+devices of a type as set forth in this section for the occupancy in question,
+which will actuate upon operation of the sprinkler system, shall be provided. 
+In addition, manual pull stations shall also be provided to activate the
+signaling devices.	2.	A separate approved fire alarm system shall not be
+required for any occupancy protected throughout by an approved automatic fire
+alarm system provided with manually operated initiating devices installed to
+actuate the signaling devices.	3.	Group I, Division 3 Occupancies housing mental
+hospitals or mental sanitariums shall be provided with an approved fire alarm
+system for the alerting of staff and attendants. Systems for the alerting of
+staff and attendants shall have approved audible sounding devices so located
+that all members of the staff and all attendants may readily hear the alarm. 
+The arrangement, location, and type of signaling and initiating devices shall
+conform to the provisions of this division.	4.	Every new or existing Group I,
+Division IA and 2A occupancies shall have installed in every sleeping area, and
+every corridor or passageway serving sleeping areas, approved and listed smoke
+detectors.  An additional detector shall be mounted on the ceiling directly
+above any interior stairway.	Detectors shall be mounted on the ceiling or wall
+at a point centrally located in the corridor or area giving access to rooms used
+for sleeping purposes.	Installation will not interfere with the operating
+characteristics of the detectors when activated.  Detectors shall provide an
+alarm audible in the sleeping areas.  In occupancies housing nonambulatory
+persons, staff and attendants shall be alerted upon activation of any detector
+required by this subsection.	EXCEPTION:	Occupancies or buildings which are
+protected by an approved automatic sprinkler system.	D.	Group R
+Occupancies:	1.	An approved automatic or manually activated local fire alarm
+system shall be provided for:	a.	Every apartment house three or more stories in
+height or containing 16 or more dwelling units.	b.	Every hotel three or more
+stories in height or containing 20 or more guest rooms.	2.	General: Local fire
+alarm system shall be so designed that all occupants of the building may be
+warned simultaneously.	EXCEPTION:	A fire alarm system need not be installed
+provided such apartment house or hotel is less than three stories in height and
+is separated by area separation walls of not less than four-hour fire-resistive
+construction in Types I, II-F.R., III, or IV H.T. buildings and two-hour
+fire-resistive construction in all other types of buildings.  Such area
+separations shall also be restricted as follows:	1.	Areas do not exceed the
+number of dwelling units or guest rooms permitted in Section 57.122.08,
+D-1.	2.	The area separation wall conforms to Chapter 9 of the L.A.M.C. (Building
+Code).	3.	The area separation wall extends to all outer edges of horizontal
+projecting elements, such as balconies, roof overhangs, canopies, marquees, or
+architectural projections.	4.	No openings are permitted for air ducts or similar
+penetrations except that openings for pipes, conduits, and electrical outlets of
+copper, sheet steel, or ferrous material shall be permitted through such wall
+and need not be protected provided such penetrations do not improperly impair
+the required fire resistance of the wall assembly.  Tolerances around such
+penetrations shall be cement grouted or filled with approved noncombustible
+materials.	3.	Automatic Sprinkler Systems: Automatic sprinkler systems installed
+in Group R, Division 1 Occupancies shall have an approved flow indicator
+electrically  interconnected to the required fire alarm system.  Upon
+activation the flow indicator will cause the fire alarm system to sound an
+audible signal throughout the premises.	E.	New High-Rise Buildings:	The
+arrangement, location, and type of signaling devices shall conform to the
+provisions of this division in addition to fire protective signaling system
+requirements set forth in Division 118 of this article.	F.	(Added by Ord. No.
+170,954, Eff. 4/16/96.)  Any person who violates this section shall be 
+punishable by at least a mandatory minimum fine of $100.00, up to and not
+exceeding $1,000.00 or by imprisonment in the County Jail for a period of not
+more than six (6) months, or by both such fine and imprisonment.  Each person
+shall be guilty of a separate offense for each and every day, or portion
+thereof, during which a violation of any provision of this section is committed,
+continued, or permitted by such person and shall be punishable accordingly.

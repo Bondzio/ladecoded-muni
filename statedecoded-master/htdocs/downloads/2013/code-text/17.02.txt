@@ -1,0 +1,208 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 17.02)
+
+  DEFINITIONS.	For the purpose of this article the following words and phrases
+are defined as follows:	Alley – A public way, other than a street or highway,
+providing a means of vehicular access to abutting property;	Appeal Board – The
+Area Planning Commission where the map is located for any parcel map or
+tentative map that:  (a) creates or results in less than 50,000 gross square
+feet of nonresidential floor area; or (b) creates or results in fewer than 50
+dwelling units, guest rooms, or combination of dwelling units and guest rooms;
+or (c) involves a lot with fewer than 65,000 square feet of lot area. 
+Otherwise, the City Planning Commission.  (Amended by Ord. No. 182,106, Eff.
+5/20/12.)	Average Natural Slope. (Amended by Ord. No. 179,035, Eff. 9/17/07.) 
+The average of the ungraded slopes at selected contours within a given parcel of
+land divided by its area as computed from either the City’s Engineer’s
+topographic maps or a topographic map prepared by a California registered civil
+engineer or California licensed land surveyor.  Regardless of which map is
+used, calculations cannot be derived or interpolated from a map that originally
+had contour intervals of greater than 25 feet for subdivisions or greater than
+five feet for parcel maps.  Average natural slope shall be computed by the
+following formula:	Where:	 S  =	average natural slope in percent.		 C 
+=	contour interval in feet, at no greater than 25-foot intervals for
+subdivisions or five-foot intervals for parcel maps, resulting in at least five
+contour lines.		 L  =	total accumulated length of all contours of interval
+“C” in feet.		 A  =	the area being considered in square feet.	Slopes may be
+computed only by the entire subdivision or parcel map area.  The calculation
+“L” (contour lengths) and “A” (area in square feet) can be computed by
+500-foot grid increments, as shown on the City Engineer’s topographic maps. 
+The “L” for each grid increment must be added to the “L” for every other
+grid increment and the “A” for each grid increment must be added to the
+“A” for every other grid increment to determine the “L” and the “A”
+for the entire subdivision or parcel map, prior to calculating the average
+natural slope for that subdivision or parcel map.  In any matter where the
+average natural slope is used to calculate density pursuant to Sections 17.05 or
+17.50 of this Code, the subdivision file shall contain copies of all maps and
+all calculations so that the figures can be verified.  All maps and all
+calculations are required to be submitted at the time of the filing of a
+subdivision application or the application is deemed incomplete.	Board -(Deleted
+by Ord. No. 173,268, Eff. 7/1/00, Oper. 7/1/00.)	Building Site – Any parcel of
+land which conforms to the definition of a lot as defined in this article.	City
+Engineer – The City Engineer.	Commission – (Deleted by Ord. No. 173,106,
+Eff. 3/5/00.)	Design – Design of a subdivision shall include:	(l)	street
+alignments, grades and widths;	(2)	drainage and sanitary facilities and
+utilities, including alignments and grades thereof;	(3)	location and size of all
+required easements and rights–of–way;	(4)	fire roads and firebreaks:	(5)	lot
+and size configuration;	(6)	traffic access;	(7)	grading;	(8)	land to be
+dedicated for park and recreation purposes, and	(9)	such other specific
+requirements in the general plan and configuration of the entire subdivision as
+may be necessary or convenient to insure conformity to or implementation of the
+general plan or any adopted specific plan.  (Amended by Ord. No. 146,985, Eff.
+4/11/75.)	Director of Planning – (Deleted by Ord. No. 173,106, Eff.
+3/5/00.)	Drip Line – A line which may be drawn on the ground around a tree
+directly under its outermost branch tips and which identifies that location
+where rainwater tends to drip from the tree. (Added by Ord. No. 163,478, Eff.
+4/12/80.)	Engineer – The Registered Civil Engineer employed by the owner or by
+the subdivider to prepare the Subdivision Maps and improvement plans. (Amended
+by Ord. No. 146,985, Eff. 4/11/75.)	Final Maps – A map prepared in accordance
+with the provisions of this article and with any applicable provisions of the
+Subdivision Map Act, designed to be recorded in the Office of the County
+Recorder of Los Angeles.	Fire Protection – Such fire hydrants and other
+protective devices as required by the Chief Engineer of the Fire
+Department.	Flood Hazard – A hazard to land or improvements due to overflow
+water having sufficient velocity to transport or deposit debris, scour the
+surface soil, dislodge or damage buildings, or erode the banks of water
+courses.	Freeway – A highway in respect to which the owners of abutting land
+have no right or easement of access to or from their abutting lands or in
+respect to which such owners have only limited or restricted right or easement
+of access, and which is declared to be such in compliance with the Streets and
+Highways Code of the State of California.	Frontage Road – A street lying
+adjacent and approximately parallel to and separated from a freeway, and which
+affords access to abutting property.	Future Street or Alley – Any real
+property which the owner thereof has offered for dedication to the City for
+street or alley purposes but which has been rejected by the City Council of the
+City of Los Angeles, subject to the right of said Council to rescind its action
+and accept by resolution at any later date and without further action by the
+owner, all or part of said property as public street or alley.	General Plan –
+A General Plan is a comprehensive declaration of purposes, policies and programs
+for the development of the city, which includes, where applicable, diagrams,
+maps and text setting forth objectives, principles, standards and other features
+and which has been adopted by the City Council. (Added by Ord. No. 138,800,
+Operative 6/23/69.)	Highway, Major – Any street designated as a major highway
+on the Highways and Freeways maps of the Transportation Element of the General
+Plan.  (Amended by Ord. No. 172,840, Eff. 11/4/99.)	Highway, Secondary – Any
+street designated as a secondary highway on the Highways and Freeways maps of
+the Transportation Element of the General Plan.  (Amended by Ord. No. 172,840,
+Eff. 11/4/99.)	Hillside Areas – Hillside areas as defined in Section 91.7003
+of this Code.  (Amended by Ord. No. 173,492, Eff. 10/10/00.)	Improvement –
+Such street work and utilities to be installed, or agreed to be installed by the
+subdivider on the land to be used for public or private streets, highways, ways,
+and easements as are necessary for the general use of the lot owners in the
+subdivision and local neighborhood traffic and drainage needs and required as a
+condition precedent to the approval and acceptance of the Final Map or Parcel
+Map. Such street work and utilities include necessary monuments, street name
+signs, guardrails, barricades, safety devices, fire hydrants, grading, retaining
+walls, storm drains and flood control channels and facilities, erosion control
+structures, sanitary sewers. street lights, street trees, traffic warning
+devices other than traffic signals and relocation of existing traffic signal
+systems directly affected by other subdivision improvements and other facilities
+as are required by the Bureau of Street Lighting or Bureau of Street Maintenance
+in conformance with other applicable provisions of this Code, or as are
+determined necessary by the Advisory Agency for the necessary and proper
+development of the proposed subdivision and to insure conformity to or the
+implementation of the general plan or any adopted specific plan. (Amended by
+Ord. No. 146,985, Eff. 4/11/75.)	Inundation – Ponded water or water in motion
+of sufficient depth to damage property due to the presence of the water or to
+deposit of silt.	Lot – A parcel of land conforming to the definition of Lot
+contained in Section 12.03 of the Los Angeles Municipal Code, which is
+identified on a final Map or a Parcel Map recorded in the Office of the County
+Recorder with a separate and distinct letter or number. (Amended by Ord. No.
+146,985, Eff. 4/11/75.)	Model Dwelling (Added by Ord. No. 145,410, Eff. 2/1/74.)
+– A one–family residential unit having all the following
+characteristics:	(a)	Said unit is constructed upon a proposed lot or in a
+proposed building previously designated as a model dwelling site by the Advisory
+Agency in a subdivision or a multiple unit development for which the Advisory
+Agency has approved or conditionally approved a tentative map, but for which a
+final map has not yet been recorded.	(b)	The proposed lot upon which the unit is
+constructed is recognized as a legal building site for the duration of the model
+dwelling permit.	(c)	No Certificate of Occupancy for such unit has been issued
+by the Superintendent of Building.	(d)	Where applicable, temporary access
+thereto is permitted over future streets previously restricted to public
+access.	(e)	Said unit is intended to be temporarily utilized as an example of
+the dwellings which have been built or which are proposed to be built in the
+same subdivision or multiple dwelling development.	Parcel Map – A map showing
+a division of land other than those divisions which require a Final Map as
+defined by the Subdivision Map Act. (Amended by Ord. No. 146,985, Eff.
+4/11/75.)	Private Road Easement – A parcel of land not dedicated as a public
+street, over which a private easement for road purposes is proposed to be or has
+been granted to the owners of property contiguous or adjacent thereto which
+intersects or connects with a public street, or a private street; in each
+instance the instrument creating such easement shall be or shall have been duly
+recorded or filed in the Office of the County Recorder of Los Angeles.	Private
+Street – A private road easement as defined herein which has been determined
+by the Advisory Agency or the Director of Planning to be adequate for access and
+for the purposes set forth in this article or in Article 8 of this
+chapter.	Problem Areas – Those portions of the City of Los Angeles determined
+by resolution of the Board of Public Works to be actually or potentially
+dangerous by reason of geological conditions, being subject to inundation or
+overflow by storm water, or because of any other potentially dangerous
+condition, including but not limited to areas subject to rapid spread of
+fire.	Protected Tree (Added by Ord. No. 177,404, Eff. 4/23/06.) – Any of the
+following Southern California native tree species, which measures four inches or
+more in cumulative diameter, four and one half feet above the ground level at
+the base of the tree:	(a)	Oak tree including Valley Oak (Quercus lobata) and
+California Live Oak (Quercus agrifolia), or any other tree of the oak genus
+indigenous to California but excluding the Scrub Oak (Quercus
+dumosa).	(b)	Southern California Black Walnut (Juglans californica var.
+californica).	(c)	Western Sycamore (Platanus racemosa).	(d)	California Bay
+(Umbellularia californica).	This definition shall not include any tree grown or
+held for sale by a licensed nursery, or trees planted or grown as a part of a
+tree planting program.	Public Way – Any street, channel, viaduct, subway,
+tunnel, bridge, easement, right of way or other way in which a public agency has
+a right of use.	Residential Planned Development – A group of residential
+buildings and appurtenant structures located and arranged in accordance wish the
+requirements of the RPD residential planned development district Sec. 13.04 in
+which the property is located. A residential planned development may include
+schools. It may also include churches, hospitals, infirmaries, recreational and
+commercial uses, as an integral part of the development and intended for use by
+its occupants, to an extent commensurate with the planned population of the RPD
+district. (Added by Ord. No. 141,474, Eff. 2/27/71.)	Revised Tentative Map – A
+map involving a revised arrangement of the streets, alleys, easements or lots
+within property for which a tentative map has been previously approved or a
+modification of the boundary of the property. (Amended by Ord, No. 146,985, Eff.
+4/11/75.)	Roadway – That portion of a right of way for a street or alley used
+or intended to accommodate the movement of vehicles.	Service Road – That part
+of a major or secondary highway, containing a roadway which affords access to
+abutting property and is adjacent and approximately parallel to and separated
+from the principal roadway.	Slope. (Added by Ord. No. 162,144, Eff. 5/11/87.)
+The plane or incline of land usually expressed as a percentage where % slope
+= vertical distance
+             ————————-   x 100
+horizontal distance	Street, Collector – A street (including the principal
+access streets of a subdivision which carries traffic from local streets either
+directly or via other existing or proposed collector streets to a major or
+secondary highway.	Street, Local – Any street other than a collector street,
+major or secondary highway, or freeway, providing access to abutting property
+and serving local as distinguished from through traffic.	Subdivider – A
+person, firm, corporation, Partnership or association who proposes to divide,
+divides or causes to be divided real property into a subdivision for himself or
+for others. (Amended by Ord. No. 146,985, Eff. 4/11/75.)	Subdivision – The
+same as defined in Section 66424 of the Government Code. Subdivision includes a
+stock cooperative project as defined in Section 12.03 of the Municipal Code.
+(Amended by Ord. No. 153,282, Eff. 1/3/80.)	Subdivision Map Act – The
+Subdivision Map Act of the State of California, Chapters 1 through 7 of Division
+2, Title 7 of the Government Code, commencing with Section 66410. (Amended by
+Ord. No. 146,985, Eff. 4/11/75.)	Surveyor – A licensed land surveyor
+authorized to practice in California.	Tentative Map – Refers to a map made for
+the purpose of showing the design of a proposed subdivision creating five or
+more parcels, five or more condominiums, or five or more units in a community
+apartment project or stock cooperative, and showing the existing conditions in
+and around it and need not be based upon an accurate or detailed final survey of
+the property. (Amended by Ord. No. 153,024, Eff. 11/10/79.)	Tract Map – Tract
+map refers to either a tentative map or final map. (Added by Ord. No. 146,985,
+Eff. 4/11/75.)	Tree Expert – A person with at least four years of experience
+in the business of transplanting, moving, caring for and maintaining trees and
+who is (a) a certified arborist with the International Society of Arboriculture
+and who holds a valid California license as an agricultural pest control advisor
+or (b) a landscape architect or (c) a registered consulting arborist with the
+American Society of Consulting Arborists.  (Amended by Ord. No. 177,404, Eff.
+4/23/06.)	Vesting Tentative Map –  a tentative map for any land division that
+has printed conspicuously on its face the words “Vesting Tentative Map” and
+is characterized by certain rights to proceed with development when filed and
+processed in accordance with Section 17.15 of this Code. (Amended by Ord. No.
+163,944, Eff. 10/8/88.)	Water Supply – Such water system supply and
+distribution facilities as are necessary to provide a reliable and adequate
+water supply for private use and public fire protection purposes.	Vehicular
+Access Rights – The right or easement for access of owners or occupants of
+abutting lands to a public way other than as pedestrians.

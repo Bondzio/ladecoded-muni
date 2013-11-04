@@ -1,0 +1,37 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+AFTER-BURNER AND CATALYTIC COMBUSTION SYSTEMS. (§ 57.61.09)
+
+  AFTER-BURNER AND CATALYTIC COMBUSTION SYSTEMS.	A.	After-burner
+System:	1.	Fuel systems and controls for after-burners shall comply with the
+requirements for direct-fired oven heaters.  The operation with the
+fume-generating process shall also be guaranteed by proper interlocking devices
+within the after-burner.	2.	Where the relative location of equipment and/or the
+type of fumes generated is such that they may condense between the originating
+process and the afterburner to form combustible liquids or solids, further
+safeguards shall be taken to avoid fire hazard and to guarantee delivery to the
+after-burner in true vapor form or combustible particulate
+form.	3.	Excess-temperature protection shall be provided in the form of
+increased air dilution or interruption of the feed to the originating
+process.	4.	When portions of the potential energy are returned to earlier stages
+of the heating system (oven, fume delivery manifold, or afterburner), safeguards
+shall be provided to avoid recycling untreated gases in the event of system
+malfunction.	B.	Catalytic Combustion System:	1.	Catalytic-type systems, whether
+employed for oven heat supply, exhaust energy recovery, or air pollution control
+shall be subject to the same safety precautions as other direct-fired oven
+heaters or after-burner systems.	2.	Exhaust from several ovens, kettles, or
+dryers may be manifolded to a single catalytic unit only when a double-jacketed,
+heated manifold is provided, and there is no provision for heat recovery to the
+original process.	3.	An excess temperature limit device, downstream from the
+catalyst bed, shall be arranged to shut down the process burners and material
+handling equipment, and to operate exhaust relief dampers to provide maximum
+discharge to the outside atmosphere.  In special instances where an exothermic
+reaction may occur within a process being served, further protection shall be
+provided by arranging for complete diversion of fumes from the catalyst system
+when the high limit temperature control is actuated.	4.	Adequate exhaust
+ventilation shall be provided to maintain vapor-air mixtures below 50 percent of
+the lower flammable limit.  Proper interlocking devices shall be installed to
+automatically shut down the fuel input and the conveyor whenever this point is
+reached.     	5.	Explosion relief of one square foot for each 15 cubic feet
+of volume shall be provided for large catalytic units (above 64 cubic feet size)
+subject to excess energy release or fuel hazards.

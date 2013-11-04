@@ -1,0 +1,351 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+METERS. (§ 99.05.303)
+
+99.05.303.1.    Separate meters or metering devices shall be installed for
+uses described in Sections 5.303.1.1 and 5.303.1.2.99.05.303.2.  Twenty Percent
+Savings.  A schedule of plumbing fixtures and fixture fittings that will reduce
+the overall use of potable water within the building by 20 percent shall be
+provided.  The reduction shall be based on the maximum allowable water use per
+plumbing fixture and fittings as required by the California Building Standards
+Code.  The 20 percent reduction in potable water use shall be demonstrated by
+one of the following methods:	1.	Each plumbing fixture and fitting shall meet
+the 20 percent reduced flow rate specified in Table 5.303.2.3, or	2.	A
+calculation demonstrating a 20 percent reduction in the building “water use
+baseline” as established in Table 5.303.2.2 shall be provided.99.05.303.2.1. 
+Multiple Showerheads Serving One Shower.  When single shower fixtures are
+served by more than one showerhead, the combined flow rate of all the
+showerheads shall not exceed the maximum flow rates specified in the 20 percent
+reduction column contained in Table 5.303.2.2 or the shower shall be designed to
+only allow one showerhead to be in operation at a time.	EXCEPTION: The maximum
+flow rate for shower heads when using the calculation method specified in
+Section 99.05.303.2, Item 2 is 2.5 gpm @ 80 psi.TABLE 5.303.2.2
+INDOOR WATER USE BASELINE 4
+  
+    
+      
+        Fixture Type
+      
+      
+        Flow Rate 2
+      
+      
+        Duration
+      
+      
+        Daily Uses
+      
+      
+        Occupants 3
+      
+    
+    
+      
+        Showerheads
+      
+      
+        2.5 gpm @ 80 psi
+      
+      
+        8 min.
+      
+      
+        1
+      
+      
+        X
+      
+    
+    
+      
+        Kitchen Faucets
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        4 min.
+      
+      
+        1
+      
+      
+        X
+      
+    
+    
+      
+        Replacement Aerators
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        
+      
+      
+        
+      
+      
+        X
+      
+    
+    
+      
+        Wash Fountains
+      
+      
+        2.2 [rim space (in.)/20 gpm @ 60 psi]
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Metering Faucets
+      
+      
+        0.25 gallons/cycle
+      
+      
+        .25 min.
+      
+      
+        3
+      
+      
+        
+      
+    
+    
+      
+        Metering Faucets for Wash Fountains
+      
+      
+        .25 [rim space (in.)/20 gpm @ 60 psi]
+      
+      
+        .25 min.
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Gravity Tank Type Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 1
+        3 female
+      
+      
+        X
+      
+    
+    
+      
+        Flushometer Tank Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 1
+        3 female
+      
+      
+        X
+      
+    
+    
+      
+        Flushometer Valve Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 1
+        3 female
+      
+      
+        X
+      
+    
+    
+      
+        Urinals
+      
+      
+        1.0 gallons/flush
+      
+      
+        1 flush
+      
+      
+        2 male
+      
+      
+        X
+      
+    
+  Fixture “Water Use” = Flow rate x Duration x Occupants x Daily uses 
+1	The daily use number shall be increased to three if urinals are not installed
+in the room.
+  2	The Flow-rate is from the CEC Appliance Efficiency Standards, Title 20,
+California Code of Regulations; where a conflict occurs, the CEC standards shall
+apply.
+  3	Refer to Table A, Division 4, Los Angeles Plumbing Code, for occupant load
+factors.
+  4	Use Worksheet WS-1 to calculate base line water use.TABLE 5.303.2.3
+FIXTURE FLOW RATES
+  
+    
+      
+        Fixture Type
+      
+      
+        Flow Rate
+      
+      
+        Maximum Flow Rate at 20 Percent Reduction
+      
+    
+    
+      
+        Showerheads
+      
+      
+        2.5 gpm @ 80 psi
+      
+      
+        2 gpm @ 80 psi
+      
+    
+    
+      
+        Kitchen Faucets
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        1.8 gpm @ 60 psi
+      
+    
+    
+      
+        Wash Fountains
+      
+      
+        2.2 [rim space (in.) / 20 gpm @ 60 psi]
+      
+      
+        1.8 [rim space (in.) / 20 gpm @ 60 psi]
+      
+    
+    
+      
+        Metering Faucets
+      
+      
+        0.25 gallons/cycle
+      
+      
+        0.2 gallons/cycle
+      
+    
+    
+      
+        Metering Faucets for Wash Fountains
+      
+      
+        .25 [rim space (in.) / 20 gpm @ 60 psi]
+      
+      
+        .20 [rim space (in.) / 20 gpm @ 60 psi]
+      
+    
+    
+      
+        Gravity Tank Type Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Flushometer Tank Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Flushometer Valve Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Urinals
+      
+      
+        1.0 gallons/flush
+      
+      
+        .5 gallons/flush
+      
+    
+  
+  1	Includes single and dual flush water closets with an effective flush of
+1.28 gallons or:Single flush toilets – The effective flush volume shall not
+exceed 1.28 gallons (4.8 liters). The effective flush volume is the average
+flush volume when tested in accordance with ASME A112.19.233.2.Dual flush
+toilets – The effective flush volume shall not exceed 1.28 gallons (4.8
+liters).  The effective flush volume is defined as the composite, average flush
+volume of two reduced flushes and one full flush.  Flush volumes will be tested
+in accordance with ASME A112.19.2 and ASME A112.19.14.99.05.303.4.  Wastewater
+Reduction.  Each building shall reduce by 20 percent wastewater by one of the
+following methods:	1.	The installation of water-conserving fixtures (water
+closets, urinals) meeting the criteria established in sections 5.303.2,
+or	2.	Utilizing non-potable water systems [captured rainwater, graywater, and
+municipally treated wastewater (recycled water) complying with the current
+edition of the Los Angeles Plumbing Code or other methods described in Section
+A5.304].

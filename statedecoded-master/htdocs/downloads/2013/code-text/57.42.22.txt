@@ -1,0 +1,50 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+PRESSURE RELIEF DEVICES. (§ 57.42.22)
+
+  PRESSURE RELIEF DEVICES.	A.	Every container shall be protected by
+pressure-relieving devices that will prevent the pressure from rising more than
+10 percent above the maximum allowable working pressure, except when the excess
+pressure is caused by fire exposure.	B.	When an aboveground container contains
+flammable gases or vapors or liquefied flammable gases or is subject to fire
+exposure, supplemental pressure-relieving devices shall be installed to protect
+against excessive pressure. Such supplemental pressure-relieving devices shall
+be capable of preventing the pressure from rising more than 20 percent above the
+maximum allowable working pressure. A single pressure-relieving device may be
+used to satisfy the requirements of this subsection as well as Subsection A
+above, provided it meets the requirements of both subsections.	C.	Unless
+otherwise approved by the Chief, the heat transfer rate used to compute the
+capacity of supplemental pressure relieving devices required under Section
+57.42.22-B shall be 20,000 B.T.U.’s per hour per square foot of the maximum
+inside wetted surface of the container.	D.	Approved, pilot operated, diaphragm
+type, low pressure regulators may be used as pressure-relieving devices on
+vessels having a maximum allowable working pressure not exceeding 10
+psig.	E.	Pressure relief devices on containers having a maximum allowable
+working pressure in excess of 10 psig shall be of the direct spring-loaded type.
+Pilot valve control or other indirect operation of such pressure relief valves
+shall not be permitted unless the design is such that the main unloading valve
+win open automatically at not over the set pressure and win discharge its
+full-rated capacity if some essential part of the pilot or auxiliary device
+should fail.	F.	Pressure relief devices shall be set to open at a pressure not
+in excess of the maximum allowable working pressure of the container. If the
+capacity is supplied by more than one valve or device, only one valve needs to
+be set to open at a pressure not exceeding the maximum allowable working
+pressure of the container; the additional valves may be set to open at a higher
+pressure, but not to exceed 105 percent of the maximum allowable working
+pressure.	G.	If separate pressure relief devices are provided to comply with the
+requirement of Subsection B of this section, they shall be set to operate at a
+pressure not in excess of 110 percent of the maximum allowable working
+pressure.	H.	Rupture discs are prohibited except when installed upstream from
+other pressure-relieving devices, or where the nature of the service makes
+spring-loaded relief valves unreliable and the discharge from such rupture disc
+would not constitute a hazard.	I.	Pressure-relieving devices, rupture discs in
+series with such devices, and stop valves in series with pressure-relieving
+devices shall be installed as provided in L.A.F.D. Standard No. 19.	J.	The
+discharge from pressure relief valves or systems shall be at a safe location.
+The following shall be considered minimum requirements:	1.	Open discharges shall
+be so placed and directioned that the outflow is directed away from the
+container and will not create a hazard over walkways, stairways, or operating
+platforms. Discharge shall be vertically upwards whenever possible.	2.	The point
+of discharge shall be not less than 10 feet above the adjacent ground level, nor
+less than two feet above the surface of the container.	EXCEPTION:	Storage
+containers having a capacity of 2,000 gallons or less.

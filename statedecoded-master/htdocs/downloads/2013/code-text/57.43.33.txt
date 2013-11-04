@@ -1,0 +1,9 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+COMPRESSOR DRIVES. (§ 57.43.33)
+
+  COMPRESSOR DRIVES.	A.	Each compressor shall have its own individual driving
+unit.	B.	An alternate source of power of sufficient capacity to handle the Ioad
+determined by Subsection A of Section 57.43.30 shall be provided, or facilities
+shall be provided for venting gas from the top of the special vessel to handle
+the refrigeration load in the event of power failure.

@@ -1,0 +1,96 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+QUALITY CONTROL. (§ 91.9205)
+
+  QUALITY CONTROL.
+	(Added by Ord. No. 171,259, Eff. 8/30/96.)91.9205.1.  Inspection by the
+Department.  All work shall be subject to inspection by the Superintendent of
+Building including, but not limited to:	1.	Placement and installation of new 
+adhesive or expansion anchors or  anchor side plates installed in existing
+foundations.	2.	Placement of required blocking and framing
+anchors.	3.	Installation and nailing of new cripple wall bracing.	The torque
+testing of sill plate anchors per Section 91.9204.3.1 shall be performed by the
+building inspector.91.9205.2.  Special Inspection.  Special inspection is not
+required for sill plate anchors installed in existing foundations regulated by
+the provisions of this division.  Any work may be subject to special inspection
+when required by the Superintendent of Building or when so designated by the
+architect or engineer of record.91.9205.3.  Structural Observation.  (Amended
+by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  Structural observation is
+not required for work done under the prescriptive provisions of this division. 
+When construction documents for strengthening are prepared by an architect or
+engineer and alternate materials or methods are used, structural observation
+shall be provided as required in CBC Section 1709.91.9205.4.  Engineer’s or
+Architect’s Statement.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  When an alternative design is provided per LAMC Section 91.9201.3,
+the responsible engineer or architect shall place the following statement on the
+approved plans:	1.	“I am responsible for this building’s seismic
+strengthening design for the underfloor cripple walls and sill bolting in
+compliance with the minimum seismic resistance standards of Division 92 of the
+Los Angeles Building Code.”	or when applicable:	2.	“The Registered Deputy
+Inspector, required as a condition of the use of structural design stresses
+requiring continuous inspection, will be responsible to me as required by
+Section 91.1704 of the Los Angeles Building Code.”TABLE 92-A
+SILL PLATE ANCHORAGE AND CRIPPLE WALL BRACING 1,2,3
+  
+    
+      
+        Number of Stories above Cripple Walls
+      
+      
+        Minimum Sill Plate Connection and Maximum Spacing
+      
+      
+        Amount of Wall Bracing
+      
+    
+    
+      
+        One Story
+      
+      
+        Adhesive or expansion anchors shall be 1/2-inch (12.7 mm) minimum
+diameter spaced at six feet (1829 mm) maximum center to center.
+      
+      
+        Each end and not less than 50% of the wall length.
+      
+    
+    
+      
+        Two Story
+      
+      
+        Adhesive or expansion anchors shall be 1/2-inch (12.7 mm) minimum
+diameter spaced at four feet (1219 mm) maximum center to center; or 5/8 inch
+(15.9 mm) spaced at six feet maximum center to center.
+      
+      
+        Each end and not less than 70% of the wall length.
+      
+    
+    
+      
+        Three Story
+      
+      
+        Adhesive or expansion anchors shall be 1/2- inch minimum (12.7 mm)
+diameter spaced at two feet eight inches (813 mm) maximum center to center; or
+5/8-inch minimum (15.9 mm) diameter spaced at four feet (1219 mm) maximum center
+to center.
+      
+      
+        100% of the wall length.
+      
+    
+  
+	1.	Plate washers for use with adhesive or expansion anchors shall be two-inch
+(51 mm) by two- inch (51 mm) by 3/16-inch (4.8 mm) for 1/2-inch (12.7 mm)
+diameter anchors and 2-1/2-inch (64 mm) by 2-1/2-inch (64 mm) by 1/4-inch (6 mm)
+for 5/8 inch (15.9 mm) diameter anchors.	2.	Existing sill plate anchor bolts
+shall be permitted to provide all or a portion of the sill plate connection
+requirement if:	a.	the anchor bolt is cast in concrete and in sound condition,
+and:	b.	the diameter size and maximum spacing meets or exceeds the requirements
+of Table 92-A, and:	c.	a new plate washer conforming to footnote 1 is installed,
+and:	d.	the sill plate is connected to a snug tight condition and torque tested
+per Section 91.9204.3.1.	3.	Anchor side plates shall be permitted when
+conditions prevent anchor installation vertically through the sill plate.

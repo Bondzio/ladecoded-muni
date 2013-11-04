@@ -1,0 +1,28 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+TYPES OF SAFETY CONTROL DEVICES. (§ 57.84.42)
+
+  TYPES OF SAFETY CONTROL DEVICES.	The following safety control devices shall
+be considered a minimum requirement.  The Chief shall have the authority to
+require additional safety devices when deemed necessary.	A.	Purge Control – A
+time relay for pre-ventilation shall be provided which shall be sufficient to
+permit four complete air changes before burners can be lighted.  In batch
+process ovens, doors must be inter-connected in such a manner that they must be
+open during the purge period.  Such relay shall be arranged to reset instantly
+to the starting position when the current supply is interrupted.	B.	Ventilation
+Safety – Equipment shall be provided to insure required ventilation of the
+system during operation. In case of fan failure, conveyor and heater shall be
+shut down by means of positive interlock safety control on exhaust and
+circulating system.	C.	Combustion Safeguards – Safety interlocks shall be
+provided to insure flame on pilot burner before main burner valve can be
+opened.  On ovens over one hundred cubic feet capacity, these shall operate in
+a maximum time of ten seconds.  In case the main burner flame is extinguished,
+the fuel supply shall be automatically shut off.	D.	Excess Temperature Controls
+– Excess temperature limit switches shall be arranged to cut off the fuel
+supply when the temperature exceeds a safe limit.  They shall not reopen the
+fuel valve.  There shall be at least one such control in the oven and on
+externally heated ovens one additional control in the heater.	E.	Safety Fuel
+Valve – The above safety controls shall be interlocked with the main fuel
+supply including the pilot by a safety valve which shall be normally closed. 
+This valve shall be used for safety shutoff service only and shall be
+independent of the temperature control valve.MAINTENANCE

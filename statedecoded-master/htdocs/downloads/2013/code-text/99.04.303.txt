@@ -1,0 +1,291 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+TWENTY PERCENT SAVINGS. (§ 99.04.303)
+
+99.04.303.1.    A schedule of plumbing fixtures and fixture fittings that will
+reduce the overall use of potable water within the building by at least 20
+percent shall be provided.  The reduction shall be based on the maximum
+allowable water use per plumbing fixture and fitting as required by the
+California Building Standards Code.  The 20 percent reduction in potable water
+use shall be demonstrated by one of the following methods:	1.	Each plumbing
+fixture and fitting shall meet reduced flow rates specified in Table 4.303.2;
+or	2.	A calculation demonstrating a 20 percent reduction in the building
+“water use” baseline as established in Table 4.303.1 shall be provided. 
+For low-rise residential occupancies, the calculation shall be limited to the
+following plumbing fixture and fitting types: water closets, urinals, lavatory
+faucets, kitchen faucets and showerheads.TABLE 4.303.1
+WATER USE BASELINE 1
+  
+    
+      
+        Fixture Type
+      
+      
+        Flow-rate 2
+      
+      
+        Duration
+      
+      
+        Daily uses
+      
+      
+        Occupants 3
+      
+    
+    
+      
+        Showerheads Residential
+      
+      
+        2.5 gpm @ 80 psi
+      
+      
+        8 min.
+      
+      
+        1
+      
+      
+        
+      
+    
+    
+      
+        Lavatory Faucets Residential
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        .25 min.
+      
+      
+        3
+      
+      
+        
+      
+    
+    
+      
+        Kitchen Faucets
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        4 min.
+      
+      
+        1
+      
+      
+        
+      
+    
+    
+      
+        Replacement Aerators
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        
+      
+      
+        
+      
+      
+        
+      
+    
+    
+      
+        Gravity Tank Type Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 4
+        3 female
+      
+      
+        
+      
+    
+    
+      
+        Flushometer Tank Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 4
+        3 female
+      
+      
+        
+      
+    
+    
+      
+        Flushometer Valve Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1 flush
+      
+      
+        1 male 4
+        3 female
+      
+      
+        
+      
+    
+    
+      
+        Urinals
+      
+      
+        1.0 gallons/flush
+      
+      
+        1 flush
+      
+      
+        2 male
+      
+      
+        
+      
+    
+  Fixture “Water Use” = Flow rate x Duration x Occupants x Daily uses 
+1	Use Worksheet WS-1 to calculate baseline water use.
+  2	The Flow-rate is from the CEC Appliance Efficiency Standards, Title 20,
+California Code of Regulations; where a conflict occurs, the CEC standards shall
+apply.
+  3	For low rise residential occupancies, the number of occupants shall be
+based on two persons for the first bedroom, plus one additional person for each
+additional bedroom.
+  4	The daily use number shall be increased to three if urinals are not
+installed in the room.99.04.303.2.  Multiple Showerheads Serving One Shower. 
+When single shower fixtures are served by more than one showerhead, the combined
+flow rate of all the showerheads shall not exceed the maximum flow rates
+specified in the 20 percent reduction column contained in Table 4.303.2 or the
+shower shall be designed to only allow one showerhead to be in operation at a
+time.	EXCEPTION: The maximum flow rate for showerheads when using the
+calculation method specified in Section 99.04.303.1, Item 2, is 2.5 gpm @ 80
+psi.TABLE 4.303.2
+FIXTURE FLOW RATES
+  
+    
+      
+        Fixture Type
+      
+      
+        Flow Rate
+      
+      
+        Maximum Flow Rate at > 20 Percent Reduction
+      
+    
+    
+      
+        Showerheads
+      
+      
+        2.5 gpm @ 80 psi
+      
+      
+        2 gpm @ 80 psi
+      
+    
+    
+      
+        Lavatory Faucets Residential
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        1.5 gpm @ 60 psi 2
+      
+    
+    
+      
+        Kitchen Faucets
+      
+      
+        2.2 gpm @ 60 psi
+      
+      
+        1.8 gpm @ 60 psi
+      
+    
+    
+      
+        Gravity Tank Type Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Flushometer Tank Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Flushometer Valve Water Closets
+      
+      
+        1.6 gallons/flush
+      
+      
+        1.28 gallons/flush 1
+      
+    
+    
+      
+        Urinals
+      
+      
+        1.0 gallons/flush
+      
+      
+        .5 gallons/flush
+      
+    
+  
+  1	Includes single and dual flush water closets with an effective flush of
+1.28 gallons or less.	Single Flush Toilets – The effective flush volume shall
+not exceed 1.28 gallons (4.8 liters).  The effective flush volume is the
+average flush volume when tested in accordance with ASME A112.19.233.2.	Dual
+Flush Toilets – The effective flush volume shall not exceed 1.28 gallons (4.8
+liters).  The effective flush volume is defined as the composite, average flush
+volume of two reduced flushes and one full flush.  Flush volumes will be tested
+in accordance with ASME A112.19.2 and ASME A112.19.14.  2	Lavatory Faucets
+shall not have a flow rate less than 0.8 gpm at 20 psi.

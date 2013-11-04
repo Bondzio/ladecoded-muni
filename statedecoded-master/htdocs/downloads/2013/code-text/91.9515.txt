@@ -1,0 +1,9 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+MATERIALS OF CONSTRUCTION. (§ 91.9515)
+
+  MATERIALS OF CONSTRUCTION.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)	All materials permitted by this Code
+may be used to reduce the story drifts.  Their effective stiffness shall be
+determined by a nonlinear analysis using principles of engineering mechanics and
+expected material characteristics.

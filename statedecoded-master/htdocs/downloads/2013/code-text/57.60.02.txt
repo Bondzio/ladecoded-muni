@@ -1,0 +1,16 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+FUEL AND TEMPERATURE CONTROLS. (§ 57.60.02)
+
+  FUEL AND TEMPERATURE CONTROLS.	A.	Molten salt bath furnaces shall be equipped
+with approved safety control devices and interlock systems that provide
+protection against equipment malfunctions as per L.A.F.D. Standard No. 7.	B.	Oil
+and gas fired salt bath furnaces shall be provided with approved controls and
+flame-supervisory devices for each burner.  Such devices shall be interlocked
+to shut off the fuel supply to the affected burners and to activate the
+alarms.	C.	One manual temperature control shall be located remotely from the
+bath in a readily accessible place.	D.	All salt bath furnaces shall be provided
+with two temperature control instruments of the “Fail Safe” type which will
+maintain the set temperature of the furnace.  An excess temperature control
+instrument shall be provided and shall be interlocked to shut off the heating
+system.

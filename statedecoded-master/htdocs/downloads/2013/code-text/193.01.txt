@@ -1,0 +1,26 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+ANNUAL FEE ADJUSTMENTS. (§ 193.01)
+
+  ANNUAL FEE ADJUSTMENTS.	A.	Beginning July 1, 2000, all fees imposed by the
+Solid Waste Enforcement Program shall be adjusted annually on July 1 by an
+inflation factor (‘IN’), which is based upon the change, from the
+COMMENCEMENT DATE to the adjustment date in question, in the Consumer Price
+Index for all urban consumers for the Los Angeles Anaheim Riverside Metropolitan
+Area (‘CPI-U’) as published by the Bureau of Labor Statistics, U.S.
+Department of Labor.	The inflation factor shall be equal to:	IN = [ (CPI-Ua) /
+(CPI-UC) ]	where	CPI-Ua = the CPI-U for the calendar month ‘a’; and	‘a’
+= the calendar month in which the anniversary of the COMMENCEMENT DATE
+occurs;	‘CPI-UC’ = the CPI-U for the calendar month and year in which the
+COMMENCEMENT DATE occurs.	B.	Until the final CPI-Ua is published for the year in
+question, an estimate of the CPI-Ua shall be made by the City using linear
+extrapolation from the prior year’s CPI-Ua to the most recently published
+final CPI-U.  The City shall adjust the fee payment for the month following the
+publication of the final CPI-Ua to account for any over or under payments
+resulting from the use of the estimated CPI-Ua.	C.	Notwithstanding the
+calculation methodology described herein, at no time shall IN exceed 0.03 (three
+percent) in any single annual adjustment.  If the CPI exceeds 3%, calculated at
+an average for a given year, the operating fee will adjust to 75% of the average
+CPI in excess of the 3% per year limit to begin the following year.	D.	All fees
+contained in the Solid Waste Facility Fee Table in Section 193.02 of this
+ordinance are subject to annual fee adjustments as calculated above.

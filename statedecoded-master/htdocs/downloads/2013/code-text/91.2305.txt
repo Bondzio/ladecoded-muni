@@ -1,0 +1,22 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+GENERAL DESIGN REQUIREMENTS FOR LATERAL FORCE-RESISTING SYSTEM. (§ 91.2305)
+
+  GENERAL DESIGN REQUIREMENTS FOR LATERAL FORCE-RESISTING SYSTEM.
+	(Amended by Ord. 181,758, Eff. 8/8/11.)	Section 2305 of the CBC is adopted by
+reference, except that Sections 91.2305.4 and 91.2305.5 are added.  91.2305.4.
+Quality of Nails.  In Seismic Design Category D, E or F, mechanically driven
+nails used in wood structural panel shear walls shall meet the same dimensions
+as that required for hand-driven nails, including diameter, minimum length and
+minimum head diameter.  Clipped head or box nails are not permitted in new
+construction. The allowable design value for clipped head nails in existing
+construction may be taken at no more than the nail-head-area ratio of that of
+the same size hand-driven nails.91.2305.5. Hold-down Connectors.  In Seismic
+Design Category D, E or F, hold-down connectors shall be designed to resist
+shear wall overturning moments using approved cyclic load values or 75 percent
+of the allowable seismic load values that do not consider cyclic loading of the
+product. Connector bolts into wood framing shall require steel plate washers on
+the post on the opposite side of the anchorage device.  Plate size shall be a
+minimum of 0.229 inch by 3 inches by 3 inches (5.82 mm by 76 mm by 76 mm) in
+size.  Hold-down connectors shall be finger tight and ½ turn just prior to
+covering the wall framing.

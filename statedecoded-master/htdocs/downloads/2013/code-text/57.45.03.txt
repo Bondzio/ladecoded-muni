@@ -1,0 +1,19 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CYLINDER SUPPLY SYSTEM. (§ 57.45.03)
+
+  CYLINDER SUPPLY SYSTEM.	A.	A check valve shall be installed between each
+cylinder lead and the manifold header.	B.	The system, including cylinders and
+pressure regulators shall deliver gas at a pressure of 50-55 psig.  The system
+shaII have adequate capacity to maintain a minimum delivery pressure of 50 psig
+at the maximum aggregate flow requirement of all use points.  Pressure
+regulators shall incorporate a spring-loaded pressure relief device.	C.	Threaded
+connections between the regulators and the piping system shall be
+noninterchangeable Iow pressure connections for medical gas complying with
+Compressed Gas Association Pamphlet V-5, Diameter Index Safety System.	D.	A
+shutoff valve or check valve shall be installed downstream of each pressure
+regulator.  A pressure relief valve set at 50 percent above normal line
+pressure shall be installed downstream of the shutoff or check valve.  It shall
+close automatically when excess pressure has been released.  Pressure relief
+valves shall be of brass or bronze and designed for oxygen service.	E.	The
+supply system shall be turned off at the end of each day of operation.

@@ -1,0 +1,125 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+TITLE, PURPOSE, AND SCOPE. (§ 91.101)
+
+  TITLE, PURPOSE, AND SCOPE.91.101.1.  Title.  (Amended by Ord. No. 181,758,
+Eff. 8/8/11.)  This article shall be known as the Los Angeles Building Code or
+Building Code or LABC, a portion of the Los Angeles Municipal Code (LAMC), and
+wherever the word Code is used in this article it shall mean the Los Angeles
+Building Code.  Article 1.5 of Chapter IX of the LAMC shall collectively be
+known as the Los Angeles Residential Code or LARC.  The provisions of the LARC
+for one- and two-family dwellings shall apply to the construction, alteration,
+movement, enlargement, replacement, repair, equipment, use and occupancy,
+location, removal and demolition of detached one- and two-family dwellings and
+townhouses not more than three stories above grade plane in height with a
+separate means of egress and their accessory structures.  In addition to the
+LARC, Sections of Chapters 1, 11A, 11B, 17, 31B, 34, 63, 67, 70, 71, 72, 81, 89,
+92, 93 and 96 of the LABC shall also be applicable to one- and two-family
+dwellings and townhouses unless stated otherwise.	The Los Angeles Building Code
+and the Los Angeles Residential Code adopt by reference portions of the
+California Building Code (CBC) or the California Residential Code (CRC)
+respectively.	EXCEPTION:  Live/work units complying with the requirements of
+Section 419 of the California Building Code shall be permitted to be built as
+one- and two-family dwellings or townhouses.  Fire suppression required by
+Section 419.5 of the California Building Code when constructed under the
+California Residential Code for one- and two-family dwellings shall conform to
+Section 903.3.1.3 of the California Building Code.91.101.2.  Purpose.  The
+purpose of this article is to safeguard life, limb, health, property and public
+welfare by regulating and controlling the design, construction, quality of
+materials, use and occupancy, location and maintenance of all buildings and
+structures erected or to be erected within the city, and by regulating certain
+grading operations within the city.91.101.3.  Reserved.91.101.4.  Scope.   
+(Amended by Ord. No. 180,619, Eff. 5/12/09.)  The provisions of this Code shall
+apply to the construction, alteration, moving, demolition, repair, maintenance
+and use of any building or structure within this jurisdiction, except work
+located primarily in a public way, public utility towers and poles, mechanical
+equipment not specifically regulated in this Code, and hydraulic flood control
+structures.	For additions, alterations, moving and maintenance of buildings and
+structures, see Division 34.  For temporary buildings and structures, see CBC
+Section 3103.	Where, in any specific case, different sections of this Code
+specify different materials, methods of construction or other requirements, the
+most restrictive shall govern.  Where there is a conflict between a general
+requirement and a specific requirement, the specific requirement shall be
+applicable.	The codes and standards referenced in this Code shall be considered
+part of the requirements of this Code to the prescribed extent of each
+reference.  Where differences occur between provisions of this Code and
+referenced codes and standards, the provisions of this Code shall
+apply.	Wherever in this Code reference is made to an appendix, the provisions in
+the appendix shall not apply unless specifically adopted.	The metric conversions
+are provided in parenthesis following the English units.  Where industry has
+made metric conversions available, the conversions conform to current industry
+standards.  Formulas are also provided with metric equivalents.  Metric
+equivalent formulas immediately follow the English formula and are denoted by
+“For SI” preceding the metric equivalent.  Some formulas do not use
+dimensions and, thus, are not provided with a metric equivalent.  Multiplying
+conversion factors have been provided for formulas where metric forms were
+unavailable.  Tables are provided with multiplying conversion factors in
+subheadings for each tabulated units measurement.91.101.5.  Work Not in
+Scope.  The provisions of this Code shall not apply to any of the
+following:	1.	A building accessory to a dwelling and not located in Fire
+District No. 1 provided the building is not more than 64 square feet in area or
+8 feet in height and does not contain any heating, plumbing or electrical
+installation, and is located as permitted by the Los Angeles Zoning Code. 
+(Amended by Ord. No. 180,619, Eff. 5/12/09.)	2.	Oil derricks.	3.	Towers or poles
+supporting public utility communication lines, antennas, or power transmission
+lines.	4.	(Amended by Ord. No. 172,592, Eff. 6/28/99, Oper. 7/1/99.)  Retaining
+walls which are not over 4 feet (1219 mm) in height, measured from the bottom of
+the footing to the top of the wall, unless supporting a surcharge or sloping
+earth, or impounding flammable liquids.  This exemption shall not apply to
+retaining walls of any height built on slopes steeper than 1 vertical to 5
+horizontal  (20% slope).	5.	Water tanks supported directly upon grade if the
+capacity does not exceed 5,000 gallons (18 927 L) and the ratio of the height to
+diameter or width does not exceed 2 to 1.	6.	Motion picture sets when not
+supported by any portion of any building.	7.	Pergolas and lath houses, both of
+which shall be outside of any fire district, not over 400 square feet in area,
+and not supported by or attached to any portion of any building.	8.	Work in a
+public way, dams and drainage structures constructed by or under contract with
+the Board of Public Works, the Department of Water and Power and the County
+Flood Control District, unless the structure forms a portion of the support for
+a building or a structure coming within the jurisdiction of the Department of
+Building and Safety.	9.	Portable amusement devices and structures, including
+merry-go-rounds, ferris wheels, rotating conveyances, slides, similar devices,
+and portable accessory structures whose use is necessary for the operation of
+such amusement devices and structures; any portable accessory structure included
+in the provisions of this subdivision shall be limited to a cover or roof over
+each device, but shall not include any storage building or detached structure
+which is not an integral part of the device.	10.	Isolated buildings not larger
+in area than 16 square feet, including roof projections, and not more than 8
+feet in height, if separated by a distance of 20 feet or more.	11.	Nothing in
+this Code shall apply to any excavation, removal, fill or deposit of any earth
+or other materials from individual interment sites, underground crypts or burial
+vaults within a property which is dedicated or used for cemetery purposes,
+provided that such work does not affect the lateral support or increase the
+stresses in or pressure upon any adjacent or contiguous property not owned by
+the cemetery authority.	12.	The surface mining of minerals in a “G” Surface
+Mining District as established and provided for in Section 13.03 of the
+Municipal Code, or where permitted by order of a court of competent
+jurisdiction.	13.	The depositing of rubbish or other material at any dump
+operated by the City of Los Angeles, or by any person pursuant to the provisions
+of Section 66.15 or 66.25 of the Municipal Code.	14.	Nothing in this Code shall
+apply to grading in an isolated, self-contained area if the department finds
+that by reason of such isolation and self-containment no danger to private or
+public property can now or thereafter result from grading operations.	15.	Any
+portable metal hangar less than 2,000 square feet in size, located on a
+city-owned airport, used for the parking of aircraft only, and bearing evidence
+of approval by the Department of Motor Vehicles of the State of California for
+movement on any highway.  The structure shall, as an integral part of its basic
+construction, be equipped with a hitch or coupling device for towing.  It shall
+accommodate, without further major structural change, wheel and axle assemblies
+which will provide the structure with a safe means of portability.  No water or
+sanitary facilities shall be permitted in this structure and it shall be
+equipped with permanent ventilation as required for Group S-1 Occupancy. 
+(Amended by Ord. No. 180,619, Eff. 5/12/09.)	16.	Tents and trailers used for
+office or shelter purposes accessory to a Christmas tree sales lot during the
+month of December only, provided the aggregate area of all tents and trailers
+does not exceed 600 square feet for each sales lot. (Such tents are regulated by
+the Fire Department under Article 7, Chapter V of the Los Angeles Municipal
+Code.)	17.	Tents accessory to a dwelling and not exceeding 450 square feet in
+area.	18.	Signs not exceeding 20 square feet in area, placed upon the surface of
+the ground, no part of which extends more than 6 feet 6 inches above the
+underlying ground, which have no mechanical or moving parts or to which no
+electricity or other source of illumination or power are attached or made a part
+thereof. Such signs shall be separated from each other a minimum distance of 15
+feet.	19.	Boards and signs used exclusively to display official notices issued
+by any court or public officer in the performance of a public duty or by a
+private person in giving legal notice.

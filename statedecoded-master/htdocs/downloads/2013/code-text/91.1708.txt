@@ -1,0 +1,20 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+STRUCTURAL TESTING FOR SEISMIC RESISTANCE. (§ 91.1708)
+
+  STRUCTURAL TESTING FOR SEISMIC RESISTANCE.
+	(Amended by Ord. 181,758, Eff. 8/8/11.)	Section 1708 of the CBC is adopted by
+reference, except Section 1708.3 of the CBC is not adopted and in lieu Section
+91.1708.3 is added.91.1708.3. Structural Steel.  The testing described in the
+quality assurance plan shall be as required by AISC 341 and the additional
+requirements in this Section.  Nondestructive testing shall be performed by an
+approved agency and the written report, including the test results, shall be
+submitted for evaluation by the Superintendent of Building.  The acceptance
+criteria for nondestructive testing shall be as required in AWS D1.1 as
+specified by the registered design professional.	Base metal thicker than 1.5
+inches (38 mm), where subject to through-thickness weld shrinkage strains, shall
+be ultrasonically tested for discontinuities behind and adjacent to those welds
+after joint completion.  Any material discontinuities shall be accepted or
+rejected on the basis of ASTM A 435 or ASTM A 898 (Level 1 criteria) and
+criteria as established by the registered design professional(s) in responsible
+charge, and the construction documents.

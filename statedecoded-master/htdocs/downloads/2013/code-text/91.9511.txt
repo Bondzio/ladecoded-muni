@@ -1,0 +1,67 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+SIMPLIFIED ANALYSIS PROCEDURE. (§ 91.9511)
+
+  SIMPLIFIED ANALYSIS PROCEDURE.
+	(Added by Ord. No. 171,260, Eff. 8/30/96.)91.9511.1.  General.  Structures
+conforming to the requirements of this section may be analyzed for having a
+required strength by a simplified analysis procedure.91.9511.2.  Required
+Features of the Building.  The building shall conform to all of the following
+features, or the building shall be analyzed by the Equivalent Lateral Force
+procedure or the Dynamic Lateral Force procedure as prescribed by Section
+91.9508.4 of this Code.	1.	The lateral resisting elements of the building shall
+be reinforced concrete shear walls or frames with solid masonry infills and
+infills which have openings in the masonry infills not exceeding 10 percent of
+the gross area of the infill panel which has the opening(s).	2.	The effective
+shear area of reinforced concrete shear walls on each orthogonal axis shall be
+calculated by passing a horizontal plane through each story level.  The height
+of the plane shall be that height where the area of the shear walls is a
+minimum.	3.	The reinforced concrete elements shall have no visible deterioration
+of concrete or reinforcement.	4.	The vertical elements in the lateral-load
+resisting system shall not have significant strength discontinuities; the story
+strength in any story shall not be less than 90 percent of the strength of the
+story above.	5.	The lateral-force resisting elements in all story levels shall
+form a system that is not subject to significant torsion.  Significant torsion
+is the condition where the distance between the story center of rigidity and the
+story center of mass is greater than 20 percent of the width of the structure in
+the corresponding plan dimension.	6.	The minimum ratio of area of reinforcement
+to gross area of wall in existing reinforced concrete shear walls shall be
+0.0015 in both the vertical and horizontal direction or the minimum ratio of
+axial reinforcement in the columns of frames containing infills shall be
+0.01.	7.	The ratio of total height to base length of cantilevered or coupled
+shear walls shall be two or less.  The ratio of clear height to in-plane depth
+of piers in a shear wall shall be two or less.  Shear walls or piers having a
+height to in-plane depth ratio greater than two shall be given an effective
+shear area of one-half of their area.	8.	All concrete frames with infilled
+panels conforming to Item 1 above shall have total height to base length ratios
+of two to one or less.91.9511.3.  Analysis Procedure.91.9511.3.1.  General. 
+Supplemental elements may be added to the existing building to bring the
+structure into conformance with Section 91.9511.2.91.9511.3.2.  Seismic
+Loading.  (Amended by Ord. No. 172,592, Eff. 6/28/99, Oper. 7/1/99.)  The
+seismic loading shall be calculated by Section 91.9510.2.  The loading of each
+story level shall be calculated Formula (10-1) of Section
+91.9510.4.91.9511.3.3.  Relative Rigidities.  The relative rigidity of
+reinforced concrete shear walls may be based on the stiffness of uncracked
+sections.  The relative rigidity of infill panels may be calculated using a
+common modulus of elasticity.  Use of a combination of infills and reinforced
+concrete or masonry shear walls on any orthogonal axis is
+prohibited.91.9511.3.4.  Required Calculations.  The calculations may be
+limited to computation of loads on the reinforced concrete shear walls or
+infilled frame panels that comply with Section 91.9511.2 and computation of the
+drag and tie forces that develop a complete load path.  The loads shall include
+torsional effects.91.9511.4.  Required Strength of Systems and
+Elements.91.9511.4.1.  The capacity of all parts of the structure shall exceed
+the demand calculated by use of the loading specified in Section
+91.9510.91.9511.4.2.  The strength of infilled frame systems used for
+lateral-load resistance in this section shall be calculated using only the
+infilled frames that conform to Item 1 of Section 91.9511.2.91.9511.5.  Shear
+Stress Limit.91.9511.5.1.  The maximum horizontal shear stress in new and
+existing reinforced concrete shear walls shall not exceed .  For the purpose of
+this division, the horizontal shear stress may be taken as 80 psi (552 kPa)
+without testing as required by Item A of Section 91.9509.6.91.9511.5.2.  The
+in-plane shear stress in any masonry infilled panel shall not exceed 30 psi (207
+kPa).  The calculation of shear stresses shall use net section area and only
+the area of the infilled masonry.	EXCEPTION:  The in-plane strength of an
+infill panel without openings may be calculated by procedures described in
+published research that were verified by experimental testing and approved by
+the Superintendent of Building.

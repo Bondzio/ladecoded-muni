@@ -1,0 +1,66 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+DEFINITIONS. (§ 91.9303)
+
+  DEFINITIONS.
+	(Added by Ord. No. 172,018, Eff. 5/21/98.)	Notwithstanding the applicable
+definitions, symbols and notations in the Building Code, the following
+definitions shall apply for the purposes of this division:	APARTMENT HOUSE is
+any building or portion thereof which contains three or more dwelling units, and
+for the purposes of this division, includes residential condominiums.	ASPECT
+RATIO is the ratio of the height of a wall section to its width.	CONGREGATE
+RESIDENCE is any building or portion thereof which contains facilities for
+living, sleeping and sanitation, as required by this code, and may include
+facilities for eating and cooking, for occupancy by other than a family. A
+congregate residence may be a shelter, convent, monastery, dormitory, fraternity
+or sorority house but does not include jails, hospitals, nursing homes, hotels
+or lodging houses.	CRIPPLE WALL is a wood-framed stud wall extending from the
+top of  the foundation wall to the underside of the lowest floor
+framing.	DWELLING UNIT is any building or portion thereof which contains living
+facilities, including provisions for sleeping, eating, cooking and sanitation,
+as required by this code, for not more than one family, or congregate residence
+for 10 or fewer persons.	EXPANSION ANCHOR is an approved mechanical fastener
+placed in hardened concrete, designed to expand in a self-drilled or pre-drilled
+hole of a specified size and engage the sides of the hole in one or more
+locations to develop shear and/or tension resistance to applied loads without
+grout, adhesive or drypack.	GROUND FLOOR is any floor within the wood frame
+portion of a building whose elevation is immediately accessible from an adjacent
+grade by vehicles or pedestrians. The ground floor portion of the structure does
+not include any level that is completely below adjacent grades.	GUEST ROOM is
+any room or rooms used or intended to be used by a guest for sleeping purposes.
+Every 100 square feet (9.3 m2) of superficial floor area in a congregate
+residence shall be considered a guest room.	HOTEL is any building containing six
+or more guest rooms intended or designed to be used, rented, hired out to be
+occupied, or which are occupied for sleeping purposes by guests.	LEVEL is a
+story, basement, or underfloor space of a building with cripple walls exceeding
+four feet in height.	LODGING HOUSE is any building or portion thereof containing
+at least one but not more than five guest rooms where rent is paid in money,
+goods, labor or otherwise.	MOTEL shall mean a hotel as defined in this
+division.	MULTI-UNIT RESIDENTIAL BUILDINGS are hotels, lodging houses,
+congregate residences and apartment houses.	NONCONFORMING STRUCTURAL MATERIALS
+are wall bracing  materials for seismic loads whose Los Angeles Code allowable
+shear value was reduced or whose maximum allowable aspect ratio was decreased
+since the original building construction. These methods or materials include,
+but are not limited to cement or gypsum plaster, gypsum wallboard, diagonal or
+let-in bracing, straight or diagonal wood sheathing, particle board and
+structural wood panels.	OPEN FRONT WALL LINE is an exterior wall line without
+vertical elements of the lateral force resisting system which requires tributary
+seismic forces to be resisted by diaphragm rotation or excessive cantilever
+beyond parallel lines of shear walls.  Diaphragms that cantilever more than
+twenty-five percent of the distance between lines of lateral force resisting
+elements shall be considered excessive. Exterior exit balconies of six feet or
+less in width shall not be considered excessive cantilevers.	RETROFIT is an
+improvement of the lateral force resisting system by alteration of existing
+structural elements or addition of new structural elements.	SOFT WALL LINE is a
+wall line whose lateral stiffness is less than required by story drift
+limitations or deformation compatibility requirements of this division. In lieu
+of analysis, this may be defined as a wall line in a story where the story
+stiffness is less than 70 percent of the story above for the direction under
+consideration.	STORY STRENGTH is the total strength of all seismic resisting
+elements sharing the same story shear in the direction under consideration.	WALL
+LINE is any length of a wall along a principal axis of the building used to
+provide resistance to lateral loads. Parallel wall lines separated by less than
+four feet shall be considered one wall line for the distribution of loads.	WEAK
+WALL LINE is a wall line laterally braced with nonconforming structural
+materials or a wall line in a story where the story strength is less than 80
+percent of the story above in the direction under consideration.

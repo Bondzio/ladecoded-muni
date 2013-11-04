@@ -1,0 +1,161 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+STORMWATER POLLUTION CONTROL MEASURES FOR DEVELOPMENT PLANNING AND CONSTRUCTION
+ACTIVITIES. (§ 64.72)
+
+  STORMWATER POLLUTION CONTROL MEASURES FOR DEVELOPMENT PLANNING AND
+CONSTRUCTION ACTIVITIES.
+	(Amended by Ord. No. 181,899, Eff. 11/14/11, Oper. 5/12/12.)	(A)	Objective. 
+The provisions of this Section contain requirements for construction activities
+and facility operations of Development and Redevelopment projects to comply with
+the requirements of the Standard Urban Stormwater Mitigation Plan, integrate LID
+practices and standards for stormwater pollution mitigation, and maximize open,
+green and pervious space on all Developments and Redevelopments consistent with
+the City’s landscape ordinance and other related requirements in the
+Development Best Management Practices Handbook.  LID shall be inclusive of
+SUSMP requirements.	(B)	Scope.  This Section contains requirements for
+stormwater pollution control measures in Development and Redevelopment projects
+and authorizes the Board to further define and adopt stormwater pollution
+control measures, develop LID principles and requirements, including but not
+limited to the objectives and specifications for integration of LID strategies,
+collect Best Management Practices compliance plan check fees, grant waivers from
+the requirements of the Standard Urban Stormwater Mitigation Plan, collect funds
+for projects that are granted waivers, conduct inspections, cite violators for
+infractions, and impose fines.  Except as otherwise provided herein, the Board
+shall administer, implement and enforce the provisions of this Section.	(C)	LID
+Requirements.  All Developments and Redevelopments shall comply with the
+following:	1.	Development or Redevelopment Involving Four or Fewer Units
+Intended for Residential Use.	a.	Development or Redevelopment less than one acre
+shall implement LID BMP alternatives identified in the Development Best
+Management Practices Handbook; and	b.	Development or Redevelopment one acre or
+greater shall comply with the standards and requirements of this Article and
+with the Development Best Management Practices Handbook.	2.	Development or
+Redevelopment Involving Nonresidential Use or Five or More Units Intended for
+Residential Use.	a.	Development or Redevelopment resulting in an alteration of
+at least fifty percent (50%) or more of the impervious surfaces on an existing
+developed Site, the entire Site must comply with the standards and requirements
+of this Article and with the Development Best Management Practices Handbook;
+and	b.	Development or Redevelopment resulting in an alteration of less than
+fifty percent (50%) of the impervious surfaces of an existing developed Site,
+only such incremental Development shall comply with the standards and
+requirements of this Article and with the Development Best Management Practices
+Handbook.	3.	A Development or Redevelopment of any size that would create 2,500
+square feet or more of impervious surface area and is located partly or wholly
+within an ESA shall comply with the standards and requirements of this Article
+and with the Development Best Management Practices Handbook.	4.	The Site for
+every Development or Redevelopment shall be designed to manage and capture
+stormwater runoff, to the maximum extent feasible, in priority order: 
+infiltration, evapotranspiration, capture and use, treated through high removal
+efficiency biofiltration/biotreatment system of all of the runoff on site. 
+High removal efficiency biofiltration/biotreatment systems shall comply with the
+standards and requirements of the Development Best Management Practices
+Handbook.  A LID Plan shall be prepared to comply with the
+following:	a.	Stormwater runoff will be infiltrated, evapotranspired, captured
+and used, treated through high removal efficiency Best Management Practices,
+onsite, through stormwater management techniques that comply with the provisions
+of the Development Best Management Practices Handbook.  To the maximum extent
+feasible, onsite stormwater management techniques must be properly sized, at a
+minimum, to infiltrate, evapotranspire, store for use, treat through high
+removal efficiency biofiltration/biotreatment system, without any storm water
+runoff leaving the Site for at least the volume of water produced by the quality
+design storm event that results from:	(i)	The 85th percentile 24-hour runoff
+event determined as the maximized capture stormwater volume for the area using a
+48 to 72-hour draw down time, from the formula recommended in Urban Runoff
+Quality Management, WEF Manual of Practice No. 23/ASCE Manual of Practice No.
+87, (1998); or	(ii)	The volume of annual runoff based on unit basin storage
+water quality volume, to achieve 80 percent or more volume treatment by the
+method recommended in the California Stormwater Best Management Practices
+Handbook – Industrial/Commercial, (2003); or	(iii)	The volume of runoff
+produced from a 0.75 inch storm event.	For purposes of compliance with the LID
+requirements, and without changing the priority order of design preferences
+identified in this Section, all runoff from the water quality design storm
+event, as identified in Paragraph (a) of this Subdivision, that has been treated
+through an onsite high removal efficiency biofiltration/biotreatment system
+shall be deemed to have achieved 100% infiltration regardless of the runoff
+leaving the Site from an onsite high removal efficiency
+biofiltration/biotreatment system, and thus any runoff volume shall not be
+subject to the offsite mitigation requirement of this Article.	b.	Pollutants
+shall be prevented from leaving the Site for a water quality design storm event
+as defined in Paragraph (a) of this Subdivision unless it has been treated
+through an onsite high removal efficiency biofiltration/biotreatment
+system.	c.	Hydromodification impacts shall be minimized to natural drainage
+systems as defined in the MS4 Permit. 	5.	When, as determined by the Director,
+the onsite LID requirements are technically infeasible, partially or fully, as
+defined in the Development Best Management Handbook, the infeasibility shall be
+demonstrated in the submitted LID Plan, shall be consistent with other City
+requirements, and shall be reviewed in consultation with the Department of
+Building and Safety.  The technical infeasibility may result from conditions
+that may include, but are not limited to:	a.	Locations where seasonal high
+groundwater is within ten feet of surface grade;	b.	Locations within 100 feet of
+a groundwater well used for drinking water;	c.	Brownfield Development sites or
+other locations where pollutant mobilization is a documented
+concern;	d.	Locations with potential geotechnical hazards;	e.	Locations with
+impermeable soil type as indicated in applicable soils and geotechnical reports;
+and	f.	Other site or implementation constraints identified in the Development
+Best Management Practices Handbook.	6.	If partial or complete onsite compliance
+of any type is technically infeasible, the project Site and LID Plan shall be
+required to comply with all applicable Standard Urban Stormwater Mitigation Plan
+(SUSMP) requirements in order to maximize onsite compliance.  For the remaining
+runoff that cannot feasibly be managed onsite, the project shall implement
+offsite mitigation on public and/or private land within the same sub-watershed
+out of the following five sub-watersheds:  Upper Los Angeles River, Lower Los
+Angeles River, Ballona Creek, Santa Monica Bay, and Dominguez Channel.  This
+shall include construction and perpetual maintenance of projects that will
+achieve at least the same level of runoff retention, infiltration and/or use,
+and water quality.  All City Departments will assist the developer, when and
+where feasible, in the design, permitting and implementation of LID BMP projects
+within the public right of way, with a preference for utilizing the public right
+of way immediately adjacent to the subject development.	7.	A Multi-Phased
+Project may comply with the standards and requirements of this Section for all
+of its phases by:  (a) designing a system acceptable to the Bureau of
+Sanitation to satisfy these standards and requirements for the entire Site
+during the first phase, and (b) implementing these standards and requirements
+for each phase of Development or Redevelopment of the Site during the first
+phase or prior to commencement of construction of a later phase, to the extent
+necessary to treat the stormwater from such later phase.  For purposes of this
+Section, “Multi-Phased Project” shall mean any Development or Redevelopment
+implemented over more than one phase and the Site of a Multi-Phased Project
+shall include any land and water area designed and used to store, treat or
+manage stormwater runoff in connection with the Development or Redevelopment,
+including any tracts, lots, or parcels of real property, whether Developed or
+not, associated with, functionally connected to, or under common ownership or
+control with such Development or Redevelopment.	8.	The Director shall prepare,
+maintain, and update, as deemed necessary and appropriate, the Development Best
+Management Practices Handbook to set LID standards and practices and standards
+for stormwater pollution mitigation, including urban and stormwater runoff
+quantity and quality control development principles and technologies for
+achieving the LID standards. The Development Best Management Practices Handbook
+shall also include technical feasibility and implementation parameters,
+alternative compliance for technical infeasibility, as well as other rules,
+requirements and procedures as the Director deems necessary for implementing the
+provisions of this Section of the Los Angeles Municipal Code.  The Board of
+Public Works shall adopt the Development Best Management Practices Handbook no
+later than 90 days after the adoption of this Ordinance by the City Council and
+the Mayor.	9.	The Director of the Bureau of Sanitation shall develop as deemed
+necessary and appropriate, in cooperation with other City departments and
+stakeholders, informational bulletins, training manuals and educational
+materials to assist in the implementation of the LID requirements.	10.	The
+applicant can appeal the Director’s determination of compliance with the
+provisions of this Article to the Board of Public Works within 30 days of the
+date of the determination.	11.	Any Development or Redevelopment that is exempted
+from LID requirements under section D. has the option to voluntarily opt in and
+incorporate into the project the LID requirements set forth herein.  In such
+case, the Best Management Practices plan check fee associated with the project
+shall be waived and all LID related plan check processes shall be
+expedited.	12.	Any Development or Redevelopment exempted from this Ordinance
+under section D. shall comply with all applicable SUSMP
+requirements.	(D)	Exceptions to LID Requirements.  The provisions of this
+Section do not apply to any of the following:	1.	A Development or Redevelopment
+that only creates, adds or replaces less than 500 square feet of impervious
+area;	2.	A Development or Redevelopment involving only emergency construction
+activity required to immediately protect public health and
+safety; 	3.	Infrastructure projects within the public right-of-way;	4.	A
+Development or Redevelopment involving only activity related to gas, water,
+cable, or electricity services on private property;	5.	A Development or
+Redevelopment involving only re-striping of permitted parking lots;	6.	A project
+involving only exterior movie or television production sets, or facades on an
+existing developed site.	(E)	Other Agencies of the City of Los Angeles.  All
+City of Los Angeles departments, offices, entities and agencies, shall establish
+administrative procedures necessary to implement the provisions of this Article
+on their Development and Redevelopment projects and report their activities
+annually to the Board of Public Works.

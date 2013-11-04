@@ -1,0 +1,32 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INFORMATION REQUIRED ON PLANS. (§ 91.9110)
+
+  INFORMATION REQUIRED ON PLANS.
+	(Amended by Ord. No. 171,175, Eff. 7/25/96.)91.9110.1.  General.  In addition
+to the seismic analysis required elsewhere in this division, the licensed
+engineer or architect responsible for the seismic analysis of the building shall
+record the information required by this section on the approved
+plans.91.9110.2.  Information Required.  The plans shall accurately reflect
+the results of the engineering investigation and design and show all pertinent
+dimensions and sizes for plan review and construction.  The following shall be
+provided:	1.	Floor plans and roof plans shall show existing framing
+construction, diaphragm construction, proposed wall anchors, cross-ties and
+collectors.  Existing nailing, anchors, ties and collectors shall also be shown
+on the plans if these are part of the design, and these structural elements need
+to be verified in the field.	2.	At elevations where there are alterations or
+damage, details shall show roof and floor heights, dimensions of openings,
+location and extent of existing damage, and proposed repair.	3.	Typical wall
+panel sections with panel thickness, height, location of anchors shall be
+provided.	4.	Details shall include existing and new anchors and the method of
+development of anchor forces into the diaphragm framing; existing and/or new
+cross-ties; existing and/or new or improved support of roof and floor girders at
+pilasters or walls.91.9110.3.  Engineer’s or Architect’s Statement.
+(Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The responsible
+engineer or architect shall state on the approved plans, the following:	1.	I am
+responsible for this building’s seismic strengthening design in compliance
+with the minimum seismic resistance standards of Division 91 of the Los Angeles
+Building Code.and when applicable:	2.	The Registered Deputy Inspector, required
+as a condition of the use of structural design stresses requiring continuous
+inspection, will be responsible to me as required by Section 91.1704 of the Los
+Angeles Building Code.

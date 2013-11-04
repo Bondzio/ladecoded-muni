@@ -1,0 +1,210 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+STRENGTHENING REQUIREMENTS. (§ 91.9204)
+
+  STRENGTHENING REQUIREMENTS.
+	(Added by Ord. No. 171,259, Eff. 8/30/96.)91.9204.1.  General.91.9204.1.1. 
+Scope.  (Amended by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  The
+structural weaknesses noted in LAMC Section 91.9203 shall be strengthened in
+accordance with the requirements of this section.  Strengthening work shall be
+allowed to include both new construction and alteration of existing
+construction.  Except as provided here, all strengthening work and materials
+shall comply with the applicable provisions of this Code.  All prescribe
+nailing in this Division shall be common nails.  Alternate methods of
+strengthening shall be allowed provided the systems are designed by an engineer
+or architect and approved by the Superintendent of Building.91.9204.1.2. 
+Condition of Existing Wood Materials.  All existing wood materials which will
+be a part of the strengthening work shall be in a sound condition and free from
+defects which substantially reduce the capacity of the member.  Any wood
+material found to contain fungus infection shall be removed and replaced with
+new material.  Any wood material found to be infested with insects or to have
+been infested shall be strengthened or replaced with new materials to provide a
+net dimension of sound wood at least equal to its undamaged original
+dimension.91.9204.1.3.  Floor Joists Not Parallel to Foundations.  Floor
+joists framed perpendicular or at an angle to perimeter foundations shall be
+restrained by either a nominal two-inch (51 mm) wide continuous rim joist or a
+nominal two-inch (51 mm) wide full depth blocking between alternate joists in
+one- and two-story buildings, and between each joist in three-story buildings. 
+Blocking for multistory buildings must occur at each joist space above a braced
+cripple wall panel.	Existing connections at the top edge of an existing rim
+joist or blocking need not be verified.  The bottom edge connection to either
+the foundation sill plate or top plate of a cripple wall shall be verified
+unless a supplemental connection is provided.  The minimum existing bottom edge
+connection shall consist of 8d toe nails spaced six inches (152 mm) apart for a
+continuous rim joist or three 8d toe nails per block.  When this minimum bottom
+edge connection is not present, or  is not verified, a supplemental connection
+shall be provided.	When an existing continuous rim joist or the minimum existing
+blocking does not occur, new 1-1/8 inch (29 mm) wood structural panel blocking
+installed tightly between floor joists and nailed with 10d common nails at four
+inches on center to the sill or wall top plate shall be provided at the inside
+face of the cripple wall.  In lieu of 1-1/8 inch (29 mm) wood structural panel
+blocking, tight fitting, full or near full depth two inches nominal width (51
+mm) lumber blocking shall be allowed provided it does not split during
+installation.  New blocking  is not required where it will interfere with
+vents or plumbing which penetrates the wall.91.9204.1.4.  Floor Joists Parallel
+to Foundations.  Where existing floor joists are parallel to the perimeter
+foundations, the end joist shall be located over the foundation and, except for
+required ventilation openings, shall be continuous and in continuous contact
+with any existing foundation sill plate or top plate of the cripple wall. 
+Existing connections at the top edge connection of the end joist need not be
+verified; however, the bottom edge connection to either the foundation sill
+plate or the top plate of a cripple wall shall be verified unless a supplemental
+connection is provided.  The minimum bottom edge connection shall be 8d toe
+nails spaced six inches (152 mm) apart.  If this minimum bottom edge connection
+is not present or  is not verified, a supplemental connection shall be
+provided.91.9204.1.5.  Supplemental Connections.  Supplemental connections
+shall provide sufficient strength to transfer the seismic forces.  Framing
+anchors of minimum 18 gauge steel and 12 approved fasteners may be considered to
+meet this requirement when spaced 32 inches (813 mm) on center for one story
+buildings, 24 inches (610 mm) on center for two story buildings and 16 inches
+(406 mm) on center for three story buildings.	EXCEPTION:  A supplemental
+connection is not required when:	1.	The structural wood panel sheathing extends
+from the sill plate to the rim joist or blocking above.	2.	The floor sheathing
+is nailed directly into the sill or top plate of the cripple wall.91.9204.1.6. 
+Single Top Plate Ties.  (Added by Ord. No. 172,018, Eff. 5/21/98.)  When a
+single top plate exists in the cripple wall, all end joints in the top plate
+shall be tied. Ties shall be connected to each end of the discontinuous top
+plate and shall be equal to one of the following:	1.	3-inch by 6-inch (76 mm by
+152 mm) by 0.036-inch-thick (0.9 mm) galvanized steel and nailed with six 8d
+nails at each end.	2.	1-1/2 inches (38 mm) by 12-inch (305 mm) by 0.058 inches
+(1.47 mm) galvanized steel  nailed with six 16d nails at each end.	3.	2-inch by
+4-inch by 12-inch wood blocking nailed with six 16d nails at each
+end.91.9204.2.  Foundations.91.9204.2.1.  New Perimeter Foundations.  New
+perimeter foundations shall be provided for structures with the structural
+weaknesses noted in Items 1 and 2 of Section 91.9203.1.  Soil investigations or
+geotechnical studies are not required for this work unless the building shows
+signs of excessive settlement or creep.91.9204.2.2.  Foundation Evaluation by
+Engineer or Architect.  Partial perimeter foundations or unreinforced masonry
+foundations shall be evaluated by an engineer or architect for the force levels
+noted in Formula (92-1).  Test reports or other substantiating data to
+determine existing foundation material strengths shall be submitted for
+review.  When approved by the Superintendent of Building, these foundation
+systems may be strengthened in accordance with the recommendations included with
+the evaluation in lieu of being replaced.	EXCEPTION:  In lieu of testing
+existing foundations to determine material strengths and when approved by the
+Superintendent of Building, a new nonperimeter foundation system, designed for
+the forces noted in Formula (92-1), may be used to resist all exterior wall
+lateral forces.91.9204.2.3.  Details for New Perimeter Foundations.  (Amended
+by Ord. No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  All new perimeter
+foundations shall be continuous and constructed according to the standards for
+new buildings.	EXCEPTIONS:	1.	When approved by the Superintendent of Building,
+the existing clearance between existing floor joists or girders and existing
+grade below the floor need not comply with CBC Section 2304.11.2.1.  This
+exception shall not be permitted when buildings are relocated on new
+foundations.	2.	When approved by the Superintendent of Building, and when
+designed by an engineer or architect, partial perimeter foundations may be used
+in lieu of a continuous perimeter foundation.91.9204.3.  Foundation Sill Plate
+Anchorage.91.9204.3.1.  Existing Perimeter Foundations.  (Amended by Ord. No.
+179,324, Eff. 12/10/07, Oper. 1/1/08.)  When the building has an existing
+continuous perimeter foundation, all perimeter wall sill plates shall be
+connected to the foundation in accordance with Table 92-A and this
+section.	Anchors shall be installed with the plate washer installed between the
+nut and the sill plate.  The nut shall be tightened to a snug-tight condition
+after curing is complete for adhesive anchors and after expansion wedge
+engagement for expansion anchors.  The installation of nuts on all anchors
+shall be subject to verification by the Superintendent of Building.  Torque
+testing shall be performed for 25 percent of all adhesive or expansion
+anchors.  Minimum test values shall be 30 foot pounds (41 N-m) for 1/2-inch
+(12.7 mm) and 40 foot pounds (55 N-m) for 5/8-inch (15.9 mm) diameter
+anchors.	Anchor side plates shall be permitted when conditions prevent anchor
+installation vertically through the sill plate.  Anchor side plates shall be
+spaced as required for adhesive or expansion anchors but only one anchor side
+plate is required on individual pieces of sill plate less than 32 inches (813
+mm) in length.  Wood structural panel shims shall be used on sill plates for
+single plate anchor side plates when the foundation stem wall is from 3/16 inch
+(4.8 mm) to 3/4 inch (19 mm) wider than the sill plate.  The shim length shall
+extend a minimum of two inches (50.8 mm) past each end of the anchor side
+plate.  Two plate anchor side plates shall be used when the total thickness of
+the required shim exceeds 3/4 inch (19 mm).	All anchor side plates, which use
+lag or wood screws shall pre-drill the sill plate to prevent splitting as
+required by CBC Section 2304.9.  Lag or wood screws shall be installed in the
+center of the thickness of the existing sill plate.	Expansion anchors shall not
+be used in unreinforced masonry or concrete or masonry grout of poor quality. 
+Adhesive anchors shall be required when expansion anchors will not tighten to
+the required torque or their installation causes surface cracking of the
+foundation wall.91.9204.3.2.  Placement of Anchors.  Anchors shall be placed
+within 12 inches (305 mm), but not less than nine inches (229 mm), from the ends
+of sill plates and shall be placed near the center of the stud space closest to
+the required spacing.  New sill plates may be installed in pieces when
+necessary because of existing conditions.  The minimum length of new sill plate
+pieces shall be 30 inches (762 mm).	EXCEPTION:  Where physical obstructions
+such as fireplaces, plumbing or heating ducts interfere with the placement of an
+anchor, the anchor shall be placed as close to the obstruction as possible, but
+not less than nine inches (229 mm) from the end of the plate.  Center-to-center
+spacing of the anchors shall be reduced as necessary to provide the minimum
+total number of anchors required based on the full length of the wall. 
+Center-to-center spacing shall not be less than 12 inches (305
+mm).91.9204.3.3.New Perimeter Foundations.  (Amended by Ord. No. 179,324, Eff.
+12/10/07, Oper. 1/1/08.)  Sill plates for new perimeter foundations shall be
+anchored as required by CBC Section 1805.6.91.9204.4.  Cripple Wall
+Bracing.91.9204.4.1.  General.  (Amended by Ord. No. 172,592, Eff. 6/28/99,
+Oper. 7/1/99.)  Exterior cripple walls, not exceeding four feet (1219 mm) in
+height shall use the prescriptive bracing method listed below.  Cripple walls
+more than four feet (1219 mm) in height require analysis by an engineer or
+architect in accordance with  Division 16 of this Code.91.9204.4.1.1. 
+Sheathing Requirements.  Wood structural panel sheathing shall not be less than
+15/32-inch (12 mm) thick.  When used, plywood panels shall be constructed of
+five or more plies.  All wood structural panels shall be nailed with 8d common
+nails spaced four inches (102 mm) on center at all edges and at 12 inches (305
+mm) on center at each intermediate support with not less than two nails for each
+stud.  Nails shall be driven so that their head or crown is flush with the
+surface of the sheathing and shall penetrate the supporting member a minimum of
+1-1/2 inch (38 mm).  When a nail fractures the surface, it shall be left in
+place and not counted as part of the required nailing.  A new 8d nail shall be
+located within two inches (51 mm) of the discounted nail and hand driven flush
+with the sheathing surface.	EXCEPTION:  No. 6 × 1-1/2 inch (38 mm) wood screws
+may be used for sheathing nailing when bracing materials are installed on the
+interior face of studs and cement plaster or other brittle finishes are on the
+exterior of the sheathed wall.	All horizontal joints must occur over nominal
+two-inch by four-inch (51 mm by 102 mm) blocking installed with the nominal
+four-inch (102 mm) dimension against the face of the plywood.  All vertical
+joints must occur over studs.  Vertical joints at adjoining pieces of wood
+structural panels shall be centered on existing studs such that there is a
+minimum 1/8 inch (3.2 mm) between the panels.  Nails shall be placed a minimum
+of 1/2 inch (12.7 mm) from the edges of the existing stud.  When such edge
+distance cannot be maintained because of the width of the existing stud, a new
+stud shall be added adjacent to the existing and connected with 16d common nails
+at eight inches (206 mm) on center.  A minimum of three such nails shall be
+provided.91.9204.4.2.  Distribution and Amount of Bracing.  (Amended by Ord.
+No. 179,324, Eff. 12/10/07, Oper. 1/1/08.)  See Table 92-A for the distribution
+and amount of bracing required.  Bracing for a building with three or more
+floor levels above cripple wall studs exceeding 14 inches (356 mm) in height
+must be designed in accordance with Division 16 of this Code.	The braced panel
+must be at least two times the height of the cripple stud wall but not less than
+48 inches (1219 mm) in width.  All panels along a wall shall be nearly equal in
+length and shall be nearly equally spaced along the length of the wall.  Braced
+panels at ends of walls shall be located as near the end as possible.	Where
+physical obstructions such as fireplaces, plumbing or heating ducts interfere
+with the placement of cripple wall bracing, the bracing shall then be placed as
+close to the obstruction as possible.  The total amount of bracing required
+shall not be reduced because of obstructions but the required length of bracing
+need not exceed the length of the wall.	Underfloor ventilation openings shall be
+maintained in accordance with LAMC Section 91.2306.7.  Braced panels may
+include underfloor ventilation openings when the height of the solid portion of
+the panel meets or 75 percent of the height of the cripple stud wall.  When the
+minimum amount of bracing prescribed in Table 92-A cannot be installed due to
+obstructions along any wall, the bracing must be designed by an architect or
+engineer in accordance with CBC Section 1203.3.91.9204.4.3.  Stud Space
+Ventilation.  When bracing materials are installed on the interior face of
+studs forming an enclosed space between the new bracing and existing exterior
+finish, each braced stud space must be ventilated.  Adequate ventilation and
+access for future inspection shall be provided by drilling on two-inch to
+three-inch (51 mm to 76 mm) diameter round hole through the sheathing nearly
+centered between each stud at the top and bottom of the cripple wall.  Such
+holes should be spaced a minimum of one-inch (25 mm) clear from the sill or top
+plates.  In stud spaces containing sill bolts, the hole shall be located on the
+center line of the sill bolt but not closer than one-inch (25 mm) clear from the
+nailing edge of the sheathing.	When existing blocking occurs within the stud
+space, additional ventilation holes shall be placed above and below the blocking
+or the existing block shall be removed and a new nominal two-inch (51 mm) by
+four-inch (102 mm) block installed with the nominal four-inch (102 mm) dimension
+against the face of the plywood.  For stud heights less than 18 inches (457 mm)
+only one ventilation hole need be provided.91.9204.4.4.  Existing Underfloor
+Ventilation.  Existing underfloor ventilation shall not be reduced without
+providing equivalent new ventilation as close to the existing as possible.  New
+sheathing may be installed around existing vent openings in braced panels when
+the length of the panel is increased a distance equal to the length of the vent
+opening or one stud space minimum.	EXCEPTION:  For residential buildings with a
+post and pier foundation system where a new continuous perimeter foundation
+system is being installed, ventilation shall be provided in accordance with this
+Code.

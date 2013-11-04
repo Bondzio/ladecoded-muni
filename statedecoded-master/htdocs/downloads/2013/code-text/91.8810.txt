@@ -1,0 +1,69 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+INFORMATION REQUIRED ON PLANS. (§ 91.8810)
+
+  INFORMATION REQUIRED ON PLANS.
+	(Amended by Ord. No. 171,175, Eff. 7/25/96.)91.8810.1.  General.  In addition
+to the seismic analysis required elsewhere in this division, the licensed
+engineer or architect responsible for the seismic analysis of the building shall
+determine and record the information required by this section on the approved
+plans.91.8810.2.  Construction Details.  (Amended by Ord. No. 172,592, Eff.
+6/28/99, Oper. 7/1/99.)  The following requirements, with appropriate
+construction details, shall be made part of the approved plans:	1.	All
+unreinforced masonry walls shall be anchored at the roof and ceiling levels by
+tension bolts through the wall as specified in Table No. 88-I, or by an approved
+equivalent at a maximum anchor spacing of six feet (1829 mm).  Anchors
+installed in accordance with Section 91.8114 of this Code shall be accepted as
+conforming to this requirement.	All unreinforced masonry walls shall be anchored
+at all floors and ceiling with tension bolts through the wall or by existing rod
+anchors at a maximum anchor spacing of six feet (1829 mm).  All existing rod
+anchors shall be secured to the joists to develop the required forces.  The
+Department may require testing to verify the adequacy of the embedded ends of
+existing rod anchors.  Tests, when required, shall conform to Section
+91.8809.8.	EXCEPTION:  Walls need not be anchored to ceiling systems that,
+because of their low mass and/or relative location with respect to the floor or
+roof systems, would not impose significant normal forces on the wall and cause
+out-of-plane wall failures.	At the roof and all floor levels, the anchors
+nearest the building corners shall be combination shear and tension anchors
+located not more than two feet (610 mm) horizontally from the inside corners of
+the walls.	When access to the exterior face of the masonry wall is prevented by
+proximity of an existing building, wall anchors conforming to Items 5 and 7 in
+Table No. 88-I may be used.	Alternative devices to be used in lieu of tension
+bolts for masonry wall anchorage shall be tested as specified in Section
+91.8809.9.	2.	Diaphragm chord stresses of horizontal diaphragms shall be
+developed in existing materials or by addition of new materials.	3.	Where
+trusses and beams other than rafters or joists are supported on masonry,
+independent secondary columns shall be installed to support vertical loads of
+the roof or floor members.	4.	(Amended by Ord. No. 179,324, Eff. 12/10/07, Oper.
+1/1/08.)  Parapets and exterior wall appendages not capable of resisting the
+forces specified in this division shall be removed, stabilized or braced to
+ensure that the parapets and appendages remain in their original position.	The
+maximum height of an unbraced, unreinforced masonry parapet above the lower of
+either the level of tension anchors or roof sheathing shall not exceed one and
+one half times the thickness of the parapet wall.  If the required parapet
+height exceeds this maximum height, a bracing system designed for the force
+factors specified in Table Nos. 88-E and 88-F for walls shall support the top of
+the parapet.  Parapet corrective work must be performed in conjunction with the
+installation of tension roof anchors.	5.	All deteriorated mortar joints in
+unreinforced masonry walls shall be pointed with Type S or N mortar.  Prior to
+any pointing, the wall surface must be raked and cleaned to remove loose and
+deteriorated mortar.  All preparation and pointing shall be done under the
+continuous inspection of a registered deputy inspector certified to inspect
+masonry or concrete.  At the conclusion of the project, the inspector shall
+submit a written report to the Department setting forth the portion of work
+inspected.	6.	Repair details of any cracked or damaged unreinforced masonry wall
+required to resist forces specified in this division.91.8810.3.  Existing
+Construction.  The following existing construction information shall be made a
+part of the approved plans:	1.	The type and dimensions of existing walls and the
+size and spacing of floor and roof members.	2.	The extent and type of existing
+wall anchorage to floors and roof.	3.	The extent and type of parapet corrections
+which were performed in accordance with Section 91.8114 of this
+Code.	4.	Accurately dimensioned floor plans and masonry wall elevations showing
+dimensioned openings, piers, wall thickness and heights, and veneer and
+anchorages.	5.	The location of cracks or damaged portions of unreinforced
+masonry walls requiring repairs.	6.	The type of interior wall surfaces and
+ceilings, and if reinstalling or anchoring existing plaster is necessary.	7.	The
+general condition of the mortar joints and if the joints need pointing.	8.	The
+location of the shear tests shall be shown on the floor plans and building wall
+elevations, and the complete test report shall be reproduced on the approved
+plans.

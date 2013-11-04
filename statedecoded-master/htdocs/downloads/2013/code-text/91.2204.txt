@@ -1,0 +1,37 @@
+                            LOS ANGELES MUNICIPAL CODE
+
+CONNECTIONS. (§ 91.2204)
+
+  CONNECTIONS.91.2204.1.  Welding.  The details of design, workmanship and
+technique for welding, inspection of welding and qualification of welding
+operators shall conform to the requirements of the specifications listed in CBC
+Sections 2205, 2206, 2207, 2209 and 2210.  Special inspection of welding shall
+be provided where required by Section 91.1704 of this Code.	All welding, except
+when performed at the shop of an approved fabricator, shall be done by operators
+certified by the Department for the type of operation involved in accordance
+with the provisions of CBC Section 1704.3.1.	Complete details of location, type,
+size and amount of all welds shall be clearly shown on the plans.  Where
+symbols are used on the plans, they shall be the “Standard Welding Symbols,”
+AWS A 2.4, of the American Welding Society (AWS).  When it is necessary to use
+a special erection sequence of welding to minimize locked-up stresses or
+distortion, the Department may require the erection sequence of welding to be
+shown on the plans.	Welding procedures are qualified if they are in accordance
+with the AWS.  Other welding procedures require special qualification approval
+by the Department.  Each application for a special qualification shall be
+accompanied by a fee of $50.00.91.2204.1.1. Consumables for
+Welding.91.2204.1.1.1. Seismic Force Resisting System (SFRS) Welds.  All welds
+used in members and connections in the SFRS shall be made with filler metals
+meeting the requirements specified in AWS D1.8 Clause 6.3. AWS D1.8 Clauses
+6.3.5, 6.3.6, 6.3.7 and 6.3.8 shall apply only to demand critical
+welds.91.2204.1.1.2. Demand Critical Welds.  Where welds are designated as
+demand critical, they shall be made with filler metals meeting the requirements
+specified in AWS D1.8 Clause 6.3.91.2204.2.  Bolting.  Section 2204.2 of the
+CBC is adopted by reference.91.2204.2.1.  Anchor Rods.  Section 2204.2.1 of
+the CBC is adopted by reference.91.2205.4.  Modifications to AISC 341, Part I,
+13, Members, Special Concentrically Braced Frames (SCBF) Modifications.  AISC
+341, Part 1, 13, is modified to add a new Section as follows:AISC 341, 13.2f –
+Member Types.  The use of rectangular HSS are not permitted for bracing
+members, unless filled solid with cement grout having a minimum compressive
+strength of 3000 psi (20.7 MPa) at 28 days.  The effects of composite action in
+the filled composite brace shall be considered in the sectional properties of
+the system where it results in the more severe loading condition or detailing.
